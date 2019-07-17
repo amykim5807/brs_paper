@@ -1,0 +1,995 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+ "49000","Utah",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",1391757,1395322,1405788,1453405,1517566,1592736,1676394,1688150,1633982,1620799,1664426,1706060,1753371,1804152,1866188,1933340,1987836
+ "49000","Utah",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",1130770,1125887,1126689,1158072,1200077,1258019,1306880,1307417,1241969,1235051,1262617,1303995,1342353,1381561,1428802,1480533,1524228
+ "49000","Utah",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",260987,269435,279099,295333,317489,334717,369514,380733,392013,385748,401809,402065,411018,422591,437386,452807,463608
+ "49000","Utah",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",15667,15357,14449,14000,13709,13221,14372,14528,14873,15262,15709,15724,16104,16024,16206,16192,16277
+ "49000","Utah",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",245320,254078,264650,281333,303780,321496,355142,366205,377140,370486,386100,386341,394914,406567,421180,436615,447331
+ "49000","Utah",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",20556,19413,19455,18786,18645,18284,18864,19241,19421,20007,20186,20219,20896,20525,20579,20811,21834
+ "49000","Utah",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",1371201,1375909,1386333,1434619,1498921,1574452,1657530,1668909,1614561,1600792,1644240,1685841,1732475,1783627,1845609,1912529,1966002
+ "49000","Utah",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",1164138,1163199,1171878,1217196,1278724,1351706,1432118,1440391,1383036,1366353,1404824,1444489,1491446,1540992,1601062,1662206,1710718
+ "49000","Utah",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",2575,2939,2722,2882,2903,2947,3217,3302,3290,3313,3475,3447,3589,3842,3674,3859,3722
+ "49000","Utah",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",8872,8310,8475,8767,10198,12126,13953,15939,13931,14668,15442,18891,18036,17700,16007,14398,14908
+ "49000","Utah",7,CAEMP25N,300,"22","   Utilities","Number of jobs",4329,4128,4077,4197,4191,4292,4351,4442,4326,4275,4178,4192,4125,4125,4285,4943,5682
+ "49000","Utah",7,CAEMP25N,400,"23","   Construction","Number of jobs",95085,90992,92105,98705,110875,126214,135753,120458,98701,90998,89919,94268,98941,104276,110272,119030,125653
+ "49000","Utah",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",127024,118810,119226,122383,124726,129164,134758,132698,120722,118121,121300,124531,127520,129557,132966,135965,140144
+ "49000","Utah",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",45987,45047,44852,46565,49567,51357,53356,54062,51203,49833,52451,53957,54485,58290,60250,56393,57094
+ "49000","Utah",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",159561,161148,162242,165443,170275,177019,185251,185606,178209,172249,174717,179606,184823,190309,198477,205015,208346
+ "49000","Utah",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",48226,46956,45813,47323,50485,52916,55181,55180,52142,50900,53193,55213,55872,57501,62151,66181,69281
+ "49000","Utah",7,CAEMP25N,900,"51","   Information","Number of jobs",36949,33757,33689,34957,37292,37768,35686,35959,34705,34345,34867,36627,38086,39300,39793,42299,43828
+ "49000","Utah",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",81001,82362,83448,83924,86764,90057,102825,111944,119670,111543,118815,117108,119350,116473,122177,127100,132548
+ "49000","Utah",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",55484,57373,61044,67021,76484,84077,93557,93858,91172,93568,96413,95364,99082,103780,106460,109391,112531
+ "49000","Utah",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",79536,79780,82240,85921,90626,97498,105443,109157,106552,107017,110281,115249,122864,129506,137608,142075,147068
+ "49000","Utah",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",22309,22694,19096,19308,20070,20846,21835,24758,23508,22682,22890,23552,23736,25177,26332,31546,31785
+ "49000","Utah",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",78496,76928,77332,83233,87310,93382,98271,93472,85861,89810,93299,96300,100517,103370,106146,111402,112011
+ "49000","Utah",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",31041,33436,33260,35345,38117,40578,42708,44848,46699,48952,49939,51364,53533,56058,58496,61282,63754
+ "49000","Utah",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",100214,103558,107857,111709,115403,120279,126167,131482,134268,137138,139912,142921,148378,150523,157199,163542,167929
+ "49000","Utah",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",27728,28941,27828,28730,30100,31600,33646,33963,34083,34480,35460,37363,37807,39755,40503,43533,45096
+ "49000","Utah",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",87244,89356,89690,91786,93286,96928,100630,103301,99697,99679,102790,106123,110968,115639,120318,123703,127303
+ "49000","Utah",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",72477,76684,76882,78997,80052,82658,85530,85962,84297,82782,85483,88413,89734,95811,97948,100549,102035
+ "49000","Utah",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",207063,212710,214455,217423,220197,222746,225412,228518,231525,234439,239416,241352,241029,242635,244547,250323,255284
+ "49000","Utah",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",32982,35766,35730,34827,35299,35900,35574,35383,36388,38035,36664,35448,34608,34318,35033,36131,36130
+ "49000","Utah",7,CAEMP25N,2002,"...","   Military","Number of jobs",16761,17334,17918,17500,17608,17326,16768,16540,16959,16886,16896,16570,16432,16211,16181,16147,16396
+ "49000","Utah",7,CAEMP25N,2010,"...","   State and local","Number of jobs",157320,159610,160807,165096,167290,169520,173070,176595,178178,179518,185856,189334,189989,192106,193333,198045,202758
+ "49000","Utah",7,CAEMP25N,2011,"...","    State government","Number of jobs",61942,61489,61333,63853,64435,65291,66669,66269,65677,66632,69556,71597,71402,71579,72431,74649,76707
+ "49000","Utah",7,CAEMP25N,2012,"...","    Local government","Number of jobs",95378,98121,99474,101243,102855,104229,106401,110326,112501,112886,116300,117737,118587,120527,120902,123396,126051
+ "49001","Beaver, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",3116,3102,3096,3179,3274,3366,3612,3749,3848,3609,3779,3748,4038,3931,4059,4000,4091
+ "49001","Beaver, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",2309,2297,2340,2403,2473,2553,2657,2742,2782,2609,2695,2689,2964,2887,2985,2906,2973
+ "49001","Beaver, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",807,805,756,776,801,813,955,1007,1066,1000,1084,1059,1074,1044,1074,1094,1118
+ "49001","Beaver, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",253,256,222,205,190,173,178,188,198,208,221,224,230,229,232,231,233
+ "49001","Beaver, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",554,549,534,571,611,640,777,819,868,792,863,835,844,815,842,863,885
+ "49001","Beaver, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",576,521,563,544,554,560,535,566,568,599,595,604,635,610,602,622,704
+ "49001","Beaver, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",2540,2581,2533,2635,2720,2806,3077,3183,3280,3010,3184,3144,3403,3321,3457,3378,3387
+ "49001","Beaver, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",1858,1878,1857,1946,2030,2118,2371,2453,2554,2266,2453,2412,2647,2566,2695,2621,2635
+ "49001","Beaver, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49001","Beaver, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",60,57,(D),(D),(D),(D),86,112,148,68,51,(D),231,225,(D),(D),121
+ "49001","Beaver, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",39,38,39,33,30,(D),(D),(D),(D),(D),(D),(D),53,54,56,57,50
+ "49001","Beaver, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",166,146,144,139,148,176,224,206,266,166,229,134,205,139,158,171,185
+ "49001","Beaver, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",124,113,94,97,108,103,145,122,112,86,106,110,140,152,162,168,178
+ "49001","Beaver, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",24,30,36,33,34,(D),(D),(D),(D),(D),(D),(D),39,44,36,33,32
+ "49001","Beaver, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",360,381,344,351,357,339,382,371,365,380,394,412,414,431,457,483,504
+ "49001","Beaver, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",139,128,166,210,215,237,252,257,242,240,224,226,237,226,223,213,203
+ "49001","Beaver, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",0,0,0,10,9,10,10,(D),(D),(D),(D),(D),(D),12,9,1,1
+ "49001","Beaver, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),72,75,85,142,154,(D),(D),(D),(D),(D),(D),(D),(D)
+ "49001","Beaver, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),(D),(D),(D),98,117,141,146,162,(D),(D),(D),(D),(D),(D),(D),(D)
+ "49001","Beaver, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),31,(D),(D),(D),41,43,38,44,(D),30,34,69,63,61
+ "49001","Beaver, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,18,22,21,1,18,18,17,1,1,(D),(D)
+ "49001","Beaver, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),85,(D),(D)
+ "49001","Beaver, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",11,10,9,10,12,12,12,11,13,11,(D),11,16,18,18,14,14
+ "49001","Beaver, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",87,101,112,113,97,(D),120,139,137,117,(D),123,(D),109,119,107,(D)
+ "49001","Beaver, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49001","Beaver, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49001","Beaver, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",163,169,155,172,(D),176,174,172,171,167,187,195,(D),(D),201,208,210
+ "49001","Beaver, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",682,703,676,689,690,688,706,730,726,744,731,732,756,755,762,757,752
+ "49001","Beaver, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",43,42,44,41,45,41,43,43,47,52,47,45,43,41,42,42,37
+ "49001","Beaver, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",31,31,31,30,31,31,29,29,30,30,30,29,28,27,27,26,26
+ "49001","Beaver, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",608,630,601,618,614,616,634,658,649,662,654,658,685,687,693,689,689
+ "49001","Beaver, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",36,36,36,38,36,37,38,39,39,40,39,39,39,39,40,38,39
+ "49001","Beaver, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",572,594,565,580,578,579,596,619,610,622,615,619,646,648,653,651,650
+ "49003","Box Elder, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",23988,24080,24199,25070,25808,26397,27238,27472,26245,24826,24240,24091,24712,25541,26752,28107,28668
+ "49003","Box Elder, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",18583,18692,18957,19584,20003,20430,20675,20992,19587,18366,17596,17460,18162,18747,19707,20997,21421
+ "49003","Box Elder, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",5405,5388,5242,5486,5805,5967,6563,6480,6658,6460,6644,6631,6550,6794,7045,7110,7247
+ "49003","Box Elder, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",1147,1125,1021,972,930,881,940,957,985,1014,1048,1054,1083,1077,1094,1094,1099
+ "49003","Box Elder, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",4258,4263,4221,4514,4875,5086,5623,5523,5673,5446,5596,5577,5467,5717,5951,6016,6148
+ "49003","Box Elder, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1511,1405,1384,1335,1322,1301,1331,1358,1366,1402,1406,1406,1459,1429,1436,1455,1533
+ "49003","Box Elder, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",22477,22675,22815,23735,24486,25096,25907,26114,24879,23424,22834,22685,23253,24112,25316,26652,27135
+ "49003","Box Elder, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",19904,20044,20203,21084,21786,22371,23112,23272,22083,20640,20150,19917,20384,21176,22371,23696,24116
+ "49003","Box Elder, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),100,120,121,(D),137,(D),142,137,149,152,159,157,(D),160,157
+ "49003","Box Elder, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),68,62,43,(D),52,(D),63,87,63,70,89,78,64,87,98
+ "49003","Box Elder, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",41,39,41,42,42,37,37,42,38,37,34,35,41,42,46,50,60
+ "49003","Box Elder, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",1341,1323,1354,1621,1754,1938,2168,2040,1701,1477,1394,1454,1495,1634,1842,1993,1892
+ "49003","Box Elder, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",7336,7208,7180,7303,7752,7930,7604,7508,6792,5939,5164,4687,4974,5182,5367,5782,6273
+ "49003","Box Elder, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",463,471,460,492,509,556,588,577,575,593,601,629,632,698,730,670,708
+ "49003","Box Elder, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2423,2521,2541,2621,2661,2657,2693,2739,2600,2414,2405,2454,2479,2473,2659,2607,2644
+ "49003","Box Elder, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",1037,1270,1441,1545,1561,1469,1587,1678,1637,1502,1525,1526,1522,1485,1621,1693,1776
+ "49003","Box Elder, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",195,186,192,184,180,164,163,174,156,157,151,146,(D),175,150,144,146
+ "49003","Box Elder, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",834,823,736,730,664,625,734,794,929,878,957,928,839,823,819,863,920
+ "49003","Box Elder, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",653,611,638,706,812,981,1158,1166,1122,1137,1210,1132,1181,1286,1311,1355,1401
+ "49003","Box Elder, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),508,(D),(D),556,(D),695,730,637,616,(D),(D),(D),(D),(D),(D),739
+ "49003","Box Elder, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),211,(D),(D),36,(D),33,44,48,74,(D),(D),(D),(D),(D),(D),55
+ "49003","Box Elder, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",468,618,650,779,711,670,571,635,610,670,792,860,953,963,1079,1382,1406
+ "49003","Box Elder, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",99,121,153,171,190,211,239,265,322,345,369,381,353,363,358,340,320
+ "49003","Box Elder, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1412,1393,1468,1443,1418,1391,1559,1646,1693,1662,1748,1775,1824,1886,1969,2015,1991
+ "49003","Box Elder, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",255,259,266,283,281,293,320,313,324,333,343,372,374,436,433,452,464
+ "49003","Box Elder, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1241,1151,1191,1220,1274,1392,1462,1411,1388,1325,1300,1291,1317,1366,1444,1548,1593
+ "49003","Box Elder, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1135,1181,1185,1191,1221,1259,1312,1317,1306,1257,1263,1311,1325,1410,1414,1469,1473
+ "49003","Box Elder, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2573,2631,2612,2651,2700,2725,2795,2842,2796,2784,2684,2768,2869,2936,2945,2956,3019
+ "49003","Box Elder, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",202,209,211,226,232,229,238,237,237,238,213,202,200,197,191,190,185
+ "49003","Box Elder, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",226,229,235,223,229,227,218,217,226,224,231,224,221,219,218,214,217
+ "49003","Box Elder, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",2145,2193,2166,2202,2239,2269,2339,2388,2333,2322,2240,2342,2448,2520,2536,2552,2617
+ "49003","Box Elder, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",202,201,209,221,228,226,227,230,228,222,216,217,215,215,217,218,220
+ "49003","Box Elder, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",1943,1992,1957,1981,2011,2043,2112,2158,2105,2100,2024,2125,2233,2305,2319,2334,2397
+ "49005","Cache, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",54366,55089,57014,59199,60313,62501,65687,67051,65978,66056,67668,68355,69191,71150,73094,74648,76481
+ "49005","Cache, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",43699,44110,45866,47502,47820,49001,50830,51322,49624,50265,51186,51889,52387,53874,55229,56489,57930
+ "49005","Cache, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",10667,10979,11148,11697,12493,13500,14857,15729,16354,15791,16482,16466,16804,17276,17865,18159,18551
+ "49005","Cache, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",1241,1203,1101,1045,1001,944,1004,1010,1022,1040,1061,1054,1088,1082,1111,1110,1115
+ "49005","Cache, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",9426,9776,10047,10652,11492,12556,13853,14719,15332,14751,15421,15412,15716,16194,16754,17049,17436
+ "49005","Cache, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1904,1771,1740,1600,1516,1412,1368,1398,1406,1448,1453,1458,1516,1488,1504,1525,1614
+ "49005","Cache, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",52462,53318,55274,57599,58797,61089,64319,65653,64572,64608,66215,66897,67675,69662,71590,73123,74867
+ "49005","Cache, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",42955,43787,45627,47608,48703,50892,53827,55067,53861,53678,54855,55454,56483,58687,60543,61759,63250
+ "49005","Cache, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),210,(D),237,249,239,230,224,223,232,264,254,270,261
+ "49005","Cache, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),52,(D),62,72,59,103,98,167,164,(D),182,163,175
+ "49005","Cache, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",58,61,60,63,61,63,65,69,65,66,61,66,60,63,62,71,82
+ "49005","Cache, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",3036,3035,3071,3462,3697,3960,4235,3916,3380,3314,2995,3009,3109,3160,3317,3568,3839
+ "49005","Cache, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",8584,8201,10592,10925,10541,10514,11100,11226,10505,10645,10949,11176,11219,11450,11510,11485,11683
+ "49005","Cache, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",795,796,804,843,979,1025,1074,1144,993,990,1089,1084,1112,1266,1341,1183,1233
+ "49005","Cache, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",5885,5958,6192,6381,6638,7064,7350,7214,7125,7097,7184,7035,7146,7386,7854,8195,8473
+ "49005","Cache, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",1193,1129,1060,1072,1129,1185,1281,1296,1321,1242,1316,1381,1355,1409,1456,1394,1390
+ "49005","Cache, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",752,750,776,873,908,827,832,807,803,788,892,933,959,(D),930,900,786
+ "49005","Cache, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1656,1746,2177,2246,2402,2122,2620,3488,3951,3043,3350,3125,3245,3158,3421,3415,3325
+ "49005","Cache, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",2033,2055,2085,2291,2644,2981,3283,3423,3466,3730,3926,3933,4100,4352,4442,4430,4499
+ "49005","Cache, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",2751,3050,3267,3423,3426,3594,3819,4178,4229,4325,4398,4674,4773,5005,5490,5706,6148
+ "49005","Cache, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",2356,2376,237,272,285,355,402,485,(D),435,365,336,381,425,452,617,609
+ "49005","Cache, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",2881,2830,3212,3141,3008,3381,3657,3250,(D),3063,2991,2828,2608,2739,2546,2451,2593
+ "49005","Cache, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",501,666,707,775,802,876,907,940,963,1029,1081,1097,1073,1217,1260,1378,1332
+ "49005","Cache, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",3658,3886,4253,4442,4785,5136,5283,5560,5591,5668,5874,6030,6488,6554,6775,6987,7146
+ "49005","Cache, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",889,1118,1043,985,1001,1084,1087,1140,1170,1193,1210,1436,1483,1587,1580,1742,1785
+ "49005","Cache, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",2767,2880,2847,3084,3036,3157,3164,3226,3319,3447,3444,3528,3629,3914,4053,4020,4070
+ "49005","Cache, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",2910,2985,2992,3071,3099,3298,3369,3384,3386,3270,3408,3393,3347,3582,3618,3784,3821
+ "49005","Cache, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",9507,9531,9647,9991,10094,10197,10492,10586,10711,10930,11360,11443,11192,10975,11047,11364,11617
+ "49005","Cache, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",351,371,382,395,379,377,367,363,373,377,354,347,342,342,338,345,343
+ "49005","Cache, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",486,493,507,493,504,489,469,476,495,497,516,508,499,496,498,488,492
+ "49005","Cache, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",8670,8667,8758,9103,9211,9331,9656,9747,9843,10056,10490,10588,10351,10137,10211,10531,10782
+ "49005","Cache, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",4920,4826,4833,5034,5048,5167,5365,5285,5191,5254,5655,5687,5407,5205,5250,5429,(D)
+ "49005","Cache, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",3750,3841,3925,4069,4163,4164,4291,4462,4652,4802,4835,4901,4944,4932,4961,5102,(D)
+ "49007","Carbon, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",11181,11242,10919,10866,11348,11978,11894,12273,11968,11865,11903,11669,11390,11171,11253,10795,10854
+ "49007","Carbon, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",8898,9150,8839,8808,9141,9693,9555,9997,9652,9513,9549,9335,9036,8918,8933,8503,8510
+ "49007","Carbon, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",2283,2092,2080,2058,2207,2285,2339,2276,2316,2352,2354,2334,2354,2253,2320,2292,2344
+ "49007","Carbon, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",250,247,241,238,239,235,261,261,268,274,282,284,290,288,289,289,291
+ "49007","Carbon, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",2033,1845,1839,1820,1968,2050,2078,2015,2048,2078,2072,2050,2064,1965,2031,2003,2053
+ "49007","Carbon, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",274,266,268,268,274,275,299,299,302,307,310,309,317,313,313,314,321
+ "49007","Carbon, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",10907,10976,10651,10598,11074,11703,11595,11974,11666,11558,11593,11360,11073,10858,10940,10481,10533
+ "49007","Carbon, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",8537,8660,8375,8339,8815,9442,9319,9727,9446,9411,9454,9213,9002,8805,8890,8404,8440
+ "49007","Carbon, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),20,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),33,(D)
+ "49007","Carbon, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),809,(D),(D),(D),(D),913,998,(D),(D),(D),(D),621,(D)
+ "49007","Carbon, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",134,131,134,135,140,143,140,140,140,138,136,131,123,120,97,90,92
+ "49007","Carbon, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",562,452,433,447,459,606,533,555,537,556,629,585,552,558,662,555,509
+ "49007","Carbon, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",418,420,313,336,440,460,399,396,380,364,393,373,402,380,377,356,379
+ "49007","Carbon, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",381,385,391,426,462,473,485,487,470,495,527,516,477,396,369,341,335
+ "49007","Carbon, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1543,1614,1588,1465,1553,1584,1597,1541,1503,1441,1399,1378,1411,1373,1361,1307,1235
+ "49007","Carbon, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",333,305,290,306,406,431,457,493,480,500,531,523,502,588,554,375,382
+ "49007","Carbon, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",114,108,102,126,119,139,127,111,99,89,94,83,80,73,80,73,69
+ "49007","Carbon, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",358,337,348,331,338,307,326,327,361,368,375,365,353,313,279,294,296
+ "49007","Carbon, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",285,246,261,249,291,336,366,387,379,390,411,405,419,389,396,406,418
+ "49007","Carbon, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",432,438,(D),(D),(D),393,(D),(D),(D),(D),(D),(D),(D),354,419,411,434
+ "49007","Carbon, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",64,65,(D),(D),(D),89,(D),(D),(D),(D),(D),(D),(D),58,41,33,34
+ "49007","Carbon, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",551,517,466,466,489,537,459,438,525,637,578,554,519,492,476,402,403
+ "49007","Carbon, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49007","Carbon, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49007","Carbon, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",130,129,141,136,147,145,145,141,156,156,140,150,153,160,154,164,160
+ "49007","Carbon, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",772,792,741,742,728,791,813,756,773,770,735,672,717,742,748,705,685
+ "49007","Carbon, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",841,863,837,855,818,843,872,845,813,826,792,825,792,807,813,818,865
+ "49007","Carbon, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2370,2316,2276,2259,2259,2261,2276,2247,2220,2147,2139,2147,2071,2053,2050,2077,2093
+ "49007","Carbon, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",166,177,180,180,183,175,166,161,163,172,169,168,160,144,145,147,144
+ "49007","Carbon, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",102,103,104,99,98,96,92,90,94,94,96,93,89,86,84,80,80
+ "49007","Carbon, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",2102,2036,1992,1980,1978,1990,2018,1996,1963,1881,1874,1886,1822,1823,1821,1850,1869
+ "49007","Carbon, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",758,718,715,741,750,780,789,739,684,620,609,614,589,570,571,582,590
+ "49007","Carbon, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",1344,1318,1277,1239,1228,1210,1229,1257,1279,1261,1265,1272,1233,1253,1250,1268,1279
+ "49009","Daggett, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",569,582,606,614,616,599,642,581,568,598,582,557,576,604,642,654,632
+ "49009","Daggett, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",432,449,455,460,468,463,485,432,415,438,427,417,416,422,446,440,412
+ "49009","Daggett, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",137,133,151,154,148,136,157,149,153,160,155,140,160,182,196,214,220
+ "49009","Daggett, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",30,28,28,29,30,30,35,37,40,42,46,45,45,45,45,45,45
+ "49009","Daggett, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",107,105,123,125,118,106,122,112,113,118,109,95,115,137,151,169,175
+ "49009","Daggett, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",40,37,38,37,37,36,39,45,51,57,64,66,67,66,65,66,70
+ "49009","Daggett, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",529,545,568,577,579,563,603,536,517,541,518,491,509,538,577,588,562
+ "49009","Daggett, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",317,310,322,326,334,331,380,318,296,307,285,264,298,320,361,381,371
+ "49009","Daggett, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49009","Daggett, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",9,1,12,8,1,0,0,0,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49009","Daggett, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",1,1,1,1,0,1,1,0,0,0,0,0,0,0,0,6,10
+ "49009","Daggett, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",(D),(D),(D),(D),62,(D),(D),(D),(D),(D),(D),(D),(D),19,36,19,(D)
+ "49009","Daggett, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),16,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49009","Daggett, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",6,5,1,1,0,6,1,6,(D),1,6,7,4,9,9,7,7
+ "49009","Daggett, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49009","Daggett, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49009","Daggett, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),5,6,6
+ "49009","Daggett, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",0,0,0,12,9,1,11,1,1,0,0,0,0,0,0,0,0
+ "49009","Daggett, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",8,(D),(D),(D),10,12,14,13,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49009","Daggett, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),8,4,(D),(D),(D),(D),(D)
+ "49009","Daggett, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,19,20
+ "49009","Daggett, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",7,9,9,8,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),7,(D),(D)
+ "49009","Daggett, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",1,6,6,6,6,6,1,1,0,6,6,5,7,8,10,9,9
+ "49009","Daggett, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",4,5,5,5,4,5,1,6,5,4,3,1,1,6,7,7,7
+ "49009","Daggett, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",41,50,50,51,46,50,43,43,41,52,49,49,(D),34,(D),(D),(D)
+ "49009","Daggett, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",122,111,98,91,89,91,107,88,100,96,79,84,(D),103,(D),(D),(D)
+ "49009","Daggett, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49009","Daggett, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",212,235,246,251,245,232,223,218,221,234,233,227,211,218,216,207,191
+ "49009","Daggett, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",66,70,74,69,70,59,54,54,54,56,57,55,53,56,58,55,54
+ "49009","Daggett, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",4,4,4,4,5,4,4,4,4,5,5,5,5,5,4,4,4
+ "49009","Daggett, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",142,161,168,178,170,169,165,160,163,173,171,167,153,157,154,148,133
+ "49009","Daggett, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",(D),21,21,21,21,21,21,21,21,21,21,21,21,21,21,(D),(D)
+ "49009","Daggett, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),140,147,157,149,148,144,139,142,152,150,146,132,136,133,(D),(D)
+ "49011","Davis, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",122324,125964,128379,134039,138600,145259,151935,153019,150433,149653,155650,158317,162118,167101,172985,179058,185604
+ "49011","Davis, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",96519,98974,100051,104051,106200,110773,113981,113574,109544,109855,114420,117227,120139,124195,128453,131691,137078
+ "49011","Davis, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",25805,26990,28328,29988,32400,34486,37954,39445,40889,39798,41230,41090,41979,42906,44532,47367,48526
+ "49011","Davis, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",600,593,524,484,450,413,427,423,423,425,428,423,433,431,436,437,439
+ "49011","Davis, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",25205,26397,27804,29504,31950,34073,37527,39022,40466,39373,40802,40667,41546,42475,44096,46930,48087
+ "49011","Davis, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",852,774,762,725,712,696,690,690,671,674,653,638,663,646,645,658,705
+ "49011","Davis, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",121472,125190,127617,133314,137888,144563,151245,152329,149762,148979,154997,157679,161455,166455,172340,178400,184899
+ "49011","Davis, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",93372,95633,98177,103501,107768,114299,121326,122679,119683,118474,123064,126224,130301,135474,141177,146098,151430
+ "49011","Davis, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),173,178,154,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),162
+ "49011","Davis, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),180,200,239,(D),(D),(D),(D),(D),(D),(D),(D),478,470,(D),509
+ "49011","Davis, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",74,90,98,123,115,117,122,151,125,120,120,123,105,(D),135,227,293
+ "49011","Davis, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",9328,8829,9096,9855,10932,12262,13198,11818,9914,9119,9178,9531,9888,10783,11562,12503,12841
+ "49011","Davis, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",10301,10493,10702,11058,11157,11325,11825,10841,9472,9427,10570,11277,11734,12191,12960,12807,13184
+ "49011","Davis, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",3063,3061,3278,3263,3255,3371,3230,3450,3325,3201,3325,3221,3323,3712,3874,3265,3349
+ "49011","Davis, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",15010,15160,15097,15888,15811,16218,17425,17516,16991,16303,16790,17516,17574,18113,18662,19477,19996
+ "49011","Davis, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",5037,5074,4890,5172,5114,5296,5206,5170,5037,4827,4685,4794,4549,4846,5291,5878,6406
+ "49011","Davis, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",1195,1248,1338,1436,1542,1589,1616,1903,1849,1838,2009,2053,2010,2020,(D),1798,1836
+ "49011","Davis, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",5766,5980,6476,6788,6908,7183,8531,9551,10663,9890,10782,10246,10234,9602,9924,10634,11174
+ "49011","Davis, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",4988,5097,5549,6222,7201,7917,8769,8827,8697,8838,9007,8882,9302,9768,10190,10690,10978
+ "49011","Davis, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",6459,6953,7355,8052,8498,9288,10288,10759,10767,11000,11745,11883,12783,13010,13507,13679,14234
+ "49011","Davis, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",949,1095,978,1155,1143,1239,1259,1468,1436,1417,1384,1436,1474,1527,1656,2285,2291
+ "49011","Davis, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",4434,5035,4996,5135,5789,6515,7046,6957,6790,7072,6893,7256,7662,7981,8145,7607,7647
+ "49011","Davis, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",1274,1260,1288,1515,1847,2037,2249,2554,2734,3089,3144,3258,3953,4362,4789,5200,5575
+ "49011","Davis, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",8848,9017,9443,9620,9854,10208,10378,10830,11212,11591,12088,12484,13032,13273,13603,14164,14956
+ "49011","Davis, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",2696,2853,2992,3020,3127,3355,3472,3674,3808,4004,3918,4303,4238,4657,4785,4799,5084
+ "49011","Davis, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",6581,6644,6659,6921,7136,7491,7688,7933,7863,7961,8339,8419,8724,9143,9562,9918,10328
+ "49011","Davis, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",7008,7399,7589,7900,7946,8462,8574,8762,8489,8258,8544,8850,9115,9716,10042,10506,10587
+ "49011","Davis, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",28100,29557,29440,29813,30120,30264,29919,29650,30079,30505,31933,31455,31154,30981,31163,32302,33469
+ "49011","Davis, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",12044,12966,12559,12726,12978,13158,12704,12278,12553,13015,13041,12655,12357,12281,12602,13313,13492
+ "49011","Davis, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",5698,6121,6332,6437,6184,5979,5736,5516,5519,5485,5144,4958,4958,4829,4815,5025,5134
+ "49011","Davis, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",10358,10470,10549,10650,10958,11127,11479,11856,12007,12005,13748,13842,13839,13871,13746,13964,14843
+ "49011","Davis, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",795,847,871,906,926,983,984,1001,996,1030,1099,1130,1095,1065,1016,1172,1738
+ "49011","Davis, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",9563,9623,9678,9744,10032,10144,10495,10855,11011,10975,12649,12712,12744,12806,12730,12792,13105
+ "49013","Duchesne, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",7990,8100,8021,8320,9048,9853,10882,12052,11415,11081,11837,12947,13300,13751,12549,11690,11948
+ "49013","Duchesne, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",5470,5589,5559,5798,6343,7127,7899,8906,8284,7871,8448,9406,9735,10158,8905,8077,8256
+ "49013","Duchesne, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",2520,2511,2462,2522,2705,2726,2983,3146,3131,3210,3389,3541,3565,3593,3644,3613,3692
+ "49013","Duchesne, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",945,920,866,821,790,745,793,809,841,876,913,925,944,938,941,940,945
+ "49013","Duchesne, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",1575,1591,1596,1701,1915,1981,2190,2337,2290,2334,2476,2616,2621,2655,2703,2673,2747
+ "49013","Duchesne, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1075,1032,997,940,905,857,885,907,937,978,1011,1024,1050,1037,1037,1041,1067
+ "49013","Duchesne, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",6915,7068,7024,7380,8143,8996,9997,11145,10478,10103,10826,11923,12250,12714,11512,10649,10881
+ "49013","Duchesne, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",5325,5424,5318,5683,6450,7257,8197,9296,8590,8168,8767,9824,10110,10587,9323,8390,8572
+ "49013","Duchesne, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",85,99,95,100,125,113,92,90,(D),(D),(D),(D),(D),(D),(D),91,88
+ "49013","Duchesne, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",652,581,538,627,736,1070,1388,1836,1643,1790,2021,2603,2687,2988,2352,1899,1949
+ "49013","Duchesne, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",42,45,48,51,50,49,48,38,45,41,36,39,37,32,36,40,55
+ "49013","Duchesne, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",580,558,581,627,775,932,1145,1350,1143,831,897,1101,1009,1022,787,673,701
+ "49013","Duchesne, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",164,163,145,163,283,292,308,276,219,222,235,224,238,267,213,214,223
+ "49013","Duchesne, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",138,135,125,125,133,143,193,223,175,170,204,280,336,409,261,233,222
+ "49013","Duchesne, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",920,882,828,863,918,979,1035,1108,1077,1000,1028,1052,1105,1249,1131,1103,1138
+ "49013","Duchesne, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",418,397,384,419,551,647,777,1035,973,889,984,1111,1079,1038,961,791,735
+ "49013","Duchesne, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",155,172,183,189,193,185,197,211,219,208,210,199,196,200,(D),224,(D)
+ "49013","Duchesne, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",187,213,192,200,212,211,238,262,260,240,297,250,258,198,237,200,204
+ "49013","Duchesne, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",240,234,222,250,314,345,415,464,476,490,514,528,553,565,602,627,628
+ "49013","Duchesne, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),140,(D),(D),165,180,197,217,228,221,246,263,296,285,280,240,240
+ "49013","Duchesne, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49013","Duchesne, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",121,(D),(D),160,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49013","Duchesne, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),49,51,(D),51,75,71,71,62,55,47,(D),54,(D),(D),(D),(D)
+ "49013","Duchesne, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),553,587,(D),635,629,604,574,533,503,450,(D),489,(D),(D),(D),(D)
+ "49013","Duchesne, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",53,(D),73,60,58,(D),92,104,103,103,99,98,97,104,91,86,84
+ "49013","Duchesne, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",325,(D),427,427,429,(D),500,509,436,407,425,473,491,477,452,452,498
+ "49013","Duchesne, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",498,531,525,548,596,632,652,660,659,639,704,751,789,778,739,653,(D)
+ "49013","Duchesne, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1590,1644,1706,1697,1693,1739,1800,1849,1888,1935,2059,2099,2140,2127,2189,2259,2309
+ "49013","Duchesne, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",89,90,100,97,94,88,80,87,88,98,84,80,74,69,68,68,70
+ "49013","Duchesne, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",75,76,78,74,77,76,75,77,84,82,85,84,86,85,86,81,79
+ "49013","Duchesne, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",1426,1478,1528,1526,1522,1575,1645,1685,1716,1755,1890,1935,1980,1973,2035,2110,2160
+ "49013","Duchesne, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",108,111,111,115,115,117,117,119,120,118,116,117,118,118,119,116,119
+ "49013","Duchesne, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",1318,1367,1417,1411,1407,1458,1528,1566,1596,1637,1774,1818,1862,1855,1916,1994,2041
+ "49015","Emery, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",5334,5226,5340,5505,5555,5663,5690,5608,5507,5594,5522,5380,5313,5235,4986,4891,4891
+ "49015","Emery, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",3806,3761,3863,3983,4027,4140,4091,3996,3896,3976,3903,3743,3676,3584,3342,3255,3228
+ "49015","Emery, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",1528,1465,1477,1522,1528,1523,1599,1612,1611,1618,1619,1637,1637,1651,1644,1636,1663
+ "49015","Emery, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",492,476,461,457,459,453,505,507,520,534,549,549,559,556,556,555,558
+ "49015","Emery, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",1036,989,1016,1065,1069,1070,1094,1105,1091,1084,1070,1088,1078,1095,1088,1081,1105
+ "49015","Emery, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",560,536,529,518,516,506,547,550,561,575,587,585,597,592,591,592,603
+ "49015","Emery, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",4774,4690,4811,4987,5039,5157,5143,5058,4946,5019,4935,4795,4716,4643,4395,4299,4288
+ "49015","Emery, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",3861,3790,3929,4076,4158,4274,4260,4147,4015,4081,4002,3881,3761,3709,3480,3403,3392
+ "49015","Emery, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49015","Emery, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),339,(D),266
+ "49015","Emery, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49015","Emery, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",382,440,466,441,431,522,559,543,592,603,558,531,533,519,432,441,392
+ "49015","Emery, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",55,60,76,62,63,52,68,68,74,61,60,64,68,70,65,64,73
+ "49015","Emery, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),37,(D),(D)
+ "49015","Emery, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",613,578,559,626,621,637,651,649,623,611,645,645,604,626,655,664,670
+ "49015","Emery, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",158,140,149,158,189,175,118,101,101,103,103,101,82,90,(D),52,53
+ "49015","Emery, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",171,152,168,165,150,145,154,137,138,137,134,112,(D),(D),(D),(D),(D)
+ "49015","Emery, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),(D),115,(D),122,129,(D),(D),(D),112,101,91,110,112
+ "49015","Emery, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),(D),(D),(D),(D),91,(D),101,114,(D),(D),(D),(D),(D),(D),(D),(D)
+ "49015","Emery, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",114,110,116,126,126,128,126,133,128,258,(D),132,134,135,134,134,138
+ "49015","Emery, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",43,46,27,(D),32,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49015","Emery, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",142,107,124,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49015","Emery, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",18,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49015","Emery, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",127,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49015","Emery, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",41,49,48,46,36,35,(D),33,34,34,34,36,35,22,37,36,37
+ "49015","Emery, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",251,250,274,314,313,313,(D),327,305,290,283,284,288,299,301,315,325
+ "49015","Emery, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",389,404,414,410,391,381,418,426,418,395,397,411,394,403,391,385,351
+ "49015","Emery, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",913,900,882,911,881,883,883,911,931,938,933,914,955,934,915,896,896
+ "49015","Emery, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",56,68,60,62,61,57,59,61,64,62,57,52,55,57,55,57,53
+ "49015","Emery, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",55,54,55,52,53,51,48,48,50,49,50,49,47,45,44,41,40
+ "49015","Emery, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",802,778,767,797,767,775,776,802,817,827,826,813,853,832,816,798,803
+ "49015","Emery, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",56,57,57,57,58,64,64,64,64,61,60,60,61,61,60,60,61
+ "49015","Emery, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",746,721,710,740,709,711,712,738,753,766,766,753,792,771,756,738,742
+ "49017","Garfield, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",2905,2836,2906,3002,3149,3202,3343,3501,3293,3427,3407,3366,3339,3362,3437,3549,3712
+ "49017","Garfield, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",2219,2147,2149,2237,2346,2375,2456,2571,2386,2505,2424,2390,2346,2312,2347,2412,2548
+ "49017","Garfield, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",686,689,757,765,803,827,887,930,907,922,983,976,993,1050,1090,1137,1164
+ "49017","Garfield, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",250,229,218,217,218,215,238,235,235,236,237,232,236,235,237,237,238
+ "49017","Garfield, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",436,460,539,548,585,612,649,695,672,686,746,744,757,815,853,900,926
+ "49017","Garfield, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",287,259,261,264,272,277,298,296,292,293,289,282,290,285,286,289,301
+ "49017","Garfield, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",2618,2577,2645,2738,2877,2925,3045,3205,3001,3134,3118,3084,3049,3077,3151,3260,3411
+ "49017","Garfield, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",2025,1970,2057,2151,2295,2341,2459,2597,2392,2521,2509,2496,2475,2520,2618,2733,2860
+ "49017","Garfield, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49017","Garfield, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49017","Garfield, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",31,31,27,29,28,37,38,36,(D),(D),(D),31,35,33,30,34,40
+ "49017","Garfield, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",123,98,103,107,134,136,164,139,130,137,116,108,108,106,104,110,118
+ "49017","Garfield, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),104,(D),(D),118,123,123,106,70,67,74,65,67,63,90,97,106
+ "49017","Garfield, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),31,33,39,36,38,47,45,48,50,(D),(D),(D),26,21,20
+ "49017","Garfield, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",223,235,228,224,248,253,244,266,247,236,250,264,276,269,269,272,272
+ "49017","Garfield, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),36,34,32,38,33,26,(D),(D),(D),(D),(D),(D),60,49,59
+ "49017","Garfield, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49017","Garfield, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),43,45,46,(D),51,(D),54,61,(D),51,54,61,66,70
+ "49017","Garfield, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),(D),(D),57,67,86,(D),98,(D),95,104,(D),104,128,111,119,122
+ "49017","Garfield, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",41,45,53,55,(D),54,57,64,62,53,63,71,69,(D),77,95,(D)
+ "49017","Garfield, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,18,11,(D),19,29,30
+ "49017","Garfield, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),21,(D),(D),42,(D),41,(D),(D),(D),(D),(D),47,(D),40,65,(D)
+ "49017","Garfield, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),24,(D),(D),(D),(D),(D),(D),(D),24,(D),(D),(D),(D),(D)
+ "49017","Garfield, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),189,(D),(D),(D),(D),(D),(D),(D),250,(D),(D),(D),(D),(D)
+ "49017","Garfield, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",41,92,89,91,(D),84,96,88,90,(D),(D),100,102,98,(D),(D),(D)
+ "49017","Garfield, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",831,773,768,820,(D),840,862,926,852,(D),(D),981,927,949,(D),(D),(D)
+ "49017","Garfield, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",95,106,118,109,112,110,106,113,112,117,125,119,(D),(D),(D),(D),(D)
+ "49017","Garfield, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",593,607,588,587,582,584,586,608,609,613,609,588,574,557,533,527,551
+ "49017","Garfield, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",172,186,169,162,157,160,157,169,177,191,188,181,167,158,150,144,137
+ "49017","Garfield, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",24,23,24,22,22,22,22,22,22,22,23,22,21,21,20,20,20
+ "49017","Garfield, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",397,398,395,403,403,402,407,417,410,400,398,385,386,378,363,363,394
+ "49017","Garfield, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",68,69,68,69,69,70,71,72,73,73,73,73,73,74,74,73,74
+ "49017","Garfield, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",329,329,327,334,334,332,336,345,337,327,325,312,313,304,289,290,320
+ "49019","Grand, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",5647,5664,5736,5798,6014,6233,6567,6678,6450,6456,6637,6881,7099,7318,7544,7731,8025
+ "49019","Grand, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",4327,4357,4369,4358,4489,4610,4786,4901,4721,4700,4813,5010,5074,5277,5457,5614,5860
+ "49019","Grand, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",1320,1307,1367,1440,1525,1623,1781,1777,1729,1756,1824,1871,2025,2041,2087,2117,2165
+ "49019","Grand, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",89,85,81,76,72,66,69,67,65,64,61,57,57,57,58,58,58
+ "49019","Grand, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",1231,1222,1286,1364,1453,1557,1712,1710,1664,1692,1763,1814,1968,1984,2029,2059,2107
+ "49019","Grand, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",110,102,104,99,98,94,96,97,95,97,93,90,92,90,90,92,99
+ "49019","Grand, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",5537,5562,5632,5699,5916,6139,6471,6581,6355,6359,6544,6791,7007,7228,7454,7639,7926
+ "49019","Grand, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",4687,4687,4764,4828,5047,5264,5611,5690,5423,5406,5556,5747,5966,6234,6464,6658,6938
+ "49019","Grand, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49019","Grand, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),98,100,125,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49019","Grand, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",32,(D),(D),(D),(D),(D),(D),34,29,28,28,28,28,28,31,37,(D)
+ "49019","Grand, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",419,409,374,404,494,522,546,519,448,429,391,400,431,448,424,450,484
+ "49019","Grand, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",94,100,97,96,98,99,104,99,101,87,75,94,101,108,104,122,188
+ "49019","Grand, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",82,(D),(D),85,88,82,90,94,83,87,96,97,107,118,118,99,(D)
+ "49019","Grand, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",774,791,805,782,802,838,861,897,861,854,901,918,943,941,951,948,916
+ "49019","Grand, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",87,(D),(D),(D),(D),(D),(D),103,93,103,110,108,132,136,134,152,181
+ "49019","Grand, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",(D),79,87,81,81,70,74,70,66,60,53,52,(D),51,69,61,59
+ "49019","Grand, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",86,89,86,84,96,109,119,129,128,122,130,127,124,114,110,122,128
+ "49019","Grand, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",235,234,257,289,278,320,371,380,365,370,398,422,435,468,478,532,545
+ "49019","Grand, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",231,195,219,231,251,248,315,326,296,313,330,310,337,348,(D),(D),(D)
+ "49019","Grand, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49019","Grand, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),252,(D),285
+ "49019","Grand, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),166,111,103,123,110,116,129,119,118,104,86,100,111,125,129,126
+ "49019","Grand, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),296,295,317,355,369,359,343,341,332,377,391,382,427,450,460,465
+ "49019","Grand, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",302,284,304,315,331,343,361,370,364,359,375,402,428,462,482,527,517
+ "49019","Grand, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1312,1329,1355,1322,1313,1369,1431,1453,1418,1432,1476,1553,1604,1652,1801,1886,2001
+ "49019","Grand, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",237,247,276,266,267,269,293,295,267,262,286,305,301,326,333,318,321
+ "49019","Grand, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",850,875,868,871,869,875,860,891,932,953,988,1044,1041,994,990,981,988
+ "49019","Grand, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",230,251,254,257,246,237,219,227,243,246,250,258,248,239,233,233,227
+ "49019","Grand, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",44,44,44,42,43,42,40,40,41,41,42,41,40,40,40,39,38
+ "49019","Grand, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",576,580,570,572,580,596,601,624,648,666,696,745,753,715,717,709,723
+ "49019","Grand, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",80,79,78,80,80,81,81,82,82,79,78,79,80,80,79,78,79
+ "49019","Grand, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",496,501,492,492,500,515,520,542,566,587,618,666,673,635,638,631,644
+ "49021","Iron, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",18824,19016,19222,20176,21633,23063,23886,23638,22695,22222,22244,22245,22297,23259,23690,24829,25801
+ "49021","Iron, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",14935,15014,15045,15636,16633,17715,17858,17502,16518,15987,16057,16084,16109,16715,17086,18112,18947
+ "49021","Iron, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",3889,4002,4177,4540,5000,5348,6028,6136,6177,6235,6187,6161,6188,6544,6604,6717,6854
+ "49021","Iron, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",427,425,399,387,381,368,400,403,411,419,430,427,439,437,447,446,449
+ "49021","Iron, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",3462,3577,3778,4153,4619,4980,5628,5733,5766,5816,5757,5734,5749,6107,6157,6271,6405
+ "49021","Iron, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",815,780,805,745,718,683,651,681,694,731,740,755,790,766,767,784,856
+ "49021","Iron, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",18009,18236,18417,19431,20915,22380,23235,22957,22001,21491,21504,21490,21507,22493,22923,24045,24945
+ "49021","Iron, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",14049,14356,14451,15344,16874,18262,18945,18582,17661,17121,16982,16982,17209,18274,18678,19674,20486
+ "49021","Iron, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),145,(D),(D),(D),218,239,234,273,303,291,297,314
+ "49021","Iron, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",57,(D),(D),(D),(D),92,(D),(D),(D),156,156,179,179,264,193,215,224
+ "49021","Iron, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",71,71,77,78,82,89,89,91,92,94,96,97,95,95,90,99,113
+ "49021","Iron, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",1313,1331,1412,1604,2114,2569,2345,1960,1506,1205,1075,1019,1128,1224,1297,1484,1671
+ "49021","Iron, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",1565,1527,1581,1676,1788,1872,1853,1777,1563,1453,1480,1443,1435,1531,1610,1708,1865
+ "49021","Iron, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",299,345,406,400,438,494,511,395,364,319,368,410,409,461,432,355,396
+ "49021","Iron, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2272,2314,2350,2478,2650,2832,2966,2901,2782,2647,2578,2531,2547,2677,2816,2995,2972
+ "49021","Iron, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",326,351,369,418,464,465,490,489,483,457,486,484,416,424,435,432,456
+ "49021","Iron, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",177,(D),164,166,164,179,207,191,201,196,187,188,196,192,190,181,190
+ "49021","Iron, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",685,738,751,706,802,910,1084,1223,1231,1143,1044,1079,1103,1101,1081,1084,1166
+ "49021","Iron, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",734,791,857,961,1139,1345,1469,1465,1406,1422,1412,1386,1376,1495,1572,1611,1680
+ "49021","Iron, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),803,912,971,951,902,831,809,825,868,940,925,958,1007
+ "49021","Iron, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),72,77,78,95,85,80,72,82,75,83,81,116,129
+ "49021","Iron, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1631,1646,1278,1247,1220,1075,1152,1201,1163,1264,1281,1207,1188,1191,1190,1259,1132
+ "49021","Iron, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",152,155,117,184,234,205,222,252,278,323,321,328,336,401,416,479,515
+ "49021","Iron, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1232,1336,1404,1500,1556,1743,1770,1848,1898,1885,1862,1861,1959,2020,2085,2189,2283
+ "49021","Iron, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",323,331,349,423,450,424,417,463,530,502,507,502,475,534,568,574,648
+ "49021","Iron, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1549,1421,1450,1511,1617,1663,1800,1743,1641,1698,1772,1855,1888,1963,2020,2233,2279
+ "49021","Iron, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",956,(D),1074,1045,1100,1171,1239,1253,1243,1228,1237,1272,1263,1375,1386,1405,1446
+ "49021","Iron, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",3960,3880,3966,4087,4041,4118,4290,4375,4340,4370,4522,4508,4298,4219,4245,4371,4459
+ "49021","Iron, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",312,360,377,372,341,320,319,319,347,362,342,320,303,295,284,284,281
+ "49021","Iron, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",178,181,187,183,196,201,195,195,205,203,210,205,199,198,200,198,203
+ "49021","Iron, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",3470,3339,3402,3532,3504,3597,3776,3861,3788,3805,3970,3983,3796,3726,3761,3889,3975
+ "49021","Iron, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",1813,1677,1725,1837,1784,1811,1877,1880,1782,1821,1939,1978,1831,1697,1760,1861,1900
+ "49021","Iron, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",1657,1662,1677,1695,1720,1786,1899,1981,2006,1984,2031,2005,1965,2029,2001,2028,2075
+ "49023","Juab, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",3905,3970,4016,4282,4637,4692,4992,4985,4995,4775,4685,4842,5000,4952,5140,5285,5315
+ "49023","Juab, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",2818,2908,2918,3110,3379,3446,3548,3547,3498,3355,3247,3310,3502,3487,3617,3691,3690
+ "49023","Juab, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",1087,1062,1098,1172,1258,1246,1444,1438,1497,1420,1438,1532,1498,1465,1523,1594,1625
+ "49023","Juab, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",242,240,234,239,243,244,274,279,282,287,292,290,298,296,301,301,302
+ "49023","Juab, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",845,822,864,933,1015,1002,1170,1159,1215,1133,1146,1242,1200,1169,1222,1293,1323
+ "49023","Juab, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",319,310,320,322,328,331,351,362,363,374,376,376,389,382,385,390,409
+ "49023","Juab, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",3586,3660,3696,3960,4309,4361,4641,4623,4632,4401,4309,4466,4611,4570,4755,4895,4906
+ "49023","Juab, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",3000,3082,3095,3342,3680,3690,3973,3934,3916,3625,3512,3667,3828,3781,3960,4057,4034
+ "49023","Juab, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49023","Juab, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),97,124,109,91,(D),107,108,99,96,109,113,73
+ "49023","Juab, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",2,2,4,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49023","Juab, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",321,453,393,574,678,690,754,703,654,471,375,386,520,430,497,536,446
+ "49023","Juab, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",418,409,402,423,519,540,568,545,555,668,650,688,723,767,765,767,801
+ "49023","Juab, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",59,59,61,54,54,56,51,47,54,43,49,56,52,60,56,53,48
+ "49023","Juab, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",406,426,448,476,483,455,455,444,454,406,406,445,426,431,427,424,424
+ "49023","Juab, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",62,55,62,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49023","Juab, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",9,8,9,13,15,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49023","Juab, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",99,71,(D),(D),85,79,136,145,172,113,123,116,108,99,(D),(D),(D)
+ "49023","Juab, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),110,(D),(D),166,177,201,177,177,181,196,194,191,188,(D),(D),(D)
+ "49023","Juab, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",232,183,(D),(D),(D),(D),(D),230,220,219,223,213,229,210,230,235,248
+ "49023","Juab, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),0,0,25,21,18,(D),(D),25,18,24,17,(D),19,29,30
+ "49023","Juab, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),79,70,83,83,(D),66,94,95
+ "49023","Juab, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",14,14,14,17,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49023","Juab, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",285,427,479,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49023","Juab, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),(D),(D),(D),(D),42,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49023","Juab, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),(D),(D),(D),(D),350,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49023","Juab, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",189,222,235,208,205,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49023","Juab, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",586,578,601,618,629,671,668,689,716,776,797,799,783,789,795,838,872
+ "49023","Juab, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",31,31,37,36,39,46,43,41,43,39,28,30,30,28,24,24,25
+ "49023","Juab, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",43,43,45,44,45,44,44,45,46,45,47,46,44,44,44,44,45
+ "49023","Juab, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",512,504,519,538,545,581,581,603,627,692,722,723,709,717,727,770,802
+ "49023","Juab, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",37,37,37,38,37,38,39,40,40,41,40,40,40,40,41,40,40
+ "49023","Juab, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",475,467,482,500,508,543,542,563,587,651,682,683,669,677,686,730,762
+ "49025","Kane, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",3733,3676,3803,3989,4157,4376,4498,4523,4350,4381,4468,4461,4511,4696,4868,4961,5043
+ "49025","Kane, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",2765,2743,2879,2973,3011,3237,3329,3322,3133,3122,3138,3170,3227,3385,3499,3557,3608
+ "49025","Kane, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",968,933,924,1016,1146,1139,1169,1201,1217,1259,1330,1291,1284,1311,1369,1404,1435
+ "49025","Kane, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",138,130,123,119,116,111,118,126,134,142,151,156,161,160,166,165,166
+ "49025","Kane, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",830,803,801,897,1030,1028,1051,1075,1083,1117,1179,1135,1123,1151,1203,1239,1269
+ "49025","Kane, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",157,147,143,138,134,129,133,143,150,159,168,172,178,176,182,182,186
+ "49025","Kane, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",3576,3529,3660,3851,4023,4247,4365,4380,4200,4222,4300,4289,4333,4520,4686,4779,4857
+ "49025","Kane, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",2830,2772,2909,3127,3276,3516,3616,3628,3448,3482,3549,3548,3584,3778,3940,4035,4099
+ "49025","Kane, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49025","Kane, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",16,(D),(D),14,15,20,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49025","Kane, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49025","Kane, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",(D),231,(D),258,296,320,359,299,220,214,201,195,187,(D),189,(D),247
+ "49025","Kane, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),(D),187,194,207,224,(D),154,152,(D),(D),(D),(D),139,151,157,177
+ "49025","Kane, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",33,26,31,(D),37,43,43,41,38,(D),(D),43,41,49,47,(D),(D)
+ "49025","Kane, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",420,401,406,431,468,492,478,478,469,456,451,423,427,495,496,499,497
+ "49025","Kane, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),68,(D),(D),(D),(D),(D),76,(D),(D),(D),(D),(D),87,89
+ "49025","Kane, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",(D),(D),(D),31,(D),45,31,27,28,27,(D),33,33,30,20,27,26
+ "49025","Kane, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",64,63,79,95,110,120,129,135,130,131,145,134,120,120,124,140,126
+ "49025","Kane, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",147,143,145,185,229,245,253,244,243,271,260,238,230,229,270,300,307
+ "49025","Kane, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),93,110,101,111,103,111,124,124,109,126,110,123,138,138
+ "49025","Kane, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",26,32,1,0,0,0,0,0,0,0,0,0,0,17,19,29,30
+ "49025","Kane, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",64,45,71,85,80,96,78,80,111,114,135,138,129,131,118,133,133
+ "49025","Kane, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",12,10,11,13,22,(D),(D),(D),(D),(D),(D),14,16,18,18,12,12
+ "49025","Kane, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",79,79,76,79,(D),(D),(D),(D),(D),(D),(D),133,148,155,152,158,163
+ "49025","Kane, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",344,(D),367,381,293,294,(D),94,91,97,103,103,122,122,119,119,130
+ "49025","Kane, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",638,(D),607,605,616,660,(D),956,893,876,914,998,1025,1075,1145,1144,1144
+ "49025","Kane, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",401,414,466,500,535,581,611,654,613,623,639,620,627,665,696,699,708
+ "49025","Kane, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",746,757,751,724,747,731,749,752,752,740,751,741,749,742,746,744,758
+ "49025","Kane, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",113,116,114,104,104,106,100,97,103,111,99,101,99,92,85,85,83
+ "49025","Kane, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",31,31,32,31,32,32,31,30,32,32,33,31,30,30,29,29,29
+ "49025","Kane, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",602,610,605,589,611,593,618,625,617,597,619,609,620,620,632,630,646
+ "49025","Kane, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",60,60,59,60,59,60,62,63,64,64,64,64,64,64,64,62,63
+ "49025","Kane, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",542,550,546,529,552,533,556,562,553,533,555,545,556,556,568,568,583
+ "49027","Millard, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",5988,6209,6257,6271,6344,6358,6516,6601,6461,6559,6642,6576,6636,6731,6804,6926,7233
+ "49027","Millard, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",4158,4416,4427,4467,4475,4536,4538,4592,4467,4580,4563,4514,4622,4683,4741,4843,5115
+ "49027","Millard, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",1830,1793,1830,1804,1869,1822,1978,2009,1994,1979,2079,2062,2014,2048,2063,2083,2118
+ "49027","Millard, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",660,632,603,588,579,561,612,611,617,624,635,624,642,638,650,649,653
+ "49027","Millard, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",1170,1161,1227,1216,1290,1261,1366,1398,1377,1355,1444,1438,1372,1410,1413,1434,1465
+ "49027","Millard, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1132,1047,1092,1033,1015,982,964,987,984,1013,1008,1007,1049,1022,1023,1043,1127
+ "49027","Millard, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",4856,5162,5165,5238,5329,5376,5552,5614,5477,5546,5634,5569,5587,5709,5781,5883,6106
+ "49027","Millard, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",3769,4068,4062,4128,4199,4249,4432,4481,4362,4454,4551,4485,4511,4623,4726,4802,4999
+ "49027","Millard, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),106,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),167,164,148,154,148
+ "49027","Millard, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),107,(D),106,(D),106,(D),130,(D),120,127,131,140,149,149,151,146
+ "49027","Millard, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49027","Millard, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",188,341,228,218,212,218,231,227,194,284,244,183,178,173,184,242,243
+ "49027","Millard, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",175,196,188,181,198,215,232,239,234,230,242,222,265,263,242,255,260
+ "49027","Millard, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",114,113,108,110,104,109,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49027","Millard, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",734,741,783,778,810,791,792,784,731,740,782,761,747,746,769,782,830
+ "49027","Millard, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),162,161,157,162,184,179,182,185,184,209
+ "49027","Millard, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",42,37,45,49,50,45,34,31,32,37,38,32,33,49,47,35,32
+ "49027","Millard, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),(D),142,194,(D),(D),195,185,179,122,(D),175,(D),(D)
+ "49027","Millard, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),(D),(D),(D),(D),138,141,(D),(D),188,224,222,233,(D),252,(D),(D)
+ "49027","Millard, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49027","Millard, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49027","Millard, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),230,243,297,314,323,342,356,346,337,329,381,439,444,438,459,468
+ "49027","Millard, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",24,20,20,22,26,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49027","Millard, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",310,300,326,342,353,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49027","Millard, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),62,70,(D),(D),(D),(D),63,65,(D),64,60,63,70,52,51,57
+ "49027","Millard, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),387,396,(D),(D),(D),(D),398,369,(D),353,337,338,344,368,362,428
+ "49027","Millard, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",321,340,363,380,346,353,351,358,351,342,357,354,350,362,351,370,381
+ "49027","Millard, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1087,1094,1103,1110,1130,1127,1120,1133,1115,1092,1083,1084,1076,1086,1055,1081,1107
+ "49027","Millard, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",103,111,108,103,104,95,96,97,103,100,93,91,89,84,84,88,90
+ "49027","Millard, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",64,63,63,60,60,58,54,54,56,56,58,56,54,53,53,51,51
+ "49027","Millard, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",920,920,932,947,966,974,970,982,956,936,932,937,933,949,918,942,966
+ "49027","Millard, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",105,110,124,127,129,129,131,133,133,133,132,136,139,(D),118,119,121
+ "49027","Millard, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",815,810,808,820,837,845,839,849,823,803,800,801,794,(D),800,823,845
+ "49029","Morgan, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",2984,3024,3222,3401,3466,3562,3901,4049,4078,4026,3929,3977,4178,4311,4544,4685,4889
+ "49029","Morgan, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",1835,1844,1973,2069,1999,2017,2191,2192,2112,2124,1929,1914,2031,2138,2239,2325,2463
+ "49029","Morgan, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",1149,1180,1249,1332,1467,1545,1710,1857,1966,1902,2000,2063,2147,2173,2305,2360,2426
+ "49029","Morgan, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",271,266,252,249,247,244,269,266,264,263,263,253,259,258,261,260,261
+ "49029","Morgan, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",878,914,997,1083,1220,1301,1441,1591,1702,1639,1737,1810,1888,1915,2044,2100,2165
+ "49029","Morgan, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",324,305,304,303,306,309,329,327,320,318,312,298,307,303,305,306,316
+ "49029","Morgan, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",2660,2719,2918,3098,3160,3253,3572,3722,3758,3708,3617,3679,3871,4008,4239,4379,4573
+ "49029","Morgan, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",2277,2329,2525,2699,2759,2843,3152,3284,3304,3238,3151,3198,3378,3516,3723,3841,4007
+ "49029","Morgan, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),29,27,(D),(D)
+ "49029","Morgan, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),66,57,(D),(D)
+ "49029","Morgan, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",9,9,11,13,16,15,18,18,16,17,13,15,18,17,17,27,40
+ "49029","Morgan, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",464,431,465,540,540,588,618,589,480,436,391,429,473,480,488,563,626
+ "49029","Morgan, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",271,248,254,267,246,227,244,249,254,249,235,241,241,266,264,260,261
+ "49029","Morgan, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),169,174,171,168,184,159,160,169,157,166,172,189,202,214,175,168
+ "49029","Morgan, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",286,305,329,312,299,322,384,374,379,353,353,338,347,372,399,413,453
+ "49029","Morgan, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),20,35,31,29,32,30,24,33,23,24,36,42,36,41,44,47
+ "49029","Morgan, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",8,(D),(D),21,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),17
+ "49029","Morgan, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),126,162,178,200,214,266,340,432,378,460,438,492,414,440,434,459
+ "49029","Morgan, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),159,166,195,(D),262,321,331,327,367,360,388,374,395,(D),471,484
+ "49029","Morgan, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),(D),182,197,191,190,179,196,209,252,261,312,325
+ "49029","Morgan, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49029","Morgan, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",78,104,127,201,190,119,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49029","Morgan, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",12,13,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),59,57
+ "49029","Morgan, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),62,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),214,212
+ "49029","Morgan, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",53,57,61,55,48,52,67,(D),(D),(D),80,90,103,119,115,109,108
+ "49029","Morgan, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",166,150,161,181,163,163,176,(D),(D),(D),164,165,168,190,207,195,182
+ "49029","Morgan, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",(D),(D),(D),199,(D),(D),(D),(D),(D),(D),(D),(D),(D),307,336,(D),322
+ "49029","Morgan, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",383,390,393,399,401,410,420,438,454,470,466,481,493,492,516,538,566
+ "49029","Morgan, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",12,12,12,12,12,12,10,11,12,15,10,10,11,12,11,12,17
+ "49029","Morgan, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",38,39,40,39,40,41,40,41,43,43,44,44,44,45,47,46,48
+ "49029","Morgan, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",333,339,341,348,349,357,370,386,399,412,412,427,438,435,458,480,501
+ "49029","Morgan, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21
+ "49029","Morgan, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",312,318,320,327,328,336,349,365,378,391,391,406,417,414,437,459,480
+ "49031","Piute, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",557,561,581,627,620,666,728,731,678,630,577,563,596,630,619,559,598
+ "49031","Piute, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",316,300,339,369,367,388,408,411,367,335,309,285,289,274,269,265,298
+ "49031","Piute, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",241,261,242,258,253,278,320,320,311,295,268,278,307,356,350,294,300
+ "49031","Piute, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",118,116,105,99,94,88,94,98,102,106,111,114,117,117,120,120,120
+ "49031","Piute, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",123,145,137,159,159,190,226,222,209,189,157,164,190,239,230,174,180
+ "49031","Piute, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",153,144,144,140,141,141,145,148,146,148,147,145,150,148,150,152,159
+ "49031","Piute, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",404,417,437,487,479,525,583,583,532,482,430,418,446,482,469,407,439
+ "49031","Piute, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",269,275,288,344,340,389,443,433,382,334,285,277,302,334,323,269,301
+ "49031","Piute, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",9,8,12,(D),(D),(D),(D),(D),(D),22,1,1,0,23,20,23,24
+ "49031","Piute, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "49031","Piute, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",(D),(D),13,(D),43,(D),(D),(D),(D),32,(D),(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",9,14,(D),(D),(D),(D),(D),(D),13,15,17,18,12,10,12,(D),(D)
+ "49031","Piute, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",5,5,6,6,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),12,7,7
+ "49031","Piute, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),52,52,47,40,32,35,(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",5,1,1,0,0,0,0,0,0,0,0,6,8,7,6,6,6
+ "49031","Piute, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),(D),(D),(D),(D),18,21,15,19,16,16,23,34,28,14,11,12
+ "49031","Piute, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),8,9,11,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,10,16,9,0,1,0,0,0,0,0,0,0,0
+ "49031","Piute, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),10,9,13,14,12,11,10,7,7,11,(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",1,6,6,6,7,9,10,9,10,8,9,8,11,12,12,9,9
+ "49031","Piute, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",16,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),10,11,12,9,11,14,(D),(D),14,(D),(D),(D),(D),(D),(D),10
+ "49031","Piute, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),41,43,47,36,64,72,(D),(D),49,(D),(D),(D),(D),(D),(D),27
+ "49031","Piute, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49031","Piute, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",135,142,149,143,139,136,140,150,150,148,145,141,144,148,146,138,138
+ "49031","Piute, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",6,6,6,6,6,6,6,7,7,9,7,6,6,6,5,3,3
+ "49031","Piute, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",7,7,7,7,7,7,6,7,7,7,7,7,6,6,6,6,6
+ "49031","Piute, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",122,129,136,130,126,123,128,136,136,132,131,128,132,136,135,129,129
+ "49031","Piute, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),15,15,15,15,15,15,15,15,15,15,15,(D),15,(D),(D)
+ "49031","Piute, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),121,115,111,108,113,121,121,117,116,113,117,(D),120,(D),(D)
+ "49033","Rich, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",1091,1127,1166,1178,1185,1320,1368,1420,1345,1291,1278,1310,1351,1395,1447,1543,1603
+ "49033","Rich, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",658,689,729,760,736,806,830,858,775,724,699,701,753,777,807,861,908
+ "49033","Rich, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",433,438,437,418,449,514,538,562,570,567,579,609,598,618,640,682,695
+ "49033","Rich, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",144,139,124,120,115,111,119,118,119,118,119,115,121,120,127,127,128
+ "49033","Rich, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",289,299,313,298,334,403,419,444,451,449,460,494,477,498,513,555,567
+ "49033","Rich, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",216,199,198,189,185,182,181,185,185,188,187,183,194,188,193,197,212
+ "49033","Rich, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",875,928,968,989,1000,1138,1187,1235,1160,1103,1091,1127,1157,1207,1254,1346,1391
+ "49033","Rich, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",682,731,769,793,800,945,998,1039,959,895,885,916,950,994,1036,1128,1178
+ "49033","Rich, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49033","Rich, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",9,10,9,(D),(D),(D),(D),34,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49033","Rich, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",8,9,9,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49033","Rich, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",89,96,105,105,131,149,191,155,114,(D),87,82,82,86,(D),(D),101
+ "49033","Rich, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49033","Rich, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),7,10,10,9,11,9,13,14,(D),(D)
+ "49033","Rich, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",87,87,81,92,79,95,93,99,102,89,97,91,98,98,110,124,124
+ "49033","Rich, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),19,35,26,28,(D),(D),(D),(D),(D),(D),(D),(D),30,29
+ "49033","Rich, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",0,0,(D),0,7,7,5,6,9,9,8,9,9,8,6,9,(D)
+ "49033","Rich, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49033","Rich, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49033","Rich, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",13,13,14,15,26,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49033","Rich, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",13,1,0,0,0,(D),(D),(D),14,(D),(D),0,(D),(D),(D),(D),(D)
+ "49033","Rich, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),28,26,32,35,41,(D),26,26,(D),37,48,64,74,75
+ "49033","Rich, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49033","Rich, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),41
+ "49033","Rich, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),25
+ "49033","Rich, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),188
+ "49033","Rich, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",91,94,106,109,89,91,94,101,98,97,99,109,103,113,120,133,123
+ "49033","Rich, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",193,197,199,196,200,193,189,196,201,208,206,211,207,213,218,218,213
+ "49033","Rich, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",13,14,14,13,12,12,12,13,14,15,11,11,10,12,11,9,9
+ "49033","Rich, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",10,10,11,10,10,10,10,10,10,10,11,10,10,10,10,9,10
+ "49033","Rich, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",170,173,174,173,178,171,167,173,177,183,184,190,187,191,197,200,194
+ "49033","Rich, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",23,23,23,23,22,22,22,23,25,25,26,27,27,28,28,22,15
+ "49033","Rich, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",147,150,151,150,156,149,145,150,152,158,158,163,160,163,169,178,179
+ "49035","Salt Lake, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",664472,657614,654941,668346,693619,724926,760311,766380,739777,735647,754545,776002,799138,818533,845707,875198,895771
+ "49035","Salt Lake, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",563722,553217,546702,554630,573154,598631,621535,623206,593089,591380,603759,625687,645074,660574,681933,706392,722762
+ "49035","Salt Lake, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",100750,104397,108239,113716,120465,126295,138776,143174,146688,144267,150786,150315,154064,157959,163774,168806,173009
+ "49035","Salt Lake, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",716,722,636,576,524,466,466,481,498,517,538,542,555,552,559,559,562
+ "49035","Salt Lake, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",100034,103675,107603,113140,119941,125829,138310,142693,146190,143750,150248,149773,153509,157407,163215,168247,172447
+ "49035","Salt Lake, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",843,822,761,696,648,594,580,611,634,671,695,713,738,723,725,734,773
+ "49035","Salt Lake, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",663629,656792,654180,667650,692971,724332,759731,765769,739143,734976,753850,775289,798400,817810,844982,874464,894998
+ "49035","Salt Lake, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",575945,567784,564114,576502,600890,631298,665587,670391,642804,637541,654503,674282,696170,713600,739726,766574,785190
+ "49035","Salt Lake, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",268,336,306,350,347,342,385,396,374,321,361,360,346,349,320,(D),352
+ "49035","Salt Lake, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",2726,2344,2267,2178,2439,2767,3321,3934,3529,3941,4275,5400,5139,4455,4213,4040,4132
+ "49035","Salt Lake, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",1958,1728,1632,1627,1596,1633,1651,1680,1663,1632,1577,1574,1510,1523,1623,1742,1965
+ "49035","Salt Lake, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",42281,38989,39216,40392,44432,50602,53699,49189,41354,38980,38490,39454,39786,40838,42616,45562,48089
+ "49035","Salt Lake, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",55062,51569,50640,51739,52554,54953,57678,57210,52588,52242,53389,54745,55106,55138,56193,57448,59214
+ "49035","Salt Lake, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",30272,29632,28895,29751,31082,31811,32978,33332,31514,30753,32596,33588,33255,34397,35456,34568,34740
+ "49035","Salt Lake, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",71073,71238,71495,72264,73719,75649,78613,78511,74834,73216,72993,76097,78628,79911,82729,84704,85118
+ "49035","Salt Lake, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",29568,27999,26807,27287,28690,29569,31067,30996,28633,28051,29546,30781,31642,32045,35240,37952,39544
+ "49035","Salt Lake, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",21340,19038,18286,18441,19348,20060,18303,18565,17780,17524,17639,18856,19434,19758,19382,20344,21558
+ "49035","Salt Lake, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",51151,51243,50546,49981,51609,53859,59800,63408,66135,62524,66504,66278,68467,68021,71181,74162,76986
+ "49035","Salt Lake, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",26719,27973,29416,31657,35026,38110,41907,41990,40339,40787,42074,41918,43227,45190,45988,46933,48419
+ "49035","Salt Lake, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",43165,42190,42977,43939,46534,50776,54151,56089,54011,53895,55092,57914,61919,65268,69153,71461,73080
+ "49035","Salt Lake, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",15017,14717,14047,13810,14362,14663,15423,16339,15441,15362,15772,16395,16660,17254,17482,19074,19472
+ "49035","Salt Lake, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",45059,42489,42249,44555,46958,50034,52814,49345,45021,47249,49796,51447,54423,56360,58470,61179,60918
+ "49035","Salt Lake, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",10543,11244,11518,12312,13311,13725,14309,16312,17500,18684,19347,19949,21744,22742,23951,25115,26237
+ "49035","Salt Lake, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",46971,48213,49520,50849,52491,53858,56907,59338,60905,62045,62643,63704,65616,65974,68509,71193,72696
+ "49035","Salt Lake, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",11664,12610,11199,11391,11944,12583,13488,13879,13778,13592,13741,14243,14523,15353,15466,17086,17664
+ "49035","Salt Lake, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",39151,40554,40039,40301,40614,41763,43267,43906,42478,42461,43505,45014,47398,49083,50738,51860,52765
+ "49035","Salt Lake, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",31957,33678,33059,33678,33834,34541,35826,35972,34927,34282,35163,36565,37347,39941,41016,(D),42241
+ "49035","Salt Lake, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",87684,89008,90066,91148,92081,93034,94144,95378,96339,97435,99347,101007,102230,104210,105256,107890,109808
+ "49035","Salt Lake, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",8314,8887,9548,9110,9443,9935,10110,10218,10561,11232,10680,10280,10230,10393,11142,11461,11394
+ "49035","Salt Lake, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",5071,5154,5312,4955,5079,5015,4901,4838,4981,4933,4974,4912,4887,4863,4856,4728,4763
+ "49035","Salt Lake, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",74299,74967,75206,77083,77559,78084,79133,80322,80797,81270,83693,85815,87113,88954,89258,91701,93651
+ "49035","Salt Lake, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",38855,38410,38109,39405,39643,40013,40806,40772,40417,40876,42231,43575,44375,45372,46003,47402,48378
+ "49035","Salt Lake, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",35444,36557,37097,37678,37916,38071,38327,39550,40380,40394,41462,42240,42738,43582,43255,44299,45273
+ "49037","San Juan, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",5216,5411,5378,5570,5759,5978,6416,6357,6333,6310,6444,6346,6338,6348,6395,6373,6468
+ "49037","San Juan, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",4104,4271,4184,4263,4289,4399,4564,4539,4488,4566,4561,4504,4530,4510,4508,4495,4563
+ "49037","San Juan, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",1112,1140,1194,1307,1470,1579,1852,1818,1845,1744,1883,1842,1808,1838,1887,1878,1905
+ "49037","San Juan, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",235,227,309,394,477,548,690,680,686,693,700,688,697,694,685,684,688
+ "49037","San Juan, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",877,913,885,913,993,1031,1162,1138,1159,1051,1183,1154,1111,1144,1202,1194,1217
+ "49037","San Juan, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",277,260,349,432,515,586,723,714,717,724,728,713,724,719,709,709,718
+ "49037","San Juan, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",4939,5151,5029,5138,5244,5392,5693,5643,5616,5586,5716,5633,5614,5629,5686,5664,5750
+ "49037","San Juan, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",3170,3294,3181,3251,3411,3604,3923,3913,3913,3895,4005,3988,3961,4010,4012,3948,3984
+ "49037","San Juan, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),38,41,38,42,42,48,57,56
+ "49037","San Juan, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),196,219,180,(D),(D),375,323,356,419,458,572,506,464,429,351,300
+ "49037","San Juan, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",12,12,14,17,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49037","San Juan, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",300,304,295,317,345,369,428,388,327,370,340,316,318,307,311,288,311
+ "49037","San Juan, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",197,197,124,133,184,162,126,148,211,152,132,140,209,169,143,140,143
+ "49037","San Juan, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",88,76,76,83,(D),(D),(D),(D),(D),(D),(D),75,69,(D),(D),(D),(D)
+ "49037","San Juan, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",547,477,431,460,440,439,435,457,448,404,412,385,401,399,403,409,408
+ "49037","San Juan, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",120,103,94,87,111,109,118,102,115,86,83,(D),(D),81,65,(D),(D)
+ "49037","San Juan, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",(D),21,24,21,20,20,19,18,19,(D),(D),(D),(D),(D),(D),(D),(D)
+ "49037","San Juan, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),91,96,(D),114,96,96,110,107,114,128,117,105,110,111,112,116
+ "49037","San Juan, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),70,73,(D),106,101,116,116,107,(D),(D),(D),105,126,134,129,133
+ "49037","San Juan, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),120,(D),119,(D)
+ "49037","San Juan, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",1,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0,0,(D)
+ "49037","San Juan, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",64,75,93,99,106,128,153,193,155,190,191,201,97,94,90,108,108
+ "49037","San Juan, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),113,129,130,150,(D),(D),(D),(D),(D),131,162,174,194,194
+ "49037","San Juan, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),392,415,484,515,(D),(D),(D),(D),(D),812,821,843,809,826
+ "49037","San Juan, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),(D),(D),(D),(D),(D),72,98,81,80,(D),(D),(D),(D),(D),(D)
+ "49037","San Juan, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),755,690,622,639,(D),(D),(D),(D),(D),(D)
+ "49037","San Juan, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",282,309,296,291,290,295,311,316,301,295,303,292,(D),311,284,(D),(D)
+ "49037","San Juan, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1769,1857,1848,1887,1833,1788,1770,1730,1703,1691,1711,1645,1653,1619,1674,1716,1766
+ "49037","San Juan, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",176,182,183,185,180,165,154,154,166,181,162,168,159,158,162,165,158
+ "49037","San Juan, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",69,69,70,67,68,66,63,64,65,65,67,65,64,63,63,61,60
+ "49037","San Juan, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",1524,1606,1595,1635,1585,1557,1553,1512,1472,1445,1482,1412,1430,1398,1449,1490,1548
+ "49037","San Juan, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",347,345,344,379,383,402,405,392,385,368,371,372,361,352,356,359,367
+ "49037","San Juan, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",1177,1261,1251,1256,1202,1155,1148,1120,1087,1077,1111,1040,1069,1046,1093,1131,1181
+ "49039","Sanpete, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",10301,10171,10152,10363,10797,11190,11788,12083,11703,11308,11349,11422,11361,11598,11933,12240,12514
+ "49039","Sanpete, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",7366,7276,7196,7285,7481,7581,7841,8013,7521,7149,7184,7472,7374,7435,7692,8011,8208
+ "49039","Sanpete, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",2935,2895,2956,3078,3316,3609,3947,4070,4182,4159,4165,3950,3987,4163,4241,4229,4306
+ "49039","Sanpete, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",777,758,715,704,699,684,756,758,770,786,803,800,821,818,831,829,834
+ "49039","Sanpete, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",2158,2137,2241,2374,2617,2925,3191,3312,3412,3373,3362,3150,3166,3345,3410,3400,3472
+ "49039","Sanpete, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1089,1024,1040,1012,1013,1004,1037,1039,1026,1038,1025,1007,1042,1025,1032,1041,1089
+ "49039","Sanpete, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",9212,9147,9112,9351,9784,10186,10751,11044,10677,10270,10324,10415,10319,10573,10901,11199,11425
+ "49039","Sanpete, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",6683,6635,6626,6808,7206,7623,8162,8395,8017,7606,7633,7686,7702,7936,8216,8408,8585
+ "49039","Sanpete, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),153,150,138,153,166,188,192,173,173,181
+ "49039","Sanpete, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),135,108,84,89,123,110,94,90,109,113
+ "49039","Sanpete, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),14,12,14,16,18,17,15,(D)
+ "49039","Sanpete, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",789,753,706,729,767,863,903,822,736,682,618,648,634,634,709,764,765
+ "49039","Sanpete, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",990,1007,946,915,978,942,1000,956,781,692,729,827,866,883,975,1031,1081
+ "49039","Sanpete, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),116,127,133,(D),(D),(D),(D),(D),141,145,141,144,188,179,138,(D)
+ "49039","Sanpete, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1261,1303,1258,1245,1217,1249,1344,1457,1405,1240,1187,1206,1167,1236,1263,1269,1304
+ "49039","Sanpete, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",232,(D),(D),(D),261,306,321,247,262,241,246,283,279,255,274,250,241
+ "49039","Sanpete, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",199,182,180,199,212,229,222,218,212,213,206,209,215,220,228,219,226
+ "49039","Sanpete, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",329,310,316,305,311,371,437,445,476,445,470,465,444,420,449,435,444
+ "49039","Sanpete, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",234,233,256,340,446,587,715,792,819,880,762,486,490,498,487,544,561
+ "49039","Sanpete, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",293,310,353,353,341,326,325,357,(D),(D),(D),(D),(D),(D),334,(D),(D)
+ "49039","Sanpete, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),51,(D),(D)
+ "49039","Sanpete, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),226,220,230,215,214,274,293,303,276
+ "49039","Sanpete, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),303,341,371,366,377,404,400
+ "49039","Sanpete, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),779,810,865,835,817,804,824
+ "49039","Sanpete, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",99,107,118,121,109,118,142,158,166,161,167,163,161,183,166,168,178
+ "49039","Sanpete, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",524,507,530,567,514,530,532,507,522,507,551,589,546,567,571,603,664
+ "49039","Sanpete, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",544,576,580,604,646,651,650,684,699,648,666,673,665,722,763,778,774
+ "49039","Sanpete, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2529,2512,2486,2543,2578,2563,2589,2649,2660,2664,2691,2729,2617,2637,2685,2791,2840
+ "49039","Sanpete, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",79,81,77,85,85,78,76,79,84,95,82,82,77,74,76,87,85
+ "49039","Sanpete, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",114,114,118,113,115,113,110,111,115,114,118,115,111,110,110,107,109
+ "49039","Sanpete, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",2336,2317,2291,2345,2378,2372,2403,2459,2461,2455,2491,2532,2429,2453,2499,2597,2646
+ "49039","Sanpete, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",1018,991,961,999,1006,1006,1007,998,967,978,1052,1088,1007,971,983,1031,1041
+ "49039","Sanpete, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",1318,1326,1330,1346,1372,1366,1396,1461,1494,1477,1439,1444,1422,1482,1516,1566,1605
+ "49041","Sevier, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",10038,10182,10174,10634,10647,10919,11412,11499,11191,11206,11366,11591,11506,11634,11925,12008,12339
+ "49041","Sevier, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",7566,7684,7709,8078,7971,8246,8489,8598,8258,8269,8329,8475,8417,8520,8740,8825,9090
+ "49041","Sevier, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",2472,2498,2465,2556,2676,2673,2923,2901,2933,2937,3037,3116,3089,3114,3185,3183,3249
+ "49041","Sevier, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",568,561,542,533,532,521,575,576,585,596,609,601,612,608,606,606,609
+ "49041","Sevier, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",1904,1937,1923,2023,2144,2152,2348,2325,2348,2341,2428,2515,2477,2506,2579,2577,2640
+ "49041","Sevier, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",729,703,707,680,673,655,684,692,699,717,725,721,740,728,723,730,758
+ "49041","Sevier, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",9309,9479,9467,9954,9974,10264,10728,10807,10492,10489,10641,10870,10766,10906,11202,11278,11581
+ "49041","Sevier, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",7665,7793,7762,8242,8278,8535,8995,9072,8756,8740,8864,9111,9033,9179,9485,9548,9832
+ "49041","Sevier, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),60,69,(D),(D),(D),79,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49041","Sevier, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",360,412,413,420,445,511,543,588,603,613,641,674,619,660,664,701,705
+ "49041","Sevier, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49041","Sevier, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",614,576,569,621,576,585,636,637,587,523,483,485,513,490,501,525,561
+ "49041","Sevier, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",652,592,573,523,523,522,552,487,416,437,447,457,451,463,481,513,548
+ "49041","Sevier, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49041","Sevier, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1394,1378,1382,1625,1549,1596,1674,1755,1743,1660,1633,1604,1598,1669,1718,1678,1672
+ "49041","Sevier, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",854,939,974,1031,1086,1089,1109,1052,1013,1058,1136,1212,1206,1129,1167,1147,1191
+ "49041","Sevier, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",81,85,83,101,94,93,97,94,86,86,89,78,73,71,70,59,60
+ "49041","Sevier, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",236,261,261,253,249,255,302,325,371,363,347,382,395,369,370,376,385
+ "49041","Sevier, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",252,257,239,283,295,327,374,371,372,416,410,406,402,422,433,432,445
+ "49041","Sevier, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",258,(D),280,311,318,353,403,455,375,308,327,330,332,358,360,359,375
+ "49041","Sevier, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",88,(D),(D),(D),(D),(D),23,44,21,38,(D),(D),28,29,44,49,50
+ "49041","Sevier, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",202,236,(D),(D),(D),(D),252,261,248,268,(D),(D),229,262,280,314,317
+ "49041","Sevier, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),61,(D),(D),(D),(D)
+ "49041","Sevier, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),1100,(D),(D),(D),(D)
+ "49041","Sevier, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",82,49,56,54,64,78,77,84,87,87,84,78,74,84,84,88,90
+ "49041","Sevier, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",813,874,856,928,937,944,958,962,904,907,906,917,880,920,973,932,982
+ "49041","Sevier, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",600,588,595,598,590,604,633,624,627,599,607,637,638,622,658,668,676
+ "49041","Sevier, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1644,1686,1705,1712,1696,1729,1733,1735,1736,1749,1777,1759,1733,1727,1717,1730,1749
+ "49041","Sevier, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",203,215,215,227,225,215,212,204,206,210,204,197,192,195,188,181,181
+ "49041","Sevier, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",97,97,99,96,97,96,91,91,93,92,95,91,89,88,87,84,85
+ "49041","Sevier, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",1344,1374,1391,1389,1374,1418,1430,1440,1437,1447,1478,1471,1452,1444,1442,1465,1483
+ "49041","Sevier, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",338,334,327,332,336,334,336,335,326,326,344,354,332,322,324,331,335
+ "49041","Sevier, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",1006,1040,1064,1057,1038,1084,1094,1105,1111,1121,1134,1117,1120,1122,1118,1134,1148
+ "49043","Summit, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",24261,24906,25392,26922,29375,31665,33910,34765,33294,33294,34879,35903,36816,38464,40327,41416,42187
+ "49043","Summit, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",16967,17312,17624,18742,20307,22155,23347,24012,22077,21945,23069,23884,24576,25739,26719,27813,28241
+ "49043","Summit, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",7294,7594,7768,8180,9068,9510,10563,10753,11217,11349,11810,12019,12240,12725,13608,13603,13946
+ "49043","Summit, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",559,558,522,507,497,480,524,522,526,532,541,537,552,550,560,560,563
+ "49043","Summit, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",6735,7036,7246,7673,8571,9030,10039,10231,10691,10817,11269,11482,11688,12175,13048,13043,13383
+ "49043","Summit, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",631,607,595,588,593,591,633,632,628,633,632,623,644,636,644,649,670
+ "49043","Summit, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",23630,24299,24797,26334,28782,31074,33277,34133,32666,32661,34247,35280,36172,37828,39683,40767,41517
+ "49043","Summit, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",21413,22029,22476,23968,26347,28554,30714,31459,29938,29959,31499,32547,33418,34978,36760,37777,38476
+ "49043","Summit, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",92,106,92,114,114,102,100,126,126,141,145,(D),157,168,170,(D),108
+ "49043","Summit, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",142,147,147,122,157,191,272,290,273,243,198,335,335,336,369,(D),385
+ "49043","Summit, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",53,53,60,59,57,59,60,57,60,59,55,53,52,50,53,63,71
+ "49043","Summit, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",2173,2114,1924,2122,2355,2861,3349,3050,2336,1959,1638,1662,1772,1960,2213,2214,2354
+ "49043","Summit, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",673,666,610,682,706,729,777,789,819,833,957,1018,986,987,1020,1023,1065
+ "49043","Summit, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",228,230,270,318,341,348,336,364,366,377,390,403,424,557,546,402,503
+ "49043","Summit, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2819,2913,2949,3040,3475,3769,3893,3919,3674,3739,3852,3908,4034,4130,4206,4262,4128
+ "49043","Summit, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",245,275,281,295,345,387,452,490,467,469,496,521,579,603,687,743,697
+ "49043","Summit, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",356,326,342,395,397,417,441,391,375,366,397,(D),472,495,488,(D),506
+ "49043","Summit, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1072,1103,1083,1074,1243,1209,1634,1832,2033,1976,2199,2250,2168,2183,2535,2474,2596
+ "49043","Summit, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",2322,2357,2460,2793,3420,3734,4036,4054,3891,4066,4311,4285,4479,4576,4741,4758,4794
+ "49043","Summit, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",1645,1616,1668,1811,1970,2048,2178,2157,2182,2221,2346,2492,2689,2847,3111,3216,3303
+ "49043","Summit, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",209,209,193,225,237,248,287,392,378,311,310,352,325,418,573,706,744
+ "49043","Summit, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",796,858,832,922,1001,1123,1180,1233,1177,1140,1162,1167,1219,1309,1317,1405,1376
+ "49043","Summit, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",378,454,510,536,543,599,542,613,605,617,641,696,668,785,868,814,704
+ "49043","Summit, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",713,707,754,794,833,866,938,972,1013,1181,1239,1342,1430,1565,1682,1818,1901
+ "49043","Summit, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",2591,2746,2868,3061,3183,3523,3789,3298,3280,3439,3644,3816,3935,4091,4035,4389,4428
+ "49043","Summit, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",3634,3660,3964,4122,4352,4645,4811,5783,5221,5082,5745,5874,5856,5958,6172,6449,6724
+ "49043","Summit, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1272,1489,1469,1483,1618,1696,1639,1649,1662,1740,1774,1824,1838,1960,1974,(D),2089
+ "49043","Summit, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2217,2270,2321,2366,2435,2520,2563,2674,2728,2702,2748,2733,2754,2850,2923,2990,3041
+ "49043","Summit, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",93,90,81,81,82,76,71,71,74,91,63,61,56,57,55,56,55
+ "49043","Summit, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",237,237,247,235,246,248,247,240,246,238,243,206,167,167,167,163,165
+ "49043","Summit, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",1887,1943,1993,2050,2107,2196,2245,2363,2408,2373,2442,2466,2531,2626,2701,2771,2821
+ "49043","Summit, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",167,159,159,162,165,167,167,169,167,161,160,160,161,162,163,163,166
+ "49043","Summit, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",1720,1784,1834,1888,1942,2029,2078,2194,2241,2212,2282,2306,2370,2464,2538,2608,2655
+ "49045","Tooele, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",16070,16460,17009,17259,19332,20257,21392,21434,21296,21319,21786,21543,21295,21148,21258,22320,22924
+ "49045","Tooele, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",12414,12629,13115,13333,14898,15721,16401,16416,16336,16562,16954,16847,16428,15951,15946,16847,17330
+ "49045","Tooele, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",3656,3831,3894,3926,4434,4536,4991,5018,4960,4757,4832,4696,4867,5197,5312,5473,5594
+ "49045","Tooele, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",382,376,352,337,328,314,340,350,368,388,409,421,431,429,432,431,434
+ "49045","Tooele, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",3274,3455,3542,3589,4106,4222,4651,4668,4592,4369,4423,4275,4436,4768,4880,5042,5160
+ "49045","Tooele, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",490,471,467,444,436,422,434,452,471,500,520,538,556,546,546,551,578
+ "49045","Tooele, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",15580,15989,16542,16815,18896,19835,20958,20982,20825,20819,21266,21005,20739,20602,20712,21769,22346
+ "49045","Tooele, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",11916,12205,12500,12638,14607,15411,16507,16415,16012,15999,16397,16248,16383,16459,16589,17560,18058
+ "49045","Tooele, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49045","Tooele, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",73,73,57,54,59,(D),(D),(D),107,151,141,188,173,177,187,181,179
+ "49045","Tooele, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),32,(D),28,30,37,47
+ "49045","Tooele, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",964,921,899,943,1149,1214,1394,1167,960,971,1057,1085,1143,1233,1086,1152,1255
+ "49045","Tooele, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",1575,1465,1446,1455,1610,1620,1696,1776,1598,1568,1797,1851,1817,1780,1886,1823,1614
+ "49045","Tooele, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),211,(D),244,291,245,249
+ "49045","Tooele, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1934,2031,2053,2044,2122,2250,2340,2373,2362,2178,2207,2298,2357,2345,2336,2472,2466
+ "49045","Tooele, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",247,238,210,240,1104,1378,1355,1249,1191,1104,1037,1087,1130,1205,1355,1652,1816
+ "49045","Tooele, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",226,244,237,254,272,285,292,296,292,270,278,(D),194,207,204,(D),505
+ "49045","Tooele, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",471,594,584,534,551,556,633,669,662,647,687,611,649,665,653,700,735
+ "49045","Tooele, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",436,448,520,555,678,756,847,822,849,795,806,766,814,840,869,(D),915
+ "49045","Tooele, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),848,899,939,1051,1051,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49045","Tooele, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),19,25,26,1,37,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49045","Tooele, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1656,1641,1786,1842,1967,1995,2118,2188,2204,2348,2299,1956,1822,1528,1496,1691,1634
+ "49045","Tooele, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),88,(D),121,132,158,197,276,275,282,303,324,292,408,446
+ "49045","Tooele, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),1151,(D),1243,1345,1428,1466,1509,1515,1535,1488,1515,1536,1596,1696
+ "49045","Tooele, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",149,(D),143,171,234,297,393,403,432,457,442,451,499,509,503,458,464
+ "49045","Tooele, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1026,(D),1221,1114,1196,1257,1261,1156,1075,1136,1195,1261,1346,1364,1394,1436,1460
+ "49045","Tooele, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1008,1079,1098,1118,1150,1165,1277,1255,1291,1223,1279,(D),1326,1425,1429,1495,1501
+ "49045","Tooele, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",3664,3784,4042,4177,4289,4424,4451,4567,4813,4820,4869,4757,4356,4143,4123,4209,4288
+ "49045","Tooele, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",1675,1761,1884,1919,1882,1850,1767,1723,1880,1818,1814,1637,1416,1293,1256,1258,1229
+ "49045","Tooele, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",296,282,292,291,308,303,278,277,290,315,348,397,390,329,297,291,299
+ "49045","Tooele, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",1693,1741,1866,1967,2099,2271,2406,2567,2643,2687,2707,2723,2550,2521,2570,2660,2760
+ "49045","Tooele, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",177,186,184,189,192,192,191,192,192,187,186,188,187,188,192,195,200
+ "49045","Tooele, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",1516,1555,1682,1778,1907,2079,2215,2375,2451,2500,2521,2535,2363,2333,2378,2465,2560
+ "49047","Uintah, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",14035,13868,14138,14756,15845,17475,18972,20033,18149,18017,18921,20039,19720,20242,19282,17402,17755
+ "49047","Uintah, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",10552,10631,10904,11542,12399,13956,15038,16027,14203,14086,14913,15713,15369,15897,14730,13038,13293
+ "49047","Uintah, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",3483,3237,3234,3214,3446,3519,3934,4006,3946,3931,4008,4326,4351,4345,4552,4364,4462
+ "49047","Uintah, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",932,908,869,839,824,793,862,894,943,995,1052,1081,1102,1096,1096,1095,1101
+ "49047","Uintah, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",2551,2329,2365,2375,2622,2726,3072,3112,3003,2936,2956,3245,3249,3249,3456,3269,3361
+ "49047","Uintah, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1018,975,961,936,933,914,977,1019,1068,1130,1183,1218,1248,1233,1229,1235,1269
+ "49047","Uintah, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",13017,12893,13177,13820,14912,16561,17995,19014,17081,16887,17738,18821,18472,19009,18053,16167,16486
+ "49047","Uintah, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",10376,10176,10457,11134,12220,13818,15315,16236,14179,13916,14739,15800,15413,15843,14827,12968,13293
+ "49047","Uintah, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",89,96,74,88,88,81,102,86,93,90,105,89,79,81,74,83,80
+ "49047","Uintah, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",1929,1841,2031,2259,2643,3418,3797,4062,3091,3184,3418,3743,3582,3666,2952,2104,2243
+ "49047","Uintah, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",140,140,137,137,139,140,153,153,150,149,146,143,144,143,146,148,222
+ "49047","Uintah, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",838,781,810,874,1034,1173,1522,1580,1152,1127,1145,1354,1189,1325,1273,1007,1101
+ "49047","Uintah, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",234,262,247,237,239,294,326,311,263,238,266,273,267,254,258,215,243
+ "49047","Uintah, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",398,407,411,462,507,575,675,755,683,634,675,743,734,751,642,492,468
+ "49047","Uintah, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1697,1660,1663,1630,1738,1820,1954,2108,2005,1805,1862,1926,1947,1994,2089,2017,1985
+ "49047","Uintah, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",488,493,470,571,641,873,975,1137,945,936,1051,1113,1045,1117,958,775,849
+ "49047","Uintah, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",(D),134,150,149,160,178,(D),(D),168,156,154,151,169,192,177,170,163
+ "49047","Uintah, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",352,339,362,353,403,398,443,462,467,379,356,421,376,344,381,331,332
+ "49047","Uintah, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",419,396,409,503,635,756,834,933,831,890,955,1034,1046,1069,999,883,914
+ "49047","Uintah, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),492,546,597,540,565,586,648,617,592,534,484,474
+ "49047","Uintah, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),39,40
+ "49047","Uintah, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",378,365,422,(D),468,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),341,321
+ "49047","Uintah, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",130,142,107,105,97,85,83,88,103,100,97,101,139,158,220,269,264
+ "49047","Uintah, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",801,867,885,912,941,976,994,1023,1075,1083,1128,1088,1048,1052,1096,1104,1115
+ "49047","Uintah, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",199,158,148,131,154,139,142,108,106,117,105,108,114,116,117,135,132
+ "49047","Uintah, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",864,862,882,915,908,922,987,1087,1001,982,1080,1211,1233,1242,1262,1233,1203
+ "49047","Uintah, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",828,808,855,908,954,1011,1077,1120,1083,1047,1121,1177,1216,1322,1249,1138,1144
+ "49047","Uintah, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2641,2717,2720,2686,2692,2743,2680,2778,2902,2971,2999,3021,3059,3166,3226,3199,3193
+ "49047","Uintah, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",406,432,434,444,422,414,398,405,421,428,400,380,362,356,355,388,394
+ "49047","Uintah, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",134,136,139,134,139,140,136,139,150,144,152,154,155,157,159,146,141
+ "49047","Uintah, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",2101,2149,2147,2108,2131,2189,2146,2234,2331,2399,2447,2487,2542,2653,2712,2665,2658
+ "49047","Uintah, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",134,134,131,134,136,145,151,150,149,145,145,145,145,146,145,144,145
+ "49047","Uintah, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",1967,2015,2016,1974,1995,2044,1995,2084,2182,2254,2302,2342,2397,2507,2567,2521,2513
+ "49049","Utah, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",203339,204399,207311,218323,231595,246089,263056,263405,257154,255010,264693,273616,284895,296484,312049,329690,343008
+ "49049","Utah, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",159076,157844,158581,166002,174504,184695,194128,191969,182014,181016,187325,196111,205074,214181,226974,239556,250738
+ "49049","Utah, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",44263,46555,48730,52321,57091,61394,68928,71436,75140,73994,77368,77505,79821,82303,85075,90134,92270
+ "49049","Utah, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",2070,2037,1938,1865,1822,1752,1897,1928,1994,2066,2145,2170,2219,2210,2226,2227,2237
+ "49049","Utah, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",42193,44518,46792,50456,55269,59642,67031,69508,73146,71928,75223,75335,77602,80093,82849,87907,90033
+ "49049","Utah, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",2701,2538,2618,2573,2615,2623,2726,2783,2807,2900,2919,2932,3031,2973,2968,3012,3180
+ "49049","Utah, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",200638,201861,204693,215750,228980,243466,260330,260622,254347,252110,261774,270684,281864,293511,309081,326678,339828
+ "49049","Utah, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",177110,177442,179951,190151,202696,216761,233034,232498,225376,222522,231454,239762,251050,262547,277738,294545,307083
+ "49049","Utah, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",435,413,385,408,426,453,474,486,501,530,550,541,526,582,537,576,563
+ "49049","Utah, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",226,200,213,219,259,265,366,481,564,702,615,1049,968,917,965,(D),1094
+ "49049","Utah, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",253,260,266,290,280,319,342,369,344,326,322,327,323,346,381,624,773
+ "49049","Utah, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",15036,14915,14964,16217,18571,21729,24260,20317,16060,14609,15302,17248,19767,21296,23529,26552,28315
+ "49049","Utah, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",20545,18077,17417,17987,18404,19634,20659,20197,18095,17282,17614,18345,19454,19731,19637,19769,20647
+ "49049","Utah, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",4938,4610,4538,5048,5937,6211,(D),6504,6282,5932,6065,6346,6776,8041,8643,7684,7969
+ "49049","Utah, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",24074,24645,24954,25410,27076,29312,30988,31175,30244,28913,30147,30771,32481,34258,37193,39252,41160
+ "49049","Utah, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",2378,2485,2370,2450,2529,2803,2923,2822,2815,2985,3264,3346,3348,3551,4099,4635,4923
+ "49049","Utah, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",8373,7594,8138,8782,9912,9808,9889,9923,9512,9640,9819,10395,11215,11947,13035,14334,14514
+ "49049","Utah, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",9239,9651,10059,10539,10692,11171,13684,15304,17490,16084,16878,16524,16846,15878,16542,17246,18333
+ "49049","Utah, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",8051,8304,9063,10080,11808,12937,14839,14700,14507,15102,15581,15375,16162,16678,17454,18477,19139
+ "49049","Utah, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",14441,14483,15034,16051,16681,17534,19175,19897,20182,20379,21424,22387,23945,25922,27750,28820,30259
+ "49049","Utah, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",1735,1793,1637,1919,2155,2355,2476,3574,3476,2965,3119,3119,3072,3459,3742,5487,5614
+ "49049","Utah, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",10658,10682,10861,12438,12943,14092,14515,14135,12826,13268,14288,15008,15133,15377,16067,17357,17984
+ "49049","Utah, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",15824,16917,16440,16823,18056,19523,20748,20183,20154,20425,20580,20920,20585,21070,21412,22148,22925
+ "49049","Utah, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",15369,16001,16857,17617,18255,19008,20320,21101,21534,22277,23254,24030,25368,26023,27502,28908,29911
+ "49049","Utah, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",4320,3875,3938,4247,4529,4566,4765,4961,4951,5108,5500,5765,5619,5837,6264,6756,6930
+ "49049","Utah, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",10443,10982,11049,11436,11803,12147,12777,13079,12593,12895,13380,14029,15011,16034,17019,18038,18763
+ "49049","Utah, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",10772,11555,11768,12190,12380,12894,(D),13290,13246,13100,13752,14237,14451,15600,15967,(D),17267
+ "49049","Utah, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",23528,24419,24742,25599,26284,26705,27296,28124,28971,29588,30320,30922,30814,30964,31343,32133,32745
+ "49049","Utah, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",1081,1108,1073,1032,1019,1011,998,1005,1044,1179,971,950,918,905,921,973,1015
+ "49049","Utah, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",1987,2022,2103,2056,2147,2165,2122,2159,2271,2287,2395,2371,2362,2366,2386,2360,2408
+ "49049","Utah, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",20460,21289,21566,22511,23118,23529,24176,24960,25656,26122,26954,27601,27534,27693,28036,28800,29322
+ "49049","Utah, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",5961,6093,6031,6485,6775,6882,7031,6988,7131,7508,8090,8507,8325,8001,8113,8286,8495
+ "49049","Utah, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",14499,15196,15535,16026,16343,16647,17145,17972,18525,18614,18864,19094,19209,19692,19923,20514,20827
+ "49051","Wasatch, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",7861,8133,8336,8908,9508,10425,11437,11527,10932,10973,11393,11850,12607,13438,14265,15472,16207
+ "49051","Wasatch, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",5076,5238,5371,5682,6001,6655,7109,7025,6367,6305,6481,6791,7291,7839,8321,8806,9379
+ "49051","Wasatch, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",2785,2895,2965,3226,3507,3770,4328,4502,4565,4668,4912,5059,5316,5599,5944,6666,6828
+ "49051","Wasatch, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",386,388,373,366,362,353,386,386,389,394,400,394,405,403,411,411,413
+ "49051","Wasatch, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",2399,2507,2592,2860,3145,3417,3942,4116,4176,4274,4512,4665,4911,5196,5533,6255,6415
+ "49051","Wasatch, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",421,414,408,402,402,398,428,434,439,451,457,455,470,464,470,473,488
+ "49051","Wasatch, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",7440,7719,7928,8506,9106,10027,11009,11093,10493,10522,10936,11395,12137,12974,13795,14999,15719
+ "49051","Wasatch, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",6334,6577,6753,7346,7912,8798,9725,9780,9170,9199,9577,10024,10740,11470,12228,13379,13985
+ "49051","Wasatch, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49051","Wasatch, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),107,107,105,92,134,126,128,(D),(D),(D),148,(D)
+ "49051","Wasatch, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),24,27,27,(D),(D),(D),32,(D),(D),(D),(D),31,16,11,24,33
+ "49051","Wasatch, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",973,973,982,1117,1325,1579,1683,1476,1115,1051,1065,1118,1260,1394,1564,1637,1663
+ "49051","Wasatch, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",279,312,316,329,342,315,330,304,314,295,324,327,377,401,435,457,531
+ "49051","Wasatch, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),105,105,126,(D),(D),206,198,200,182,169,177,197,253,274,235,251
+ "49051","Wasatch, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",830,854,872,950,916,1015,1147,1137,1058,1034,1213,1327,1375,1372,1455,1584,1713
+ "49051","Wasatch, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",175,178,173,170,180,(D),(D),162,(D),(D),(D),(D),197,201,223,257,280
+ "49051","Wasatch, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",88,105,106,111,152,181,158,155,154,159,170,143,171,166,152,178,188
+ "49051","Wasatch, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",379,381,425,421,435,480,576,634,682,673,699,735,741,684,738,869,909
+ "49051","Wasatch, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",453,513,548,630,700,804,958,974,967,1032,1054,1040,1134,1254,1332,1448,1485
+ "49051","Wasatch, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",422,460,460,520,575,652,774,781,731,(D),(D),(D),790,939,1115,1162,1184
+ "49051","Wasatch, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",105,114,96,73,(D),(D),100,(D),(D),(D),(D),(D),201,266,(D),(D),538
+ "49051","Wasatch, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",196,208,294,424,(D),(D),397,(D),(D),509,543,654,707,751,(D),808,793
+ "49051","Wasatch, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",72,64,72,80,122,111,122,111,142,160,182,202,232,274,278,291,293
+ "49051","Wasatch, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",535,525,549,563,552,613,617,641,628,656,674,713,766,788,902,1023,1072
+ "49051","Wasatch, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",121,137,147,205,218,236,261,290,333,322,321,370,397,407,420,460,547
+ "49051","Wasatch, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1010,992,943,923,1001,1185,1362,1387,1173,1127,1105,1054,1105,1192,1202,1235,1271
+ "49051","Wasatch, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",481,520,544,577,578,611,660,706,719,709,764,818,810,894,899,971,994
+ "49051","Wasatch, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1106,1142,1175,1160,1194,1229,1284,1313,1323,1323,1359,1371,1397,1504,1567,1620,1734
+ "49051","Wasatch, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",71,75,74,70,69,69,59,56,57,62,49,47,46,43,50,48,54
+ "49051","Wasatch, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",84,87,93,91,97,101,97,98,104,105,111,112,115,119,123,123,128
+ "49051","Wasatch, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",951,980,1008,999,1028,1059,1128,1159,1162,1156,1199,1212,1236,1342,1394,1449,1552
+ "49051","Wasatch, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",163,(D),164,190,208,206,211,205,203,204,205,204,201,204,206,232,239
+ "49051","Wasatch, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",788,(D),844,809,820,853,917,954,959,952,994,1008,1035,1138,1188,1217,1313
+ "49053","Washington, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",50066,52665,55712,61676,67944,73427,77265,75466,71644,70275,72101,74752,77948,82089,85582,90752,94227
+ "49053","Washington, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",37394,39297,41202,45174,49547,54027,56020,53915,49403,48194,48917,51417,53938,57122,59648,63675,66492
+ "49053","Washington, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",12672,13368,14510,16502,18397,19400,21245,21551,22241,22081,23184,23335,24010,24967,25934,27077,27735
+ "49053","Washington, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",499,497,467,461,455,445,489,491,495,501,508,503,521,519,538,537,540
+ "49053","Washington, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",12173,12871,14043,16041,17942,18955,20756,21060,21746,21580,22676,22832,23489,24448,25396,26540,27195
+ "49053","Washington, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",566,557,538,526,519,508,542,548,551,561,566,564,586,580,597,599,615
+ "49053","Washington, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",49500,52108,55174,61150,67425,72919,76723,74918,71093,69714,71535,74188,77362,81509,84985,90153,93612
+ "49053","Washington, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",44213,46569,49486,55196,61109,66275,69759,67558,63510,61968,63622,66060,69095,72875,76241,81209,84527
+ "49053","Washington, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),138,139,(D),(D),(D),(D),(D)
+ "49053","Washington, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),445,417,346,330,370,497,461,501,501,603,635
+ "49053","Washington, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",67,67,74,83,95,94,102,112,112,119,122,126,134,132,158,215,274
+ "49053","Washington, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",5702,5841,6461,7741,9505,10693,10799,8408,5812,5142,4956,5285,5930,6551,6844,7799,8504
+ "49053","Washington, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",2667,2644,2783,3139,3456,3651,3729,3476,2855,2613,2761,2996,3164,3295,3663,3880,4216
+ "49053","Washington, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",850,904,1020,1130,1326,1437,1477,1493,1396,1344,1397,1587,1693,1747,1847,1754,1701
+ "49053","Washington, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",7673,8041,8338,8708,9171,9834,10279,10076,9591,9004,9288,9568,9840,10447,10817,11631,11883
+ "49053","Washington, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",2580,2698,2779,2844,3166,3384,3356,3306,3248,3138,3362,3369,3330,3768,3972,4298,4530
+ "49053","Washington, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",(D),872,1049,1055,1183,1137,(D),(D),(D),(D),1020,1022,1030,1082,1078,(D),1306
+ "49053","Washington, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",2476,2589,2701,2962,3269,3577,4232,4737,5081,4643,5000,4748,4759,4471,4647,4840,5155
+ "49053","Washington, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",2721,2876,3315,3841,4802,5193,5689,5560,5472,5692,5903,5856,6177,6599,6640,6788,7010
+ "49053","Washington, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",2106,2471,2679,2925,3279,3495,3971,3908,3611,3576,3614,4113,4256,4435,4875,5180,5395
+ "49053","Washington, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",352,432,288,314,332,354,348,500,473,469,470,417,(D),(D),(D),891,(D)
+ "49053","Washington, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",2045,2132,2185,2677,2900,3175,3432,3305,3274,3363,3304,3418,3525,3640,3671,3952,4029
+ "49053","Washington, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",469,522,468,791,614,643,644,706,911,1103,969,1121,1252,1313,1297,1292,1364
+ "49053","Washington, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",4834,5203,5697,6507,6917,7548,7897,8260,8314,8479,8628,8825,9182,9425,10315,11031,11408
+ "49053","Washington, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",937,1045,1111,1161,1369,1523,1642,1602,1581,1626,1650,1831,1890,1939,1972,2051,2179
+ "49053","Washington, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",4672,4676,4841,5328,5477,6045,6334,6326,6216,6118,6376,6665,7239,7892,8053,8126,8354
+ "49053","Washington, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",2853,3186,3334,3607,3858,4019,(D),4172,4042,4057,4294,4477,4656,5014,5207,(D),5571
+ "49053","Washington, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",5287,5539,5688,5954,6316,6644,6964,7360,7583,7746,7913,8128,8267,8634,8744,8944,9085
+ "49053","Washington, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",478,495,498,491,481,477,485,504,548,615,553,567,564,556,558,573,584
+ "49053","Washington, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",488,509,542,546,597,615,600,603,621,614,644,640,633,641,646,638,659
+ "49053","Washington, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",4321,4535,4648,4917,5238,5552,5879,6253,6414,6517,6716,6921,7070,7437,7540,7733,7842
+ "49053","Washington, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",769,841,832,925,977,1071,1112,1139,1221,1306,1392,1450,1485,1612,1636,1731,1780
+ "49053","Washington, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",3552,3694,3816,3992,4261,4481,4767,5114,5193,5211,5324,5471,5585,5825,5904,6002,6062
+ "49055","Wayne, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",1710,1656,1575,1616,1628,1682,1769,1842,1748,1737,1698,1655,1668,1717,1772,1837,1890
+ "49055","Wayne, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",1178,1128,1048,1073,1078,1133,1155,1179,1130,1129,1006,953,977,1003,1030,1063,1103
+ "49055","Wayne, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",532,528,527,543,550,549,614,663,618,608,692,702,691,714,742,774,787
+ "49055","Wayne, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",181,170,162,160,160,156,173,170,168,166,166,160,165,164,167,167,168
+ "49055","Wayne, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",351,358,365,383,390,393,441,493,450,442,526,542,526,550,575,607,619
+ "49055","Wayne, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",214,196,197,196,200,200,215,213,208,207,203,197,204,201,203,205,214
+ "49055","Wayne, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",1496,1460,1378,1420,1428,1482,1554,1629,1540,1530,1495,1458,1464,1516,1569,1632,1676
+ "49055","Wayne, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",1187,1158,1085,1133,1149,1205,1280,1338,1243,1224,1196,1171,1182,1248,1299,1358,1404
+ "49055","Wayne, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49055","Wayne, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",14,11,12,12,13,14,18,25,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49055","Wayne, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49055","Wayne, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",134,137,134,140,158,181,180,193,164,135,131,145,147,194,195,197,213
+ "49055","Wayne, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",55,(D),(D),32,31,41,45,43,43,35,41,42,(D),34,36,40,45
+ "49055","Wayne, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),28,31,27,16,11,(D),(D),(D),(D),(D)
+ "49055","Wayne, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",149,135,125,133,129,140,141,138,137,121,127,126,123,130,144,153,153
+ "49055","Wayne, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),23,23,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),28,31
+ "49055","Wayne, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",9,5,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "49055","Wayne, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),26,(D),(D)
+ "49055","Wayne, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",22,23,14,26,20,(D),(D),44,26,27,30,45,41,32,51,55,56
+ "49055","Wayne, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),(D),36,(D),(D),(D),(D),50,51,(D),55,60,60
+ "49055","Wayne, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "49055","Wayne, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",14,(D),(D),(D),(D),(D),24,(D),(D),(D),(D),11,13,(D),(D),15,15
+ "49055","Wayne, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),9,7,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),14,11,11
+ "49055","Wayne, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),289,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),143,140,144
+ "49055","Wayne, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),(D),(D),21,21,33,30,27,39,46,39,45,48,53,61,65
+ "49055","Wayne, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),(D),(D),191,189,214,247,245,277,295,307,331,298,292,303,314
+ "49055","Wayne, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",74,74,80,81,78,77,77,80,86,83,102,94,90,99,103,109,110
+ "49055","Wayne, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",309,302,293,287,279,277,274,291,297,306,299,287,282,268,270,274,272
+ "49055","Wayne, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",110,108,101,99,92,92,92,95,101,108,102,92,85,82,82,85,84
+ "49055","Wayne, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",13,13,13,13,13,13,12,12,13,12,13,12,12,12,11,11,11
+ "49055","Wayne, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",186,181,179,175,174,172,170,184,183,186,184,183,185,174,177,178,177
+ "49055","Wayne, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",21,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22
+ "49055","Wayne, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",165,159,157,153,152,150,148,162,161,164,162,161,163,152,155,156,155
+ "49057","Weber, UT",7,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",109886,110389,111187,113516,115750,119615,125287,125428,120454,118654,120203,122056,124434,127319,131280,134721,137158
+ "49057","Weber, UT",7,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",91608,91920,92295,93700,94538,97510,101136,100661,95322,94125,94716,96597,98837,100957,104499,107974,109784
+ "49057","Weber, UT",7,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",18278,18469,18892,19816,21212,22105,24151,24767,25132,24529,25487,25459,25597,26362,26781,26747,27374
+ "49057","Weber, UT",7,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",1065,1045,961,913,875,827,878,897,925,956,991,1001,1022,1017,1024,1022,1028
+ "49057","Weber, UT",7,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",17213,17424,17931,18903,20337,21278,23273,23870,24207,23573,24496,24458,24575,25345,25757,25725,26346
+ "49057","Weber, UT",7,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1272,1211,1162,1101,1065,1018,1043,1065,1082,1114,1134,1140,1170,1156,1159,1165,1200
+ "49057","Weber, UT",7,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",108614,109178,110025,112415,114685,118597,124244,124363,119372,117540,119069,120916,123264,126163,130121,133556,135958
+ "49057","Weber, UT",7,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",88409,87741,88759,91508,93585,97341,102696,102709,97743,95683,97325,99305,102110,105469,109633,112983,115193
+ "49057","Weber, UT",7,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),196,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),333,337,379,359
+ "49057","Weber, UT",7,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",59,51,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),262,236,266,274
+ "49057","Weber, UT",7,CAEMP25N,300,"22","   Utilities","Number of jobs",275,263,257,276,270,269,277,268,247,250,233,238,233,229,252,298,346
+ "49057","Weber, UT",7,CAEMP25N,400,"23","   Construction","Number of jobs",6686,6479,6648,7018,7758,8692,9516,8138,6776,6071,5898,6284,6543,7057,7367,7694,8191
+ "49057","Weber, UT",7,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",14256,12541,12102,12240,12123,12267,12996,13334,12209,12041,12413,12648,13000,13545,14305,15317,15069
+ "49057","Weber, UT",7,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",3013,2928,3041,3035,3171,3374,3808,3746,3548,3581,3690,3609,3777,4055,4178,3826,3871
+ "49057","Weber, UT",7,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",14093,14016,14065,14087,14251,14314,14947,15030,14320,13838,14062,14071,14258,14652,15008,15197,15112
+ "49057","Weber, UT",7,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",2212,2077,2180,2313,2150,2318,2532,2497,2434,2332,2329,2414,2584,2747,2812,2885,2988
+ "49057","Weber, UT",7,CAEMP25N,900,"51","   Information","Number of jobs",2222,(D),1870,1964,1931,1780,1402,1191,1260,1146,1105,1111,1100,1081,1095,1067,1075
+ "49057","Weber, UT",7,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",4937,5175,5484,5515,5630,5766,6286,6976,7282,6813,7313,7237,7077,6862,7528,7767,8138
+ "49057","Weber, UT",7,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",3835,3865,4007,4309,4752,5235,5932,5934,5612,5827,5890,5752,6037,6534,6550,6550,6589
+ "49057","Weber, UT",7,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",4129,4183,4252,4330,4470,4610,5053,5198,5151,5147,5082,5171,5764,6072,6522,6764,7142
+ "49057","Weber, UT",7,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",455,1096,1161,1079,938,999,1032,1129,1050,901,709,696,617,715,714,765,817
+ "49057","Weber, UT",7,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",6445,6495,6577,7425,7677,8186,8572,7908,6673,6743,6874,7417,8270,8408,8435,9243,9430
+ "49057","Weber, UT",7,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),991,1080,1186,1351,1418,1545,1673,1706,1847,1964,1756,1830,2020,2153,2325
+ "49057","Weber, UT",7,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",9912,10266,10564,10811,10904,11755,11970,12476,12540,12688,12940,13157,13420,13678,14243,14433,14493
+ "49057","Weber, UT",7,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",2050,2054,1931,1943,2073,1976,2087,2388,2310,2251,2496,2541,2541,2538,2656,2888,2952
+ "49057","Weber, UT",7,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",6494,6407,6751,6907,6964,7069,7238,7214,7145,6958,6903,7166,7415,7435,7881,7946,8365
+ "49057","Weber, UT",7,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",6359,6623,6635,6862,6936,6992,7165,7249,7176,7009,7079,7249,7139,7436,7494,7545,7657
+ "49057","Weber, UT",7,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",20205,21437,21266,20907,21100,21256,21548,21654,21629,21857,21744,21611,21154,20694,20488,20573,20765
+ "49057","Weber, UT",7,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",6287,7252,6861,6223,6256,6340,6479,6604,6618,6858,6534,6375,6256,6093,5802,5757,5647
+ "49057","Weber, UT",7,CAEMP25N,2002,"...","   Military","Number of jobs",1055,1062,1091,1053,1066,1041,998,1007,1046,1042,1104,1083,1066,1057,1051,1034,1046
+ "49057","Weber, UT",7,CAEMP25N,2010,"...","   State and local","Number of jobs",12863,13123,13314,13631,13778,13875,14071,14043,13965,13957,14106,14153,13832,13544,13635,13782,14072
+ "49057","Weber, UT",7,CAEMP25N,2011,"...","    State government","Number of jobs",4874,4900,5066,5228,5194,5209,5306,5080,4919,4913,5155,5214,4966,4778,4794,4826,4876
+ "49057","Weber, UT",7,CAEMP25N,2012,"...","    Local government","Number of jobs",7989,8223,8248,8403,8584,8666,8765,8963,9046,9044,8951,8939,8866,8766,8841,8956,9196
+"Note: See the included footnote file."
+"CAEMP25N: Total Full-Time and Part-Time Employment by NAICS Industry 1/"
+"Last updated: November 15, 2018-- new statistics for 2017; revised statistics for 2001-2016. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

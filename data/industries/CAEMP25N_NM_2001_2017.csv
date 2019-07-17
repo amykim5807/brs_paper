@@ -1,0 +1,1127 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+ "35000","New Mexico",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",976506,984376,1003002,1027003,1050191,1079132,1103300,1105447,1072062,1059977,1064267,1067211,1075465,1083392,1091873,1092406,1097872
+ "35000","New Mexico",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",792124,801301,812456,828953,844235,867019,876593,879295,845420,836523,836180,839254,846495,852348,860023,861222,862272
+ "35000","New Mexico",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",184382,183075,190546,198050,205956,212113,226707,226152,226642,223454,228087,227957,228970,231044,231850,231184,235600
+ "35000","New Mexico",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",17825,14530,16045,15632,15588,15255,18139,18041,18270,19083,20715,21328,21547,21473,21405,21291,21372
+ "35000","New Mexico",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",166557,168545,174501,182418,190368,196858,208568,208111,208372,204371,207372,206629,207423,209571,210445,209893,214228
+ "35000","New Mexico",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",24378,20859,22838,22619,23272,22829,25761,24712,25238,25631,27322,28262,29208,28262,28866,29641,28633
+ "35000","New Mexico",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",952128,963517,980164,1004384,1026919,1056303,1077539,1080735,1046824,1034346,1036945,1038949,1046257,1055130,1063007,1062765,1069239
+ "35000","New Mexico",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",746987,753811,766557,786842,808203,842035,867676,867481,830703,816910,823130,827038,835402,845778,854438,854243,862954
+ "35000","New Mexico",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",5222,5474,5024,5171,5276,5168,5183,5309,5228,5183,5221,5133,5235,5675,5540,5819,5658
+ "35000","New Mexico",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",20098,18003,19001,19196,21143,23611,24903,28341,24439,27064,28340,34212,36857,38222,36655,31808,33725
+ "35000","New Mexico",6,CAEMP25N,300,"22","   Utilities","Number of jobs",4304,4125,4140,4090,4120,4174,4491,4623,4842,4612,4540,4570,4652,4591,4684,4900,5099
+ "35000","New Mexico",6,CAEMP25N,400,"23","   Construction","Number of jobs",63628,61835,64017,68102,73532,79386,80087,77347,66394,61130,59142,57947,59142,59584,59709,60012,62633
+ "35000","New Mexico",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",45736,43812,41599,40614,41013,42828,42794,40635,36548,34574,35740,35749,35463,34022,34158,33188,33239
+ "35000","New Mexico",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",28304,27401,26889,27554,28629,29396,28971,28701,26622,26905,26490,26475,26688,28856,28502,25379,24946
+ "35000","New Mexico",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",110525,111115,112407,114197,116223,116530,118695,117761,113509,110350,111426,111840,112726,113923,114888,113636,111443
+ "35000","New Mexico",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",24083,24152,24062,24928,25189,25840,27355,26613,24221,23437,24330,25379,25502,25903,27243,26672,27060
+ "35000","New Mexico",6,CAEMP25N,900,"51","   Information","Number of jobs",19576,18656,17965,17253,17362,18444,18878,18962,17490,17130,16501,16473,16059,15725,15588,16001,15339
+ "35000","New Mexico",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",31063,31216,31487,31792,31850,32550,33978,34949,36290,34860,35798,35347,35010,34783,34461,35684,36737
+ "35000","New Mexico",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",29142,29703,31365,33929,37060,39300,41712,41270,39432,39357,39637,38191,38414,39111,39660,39866,40634
+ "35000","New Mexico",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",60246,60441,62977,65956,66867,74292,81930,81964,80219,78395,77519,76128,75919,76116,77542,77751,79601
+ "35000","New Mexico",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",6001,5951,5425,5328,6339,6413,6067,5901,5566,5377,5485,5435,5502,5631,5877,6337,6449
+ "35000","New Mexico",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",53482,54245,53285,54271,55054,58402,60341,60194,55688,54283,54698,53429,54597,54370,52998,53887,55307
+ "35000","New Mexico",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",11941,12741,13947,14850,15570,15910,15763,15985,16358,16812,16277,16152,16426,16736,16965,17026,17020
+ "35000","New Mexico",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",88130,94481,99848,104284,105671,107916,111726,114627,117842,119461,121582,123225,123737,124796,129720,134269,134712
+ "35000","New Mexico",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",19098,20099,20499,21006,21541,21928,22972,23323,23266,23104,23132,23714,23734,24225,24245,24151,24831
+ "35000","New Mexico",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",76427,78006,79711,80409,81349,84336,84946,83799,81398,81144,82292,83194,85494,88296,90192,92521,93037
+ "35000","New Mexico",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",49981,52355,52909,53912,54415,55611,56884,57177,55351,53732,54980,54445,54245,55213,55811,55336,55484
+ "35000","New Mexico",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",205141,209706,213607,217542,218716,214268,209863,213254,216121,217436,213815,211911,210855,209352,208569,208522,206285
+ "35000","New Mexico",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",28796,29997,29842,29804,30084,30541,30328,30748,31960,33728,32600,31631,30400,29452,29188,29385,29288
+ "35000","New Mexico",6,CAEMP25N,2002,"...","   Military","Number of jobs",16845,17181,17405,17426,16258,15764,15118,14277,15252,17136,18057,18178,18350,17518,16923,17159,17348
+ "35000","New Mexico",6,CAEMP25N,2010,"...","   State and local","Number of jobs",159500,162528,166360,170312,172374,167963,164417,168229,168909,166572,163158,162102,162105,162382,162458,161978,159649
+ "35000","New Mexico",6,CAEMP25N,2011,"...","    State government","Number of jobs",65418,65808,67608,68586,69105,63670,59515,60951,61166,60407,58307,57522,57772,58752,58962,58703,57617
+ "35000","New Mexico",6,CAEMP25N,2012,"...","    Local government","Number of jobs",94082,96720,98752,101726,103269,104293,104902,107278,107743,106165,104851,104580,104333,103630,103496,103275,102032
+ "35001","Bernalillo, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",387828,387776,391674,401362,407213,421125,429115,427860,412924,405867,404851,404416,406882,411105,416260,423630,426693
+ "35001","Bernalillo, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",334796,333956,335292,342148,345733,356765,360070,359323,343762,338615,336766,336221,338776,342176,346948,353793,355480
+ "35001","Bernalillo, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",53032,53820,56382,59214,61480,64360,69045,68537,69162,67252,68085,68195,68106,68929,69312,69837,71213
+ "35001","Bernalillo, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",699,583,609,557,525,486,548,588,637,706,807,870,876,874,867,862,865
+ "35001","Bernalillo, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",52333,53237,55773,58657,60955,63874,68497,67949,68525,66546,67278,67325,67230,68055,68445,68975,70348
+ "35001","Bernalillo, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",821,700,732,680,657,613,672,702,762,828,936,1011,1032,1012,1019,1032,1013
+ "35001","Bernalillo, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",387007,387076,390942,400682,406556,420512,428443,427158,412162,405039,403915,403405,405850,410093,415241,422598,425680
+ "35001","Bernalillo, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",321167,320233,323008,331095,337308,350066,357792,354068,338078,330044,329095,329648,332328,337131,341788,347860,351124
+ "35001","Bernalillo, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",185,235,212,221,228,228,259,286,281,317,284,283,279,291,292,297,298
+ "35001","Bernalillo, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",789,884,1034,753,782,821,899,1268,1238,1458,1219,1624,1668,1557,1610,1704,1794
+ "35001","Bernalillo, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",745,555,531,(D),527,507,510,489,699,654,691,713,819,835,854,964,1128
+ "35001","Bernalillo, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",25709,24507,25736,27929,30538,33238,32975,30283,25783,23645,22397,21713,22159,22543,22865,24175,25451
+ "35001","Bernalillo, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",20528,18422,17450,16406,16787,17520,18294,17717,14849,14001,14086,14224,14178,14070,14257,14435,14320
+ "35001","Bernalillo, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",14958,14664,14089,14077,14120,14732,14667,(D),13121,12860,12936,12943,12728,13482,13480,12772,12816
+ "35001","Bernalillo, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",43590,44334,44375,45152,45672,45375,46124,45227,42664,41453,41719,41800,42276,42662,42894,42615,41969
+ "35001","Bernalillo, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",9410,9497,9417,(D),9527,9635,10147,9537,8541,8458,8671,8927,8967,8852,9332,9691,9746
+ "35001","Bernalillo, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",11184,10803,10228,9926,9327,10259,9850,(D),9804,9494,9045,9282,8847,8834,9059,9626,9226
+ "35001","Bernalillo, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",16830,15836,15781,15419,15390,15624,16106,16396,17049,16348,16662,16421,16472,16745,16975,17670,18510
+ "35001","Bernalillo, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",12480,12831,13427,14516,15849,17048,18047,17591,16664,16547,16523,16183,16263,16425,16725,17060,17434
+ "35001","Bernalillo, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",34965,35437,37153,38497,39146,39618,41348,41493,40358,38595,38182,37813,37480,38173,38827,39447,40583
+ "35001","Bernalillo, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",4564,4196,3839,3511,4160,4179,3908,3645,3441,3419,3459,3434,3381,3450,3629,3864,3947
+ "35001","Bernalillo, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",29959,29705,28515,29329,29341,31832,32623,32449,29840,28477,27348,26173,26707,26376,25553,25489,25689
+ "35001","Bernalillo, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",5381,5835,6243,6822,6889,7111,7294,7424,7846,8202,7980,7791,7946,8040,7951,7770,7685
+ "35001","Bernalillo, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",35796,36897,37920,40685,41493,42373,43346,44567,46862,47663,48733,50036,51226,52032,53577,55609,55262
+ "35001","Bernalillo, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",6572,6789,6970,7293,7387,7528,7889,8005,8045,7965,8016,8695,8705,8879,8977,9158,9468
+ "35001","Bernalillo, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",29743,30182,31010,31040,30591,32326,32867,32351,30775,30755,30940,31460,32294,33621,34606,35113,35307
+ "35001","Bernalillo, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",17779,18624,19078,19372,19554,20112,20639,20757,20218,19733,20204,20133,19933,20264,20325,20401,20491
+ "35001","Bernalillo, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",65840,66843,67934,69587,69248,70446,70651,73090,74084,74995,74820,73757,73522,72962,73453,74738,74556
+ "35001","Bernalillo, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",12853,13419,13411,13459,13557,13897,13888,14083,14633,15195,15147,14651,14095,13770,13788,13957,14004
+ "35001","Bernalillo, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",5752,5823,5868,5867,5709,5637,5418,5239,5270,5367,5501,5558,5449,5167,5043,5088,5108
+ "35001","Bernalillo, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",47235,47601,48655,50261,49982,50912,51345,53768,54181,54433,54172,53548,53978,54025,54622,55693,55444
+ "35001","Bernalillo, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",21019,20877,21327,21574,21389,21612,21841,22586,23016,23303,23069,23104,23587,24266,24987,26148,25927
+ "35001","Bernalillo, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",26216,26724,27328,28687,28593,29300,29504,31182,31165,31130,31103,30444,30391,29759,29635,29545,29517
+ "35003","Catron, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",1487,1418,1477,1442,1534,1579,1642,1703,1661,1658,1655,1683,1671,1622,1626,1616,1648
+ "35003","Catron, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",706,680,704,684,695,710,752,767,750,744,733,788,795,765,773,767,789
+ "35003","Catron, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",781,738,773,758,839,869,890,936,911,914,922,895,876,857,853,849,859
+ "35003","Catron, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",246,198,210,198,191,181,210,217,225,241,267,284,288,287,290,289,290
+ "35003","Catron, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",535,540,563,560,648,688,680,719,686,673,655,611,588,570,563,560,569
+ "35003","Catron, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",304,255,270,257,254,241,269,271,285,300,330,354,366,356,366,374,364
+ "35003","Catron, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",1183,1163,1207,1185,1280,1338,1373,1432,1376,1358,1325,1329,1305,1266,1260,1242,1284
+ "35003","Catron, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",833,801,839,837,950,995,1046,1092,1041,1014,1001,972,962,943,950,944,980
+ "35003","Catron, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",83,94,100,(D),(D),114,(D),105,101,91,88,(D),(D),(D),(D),(D),(D)
+ "35003","Catron, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",10,12,15,(D),(D),10,(D),25,(D),26,24,(D),(D),(D),(D),(D),(D)
+ "35003","Catron, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),12,12,(D),(D),(D),(D),11,11,9,(D),(D)
+ "35003","Catron, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",(D),(D),92,105,(D),(D),103,107,(D),90,80,78,81,83,71,66,66
+ "35003","Catron, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),33,29,30,(D),(D),36,38,49,44,56,56,54,52,52,51,57
+ "35003","Catron, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",16,12,(D),(D),(D),(D),25,47,40,31,23,29,(D),(D),(D),(D),(D)
+ "35003","Catron, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",89,93,100,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35003","Catron, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),32,29,29,25,36,38,(D),(D),(D),(D),(D),(D),(D),21,23
+ "35003","Catron, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",18,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35003","Catron, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",20,39,33,28,28,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35003","Catron, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),50,63,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35003","Catron, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),48,(D),(D),(D),76,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35003","Catron, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,7,12,11,0,0,0,0,0,0,0,0
+ "35003","Catron, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35003","Catron, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),13,11,10,10,11,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35003","Catron, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),42,47,49,81,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35003","Catron, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),32,(D),(D),28
+ "35003","Catron, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),54,(D),(D),48
+ "35003","Catron, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",93,66,83,80,106,83,100,96,95,96,96,91,(D),(D),(D),(D),(D)
+ "35003","Catron, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",350,362,368,348,330,343,327,340,335,344,324,357,343,323,310,298,304
+ "35003","Catron, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",125,142,145,126,115,126,107,113,114,120,100,108,103,99,99,97,96
+ "35003","Catron, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",11,11,11,10,9,9,9,10,10,10,10,10,10,9,9,9,9
+ "35003","Catron, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",214,209,212,212,206,208,211,217,211,214,214,239,230,215,202,192,199
+ "35003","Catron, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",63,61,60,59,59,60,59,58,56,54,53,53,55,52,44,27,23
+ "35003","Catron, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",151,148,152,153,147,148,152,159,155,160,161,186,175,163,158,165,176
+ "35005","Chaves, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",27412,26918,27134,27201,27771,28887,30337,30255,29578,28881,28816,28760,29031,29267,29857,30011,29525
+ "35005","Chaves, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",21748,21538,21516,21682,22215,23139,24088,23737,23075,22340,22338,21815,21903,22164,22700,22822,22153
+ "35005","Chaves, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",5664,5380,5618,5519,5556,5748,6249,6518,6503,6541,6478,6945,7128,7103,7157,7189,7372
+ "35005","Chaves, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",691,570,572,518,479,438,488,473,465,471,497,497,509,507,519,516,518
+ "35005","Chaves, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",4973,4810,5046,5001,5077,5310,5761,6045,6038,6070,5981,6448,6619,6596,6638,6673,6854
+ "35005","Chaves, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1600,1441,1482,1430,1458,1378,1412,1267,1279,1221,1237,1257,1348,1252,1336,1431,1313
+ "35005","Chaves, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",25812,25477,25652,25771,26313,27509,28925,28988,28299,27660,27579,27503,27683,28015,28521,28580,28212
+ "35005","Chaves, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",20902,20657,20843,20915,21479,22612,23995,24159,23407,22955,23017,22966,23223,23589,24108,24025,23712
+ "35005","Chaves, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",268,276,276,294,302,307,286,237,247,236,232,214,215,206,210,206,188
+ "35005","Chaves, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",1194,1045,1142,982,1037,1162,1178,1468,1370,1634,1431,1978,2242,2131,2191,2129,2198
+ "35005","Chaves, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",100,75,73,71,64,66,70,67,94,96,92,90,99,75,72,68,70
+ "35005","Chaves, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",1267,1320,1301,1310,1404,1508,1618,1619,1491,1360,1286,1336,1276,1290,1272,1266,1239
+ "35005","Chaves, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",2147,1860,1409,1206,1211,1376,1401,1284,1190,1098,1122,1064,1076,1056,1123,982,992
+ "35005","Chaves, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",861,912,841,844,836,776,744,792,780,867,864,877,988,1021,1089,1041,980
+ "35005","Chaves, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",3062,2972,3178,3277,3406,3448,3569,3660,3593,3459,3495,3485,3578,3711,3750,3706,3581
+ "35005","Chaves, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",779,890,969,1033,1094,1195,1276,1206,1047,971,1007,896,911,1013,1055,1108,1030
+ "35005","Chaves, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",312,323,308,323,286,311,308,269,268,264,305,309,308,318,304,330,316
+ "35005","Chaves, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",750,827,840,838,833,893,997,994,1003,985,1032,1088,1077,1037,946,983,1018
+ "35005","Chaves, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",712,700,745,750,744,795,885,939,901,895,911,854,828,841,868,893,889
+ "35005","Chaves, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",944,870,913,1051,1060,1342,1352,1313,1176,1092,1138,1089,1066,1042,1052,970,977
+ "35005","Chaves, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",52,43,52,50,44,52,50,75,69,75,77,75,66,61,76,71,72
+ "35005","Chaves, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",679,611,649,608,671,713,773,802,869,865,1057,1047,1049,1130,1186,1216,1195
+ "35005","Chaves, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",82,118,100,108,146,154,134,156,178,174,207,193,185,212,201,190,186
+ "35005","Chaves, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",3005,3177,3429,3603,3770,3905,4211,4244,4251,4258,4067,3815,3668,3707,3792,3901,3892
+ "35005","Chaves, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",369,365,361,364,356,332,314,353,357,348,375,366,358,352,365,349,351
+ "35005","Chaves, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",2820,2794,2763,2694,2677,2695,3215,3098,2998,2806,2846,2692,2705,2807,2870,3017,2933
+ "35005","Chaves, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1499,1479,1494,1509,1538,1582,1614,1583,1525,1472,1473,1498,1528,1579,1686,1599,1605
+ "35005","Chaves, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",4910,4820,4809,4856,4834,4897,4930,4829,4892,4705,4562,4537,4460,4426,4413,4555,4500
+ "35005","Chaves, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",357,370,354,339,329,330,329,334,328,343,309,302,275,252,237,242,236
+ "35005","Chaves, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",203,196,193,183,172,168,168,176,189,206,194,185,184,171,176,177,174
+ "35005","Chaves, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",4350,4254,4262,4334,4333,4399,4433,4319,4375,4156,4059,4050,4001,4003,4000,4136,4090
+ "35005","Chaves, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",1784,1776,1787,1816,1783,1844,1905,1794,1810,1592,1572,1558,1497,1523,1496,1622,1604
+ "35005","Chaves, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",2566,2478,2475,2518,2550,2555,2528,2525,2565,2564,2487,2492,2504,2480,2504,2514,2486
+ "35006","Cibola, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",8736,9312,10172,10285,10584,10758,10916,10255,9994,9982,10028,10295,10234,10318,10332,10328,10146
+ "35006","Cibola, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",7290,7903,8689,8714,8906,9079,9215,8622,8359,8255,8161,8357,8343,8342,8386,8354,8139
+ "35006","Cibola, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",1446,1409,1483,1571,1678,1679,1701,1633,1635,1727,1867,1938,1891,1976,1946,1974,2007
+ "35006","Cibola, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",177,138,176,189,205,214,269,288,311,344,393,421,426,425,424,422,424
+ "35006","Cibola, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",1269,1271,1307,1382,1473,1465,1432,1345,1324,1383,1474,1517,1465,1551,1522,1552,1583
+ "35006","Cibola, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",186,147,197,222,254,274,341,341,356,376,416,436,443,440,441,441,441
+ "35006","Cibola, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",8550,9165,9975,10063,10330,10484,10575,9914,9638,9606,9612,9859,9791,9878,9891,9887,9705
+ "35006","Cibola, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",5375,5650,5861,5768,6204,6341,6421,6421,6155,6247,6386,6492,6485,6572,6611,6636,6485
+ "35006","Cibola, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35006","Cibola, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),93,(D),99,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35006","Cibola, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),169,196,205,226,205,203,(D),218,217,220,220,223,85
+ "35006","Cibola, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",291,298,278,312,334,354,349,360,339,341,258,258,208,213,225,269,315
+ "35006","Cibola, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",399,484,451,385,405,363,276,223,173,120,133,135,146,163,160,162,175
+ "35006","Cibola, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",208,203,221,209,187,182,160,167,179,154,204,218,221,231,257,249,205
+ "35006","Cibola, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1138,1210,1152,1080,1148,1115,1140,1096,1010,973,994,1004,1027,1022,1048,1002,977
+ "35006","Cibola, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),147,134,139,156,126,114,(D),82,85,82,85,88,90
+ "35006","Cibola, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",61,46,47,48,65,81,81,41,41,40,40,37,35,29,(D),(D),22
+ "35006","Cibola, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",104,135,132,124,123,145,146,147,151,153,151,160,156,169,158,179,186
+ "35006","Cibola, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",112,113,127,151,159,137,148,157,127,124,125,119,108,122,109,107,105
+ "35006","Cibola, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",127,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),144
+ "35006","Cibola, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",4,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),8
+ "35006","Cibola, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",663,578,(D),(D),683,655,599,609,571,568,590,625,634,616,576,554,519
+ "35006","Cibola, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",26,(D),(D),(D),(D),(D),(D),(D),48,54,(D),(D),(D),(D),(D),(D),(D)
+ "35006","Cibola, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),1464,1649,(D),(D),(D),(D),(D),(D),(D)
+ "35006","Cibola, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",101,89,86,97,87,67,84,90,79,82,82,84,91,90,97,114,114
+ "35006","Cibola, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",624,582,550,582,609,695,677,678,696,691,697,700,687,677,653,705,689
+ "35006","Cibola, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",369,399,390,389,409,408,399,350,345,332,356,359,354,348,(D),(D),343
+ "35006","Cibola, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",3175,3515,4114,4295,4126,4143,4154,3493,3483,3359,3226,3367,3306,3306,3280,3251,3220
+ "35006","Cibola, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",386,402,419,379,386,361,343,335,341,363,336,345,330,319,320,315,290
+ "35006","Cibola, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",81,80,79,74,69,66,65,67,66,67,69,69,68,63,64,64,63
+ "35006","Cibola, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",2708,3033,3616,3842,3671,3716,3746,3091,3076,2929,2821,2953,2908,2924,2896,2872,2867
+ "35006","Cibola, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",645,658,646,653,657,663,661,666,653,627,590,577,579,587,567,510,509
+ "35006","Cibola, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",2063,2375,2970,3189,3014,3053,3085,2425,2423,2302,2231,2376,2329,2337,2329,2362,2358
+ "35007","Colfax, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",7994,7925,8091,7877,7794,7660,7720,7671,7366,7107,7125,6953,7040,7072,6931,6783,6638
+ "35007","Colfax, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",5975,6017,6138,6011,5871,5718,5758,5746,5511,5382,5371,5238,5374,5397,5325,5113,4942
+ "35007","Colfax, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",2019,1908,1953,1866,1923,1942,1962,1925,1855,1725,1754,1715,1666,1675,1606,1670,1696
+ "35007","Colfax, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",334,260,272,251,238,222,252,238,228,225,230,224,228,227,230,229,230
+ "35007","Colfax, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",1685,1648,1681,1615,1685,1720,1710,1687,1627,1500,1524,1491,1438,1448,1376,1441,1466
+ "35007","Colfax, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",444,355,383,375,384,376,415,374,363,345,345,338,354,338,352,366,349
+ "35007","Colfax, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",7550,7570,7708,7502,7410,7284,7305,7297,7003,6762,6780,6615,6686,6734,6579,6417,6289
+ "35007","Colfax, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",5930,5924,6046,5840,5741,5612,5700,5680,5383,5173,5252,5085,5171,5215,5111,5083,4980
+ "35007","Colfax, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",101,91,86,100,113,132,137,136,(D),(D),(D),78,79,89,81,(D),(D)
+ "35007","Colfax, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",211,198,169,150,85,71,85,77,(D),(D),(D),97,90,83,91,91,89
+ "35007","Colfax, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",42,44,47,42,42,42,43,45,44,44,42,39,47,41,49,41,39
+ "35007","Colfax, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",505,489,538,525,542,511,562,508,426,401,401,383,347,368,340,331,330
+ "35007","Colfax, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",283,281,281,277,272,271,269,252,223,197,193,171,175,167,179,170,181
+ "35007","Colfax, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",64,50,44,71,79,78,85,95,92,90,86,79,82,94,94,96,86
+ "35007","Colfax, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1034,906,896,845,829,835,853,901,890,871,864,828,791,826,830,848,770
+ "35007","Colfax, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",185,175,171,158,153,137,137,134,109,106,103,96,76,66,74,73,93
+ "35007","Colfax, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",78,64,62,66,(D),50,(D),47,51,46,63,59,51,43,42,34,35
+ "35007","Colfax, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",181,212,239,218,227,233,237,242,253,227,225,204,213,200,177,205,199
+ "35007","Colfax, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",281,289,333,323,364,398,358,363,326,299,310,290,297,307,264,251,260
+ "35007","Colfax, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",261,280,285,284,278,281,293,291,256,232,235,253,206,195,211,198,194
+ "35007","Colfax, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",51,44,46,49,46,60,46,44,38,31,29,24,24,24,22,20,(D)
+ "35007","Colfax, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",171,216,217,222,197,157,147,94,126,123,131,118,115,124,139,157,(D)
+ "35007","Colfax, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",45,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),20,20,(D),(D),(D)
+ "35007","Colfax, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",446,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),484,472,(D),(D),(D)
+ "35007","Colfax, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",153,153,150,139,141,130,139,134,133,133,129,142,143,143,114,93,97
+ "35007","Colfax, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1117,1223,1282,1208,1142,1073,1119,1128,1092,1072,1122,1132,1237,1249,1231,1203,1189
+ "35007","Colfax, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",721,721,726,701,692,674,711,744,668,650,691,645,694,704,694,726,731
+ "35007","Colfax, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1620,1646,1662,1662,1669,1672,1605,1617,1620,1589,1528,1530,1515,1519,1468,1334,1309
+ "35007","Colfax, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",58,60,58,56,56,57,59,57,64,71,53,52,55,55,50,48,45
+ "35007","Colfax, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",45,45,43,41,38,36,35,36,36,36,37,36,35,32,31,31,30
+ "35007","Colfax, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",1517,1541,1561,1565,1575,1579,1511,1524,1520,1482,1438,1442,1425,1432,1387,1255,1234
+ "35007","Colfax, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",756,764,761,756,773,778,721,736,728,726,691,690,692,697,652,518,518
+ "35007","Colfax, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",761,777,800,809,802,801,790,788,792,756,747,752,733,735,735,737,716
+ "35009","Curry, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",21914,22543,23477,23971,24024,24102,23967,23448,24184,24881,25531,26020,26355,26503,26660,26510,26728
+ "35009","Curry, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",18268,18982,19785,20274,20337,20406,20163,19682,20512,21206,21709,22211,22567,22810,22848,22737,22890
+ "35009","Curry, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",3646,3561,3692,3697,3687,3696,3804,3766,3672,3675,3822,3809,3788,3693,3812,3773,3838
+ "35009","Curry, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",760,623,630,570,529,485,540,513,492,487,501,491,497,496,497,494,496
+ "35009","Curry, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",2886,2938,3062,3127,3158,3211,3264,3253,3180,3188,3321,3318,3291,3197,3315,3279,3342
+ "35009","Curry, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1286,1166,1212,1169,1189,1135,1195,1104,1128,1102,1138,1178,1255,1170,1236,1321,1215
+ "35009","Curry, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",20628,21377,22265,22802,22835,22967,22772,22344,23056,23779,24393,24842,25100,25333,25424,25189,25513
+ "35009","Curry, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",13846,14441,15099,15579,15981,16419,16635,16805,16706,16614,16685,16893,16890,17147,17463,17130,17472
+ "35009","Curry, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),242,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35009","Curry, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),173,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35009","Curry, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",88,85,86,90,89,87,87,92,110,109,112,115,117,106,108,111,138
+ "35009","Curry, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",983,1062,1216,1276,1395,1377,1366,1426,1360,1279,1236,1243,1246,1289,1259,1196,1218
+ "35009","Curry, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",379,378,392,399,486,660,627,646,642,662,705,754,730,738,742,726,734
+ "35009","Curry, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",408,387,419,487,513,553,404,412,448,498,539,516,544,576,547,549,551
+ "35009","Curry, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2678,2689,2809,2929,2897,2843,2869,2768,2755,2687,2680,2729,2728,2704,2752,2774,2701
+ "35009","Curry, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",839,848,897,1036,1108,1064,998,1091,1021,1064,1099,1201,1209,1252,1300,1255,1195
+ "35009","Curry, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",442,301,317,271,270,258,225,200,185,184,151,143,157,154,154,144,138
+ "35009","Curry, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",664,692,714,759,790,748,735,767,733,728,734,781,727,710,733,711,696
+ "35009","Curry, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",415,445,439,490,524,570,588,619,616,665,680,655,624,607,653,647,669
+ "35009","Curry, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),614,653,700,678,666
+ "35009","Curry, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),451,463,439,463,457
+ "35009","Curry, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",438,542,611,597,538,595,687,846,779,695,775,827,683,721,765,677,777
+ "35009","Curry, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",40,(D),(D),(D),(D),(D),64,79,62,62,66,62,79,88,95,102,107
+ "35009","Curry, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",2547,(D),(D),(D),(D),(D),3349,3322,3516,3366,3097,3203,3164,3104,3182,3169,3204
+ "35009","Curry, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",175,184,220,182,157,185,170,156,136,111,127,151,159,135,143,154,192
+ "35009","Curry, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1666,1620,1629,1619,1717,1819,1767,1686,1664,1783,1899,1702,1823,1861,1877,1856,1953
+ "35009","Curry, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1208,1300,1297,1290,1336,1324,1338,1323,1311,1289,1362,1337,1335,1371,1443,1426,1397
+ "35009","Curry, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",6782,6936,7166,7223,6854,6548,6137,5539,6350,7165,7708,7949,8210,8186,7961,8059,8041
+ "35009","Curry, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",891,887,870,857,879,854,783,783,840,898,944,917,865,831,852,869,871
+ "35009","Curry, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",3269,3444,3628,3735,3406,3156,2737,2125,2852,3665,4208,4513,4834,4836,4639,4732,4751
+ "35009","Curry, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",2622,2605,2668,2631,2569,2538,2617,2631,2658,2602,2556,2519,2511,2519,2470,2458,2419
+ "35009","Curry, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",325,341,347,346,356,360,369,379,376,365,345,337,342,340,330,303,290
+ "35009","Curry, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",2297,2264,2321,2285,2213,2178,2248,2252,2282,2237,2211,2182,2169,2179,2140,2155,2129
+ "35011","De Baca, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",1066,951,964,998,934,925,937,958,981,964,974,993,957,1013,987,985,972
+ "35011","De Baca, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",655,575,599,648,609,607,586,600,612,606,594,599,604,623,612,597,581
+ "35011","De Baca, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",411,376,365,350,325,318,351,358,369,358,380,394,353,390,375,388,391
+ "35011","De Baca, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",209,169,169,150,137,122,133,135,139,147,161,166,169,169,170,169,169
+ "35011","De Baca, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",202,207,196,200,188,196,218,223,230,211,219,228,184,221,205,219,222
+ "35011","De Baca, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",299,249,252,233,225,207,215,207,214,218,233,242,253,244,253,262,250
+ "35011","De Baca, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",767,702,712,765,709,718,722,751,767,746,741,751,704,769,734,723,722
+ "35011","De Baca, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",537,496,498,543,486,502,506,523,545,521,523,537,498,557,535,534,533
+ "35011","De Baca, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35011","De Baca, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",11,7,8,7,7,8,11,14,14,14,17,17,17,17,19,27,28
+ "35011","De Baca, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),13,14,15,15,16,16,16,16,(D),18,(D),(D),(D),(D),(D),(D)
+ "35011","De Baca, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",68,60,58,113,(D),66,55,(D),57,(D),47,(D),(D),45,44,(D),(D)
+ "35011","De Baca, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),22,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35011","De Baca, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),19,(D),(D),33,34,(D),(D)
+ "35011","De Baca, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",86,92,83,93,98,89,91,90,86,102,103,106,113,111,104,101,101
+ "35011","De Baca, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",21,(D),(D),(D),(D),(D),(D),(D),(D),27,24,32,22,(D),(D),(D),(D)
+ "35011","De Baca, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",19,13,18,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35011","De Baca, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),45,(D),(D),(D),(D),40,45,46,41,(D),(D),(D),(D),(D),(D),(D)
+ "35011","De Baca, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",10,8,8,8,10,10,10,10,11,11,12,11,9,9,9,(D),(D)
+ "35011","De Baca, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35011","De Baca, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "35011","De Baca, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),10,9,11,11,11,9,12,11,13,9,12,9,9,9
+ "35011","De Baca, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",1,6,7,6,7,9,7,7,9,8,8,10,7,8,10,9,9
+ "35011","De Baca, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",62,32,30,34,38,49,51,65,77,81,71,67,(D),66,60,56,(D)
+ "35011","De Baca, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),23,14,18,10,(D),(D)
+ "35011","De Baca, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),30,31,32,32,(D),(D)
+ "35011","De Baca, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",(D),(D),57,52,34,36,38,35,(D),(D),(D),33,31,(D),(D),(D),(D)
+ "35011","De Baca, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",230,206,214,222,223,216,216,228,222,225,218,214,206,212,199,189,189
+ "35011","De Baca, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",15,17,16,17,15,16,16,14,15,16,14,13,14,15,10,12,12
+ "35011","De Baca, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",7,7,7,6,6,5,5,5,5,5,5,5,5,5,5,5,5
+ "35011","De Baca, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",208,182,191,199,202,195,195,209,202,204,199,196,187,192,184,172,172
+ "35011","De Baca, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",26,26,26,27,26,25,30,31,31,30,30,30,30,29,29,27,27
+ "35011","De Baca, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",182,156,165,172,176,170,165,178,171,174,169,166,157,163,155,145,145
+ "35013","Doña Ana, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",78825,80989,83352,86099,89628,91995,94725,95890,94906,95627,97248,97093,98951,99307,99872,100598,99901
+ "35013","Doña Ana, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",62561,64745,66401,68174,70780,72535,73685,74971,73585,74249,74606,75077,76573,77050,77462,78779,77723
+ "35013","Doña Ana, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",16264,16244,16951,17925,18848,19460,21040,20919,21321,21378,22642,22016,22378,22257,22410,21819,22178
+ "35013","Doña Ana, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",1937,1626,1692,1551,1462,1358,1538,1541,1579,1667,1827,1895,1908,1901,1885,1875,1881
+ "35013","Doña Ana, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",14327,14618,15259,16374,17386,18102,19502,19378,19742,19711,20815,20121,20470,20356,20525,19944,20297
+ "35013","Doña Ana, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",3216,2881,3069,2999,3090,2993,3219,2983,3054,3025,3165,3268,3426,3247,3362,3529,3318
+ "35013","Doña Ana, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",75609,78108,80283,83100,86538,89002,91506,92907,91852,92602,94083,93825,95525,96060,96510,97069,96583
+ "35013","Doña Ana, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",56023,58039,60120,62194,65327,67544,69842,70777,69539,70255,72348,72543,74354,74907,75522,76119,76147
+ "35013","Doña Ana, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),1205,(D),1133,1090,1086,1076,1116,1144,1119,1224,1514,1526,1562,1512
+ "35013","Doña Ana, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),170,(D),203,243,281,248,279,266,309,347,278,292,306,333
+ "35013","Doña Ana, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",284,279,273,279,282,307,335,344,372,367,386,413,411,410,434,444,452
+ "35013","Doña Ana, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",4706,4914,5347,5824,6473,7329,7440,6708,6028,5898,6072,5850,5987,5948,5980,6053,6008
+ "35013","Doña Ana, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",3384,3786,3875,3898,3707,3660,3536,3494,3288,3207,3513,3318,3219,2956,2772,2831,2843
+ "35013","Doña Ana, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",1426,1326,1266,1384,1532,1548,1636,1665,1600,1597,1487,1500,1665,1738,1825,1602,1536
+ "35013","Doña Ana, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",7968,8078,8299,8557,8912,9154,9284,9184,8812,8834,9260,9359,9528,9613,9593,9420,9387
+ "35013","Doña Ana, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",1908,2006,1984,2173,2336,2504,2721,2561,2498,2446,2596,2692,2585,2529,2717,2765,2878
+ "35013","Doña Ana, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",1063,1239,1299,1317,1378,1371,1308,1210,1081,1096,1122,1155,1158,1147,1098,973,909
+ "35013","Doña Ana, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1955,2068,2075,2193,2098,2244,2361,2660,2973,2654,2822,2896,2966,2960,2987,3116,3133
+ "35013","Doña Ana, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",2206,2259,2426,2695,3126,3265,3490,3545,3391,3466,3591,3450,3508,3600,3753,3806,3895
+ "35013","Doña Ana, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",3933,3727,3968,4073,4240,4463,4793,5313,5352,5723,5264,5357,5946,5693,5941,5843,5670
+ "35013","Doña Ana, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",82,90,67,66,153,158,161,144,135,129,133,92,68,90,86,105,105
+ "35013","Doña Ana, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",4056,3690,3503,3578,4003,3822,3955,4289,4632,5016,5020,5012,5217,5504,4856,4836,4690
+ "35013","Doña Ana, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",679,774,830,880,984,1065,1099,1167,1110,1184,1126,1171,1202,1194,1305,1332,1468
+ "35013","Doña Ana, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",9715,10611,11268,11672,12163,12140,12540,13000,13033,13406,14417,14833,14739,15058,15644,16190,16366
+ "35013","Doña Ana, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",1622,1821,1932,1988,1955,2045,2110,2131,2144,2172,2131,2059,2047,2000,1969,1931,1954
+ "35013","Doña Ana, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",5311,5619,5949,5731,6147,6422,6843,6877,6706,6811,6975,7094,7589,7654,7784,8116,8146
+ "35013","Doña Ana, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",4119,4327,4362,4511,4511,4711,4897,5118,5060,4854,5023,4864,4948,5021,4960,4888,4862
+ "35013","Doña Ana, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",19586,20069,20163,20906,21211,21458,21664,22130,22313,22347,21735,21282,21171,21153,20988,20950,20436
+ "35013","Doña Ana, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",3351,3507,3504,3474,3557,3622,3714,3858,4051,4274,4060,3881,3757,3632,3506,3466,3401
+ "35013","Doña Ana, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",622,616,617,593,561,560,556,576,580,590,595,594,591,552,559,555,559
+ "35013","Doña Ana, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",15613,15946,16042,16839,17093,17276,17394,17696,17682,17483,17080,16807,16823,16969,16923,16929,16476
+ "35013","Doña Ana, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",8575,8448,8557,8841,8791,8740,8805,8957,8969,8851,8451,8174,8131,8226,8198,8320,7969
+ "35013","Doña Ana, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",7038,7498,7485,7998,8302,8536,8589,8739,8713,8632,8629,8633,8692,8743,8725,8609,8507
+ "35015","Eddy, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",25323,25396,25619,25664,26323,27423,28626,29949,29950,30405,31671,32978,34457,35929,36835,35004,36052
+ "35015","Eddy, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",20584,20816,20986,21148,21653,22638,23544,24754,24670,24930,26180,26819,28113,29613,30306,28357,29213
+ "35015","Eddy, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",4739,4580,4633,4516,4670,4785,5082,5195,5280,5475,5491,6159,6344,6316,6529,6647,6839
+ "35015","Eddy, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",610,502,512,467,437,403,453,440,433,440,466,470,478,477,480,478,479
+ "35015","Eddy, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",4129,4078,4121,4049,4233,4382,4629,4755,4847,5035,5025,5689,5866,5839,6049,6169,6360
+ "35015","Eddy, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",977,871,900,858,859,810,856,788,792,773,798,812,855,811,848,890,837
+ "35015","Eddy, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",24346,24525,24719,24806,25464,26613,27770,29161,29158,29632,30873,32166,33602,35118,35987,34114,35215
+ "35015","Eddy, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",20739,20890,21055,21072,21722,22799,23940,25267,25039,25473,26862,28200,29658,31131,31929,29970,31122
+ "35015","Eddy, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",166,193,144,141,160,166,147,154,165,149,145,138,123,132,130,154,150
+ "35015","Eddy, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",3107,2927,3048,3205,3357,3697,4010,4638,4379,5113,5852,7185,8428,9009,9036,7580,8192
+ "35015","Eddy, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",136,136,138,134,129,129,147,151,177,183,196,198,204,236,256,249,263
+ "35015","Eddy, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",1501,1483,1606,1337,1678,1793,2080,2537,2366,2242,2452,2476,2444,2573,2835,2552,2721
+ "35015","Eddy, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",897,955,822,780,738,786,817,908,956,874,916,942,966,997,1082,1021,1046
+ "35015","Eddy, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",561,526,523,565,591,591,643,674,628,646,731,720,737,762,828,726,732
+ "35015","Eddy, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2962,2855,2830,2703,2786,2821,2890,2889,2975,2848,2996,3208,3228,3270,3394,3317,3272
+ "35015","Eddy, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",966,872,889,949,990,1006,1096,1018,901,959,956,1142,1327,1546,1565,1415,1553
+ "35015","Eddy, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",347,340,309,277,314,305,293,312,322,(D),(D),(D),314,296,282,261,260
+ "35015","Eddy, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",703,799,817,813,797,826,899,934,943,1014,1072,919,894,871,848,872,937
+ "35015","Eddy, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",661,767,736,711,756,780,853,838,839,872,940,801,927,1067,1052,976,1006
+ "35015","Eddy, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",718,745,799,850,1064,1077,1136,1234,970,(D),(D),882,(D),935,1028,1026,1089
+ "35015","Eddy, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",39,79,44,192,184,238,213,219,168,(D),(D),167,(D),211,141,148,161
+ "35015","Eddy, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1563,1609,1742,1710,1510,1760,1846,1810,1803,1802,1829,1719,1580,1622,1643,1756,1778
+ "35015","Eddy, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",95,103,131,112,115,111,110,103,403,419,407,369,323,362,358,389,378
+ "35015","Eddy, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",2440,2582,2632,2678,2572,2601,2676,2753,2951,2922,2947,2951,2830,2843,2950,3024,2977
+ "35015","Eddy, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",206,206,200,217,217,191,168,165,187,188,208,204,190,211,228,250,259
+ "35015","Eddy, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1899,1868,1859,1825,1916,2014,2087,2159,2178,2085,2094,2163,2240,2462,2495,2537,2593
+ "35015","Eddy, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1772,1845,1786,1873,1848,1907,1829,1771,1728,1688,1728,(D),1751,1726,1778,1717,1755
+ "35015","Eddy, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",3607,3635,3664,3734,3742,3814,3830,3894,4119,4159,4011,3966,3944,3987,4058,4144,4093
+ "35015","Eddy, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",488,534,524,561,597,655,737,764,855,883,786,693,633,609,628,682,692
+ "35015","Eddy, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",165,162,158,150,137,134,133,140,140,143,148,148,151,144,148,147,145
+ "35015","Eddy, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",2954,2939,2982,3023,3008,3025,2960,2990,3124,3133,3077,3125,3160,3234,3282,3315,3256
+ "35015","Eddy, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",740,719,732,768,756,757,746,757,761,742,709,683,687,691,670,625,602
+ "35015","Eddy, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",2214,2220,2250,2255,2252,2268,2214,2233,2363,2391,2368,2442,2473,2543,2612,2690,2654
+ "35017","Grant, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",14482,13619,12968,13283,13815,14355,14524,14446,12860,12728,13255,13584,13552,13340,13308,13031,12934
+ "35017","Grant, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",11478,10713,10092,10264,10732,11229,11284,11225,9718,9624,10198,10486,10442,10194,10117,9949,9800
+ "35017","Grant, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",3004,2906,2876,3019,3083,3126,3240,3221,3142,3104,3057,3098,3110,3146,3191,3082,3134
+ "35017","Grant, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",334,271,276,259,247,233,267,275,284,301,332,347,354,353,358,356,357
+ "35017","Grant, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",2670,2635,2600,2760,2836,2893,2973,2946,2858,2803,2725,2751,2756,2793,2833,2726,2777
+ "35017","Grant, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",374,305,316,304,300,289,326,324,332,344,373,387,398,392,401,404,399
+ "35017","Grant, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",14108,13314,12652,12979,13515,14066,14198,14122,12528,12384,12882,13197,13154,12948,12907,12627,12535
+ "35017","Grant, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",10538,9802,9027,9189,9614,10195,10394,10299,8724,8583,9120,9456,9413,9355,9416,9170,9217
+ "35017","Grant, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",70,83,(D),(D),(D),(D),(D),(D),109,103,92,(D),105,(D),(D),(D),(D)
+ "35017","Grant, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),717,(D),(D),(D),(D),1565,793,867,1302,1624,1757,1743,(D),(D),(D)
+ "35017","Grant, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),43,42,44,68,(D),64,74,67,61,67,64,60,75,81
+ "35017","Grant, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",867,826,943,987,902,901,881,905,790,727,741,711,638,585,555,594,602
+ "35017","Grant, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),(D),156,188,220,226,251,221,177,175,191,214,197,(D),208,199,211
+ "35017","Grant, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",239,206,200,185,189,199,230,(D),122,120,140,150,142,146,135,112,114
+ "35017","Grant, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1639,1575,1505,1558,1551,1559,1600,1600,1526,1490,1522,1486,1497,1493,1503,1472,1452
+ "35017","Grant, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),220,196,212,211,203,169,138,136,166,144,140,144,137,137
+ "35017","Grant, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",191,164,187,184,201,184,187,180,163,159,143,136,105,112,102,112,118
+ "35017","Grant, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",259,295,299,301,294,277,281,279,279,253,280,261,270,266,248,269,280
+ "35017","Grant, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",336,370,357,373,404,432,454,451,416,393,400,413,420,398,416,363,361
+ "35017","Grant, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",429,(D),(D),408,403,426,456,453,431,444,422,405,404,390,401,(D),404
+ "35017","Grant, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",33,(D),(D),36,170,243,259,258,211,(D),(D),(D),139,(D),150,(D),169
+ "35017","Grant, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1070,1082,555,275,260,620,657,489,240,(D),(D),(D),265,(D),294,293,336
+ "35017","Grant, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),114,126,153,169,165,153,174,147,134,117,130,168,161,168
+ "35017","Grant, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),1227,1209,1167,1157,1202,1191,1146,1203,1192,1213,1191,1213,1201,1188
+ "35017","Grant, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",181,203,209,228,241,254,267,261,265,254,228,242,218,222,226,198,194
+ "35017","Grant, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1410,1208,1195,1159,1113,1147,1087,1029,947,972,980,1012,999,1036,1019,1022,1023
+ "35017","Grant, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",670,656,649,664,709,737,742,719,678,663,696,731,716,733,753,735,746
+ "35017","Grant, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",3570,3512,3625,3790,3901,3871,3804,3823,3804,3801,3762,3741,3741,3593,3491,3457,3318
+ "35017","Grant, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",235,253,247,240,223,221,205,206,226,249,228,218,206,206,202,198,197
+ "35017","Grant, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",99,95,91,84,79,77,76,80,78,78,80,80,79,73,73,71,70
+ "35017","Grant, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",3236,3164,3287,3466,3599,3573,3523,3537,3500,3474,3454,3443,3456,3314,3216,3188,3051
+ "35017","Grant, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",1380,1367,1482,1546,1638,1607,1513,1545,1513,1476,1431,1427,1497,1482,1424,1407,1341
+ "35017","Grant, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",1856,1797,1805,1920,1961,1966,2010,1992,1987,1998,2023,2016,1959,1832,1792,1781,1710
+ "35019","Guadalupe, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",1905,1862,1845,1893,1915,2051,2013,1978,2031,1926,1951,1958,2171,2167,2245,2358,2299
+ "35019","Guadalupe, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",1354,1357,1333,1385,1402,1564,1484,1441,1456,1389,1363,1356,1566,1578,1628,1712,1638
+ "35019","Guadalupe, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",551,505,512,508,513,487,529,537,575,537,588,602,605,589,617,646,661
+ "35019","Guadalupe, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",254,199,214,203,198,191,224,237,253,278,316,335,339,337,338,336,338
+ "35019","Guadalupe, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",297,306,298,305,315,296,305,300,322,259,272,267,266,252,279,310,323
+ "35019","Guadalupe, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",299,240,257,246,245,235,268,277,296,320,360,384,393,385,391,395,389
+ "35019","Guadalupe, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",1606,1622,1588,1647,1670,1816,1745,1701,1735,1606,1591,1574,1778,1782,1854,1963,1910
+ "35019","Guadalupe, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",1179,1189,1167,1218,1226,1372,1275,1176,1220,1142,1157,1135,1338,1349,1421,1547,1502
+ "35019","Guadalupe, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35019","Guadalupe, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",8,7,11,7,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),14,27,28
+ "35019","Guadalupe, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35019","Guadalupe, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",157,(D),(D),203,152,274,164,105,98,87,68,57,82,65,67,72,68
+ "35019","Guadalupe, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",12,13,12,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35019","Guadalupe, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),10,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35019","Guadalupe, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",284,283,271,252,257,241,262,234,242,227,245,245,245,256,250,323,323
+ "35019","Guadalupe, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),33,35,41,45,79,80,53,49,55,56,56,50,50,50,49
+ "35019","Guadalupe, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",25,30,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35019","Guadalupe, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),(D),(D),37,51,(D),48,(D),(D),(D),(D),(D),(D),(D)
+ "35019","Guadalupe, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),(D),(D),(D),(D),(D),13,14,(D),15,(D),(D),(D),(D),(D),(D),(D)
+ "35019","Guadalupe, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",10,(D),(D),10,9,10,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35019","Guadalupe, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,(D),(D),(D),(D),0,0,0,0,0,0,0,0,0,0,0
+ "35019","Guadalupe, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),182,187,(D),(D),(D)
+ "35019","Guadalupe, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",7,7,7,7,7,9,7,7,12,8,9,8,7,8,10,11,11
+ "35019","Guadalupe, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",123,126,127,114,119,108,113,129,129,131,134,124,132,145,168,179,167
+ "35019","Guadalupe, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",8,9,12,12,10,12,15,12,14,12,14,21,16,18,11,14,14
+ "35019","Guadalupe, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),350,346,378,414,434,391,349,405,384,386,383,399,396,447,453,438
+ "35019","Guadalupe, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",71,77,75,77,77,78,81,75,76,66,67,66,66,67,65,62,59
+ "35019","Guadalupe, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",427,433,421,429,444,444,470,525,515,464,434,439,440,433,433,416,408
+ "35019","Guadalupe, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",33,35,35,35,33,36,34,31,30,35,26,24,24,23,21,22,24
+ "35019","Guadalupe, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",14,14,13,12,11,11,11,11,11,11,11,11,11,10,10,10,10
+ "35019","Guadalupe, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",380,384,373,382,400,397,425,483,474,418,397,404,405,400,402,384,374
+ "35019","Guadalupe, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",81,83,81,80,81,83,76,107,106,101,96,96,99,96,92,71,64
+ "35019","Guadalupe, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",299,301,292,302,319,314,349,376,368,317,301,308,306,304,310,313,310
+ "35021","Harding, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",438,433,451,450,437,456,494,507,492,483,480,455,467,511,480,461,451
+ "35021","Harding, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",207,226,237,238,228,225,235,241,224,213,214,208,213,243,206,205,196
+ "35021","Harding, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",231,207,214,212,209,231,259,266,268,270,266,247,254,268,274,256,255
+ "35021","Harding, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",159,124,130,125,121,115,133,137,139,147,160,165,168,167,169,168,168
+ "35021","Harding, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",72,83,84,87,88,116,126,129,129,123,106,82,86,101,105,88,87
+ "35021","Harding, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",204,164,174,171,173,167,186,180,180,182,192,193,199,195,200,203,198
+ "35021","Harding, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",234,269,277,279,264,289,308,327,312,301,288,262,268,316,280,258,253
+ "35021","Harding, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",120,151,163,165,153,176,198,213,200,188,175,146,159,207,180,160,162
+ "35021","Harding, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",4,5,6,4,4,8,6,12,12,11,1,(D),(D),(D),(D),1,1
+ "35021","Harding, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",1,1,1,1,0,1,1,1,1,1,3,1,1,1,1,1,1
+ "35021","Harding, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",(D),(D),(D),11,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),4,(D),4,6,5,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",20,38,34,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),9,9,13,9,10,7,7,5,7,5,6,5,5
+ "35021","Harding, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",1,(D),(D),(D),1,1,0,0,0,0,0,0,0,0,0,0,0
+ "35021","Harding, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",0,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),1,1,0
+ "35021","Harding, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",0,0,4,1,1,6,6,8,9,9,9,7,9,7,7,(D),(D)
+ "35021","Harding, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",5,5,5,5,5,8,8,10,(D),(D),(D),5,9,(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "35021","Harding, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",5,6,(D),(D),(D),(D),7,9,9,8,9,7,1,1,7,7,7
+ "35021","Harding, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",3,3,3,4,4,1,1,5,9,6,6,5,7,1,8,1,1
+ "35021","Harding, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),1,1,0,11,1,6,6,4,(D),(D),(D)
+ "35021","Harding, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",3,5,6,6,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",5,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",114,118,114,114,111,113,110,114,112,113,113,116,109,109,100,98,91
+ "35021","Harding, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",15,16,17,16,16,18,14,16,15,16,17,16,15,16,12,13,12
+ "35021","Harding, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+ "35021","Harding, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",96,100,95,96,93,93,94,96,95,95,94,98,92,91,86,83,77
+ "35021","Harding, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35021","Harding, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",2272,2167,2046,2007,2151,2175,2216,2219,2270,2283,2270,2187,2192,2142,2104,2140,2148
+ "35023","Hidalgo, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",1711,1643,1554,1496,1615,1637,1673,1657,1710,1756,1718,1680,1669,1621,1580,1626,1626
+ "35023","Hidalgo, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",561,524,492,511,536,538,543,562,560,527,552,507,523,521,524,514,522
+ "35023","Hidalgo, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",169,137,141,130,124,116,132,127,125,126,133,133,136,136,137,137,137
+ "35023","Hidalgo, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",392,387,351,381,412,422,411,435,435,401,419,374,387,385,387,377,385
+ "35023","Hidalgo, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",285,242,246,230,226,209,217,197,193,185,188,185,194,187,193,200,192
+ "35023","Hidalgo, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",1987,1925,1800,1777,1925,1966,1999,2022,2077,2098,2082,2002,1998,1955,1911,1940,1956
+ "35023","Hidalgo, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",1446,1400,1274,1254,1380,1377,1368,1350,1358,1368,1366,1259,1282,1267,1248,1298,1321
+ "35023","Hidalgo, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),92,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",10,9,11,9,11,10,13,(D),(D),(D),(D),(D),22,25,23,27,28
+ "35023","Hidalgo, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),14,14,13,11,13,10,9
+ "35023","Hidalgo, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",16,7,6,(D),(D),(D),(D),(D),(D),(D),23,23,25,35,30,27,29
+ "35023","Hidalgo, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",326,230,220,229,303,308,301,294,311,271,247,247,232,235,229,271,280
+ "35023","Hidalgo, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),63,67,72,90,78,67,72,90,94,95,75,76,67,68
+ "35023","Hidalgo, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",24,(D),(D),(D),(D),26,(D),24,23,(D),24,16,25,24,(D),(D),16
+ "35023","Hidalgo, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),(D),(D),(D),(D),(D),23,(D),(D),(D),(D),(D),(D),(D),(D),48,49
+ "35023","Hidalgo, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",38,48,51,38,46,(D),(D),(D),(D),135,128,(D),(D),(D),59,(D),(D)
+ "35023","Hidalgo, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0,0,0,0,0,0
+ "35023","Hidalgo, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),(D),13,14,12,15,(D),(D),(D),(D),(D),32,(D),(D)
+ "35023","Hidalgo, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",8,7,7,7,(D),(D),(D),(D),(D),(D),24,(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",127,130,148,193,(D),(D),(D),(D),(D),(D),175,(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),(D),(D),15,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),(D),(D),218,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",(D),(D),(D),94,96,97,99,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35023","Hidalgo, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",541,525,526,523,545,589,631,672,719,730,716,743,716,688,663,642,635
+ "35023","Hidalgo, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",67,73,70,70,95,144,196,229,274,301,297,316,309,291,263,250,255
+ "35023","Hidalgo, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",18,17,16,15,13,13,13,13,13,13,13,13,13,12,11,11,11
+ "35023","Hidalgo, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",456,435,440,438,437,432,422,430,432,416,406,414,394,385,389,381,369
+ "35023","Hidalgo, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",79,79,81,83,84,85,83,84,82,79,74,72,73,73,74,66,66
+ "35023","Hidalgo, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",377,356,359,355,353,347,339,346,350,337,332,342,321,312,315,315,303
+ "35025","Lea, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",29553,28712,29650,30199,31580,33069,34608,36550,34020,34225,36080,38327,40110,41725,40434,36740,37787
+ "35025","Lea, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",24485,23717,24563,25336,26655,27931,29299,30943,28372,28291,30057,31921,33296,34948,33389,29515,30337
+ "35025","Lea, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",5068,4995,5087,4863,4925,5138,5309,5607,5648,5934,6023,6406,6814,6777,7045,7225,7450
+ "35025","Lea, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",669,548,548,500,463,425,472,444,418,406,410,390,399,398,407,405,408
+ "35025","Lea, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",4399,4447,4539,4363,4462,4713,4837,5163,5230,5528,5613,6016,6415,6379,6638,6820,7042
+ "35025","Lea, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1027,919,916,851,817,746,766,708,701,680,693,695,736,696,735,772,727
+ "35025","Lea, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",28526,27793,28734,29348,30763,32323,33842,35842,33319,33545,35387,37632,39374,41029,39699,35968,37060
+ "35025","Lea, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",24712,24178,25094,25672,27124,28683,30203,32108,29486,29722,31668,33955,35610,37192,35792,31992,33123
+ "35025","Lea, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",109,138,115,(D),89,91,(D),105,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35025","Lea, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",5587,4689,5129,5282,6188,7155,7671,8339,6738,7387,7562,9387,10235,11087,10106,7969,8827
+ "35025","Lea, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",250,247,240,241,245,251,442,491,296,329,337,346,344,347,360,383,361
+ "35025","Lea, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",2123,2004,1915,2071,2128,2269,2640,3359,3002,2765,3147,3106,3685,3883,3236,2958,3179
+ "35025","Lea, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",425,397,436,392,416,564,742,820,941,972,1073,1162,1159,1089,1050,855,809
+ "35025","Lea, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",1202,1130,1031,990,1036,1222,1240,1234,1127,1035,1112,1215,1198,1210,1112,978,1003
+ "35025","Lea, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",3363,3224,3145,3323,3352,3332,3237,3242,3271,3276,3524,3539,3636,3859,3990,3812,3746
+ "35025","Lea, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",993,967,944,1040,1135,1336,1456,1570,1415,1320,1770,2086,2125,2336,2369,1853,1938
+ "35025","Lea, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",252,252,256,265,282,295,349,378,357,348,353,370,362,322,286,277,268
+ "35025","Lea, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",712,743,769,795,821,825,792,846,874,901,938,831,839,837,855,879,897
+ "35025","Lea, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",683,702,728,732,760,760,835,883,824,868,990,1021,1125,1130,1065,1006,1035
+ "35025","Lea, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",608,649,686,739,720,782,891,932,958,934,943,982,1011,1025,950,903,905
+ "35025","Lea, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",130,101,91,93,76,103,122,137,137,153,139,146,150,152,162,180,179
+ "35025","Lea, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1448,1592,1823,1819,1853,1729,1916,1977,1876,1988,2125,2110,1804,1734,1683,1526,1607
+ "35025","Lea, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),231,232
+ "35025","Lea, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),2893,2759,2696,(D),(D),(D),2764,2851,2689
+ "35025","Lea, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",219,235,250,272,527,511,580,593,541,502,515,516,504,502,521,(D),(D)
+ "35025","Lea, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1684,1609,1793,1914,2059,2103,2116,2129,2145,2159,2292,2369,2547,2672,2854,3091,3145
+ "35025","Lea, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1750,1894,1927,1975,1880,1889,1857,1943,1782,1715,1851,1892,1892,2017,2089,1894,1948
+ "35025","Lea, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",3814,3615,3640,3676,3639,3640,3639,3734,3833,3823,3719,3677,3764,3837,3907,3976,3937
+ "35025","Lea, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",119,121,117,114,114,109,106,105,106,121,94,88,88,86,86,91,89
+ "35025","Lea, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",176,177,173,166,154,152,154,165,167,170,176,178,183,175,180,176,173
+ "35025","Lea, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",3519,3317,3350,3396,3371,3379,3379,3464,3560,3532,3449,3411,3493,3576,3641,3709,3675
+ "35025","Lea, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",287,291,295,294,294,295,288,289,293,286,274,272,271,276,275,266,271
+ "35025","Lea, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",3232,3026,3055,3102,3077,3084,3091,3175,3267,3246,3175,3139,3222,3300,3366,3443,3404
+ "35027","Lincoln, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",9983,10460,10821,11093,11029,10975,11571,11688,11106,10807,10583,10626,10435,10559,10564,10521,10632
+ "35027","Lincoln, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",6566,7081,7388,7507,7319,7237,7611,7683,7217,6985,6865,6876,6773,6854,6879,6835,6866
+ "35027","Lincoln, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",3417,3379,3433,3586,3710,3738,3960,4005,3889,3822,3718,3750,3662,3705,3685,3686,3766
+ "35027","Lincoln, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",381,308,321,295,278,259,293,284,277,281,297,294,300,299,303,301,302
+ "35027","Lincoln, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",3036,3071,3112,3291,3432,3479,3667,3721,3612,3541,3421,3456,3362,3406,3382,3385,3464
+ "35027","Lincoln, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",465,380,401,380,374,356,393,368,361,357,370,367,380,370,381,388,378
+ "35027","Lincoln, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",9518,10080,10420,10713,10655,10619,11178,11320,10745,10450,10213,10259,10055,10189,10183,10133,10254
+ "35027","Lincoln, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",8168,8692,9054,9330,9267,9236,9815,9939,9357,9113,8951,8983,8764,8948,8958,8916,9034
+ "35027","Lincoln, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),151,137,130,133,(D),181,191,169,154,(D),160,(D),(D),(D),(D),(D)
+ "35027","Lincoln, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),124,156,143,154,(D),186,255,248,300,(D),349,(D),(D),(D),(D),(D)
+ "35027","Lincoln, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",49,51,52,53,56,58,58,60,63,84,77,71,78,83,83,92,97
+ "35027","Lincoln, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",829,909,1148,1271,1127,1109,1248,1143,893,773,755,722,694,734,721,714,696
+ "35027","Lincoln, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",181,195,178,200,227,196,200,180,176,151,160,156,154,139,132,138,171
+ "35027","Lincoln, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",97,97,103,100,105,88,96,101,94,81,76,80,82,112,105,74,79
+ "35027","Lincoln, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1469,1609,1603,1643,1637,1572,1577,1577,1562,1559,1553,1534,1551,1599,1594,1544,1568
+ "35027","Lincoln, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",191,192,209,183,197,188,188,164,167,168,170,180,151,127,129,115,113
+ "35027","Lincoln, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",137,106,121,117,113,135,132,132,113,114,124,115,113,107,109,118,120
+ "35027","Lincoln, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",258,334,324,336,353,370,395,411,412,401,380,364,367,360,359,368,408
+ "35027","Lincoln, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",590,578,613,655,710,696,769,800,766,705,696,679,625,616,618,590,604
+ "35027","Lincoln, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",425,547,(D),597,616,592,618,595,568,535,520,499,387,390,(D),(D),(D)
+ "35027","Lincoln, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),26,37,73,59,42,(D),(D),(D),(D),(D),(D),(D)
+ "35027","Lincoln, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),382,(D),(D),425,525,518,419,403,(D),(D),(D),(D),(D),366,367
+ "35027","Lincoln, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),87,83,65,72,74,94,78,78,82,77,88,111,104
+ "35027","Lincoln, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),782,768,788,781,736,742,756,796,751,746,769,796,776
+ "35027","Lincoln, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",744,820,793,814,789,776,813,891,850,831,777,762,771,811,777,767,811
+ "35027","Lincoln, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1168,1152,1138,1136,1092,1152,1212,1282,1326,1355,1345,1394,1389,1463,1539,1527,1509
+ "35027","Lincoln, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",637,643,642,666,682,707,727,713,662,621,655,632,644,680,680,683,688
+ "35027","Lincoln, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1350,1388,1366,1383,1388,1383,1363,1381,1388,1337,1262,1276,1291,1241,1225,1217,1220
+ "35027","Lincoln, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",112,119,118,123,123,119,114,114,119,134,114,111,114,102,96,94,95
+ "35027","Lincoln, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",63,62,62,60,56,54,53,55,54,55,57,56,55,50,50,50,50
+ "35027","Lincoln, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",1175,1207,1186,1200,1209,1210,1196,1212,1215,1148,1091,1109,1122,1089,1079,1073,1075
+ "35027","Lincoln, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",224,248,238,232,238,237,230,230,247,224,212,239,254,233,217,199,204
+ "35027","Lincoln, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",951,959,948,968,971,973,966,982,968,924,879,870,868,856,862,874,871
+ "35028","Los Alamos, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",19487,20369,21169,21277,21484,21344,20609,19585,19341,19752,19697,19237,18530,18265,18494,18972,19573
+ "35028","Los Alamos, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",17552,18561,19286,19410,19506,19360,18606,17561,17288,17692,17719,17292,16639,16373,16506,17009,17580
+ "35028","Los Alamos, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",1935,1808,1883,1867,1978,1984,2003,2024,2053,2060,1978,1945,1891,1892,1988,1963,1993
+ "35028","Los Alamos, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "35028","Los Alamos, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",1935,1808,1883,1867,1978,1984,2003,2024,2053,2060,1978,1945,1891,1892,1988,1963,1993
+ "35028","Los Alamos, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "35028","Los Alamos, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",19487,20369,21169,21277,21484,21344,20609,19585,19341,19752,19697,19237,18530,18265,18494,18972,19573
+ "35028","Los Alamos, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",9375,9616,9894,9821,9581,15302,18718,17602,17333,17758,17730,17239,16560,16316,16570,17064,17643
+ "35028","Los Alamos, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",11,15,12,17,16,15,16,(D),(D),12,13,14,14,14,12,10,9
+ "35028","Los Alamos, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",11,12,15,13,(D),(D),17,23,(D),(D),(D),(D),30,29,28,(D),(D)
+ "35028","Los Alamos, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",1,3,1,1,1,1,1,1,1,1,1,1,1,3,7,1,1
+ "35028","Los Alamos, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",373,426,(D),(D),452,454,493,438,373,355,289,318,282,261,295,297,292
+ "35028","Los Alamos, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),87,(D),(D),(D),(D),114,120,143,(D),(D)
+ "35028","Los Alamos, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",142,105,128,120,108,91,(D),(D),82,131,118,136,80,(D),(D),(D),(D)
+ "35028","Los Alamos, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",678,678,691,683,683,627,604,577,583,560,582,569,580,670,717,710,671
+ "35028","Los Alamos, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",44,47,46,45,(D),(D),(D),(D),35,28,31,32,20,(D),(D),(D),(D)
+ "35028","Los Alamos, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",171,156,180,180,198,187,165,155,132,120,127,115,104,102,115,115,118
+ "35028","Los Alamos, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",490,452,481,466,413,406,391,384,402,390,429,441,400,385,328,351,316
+ "35028","Los Alamos, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",322,312,347,345,386,327,330,297,326,430,329,344,320,321,308,321,325
+ "35028","Los Alamos, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",2008,1931,2044,1995,1780,7711,11580,10929,11433,11695,11820,11172,10614,10414,(D),(D),(D)
+ "35028","Los Alamos, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,13,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35028","Los Alamos, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",2513,2685,2760,2667,2635,2545,(D),(D),(D),(D),(D),(D),(D),(D),1329,1389,1426
+ "35028","Los Alamos, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",137,134,156,133,145,211,219,230,249,259,212,272,318,244,197,171,179
+ "35028","Los Alamos, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1045,1067,1078,1152,1133,1104,1102,987,1012,1031,1032,1062,1021,999,1007,1063,1056
+ "35028","Los Alamos, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),273,275,283,260,283,288,295,286,301,314,290,281,315,331,339
+ "35028","Los Alamos, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),721,613,663,660,697,656,543,541,532,568,547,549,511,484,496,544
+ "35028","Los Alamos, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",512,517,552,541,528,513,508,503,494,495,504,492,526,551,571,561,561
+ "35028","Los Alamos, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",10112,10753,11275,11456,11903,6042,1891,1983,2008,1994,1967,1998,1970,1949,1924,1908,1930
+ "35028","Los Alamos, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",207,246,245,236,250,275,271,283,299,313,294,308,283,253,234,233,236
+ "35028","Los Alamos, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",60,60,60,56,52,52,50,49,49,52,53,52,52,49,48,49,50
+ "35028","Los Alamos, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",9845,10447,10970,11164,11601,5715,1570,1651,1660,1629,1620,1638,1635,1647,1642,1626,1644
+ "35028","Los Alamos, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35028","Los Alamos, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35029","Luna, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",8351,8870,9400,9467,10125,10142,10315,10092,9771,9829,9723,9605,9710,9694,9840,9848,9474
+ "35029","Luna, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",6695,7245,7706,7717,8286,8315,8316,8186,7910,8013,7839,7782,7922,7932,8034,8135,7730
+ "35029","Luna, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",1656,1625,1694,1750,1839,1827,1999,1906,1861,1816,1884,1823,1788,1762,1806,1713,1744
+ "35029","Luna, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",207,168,170,160,155,147,171,163,157,154,160,157,160,158,161,160,160
+ "35029","Luna, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",1449,1457,1524,1590,1684,1680,1828,1743,1704,1662,1724,1666,1628,1604,1645,1553,1584
+ "35029","Luna, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",401,336,353,352,368,361,388,345,338,316,316,313,332,310,328,347,323
+ "35029","Luna, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",7950,8534,9047,9115,9757,9781,9927,9747,9433,9513,9407,9292,9378,9384,9512,9501,9151
+ "35029","Luna, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",6174,6714,7228,7239,7792,7718,7760,7428,7094,7166,7124,7034,7183,7224,7337,7349,7057
+ "35029","Luna, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),507,(D),(D),(D),(D),392,(D),434,467,477,451
+ "35029","Luna, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),24,(D),(D),(D),(D),38,(D),45,45,48,40
+ "35029","Luna, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),48,50,48,51,57,69,79
+ "35029","Luna, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",331,443,363,399,843,641,636,576,422,351,367,412,410,411,453,456,419
+ "35029","Luna, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",1041,1278,1480,1286,1212,1269,1146,1119,1020,1086,1015,997,969,917,966,1025,917
+ "35029","Luna, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",165,148,(D),(D),(D),(D),(D),(D),(D),(D),170,133,167,188,139,120,126
+ "35029","Luna, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1168,1307,1459,1531,1536,1580,1612,1452,1391,1460,1417,1393,1395,1358,1366,1314,1104
+ "35029","Luna, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),234,244,272,287,286,283,271,289,280,299,335,298,334,311,314
+ "35029","Luna, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",36,43,40,36,35,32,35,36,31,32,(D),(D),(D),(D),(D),(D),(D)
+ "35029","Luna, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",131,163,183,193,190,188,202,188,175,165,192,160,156,165,164,177,172
+ "35029","Luna, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",184,177,222,255,243,256,276,277,270,271,287,265,253,240,235,239,247
+ "35029","Luna, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",204,191,202,239,225,248,270,280,271,279,259,246,242,246,232,215,189
+ "35029","Luna, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,(D),(D),20,(D),(D),(D),1,0,0,15,9,14,(D),(D),(D)
+ "35029","Luna, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",106,128,(D),(D),218,(D),(D),(D),165,158,169,172,183,206,(D),(D),(D)
+ "35029","Luna, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35029","Luna, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35029","Luna, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",71,(D),102,113,98,103,120,112,127,161,154,135,144,159,102,108,107
+ "35029","Luna, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",617,(D),640,634,722,751,864,829,768,772,807,804,803,916,889,868,850
+ "35029","Luna, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",473,490,499,501,501,498,527,518,482,465,(D),(D),(D),(D),(D),(D),(D)
+ "35029","Luna, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1776,1820,1819,1876,1965,2063,2167,2319,2339,2347,2283,2258,2195,2160,2175,2152,2094
+ "35029","Luna, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",198,217,223,248,293,350,422,529,558,594,575,569,562,530,476,434,407
+ "35029","Luna, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",80,78,77,73,68,66,65,67,66,67,69,68,66,62,62,62,61
+ "35029","Luna, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",1498,1525,1519,1555,1604,1647,1680,1723,1715,1686,1639,1621,1567,1568,1637,1656,1626
+ "35029","Luna, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",309,314,318,325,329,340,350,344,336,319,297,290,297,302,304,289,285
+ "35029","Luna, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",1189,1211,1201,1230,1275,1307,1330,1379,1379,1367,1342,1331,1270,1266,1333,1367,1341
+ "35031","McKinley, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",27753,28474,29712,30726,31287,31727,32767,32166,31372,31042,31012,30545,30071,30064,30155,29034,29131
+ "35031","McKinley, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",21798,22501,23193,23364,23059,23051,23705,23611,23313,23012,22520,22645,22149,21695,22103,22207,22219
+ "35031","McKinley, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",5955,5973,6519,7362,8228,8676,9062,8555,8059,8030,8492,7900,7922,8369,8052,6827,6912
+ "35031","McKinley, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",183,132,660,1071,1456,1758,2453,2259,2143,2096,2131,2055,2061,2052,2015,2004,2011
+ "35031","McKinley, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",5772,5841,5859,6291,6772,6918,6609,6296,5916,5934,6361,5845,5861,6317,6037,4823,4901
+ "35031","McKinley, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",238,191,728,1145,1541,1847,2546,2345,2236,2187,2227,2159,2176,2154,2127,2129,2120
+ "35031","McKinley, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",27515,28283,28984,29581,29746,29880,30221,29821,29136,28855,28785,28386,27895,27910,28028,26905,27011
+ "35031","McKinley, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",19984,20468,21016,21659,21939,22037,22297,21788,20731,20507,20807,20540,20142,20265,20366,19405,19586
+ "35031","McKinley, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35031","McKinley, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),714,(D),(D),(D),(D),229,186,149,107,(D),(D),(D),(D),(D),(D),(D)
+ "35031","McKinley, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",160,157,156,157,157,171,170,150,162,170,157,157,152,153,150,151,150
+ "35031","McKinley, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",1009,959,1017,1102,974,1143,1450,1284,1082,1053,921,921,901,869,978,972,879
+ "35031","McKinley, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",1463,1555,1375,1386,1374,1416,1464,1351,1348,1214,1204,1124,1135,1220,1276,1218,1279
+ "35031","McKinley, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",2779,2606,2709,2959,3309,3176,2762,2549,2206,2362,2469,2288,2199,2690,2408,1385,1375
+ "35031","McKinley, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",3975,4056,4047,3920,3915,3898,3953,3866,3823,3580,3648,3730,3772,3744,3874,3737,3700
+ "35031","McKinley, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",616,627,652,702,754,763,755,787,751,740,752,788,654,593,642,610,657
+ "35031","McKinley, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",218,203,217,237,281,249,259,287,300,290,287,266,249,234,221,228,232
+ "35031","McKinley, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",357,407,410,449,509,495,520,528,521,503,517,470,507,533,526,541,534
+ "35031","McKinley, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",340,336,374,399,409,426,441,463,484,467,470,444,449,487,506,532,516
+ "35031","McKinley, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),496,492,479,544,562,525,443,450,487,465,500,528,503,469,432
+ "35031","McKinley, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),31,35,49,38,35,57,64,61,54,60,61,61,72,56,62
+ "35031","McKinley, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",535,517,486,499,447,524,563,537,461,476,478,444,471,484,497,459,468
+ "35031","McKinley, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",572,564,552,584,564,513,596,541,504,357,377,379,313,312,250,274,282
+ "35031","McKinley, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",2569,2941,3487,3716,3693,3645,3900,3973,4009,4194,4247,4165,4007,3829,3962,4130,4299
+ "35031","McKinley, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",167,185,196,186,215,226,(D),(D),(D),(D),225,259,258,263,236,241,244
+ "35031","McKinley, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",2453,2523,2722,2868,3013,2950,2974,2980,2883,2850,2885,2929,2919,2804,2894,3066,3136
+ "35031","McKinley, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1486,1556,1394,1345,1366,1419,1394,1413,1288,1337,1431,1389,1397,1319,1235,1195,1208
+ "35031","McKinley, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",7531,7815,7968,7922,7807,7843,7924,8033,8405,8348,7978,7846,7753,7645,7662,7500,7425
+ "35031","McKinley, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",2382,2491,2556,2609,2598,2603,2543,2529,2575,2702,2596,2604,2519,2444,2447,2478,2509
+ "35031","McKinley, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",242,233,223,210,192,185,181,189,186,192,203,199,199,186,190,188,186
+ "35031","McKinley, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",4907,5091,5189,5103,5017,5055,5200,5315,5644,5454,5179,5043,5035,5015,5025,4834,4730
+ "35031","McKinley, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",717,710,706,714,704,707,698,712,714,708,694,692,708,728,735,709,688
+ "35031","McKinley, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",4190,4381,4483,4389,4313,4348,4502,4603,4930,4746,4485,4351,4327,4287,4290,4125,4042
+ "35033","Mora, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",1915,1869,1930,1940,1912,1895,2020,1972,1895,1790,1790,1784,1718,1730,1771,1767,1736
+ "35033","Mora, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",993,1021,1028,1047,1009,996,994,984,922,838,802,803,761,770,802,806,759
+ "35033","Mora, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",922,848,902,893,903,899,1026,988,973,952,988,981,957,960,969,961,977
+ "35033","Mora, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",500,400,453,443,445,437,521,504,496,505,535,538,542,539,534,531,533
+ "35033","Mora, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",422,448,449,450,458,462,505,484,477,447,453,443,415,421,435,430,444
+ "35033","Mora, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",591,490,545,532,538,523,603,572,564,565,593,594,604,594,595,599,592
+ "35033","Mora, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",1324,1379,1385,1408,1374,1372,1417,1400,1331,1225,1197,1190,1114,1136,1176,1168,1144
+ "35033","Mora, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",926,1001,1010,1029,988,994,1062,1047,982,871,862,859,799,824,872,873,850
+ "35033","Mora, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),75,72,67,60,(D),(D),53,44,(D),(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",11,9,11,11,12,10,15,20,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",109,100,(D),(D),(D),(D),147,158,140,112,(D),(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",18,8,7,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",74,98,98,94,99,91,90,88,93,83,91,90,92,93,92,92,78
+ "35033","Mora, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),41,39,39,32,(D),(D),35
+ "35033","Mora, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),33,(D),(D),(D),(D),(D),49,46,38,39,40,(D),15,16
+ "35033","Mora, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",14,(D),(D),(D),(D),(D),(D),(D),(D),16,21,13,13,14,18,14,14
+ "35033","Mora, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),33,33,(D),(D),(D),(D),45,39,36,40,37,34,36,40,40,41
+ "35033","Mora, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),58,57,61,60,(D),46,(D),53,(D),45,(D),55,(D)
+ "35033","Mora, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),12,(D)
+ "35033","Mora, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",11,19,23,17,30,30,31,20,21,25,22,(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",37,31,40,43,33,36,31,35,41,37,36,(D),(D),(D),(D),(D),(D)
+ "35033","Mora, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",(D),(D),82,73,70,65,(D),57,64,63,(D),77,(D),79,75,68,(D)
+ "35033","Mora, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",398,378,375,379,386,378,355,353,349,354,335,331,315,312,304,295,294
+ "35033","Mora, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",48,49,46,43,42,45,44,49,49,56,45,42,41,44,40,39,36
+ "35033","Mora, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",17,17,16,15,14,13,13,13,13,13,13,13,13,12,12,12,12
+ "35033","Mora, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",333,312,313,321,330,320,298,291,287,285,277,276,261,256,252,244,246
+ "35033","Mora, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",65,62,61,58,57,58,53,53,52,50,49,49,49,49,45,38,36
+ "35033","Mora, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",268,250,252,263,273,262,245,238,235,235,228,227,212,207,207,206,210
+ "35035","Otero, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",26583,26648,27112,28488,28327,27839,28201,28091,27876,28787,28884,28479,28365,27533,27532,28602,28319
+ "35035","Otero, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",21442,21706,22213,23495,23232,22847,22819,22783,22582,23650,23702,23290,23285,22522,22489,22990,22609
+ "35035","Otero, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",5141,4942,4899,4993,5095,4992,5382,5308,5294,5137,5182,5189,5080,5011,5043,5612,5710
+ "35035","Otero, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",719,619,604,523,462,402,425,408,398,402,421,419,423,422,420,417,420
+ "35035","Otero, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",4422,4323,4295,4470,4633,4590,4957,4900,4896,4735,4761,4770,4657,4589,4623,5195,5290
+ "35035","Otero, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",770,659,664,603,568,524,565,526,516,508,523,522,537,523,531,541,528
+ "35035","Otero, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",25813,25989,26448,27885,27759,27315,27636,27565,27360,28279,28361,27957,27828,27010,27001,28061,27791
+ "35035","Otero, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",15405,15226,15313,16478,16723,16658,17094,17297,17073,17177,17160,17086,16879,16543,16790,17666,17359
+ "35035","Otero, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),203,191,(D),208,(D),(D),(D),209,211,(D),(D),183,166,184,171
+ "35035","Otero, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),64,68,(D),69,49,73,93,88,77,171,(D),196,211,217,235
+ "35035","Otero, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",81,77,71,73,72,76,(D),(D),121,121,124,127,130,127,131,136,146
+ "35035","Otero, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",1400,1332,1398,1776,1995,1953,1859,1927,1745,1732,1597,1490,1502,1485,1502,1627,1639
+ "35035","Otero, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",624,496,311,279,286,329,314,355,354,317,281,298,307,276,212,215,223
+ "35035","Otero, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",264,245,236,297,303,302,228,257,247,257,271,281,282,272,272,265,200
+ "35035","Otero, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2898,2815,2911,2943,2851,2819,2998,2941,2870,2907,2926,2934,2869,2810,2986,3104,3002
+ "35035","Otero, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",798,736,697,710,617,621,625,570,541,546,447,444,435,417,439,530,542
+ "35035","Otero, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",311,278,277,275,288,305,304,307,317,302,299,318,307,290,275,285,310
+ "35035","Otero, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",600,635,640,629,626,594,618,627,617,629,653,706,687,657,611,628,641
+ "35035","Otero, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",624,592,636,706,765,764,814,795,771,788,780,730,690,706,745,742,750
+ "35035","Otero, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",1060,980,939,1037,1077,1120,1155,1149,1183,1158,1126,(D),1277,1177,1120,915,951
+ "35035","Otero, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",80,52,46,46,47,44,34,50,(D),(D),(D),(D),37,34,42,69,71
+ "35035","Otero, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1062,1370,1429,1577,1514,1452,1618,1708,(D),(D),(D),1519,1636,1665,1635,1947,1683
+ "35035","Otero, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",274,122,149,134,148,151,138,159,167,242,281,336,185,102,120,172,223
+ "35035","Otero, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",2056,2234,2307,2363,2402,2458,2550,2563,2646,2791,2940,2808,2671,2638,2803,3034,3069
+ "35035","Otero, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",255,225,201,233,227,260,273,294,298,311,302,282,258,285,290,310,300
+ "35035","Otero, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1578,1464,1506,1791,1835,1750,1788,1721,1833,1767,1826,1892,1863,1859,1868,1902,1810
+ "35035","Otero, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1231,1282,1292,1350,1378,1383,1453,1492,1407,1365,1434,1442,1361,1364,1362,1384,1393
+ "35035","Otero, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",10408,10763,11135,11407,11036,10657,10542,10268,10287,11102,11201,10871,10949,10467,10211,10395,10432
+ "35035","Otero, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",1970,2022,1922,1889,1988,2007,1925,1892,1912,2006,2034,1917,1842,1711,1744,1758,1720
+ "35035","Otero, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",4008,4141,4193,4288,3837,3723,3721,3525,3734,4614,4776,4561,4527,4207,3892,4004,4167
+ "35035","Otero, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",4430,4600,5020,5230,5211,4927,4896,4851,4641,4482,4391,4393,4580,4549,4575,4633,4545
+ "35035","Otero, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",947,924,928,938,943,948,948,958,949,896,862,842,837,840,837,817,788
+ "35035","Otero, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",3483,3676,4092,4292,4268,3979,3948,3893,3692,3586,3529,3551,3743,3709,3738,3816,3757
+ "35037","Quay, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",4686,4570,4479,4489,4561,4524,4499,4474,4362,4277,4173,4187,4111,4179,4115,4047,4096
+ "35037","Quay, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",3304,3317,3190,3193,3290,3345,3225,3214,3149,3069,2921,2969,2942,3014,2971,2883,2909
+ "35037","Quay, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",1382,1253,1289,1296,1271,1179,1274,1260,1213,1208,1252,1218,1169,1165,1144,1164,1187
+ "35037","Quay, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",697,561,576,528,495,458,516,484,461,452,462,449,453,452,452,449,451
+ "35037","Quay, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",685,692,713,768,776,721,758,776,752,756,790,769,716,713,692,715,736
+ "35037","Quay, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",792,629,656,618,602,571,637,588,568,550,559,551,565,551,561,571,557
+ "35037","Quay, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",3894,3941,3823,3871,3959,3953,3862,3886,3794,3727,3614,3636,3546,3628,3554,3476,3539
+ "35037","Quay, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",2804,2884,2772,2848,2962,2971,2892,2892,2798,2751,2667,2683,2598,2671,2607,2609,2674
+ "35037","Quay, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35037","Quay, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",11,9,13,11,11,12,11,(D),(D),(D),(D),17,17,21,(D),(D),(D)
+ "35037","Quay, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",19,22,(D),(D),(D),(D),29,34,34,31,28,27,27,28,29,55,64
+ "35037","Quay, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",202,194,207,205,277,279,240,272,263,244,254,236,220,214,185,197,197
+ "35037","Quay, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",60,60,(D),(D),(D),(D),(D),51,(D),(D),(D),(D),(D),64,(D),(D),(D)
+ "35037","Quay, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",28,12,(D),(D),(D),(D),10,16,16,24,27,36,44,62,49,32,29
+ "35037","Quay, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",644,623,589,576,652,667,666,626,590,573,520,523,508,521,501,448,499
+ "35037","Quay, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",271,263,240,244,254,243,241,222,199,155,150,164,161,166,171,152,143
+ "35037","Quay, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",39,38,32,27,30,29,29,28,29,23,21,24,24,20,18,20,22
+ "35037","Quay, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",105,138,136,137,143,147,146,139,140,139,156,144,128,127,128,146,142
+ "35037","Quay, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",89,85,77,92,98,91,104,106,101,101,106,100,100,75,75,88,90
+ "35037","Quay, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",73,76,83,104,83,87,95,94,107,(D),94,78,84,90,86,89,94
+ "35037","Quay, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35037","Quay, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),82,(D),(D),(D),(D),(D),(D),(D)
+ "35037","Quay, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",10,7,9,8,9,12,8,5,12,10,9,11,(D),(D),18,14,14
+ "35037","Quay, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",357,369,398,377,384,399,376,417,386,371,365,371,(D),(D),356,356,386
+ "35037","Quay, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),(D),(D),(D),(D),(D),38,21,23,34,38,39,39,28,38,37
+ "35037","Quay, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),475,455,494,449,496,481,534,522,516,508
+ "35037","Quay, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",251,254,253,247,265,261,263,239,231,235,227,229,217,223,215,215,210
+ "35037","Quay, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1090,1057,1051,1023,997,982,970,994,996,976,947,953,948,957,947,867,865
+ "35037","Quay, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",64,66,68,62,61,59,55,53,52,59,44,45,44,44,31,31,30
+ "35037","Quay, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",32,31,30,27,25,24,23,24,24,24,25,24,24,22,22,22,21
+ "35037","Quay, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",994,960,953,934,911,899,892,917,920,893,878,884,880,891,894,814,814
+ "35037","Quay, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",350,327,326,325,327,330,328,331,333,328,324,345,365,372,378,310,322
+ "35037","Quay, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",644,633,627,609,584,569,564,586,587,565,554,539,515,519,516,504,492
+ "35039","Rio Arriba, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",15702,16556,17332,17516,16988,17132,17197,17329,16688,16068,15520,15454,15529,15638,15812,15611,15745
+ "35039","Rio Arriba, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",11424,12415,12957,13153,12589,12666,12410,12534,11881,11445,10521,10522,10517,10676,10942,10917,10984
+ "35039","Rio Arriba, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",4278,4141,4375,4363,4399,4466,4787,4795,4807,4623,4999,4932,5012,4962,4870,4694,4761
+ "35039","Rio Arriba, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",1192,958,1054,1017,1008,979,1158,1202,1271,1380,1551,1649,1665,1660,1653,1644,1650
+ "35039","Rio Arriba, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",3086,3183,3321,3346,3391,3487,3629,3593,3536,3243,3448,3283,3347,3302,3217,3050,3111
+ "35039","Rio Arriba, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1254,1020,1134,1112,1126,1110,1302,1351,1451,1572,1768,1902,1945,1907,1925,1948,1914
+ "35039","Rio Arriba, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",14448,15536,16198,16404,15862,16022,15895,15978,15237,14496,13752,13552,13584,13731,13887,13663,13831
+ "35039","Rio Arriba, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",9466,10246,10695,10999,10381,10615,10607,10658,10060,9342,8720,8478,8604,8825,8944,8804,8999
+ "35039","Rio Arriba, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",129,161,136,145,138,119,119,112,115,113,128,135,142,157,158,154,149
+ "35039","Rio Arriba, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",120,127,129,174,177,161,106,107,100,112,121,133,137,101,78,79,117
+ "35039","Rio Arriba, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",120,121,125,129,113,113,(D),(D),141,139,138,135,129,112,121,119,134
+ "35039","Rio Arriba, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",905,914,969,967,1063,1131,1119,1055,877,744,684,659,666,645,657,637,632
+ "35039","Rio Arriba, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",590,529,444,421,390,402,397,374,361,343,326,335,296,270,285,286,320
+ "35039","Rio Arriba, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",196,174,165,156,170,176,(D),(D),161,140,138,133,132,155,128,89,94
+ "35039","Rio Arriba, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1743,1712,1716,1860,1943,1834,1801,1809,1755,1594,1471,1453,1420,1426,1465,1410,1383
+ "35039","Rio Arriba, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",316,278,270,258,263,261,265,217,206,191,191,175,175,169,251,234,245
+ "35039","Rio Arriba, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",94,98,115,87,108,110,115,118,104,131,101,111,118,114,100,116,124
+ "35039","Rio Arriba, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",286,318,317,328,307,306,313,298,305,290,285,256,262,259,240,233,235
+ "35039","Rio Arriba, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",192,213,375,404,337,345,333,358,332,288,321,249,254,252,250,240,250
+ "35039","Rio Arriba, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),456,465,484,555,(D),(D),(D),(D),(D),(D),(D),(D),375,396
+ "35039","Rio Arriba, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),49,52
+ "35039","Rio Arriba, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),399,408,(D),(D),(D),(D),517,478,455,389,448,529,601,578,544,539
+ "35039","Rio Arriba, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",94,100,148,135,164,214,223,262,263,214,216,185,190,229,238,229,235
+ "35039","Rio Arriba, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1954,2477,2746,2784,2055,2150,2201,2215,2141,1991,1807,1708,1752,1801,1801,1816,1834
+ "35039","Rio Arriba, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",326,346,371,366,351,353,357,385,368,345,362,366,355,351,359,367,429
+ "35039","Rio Arriba, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",946,989,1006,1049,1120,1189,1109,1161,1040,1003,864,863,919,1019,1045,1104,1102
+ "35039","Rio Arriba, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",729,842,766,819,759,786,765,787,774,725,714,696,697,725,724,723,729
+ "35039","Rio Arriba, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",4982,5290,5503,5405,5481,5407,5288,5320,5177,5154,5032,5074,4980,4906,4943,4859,4832
+ "35039","Rio Arriba, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",387,401,399,391,387,381,364,367,369,393,357,348,335,321,305,292,276
+ "35039","Rio Arriba, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",133,130,126,118,109,106,104,107,106,108,111,110,109,102,102,101,100
+ "35039","Rio Arriba, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",4462,4759,4978,4896,4985,4920,4820,4846,4702,4653,4564,4616,4536,4483,4536,4466,4456
+ "35039","Rio Arriba, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",846,854,820,865,867,926,887,913,845,843,798,846,857,788,738,721,707
+ "35039","Rio Arriba, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",3616,3905,4158,4031,4118,3994,3933,3933,3857,3810,3766,3770,3679,3695,3798,3745,3749
+ "35041","Roosevelt, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",8442,8755,9067,9149,9140,9152,8814,8745,8776,9024,8640,8771,8686,8463,8248,8269,8144
+ "35041","Roosevelt, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",6274,6806,7083,7199,7144,7196,6647,6638,6680,6939,6619,6797,6722,6522,6306,6335,6186
+ "35041","Roosevelt, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",2168,1949,1984,1950,1996,1956,2167,2107,2096,2085,2021,1974,1964,1941,1942,1934,1958
+ "35041","Roosevelt, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",934,761,785,724,682,636,720,663,618,592,588,553,564,562,572,569,571
+ "35041","Roosevelt, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",1234,1188,1199,1226,1314,1320,1447,1444,1478,1493,1433,1421,1400,1379,1370,1365,1387
+ "35041","Roosevelt, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1476,1307,1375,1336,1362,1310,1405,1241,1199,1115,1095,1061,1124,1061,1119,1181,1103
+ "35041","Roosevelt, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",6966,7448,7692,7813,7778,7842,7409,7504,7577,7909,7545,7710,7562,7402,7129,7088,7041
+ "35041","Roosevelt, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",4880,5258,5438,5448,5455,5458,5126,5199,5252,5373,5164,5313,5294,5101,5013,4966,4904
+ "35041","Roosevelt, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),132,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),176
+ "35041","Roosevelt, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),36,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),46
+ "35041","Roosevelt, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),42,45,47,52,60,54,58,54,52,54,55,57,60,72,58,55
+ "35041","Roosevelt, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",489,548,543,496,466,476,461,463,413,389,357,374,392,355,371,363,355
+ "35041","Roosevelt, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",288,312,315,366,369,411,470,476,452,453,473,528,559,501,511,495,473
+ "35041","Roosevelt, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),241,198,125,110,111,107,100,82,74,71,102,111,112,101,91,88
+ "35041","Roosevelt, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",903,895,896,867,883,850,897,950,1004,1004,920,952,923,886,838,838,845
+ "35041","Roosevelt, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",447,559,588,590,502,484,500,503,493,463,445,450,458,437,470,407,462
+ "35041","Roosevelt, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",102,95,93,100,(D),103,86,85,100,105,102,103,93,82,67,66,(D)
+ "35041","Roosevelt, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",158,161,201,165,169,189,205,207,205,191,190,190,192,182,160,176,165
+ "35041","Roosevelt, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",137,141,130,170,214,201,229,235,242,245,261,228,234,242,242,226,226
+ "35041","Roosevelt, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",144,141,136,128,125,139,140,(D),187,181,174,177,198,156,147,137,149
+ "35041","Roosevelt, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,0,(D),0,16,14,1,1,0,0,0,(D)
+ "35041","Roosevelt, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",62,109,103,101,(D),(D),159,184,190,216,169,157,166,154,132,146,(D)
+ "35041","Roosevelt, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",17,13,(D),(D),(D),(D),40,48,51,(D),(D),(D),(D),(D),(D),83,83
+ "35041","Roosevelt, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",590,646,(D),(D),(D),(D),581,583,584,(D),(D),(D),(D),(D),(D),566,564
+ "35041","Roosevelt, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",86,93,90,103,99,92,88,87,82,76,82,78,79,87,101,84,86
+ "35041","Roosevelt, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",663,757,997,1024,1015,1032,548,482,544,547,530,604,567,610,636,638,620
+ "35041","Roosevelt, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",329,335,342,350,(D),(D),392,387,383,393,378,371,356,377,370,362,(D)
+ "35041","Roosevelt, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2086,2190,2254,2365,2323,2384,2283,2305,2325,2536,2381,2397,2268,2301,2116,2122,2137
+ "35041","Roosevelt, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",62,64,62,64,59,59,57,57,59,68,56,54,57,51,39,42,40
+ "35041","Roosevelt, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",57,57,56,53,49,48,48,49,48,51,54,53,52,48,47,47,46
+ "35041","Roosevelt, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",1967,2069,2136,2248,2215,2277,2178,2199,2218,2417,2271,2290,2159,2202,2030,2033,2051
+ "35041","Roosevelt, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",1211,1179,1222,1260,1218,1245,1177,1169,1195,1389,1243,1277,1142,1177,1042,1033,1051
+ "35041","Roosevelt, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",756,890,914,988,997,1032,1001,1030,1023,1028,1028,1013,1017,1025,988,1000,1000
+ "35043","Sandoval, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",36546,35892,36288,38227,41299,44445,45043,45838,45219,44758,45116,45384,45948,45462,46073,46282,47017
+ "35043","Sandoval, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",27675,26908,26549,27713,29540,31851,31513,31978,31239,31195,31382,31782,32151,31560,31869,32041,32524
+ "35043","Sandoval, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",8871,8984,9739,10514,11759,12594,13530,13860,13980,13563,13734,13602,13797,13902,14204,14241,14493
+ "35043","Sandoval, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",397,313,393,414,444,459,572,603,647,711,808,864,870,867,860,855,858
+ "35043","Sandoval, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",8474,8671,9346,10100,11315,12135,12958,13257,13333,12852,12926,12738,12927,13035,13344,13386,13635
+ "35043","Sandoval, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",476,394,477,497,532,542,652,677,728,791,893,956,972,957,959,966,955
+ "35043","Sandoval, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",36070,35498,35811,37730,40767,43903,44391,45161,44491,43967,44223,44428,44976,44505,45114,45316,46062
+ "35043","Sandoval, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",30399,29112,29551,31269,33874,36834,36955,37276,36537,35963,36324,36463,37096,36538,37044,37131,38129
+ "35043","Sandoval, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",127,133,122,119,123,98,102,103,106,107,118,117,111,101,92,(D),(D)
+ "35043","Sandoval, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",137,116,156,146,146,149,158,241,229,260,242,326,385,342,384,299,(D)
+ "35043","Sandoval, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",116,127,125,93,98,82,88,102,129,125,122,69,61,69,72,85,100
+ "35043","Sandoval, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",3823,3106,2841,2915,3480,3890,3452,3654,3469,2982,2721,2508,2663,2599,2546,2493,2595
+ "35043","Sandoval, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",7053,6717,6612,6879,6723,7229,6245,5051,4657,4482,4729,4876,4689,3891,3768,3179,2832
+ "35043","Sandoval, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),513,600,634,651,669,869,1490,642,632,714,873,822,949,756
+ "35043","Sandoval, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",3778,3643,3840,4007,4257,4579,4901,5368,5183,4864,4659,4563,4632,4785,4879,4962,4716
+ "35043","Sandoval, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",491,464,506,490,533,574,702,732,614,562,626,627,634,672,729,741,744
+ "35043","Sandoval, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",(D),(D),(D),993,1096,1104,1104,1165,1124,1142,1200,1099,1063,931,858,641,447
+ "35043","Sandoval, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1279,1289,1368,1720,1782,1810,1980,2001,2095,1966,1946,1873,1473,1444,1403,1481,1509
+ "35043","Sandoval, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",1029,1137,1284,1542,1964,2261,2357,2325,2198,2207,2136,2053,2010,2043,2104,2195,2247
+ "35043","Sandoval, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",2076,1852,1837,1986,2084,2268,2572,2646,2642,2498,2650,2601,2659,2704,2729,2654,2665
+ "35043","Sandoval, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",181,176,152,107,91,83,77,68,52,46,53,70,89,101,72,(D),86
+ "35043","Sandoval, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1455,1477,1579,2015,2279,2603,2570,2675,2657,2487,3628,3817,4151,3918,4114,4514,5845
+ "35043","Sandoval, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",247,378,508,602,737,808,747,803,869,913,772,771,828,847,879,774,744
+ "35043","Sandoval, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1590,1709,1816,1847,1920,2151,2382,2509,2477,2651,2623,2948,3326,3456,3955,4267,4672
+ "35043","Sandoval, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",949,952,1006,1038,1105,1251,1384,1430,1477,1504,1493,1530,1561,1544,1491,1475,1357
+ "35043","Sandoval, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",2080,2015,2067,2219,2711,3010,3118,3323,3303,3311,3423,3454,3576,3665,3498,3593,3736
+ "35043","Sandoval, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1751,1913,1997,2038,2145,2250,2365,2411,2387,2366,2541,2529,2471,2553,2649,2643,2666
+ "35043","Sandoval, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",5671,6386,6260,6461,6893,7069,7436,7885,7954,8004,7899,7965,7880,7967,8070,8185,7933
+ "35043","Sandoval, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",382,398,391,394,457,453,410,383,401,456,396,391,365,358,367,367,366
+ "35043","Sandoval, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",306,308,311,303,292,300,313,338,342,356,372,373,374,352,360,363,367
+ "35043","Sandoval, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",4983,5680,5558,5764,6144,6316,6713,7164,7211,7192,7131,7201,7141,7257,7343,7455,7200
+ "35043","Sandoval, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",213,217,220,225,231,229,256,263,266,258,246,242,239,245,275,356,340
+ "35043","Sandoval, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",4770,5463,5338,5539,5913,6087,6457,6901,6945,6934,6885,6959,6902,7012,7068,7099,6860
+ "35045","San Juan, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",56802,57347,58042,60223,62057,64092,65736,67365,64351,62510,63442,64476,64533,65401,65100,62525,62716
+ "35045","San Juan, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",47449,48094,48159,49945,51509,53280,54100,55338,52199,50421,50990,52099,52486,53299,53294,50925,50877
+ "35045","San Juan, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",9353,9253,9883,10278,10548,10812,11636,12027,12152,12089,12452,12377,12047,12102,11806,11600,11839
+ "35045","San Juan, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",931,767,1034,1148,1277,1360,1738,1774,1855,1994,2222,2344,2354,2344,2307,2296,2305
+ "35045","San Juan, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",8422,8486,8849,9130,9271,9452,9898,10253,10297,10095,10230,10033,9693,9758,9499,9304,9534
+ "35045","San Juan, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1146,959,1234,1346,1486,1559,1931,1971,2090,2243,2502,2668,2713,2661,2656,2687,2645
+ "35045","San Juan, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",55656,56388,56808,58877,60571,62533,63805,65394,62261,60267,60940,61808,61820,62740,62444,59838,60071
+ "35045","San Juan, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",44159,44752,45421,47435,48960,50795,52260,53725,50439,48719,49745,50266,50090,51072,50784,48183,48599
+ "35045","San Juan, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",168,197,(D),(D),214,239,257,286,284,(D),269,(D),(D),(D),(D),(D),(D)
+ "35045","San Juan, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",5135,4859,5020,5394,5784,6439,6704,7203,6430,6839,7488,8148,8168,8546,7776,6820,6808
+ "35045","San Juan, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",1263,1271,1300,1284,1302,1283,1301,1315,1332,1113,1028,1017,983,923,868,850,848
+ "35045","San Juan, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",4870,4646,4533,4890,5044,5571,5958,6456,5080,4734,4363,4444,4363,4419,4656,3915,4405
+ "35045","San Juan, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",1570,1624,1635,1830,2081,1990,2130,2111,2034,1760,1967,1961,1792,1642,1504,1250,1387
+ "35045","San Juan, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",1851,1836,1913,2018,2101,2226,2301,2353,2186,1957,1976,2077,2126,2250,2140,1801,1816
+ "35045","San Juan, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",6999,7162,7182,7366,7491,7682,7768,7740,7497,7174,7362,7327,7249,7376,7428,7131,6965
+ "35045","San Juan, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",1828,1643,1634,1800,1767,1747,1873,1924,1743,1540,1623,1743,1755,1792,1806,1552,1562
+ "35045","San Juan, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",501,531,(D),(D),427,441,426,405,391,(D),380,(D),352,356,(D),(D),(D)
+ "35045","San Juan, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1072,1170,1189,1192,1206,1237,1342,1351,1398,1364,1391,1407,1398,1403,1392,1356,1334
+ "35045","San Juan, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",1328,1237,1306,1433,1602,1694,1895,2044,1950,(D),2010,1917,1962,2097,2144,2088,2126
+ "35045","San Juan, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",1721,1726,1796,1963,1945,1840,1977,1973,1835,1692,1658,1656,1685,1699,1727,1702,1673
+ "35045","San Juan, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",236,288,278,291,277,282,283,275,260,241,237,257,277,290,316,314,311
+ "35045","San Juan, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1979,1825,1704,1660,1767,1996,2070,2099,1948,1891,1793,1771,1756,1767,1699,1579,1582
+ "35045","San Juan, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",716,804,869,965,980,908,875,769,715,730,719,651,633,605,622,632,646
+ "35045","San Juan, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",4489,4840,5357,5546,5616,5773,5898,6078,6228,6392,6912,6919,7090,7128,7354,7638,7666
+ "35045","San Juan, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",856,878,902,900,876,930,981,999,1035,1030,996,943,(D),(D),850,865,890
+ "35045","San Juan, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",4428,4902,4749,4793,4871,4869,4373,4470,4357,4278,4390,4240,4286,4597,4839,5037,4971
+ "35045","San Juan, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",3149,3313,3399,3490,3609,3648,3848,3874,3736,3456,3183,3149,3060,3069,3142,3083,3048
+ "35045","San Juan, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",11497,11636,11387,11442,11611,11738,11545,11669,11822,11548,11195,11542,11730,11668,11660,11655,11472
+ "35045","San Juan, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",1576,1622,1632,1666,1620,1546,1482,1464,1548,1704,1602,1613,1547,1494,1490,1505,1510
+ "35045","San Juan, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",379,383,380,363,340,330,329,342,344,353,357,354,356,332,334,331,327
+ "35045","San Juan, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",9542,9631,9375,9413,9651,9862,9734,9863,9930,9491,9236,9575,9827,9842,9836,9819,9635
+ "35045","San Juan, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",405,411,418,427,433,443,478,491,488,474,456,452,457,462,451,462,457
+ "35045","San Juan, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",9137,9220,8957,8986,9218,9419,9256,9372,9442,9017,8780,9123,9370,9380,9385,9357,9178
+ "35047","San Miguel, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",12191,12659,12848,12788,12538,12533,12754,12639,12291,12022,11955,11943,12130,11980,12121,11967,11839
+ "35047","San Miguel, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",9242,9832,9935,9850,9557,9642,9573,9543,9304,9062,8945,8967,9143,9061,9237,9142,8972
+ "35047","San Miguel, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",2949,2827,2913,2938,2981,2891,3181,3096,2987,2960,3010,2976,2987,2919,2884,2825,2867
+ "35047","San Miguel, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",714,559,610,589,580,563,662,659,666,693,750,770,779,777,778,774,777
+ "35047","San Miguel, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",2235,2268,2303,2349,2401,2328,2519,2437,2321,2267,2260,2206,2208,2142,2106,2051,2090
+ "35047","San Miguel, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",816,648,707,690,692,675,776,766,785,813,878,914,938,917,932,946,927
+ "35047","San Miguel, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",11375,12011,12141,12098,11846,11858,11978,11873,11506,11209,11077,11029,11192,11063,11189,11021,10912
+ "35047","San Miguel, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",6920,7575,7700,7665,7455,7516,7702,7464,7088,6875,6904,6928,7221,7166,7396,7339,7342
+ "35047","San Miguel, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),78,81,88,98,80,98,(D),(D),(D),(D),71,60,66,51,46,42
+ "35047","San Miguel, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),48,48,30,41,41,40,(D),(D),(D),(D),48,44,39,36,55,51
+ "35047","San Miguel, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",23,(D),19,19,19,22,24,27,31,29,31,33,33,30,34,39,47
+ "35047","San Miguel, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",577,558,610,608,596,650,701,657,551,490,465,480,503,483,494,511,510
+ "35047","San Miguel, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",124,152,140,131,145,131,138,136,115,109,116,112,139,153,145,140,153
+ "35047","San Miguel, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",119,163,135,154,141,129,121,116,101,85,93,91,105,116,115,87,88
+ "35047","San Miguel, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1265,1227,1189,1190,1201,1189,1276,1291,1273,1231,1185,1168,1157,1150,1160,1126,1099
+ "35047","San Miguel, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",162,(D),161,155,150,149,169,155,136,132,172,171,222,289,350,333,312
+ "35047","San Miguel, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",111,114,107,106,119,124,141,122,106,103,101,101,86,72,62,64,63
+ "35047","San Miguel, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",275,297,295,306,300,292,305,330,307,329,340,358,337,303,328,327,341
+ "35047","San Miguel, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",179,178,181,199,192,248,246,244,222,247,246,245,262,269,247,249,252
+ "35047","San Miguel, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),328,335,337,289,281,286,284,269,301
+ "35047","San Miguel, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),7,23,39,40
+ "35047","San Miguel, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",454,464,449,389,482,410,390,300,(D),(D),(D),(D),(D),151,147,136,133
+ "35047","San Miguel, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",395,388,394,430,379,305,288,261,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35047","San Miguel, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1211,1694,1910,1870,1630,1807,1831,1864,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35047","San Miguel, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",206,188,185,188,192,175,184,215,212,205,(D),(D),(D),(D),(D),(D),(D)
+ "35047","San Miguel, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",955,1002,968,972,951,939,902,762,742,748,(D),(D),(D),(D),(D),(D),(D)
+ "35047","San Miguel, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",460,498,496,484,488,468,471,470,460,448,467,462,454,452,483,447,443
+ "35047","San Miguel, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",4455,4436,4441,4433,4391,4342,4276,4409,4418,4334,4173,4101,3971,3897,3793,3682,3570
+ "35047","San Miguel, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",170,182,170,156,152,149,149,150,159,170,150,148,144,141,137,130,128
+ "35047","San Miguel, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",94,92,89,84,78,74,73,76,75,76,78,77,76,70,70,69,69
+ "35047","San Miguel, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",4191,4162,4182,4193,4161,4119,4054,4183,4184,4088,3945,3876,3751,3686,3586,3483,3373
+ "35047","San Miguel, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",2551,2483,2449,2461,2404,2441,2423,2514,2541,2473,2357,2303,2292,2301,2276,2232,2151
+ "35047","San Miguel, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",1640,1679,1733,1732,1757,1678,1631,1669,1643,1615,1588,1573,1459,1385,1310,1251,1222
+ "35049","Santa Fe, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",84055,85360,87912,90099,93143,94699,98058,98098,93942,92489,92417,91816,92784,93260,94396,94508,94550
+ "35049","Santa Fe, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",62296,63314,65083,65993,68389,69613,71198,71021,66598,65263,64843,64366,64667,64281,65414,65283,64756
+ "35049","Santa Fe, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",21759,22046,22829,24106,24754,25086,26860,27077,27344,27226,27574,27450,28117,28979,28982,29225,29794
+ "35049","Santa Fe, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",509,430,448,411,386,357,402,427,453,494,557,595,603,601,602,599,602
+ "35049","Santa Fe, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",21250,21616,22381,23695,24368,24729,26458,26650,26891,26732,27017,26855,27514,28378,28380,28626,29192
+ "35049","Santa Fe, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",628,548,573,536,521,488,530,544,580,618,686,735,758,738,753,768,749
+ "35049","Santa Fe, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",83427,84812,87339,89563,92622,94211,97528,97554,93362,91871,91731,91081,92026,92522,93643,93740,93801
+ "35049","Santa Fe, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",66052,67263,69257,71401,73557,74995,78350,77962,73865,72866,73610,73468,74507,74991,76286,77480,77963
+ "35049","Santa Fe, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",110,171,144,(D),(D),136,161,184,162,160,164,152,176,186,176,195,201
+ "35049","Santa Fe, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",536,478,518,(D),(D),574,620,808,(D),970,810,1054,1077,1058,1235,1244,1275
+ "35049","Santa Fe, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",127,137,138,129,109,123,123,128,156,146,134,139,137,139,156,173,179
+ "35049","Santa Fe, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",6397,6120,6399,6489,6573,6962,7017,6607,5217,4699,4653,4635,4758,4581,4478,4581,4669
+ "35049","Santa Fe, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",2037,1923,1801,1839,1858,1790,1771,1579,1556,1425,1480,1483,1636,1629,1661,1702,1814
+ "35049","Santa Fe, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",1180,1255,1294,1386,1573,1650,1680,1701,1575,1469,1449,1383,1440,1582,1690,1442,1425
+ "35049","Santa Fe, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",10221,10250,10421,10493,10662,10850,11122,11120,10678,10423,10536,10797,10916,10889,10743,10582,10253
+ "35049","Santa Fe, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",770,828,795,815,817,804,849,891,836,842,816,831,903,948,945,1012,1014
+ "35049","Santa Fe, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",1436,1280,1364,1370,1650,1828,2744,2629,(D),1816,1587,1384,1531,1498,1491,1596,1592
+ "35049","Santa Fe, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",2515,2689,2747,2863,2877,3015,3145,3388,3519,3431,3588,3605,3697,3448,3349,3357,3410
+ "35049","Santa Fe, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",4454,4398,4620,4864,5109,5335,5631,5388,5275,5243,5282,5060,5051,5141,5081,5077,5185
+ "35049","Santa Fe, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",6474,6498,6607,7229,7130,7165,7684,7683,7336,7329,7266,7184,7181,7159,7371,7316,7535
+ "35049","Santa Fe, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",229,233,224,252,387,295,280,275,267,269,278,240,251,256,303,343,358
+ "35049","Santa Fe, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",2939,3079,3419,3620,3716,3594,4108,3904,3463,3145,3551,3394,3566,3523,3438,3738,3846
+ "35049","Santa Fe, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",2285,2390,2671,2721,2920,2897,2678,2736,2389,2347,2395,2410,2573,2738,2780,2939,2785
+ "35049","Santa Fe, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",6956,7451,7855,8096,8777,8971,9496,9845,10037,10425,10614,10650,10292,10327,11092,11269,11204
+ "35049","Santa Fe, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",3736,4026,3996,4011,4133,4124,4294,4367,4301,4259,4311,4283,4381,4662,4635,4668,4880
+ "35049","Santa Fe, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",8156,8284,8400,8534,8603,8766,8799,8579,8550,8613,8672,8856,8978,9049,9351,9903,10021
+ "35049","Santa Fe, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",5494,5773,5844,6065,6026,6116,6148,6150,5972,5855,6024,5928,5963,6178,6311,6343,6317
+ "35049","Santa Fe, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",17375,17549,18082,18162,19065,19216,19178,19592,19497,19005,18121,17613,17519,17531,17357,16260,15838
+ "35049","Santa Fe, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",1323,1302,1235,1213,1150,1126,1067,1033,1040,1182,1029,983,962,950,950,979,988
+ "35049","Santa Fe, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",429,428,420,400,374,365,364,381,379,387,403,406,406,380,385,383,387
+ "35049","Santa Fe, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",15623,15819,16427,16549,17541,17725,17747,18178,18078,17436,16689,16224,16151,16201,16022,14898,14463
+ "35049","Santa Fe, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",9525,9647,10043,9942,10196,10297,10283,10548,10490,10014,9306,8868,8905,9040,8934,7853,7637
+ "35049","Santa Fe, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",6098,6172,6384,6607,7345,7428,7464,7630,7588,7422,7383,7356,7246,7161,7088,7045,6826
+ "35051","Sierra, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",4464,4460,4349,4420,4516,4588,4861,5022,5019,5009,4946,4803,4819,4836,4899,4982,4999
+ "35051","Sierra, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",3060,3058,2992,3034,3084,3135,3210,3437,3439,3477,3408,3310,3361,3384,3466,3524,3514
+ "35051","Sierra, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",1404,1402,1357,1386,1432,1453,1651,1585,1580,1532,1538,1493,1458,1452,1433,1458,1485
+ "35051","Sierra, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",262,220,232,219,210,200,230,220,213,212,220,217,220,220,223,222,222
+ "35051","Sierra, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",1142,1182,1125,1167,1222,1253,1421,1365,1367,1320,1318,1276,1238,1232,1210,1236,1263
+ "35051","Sierra, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",389,344,367,358,363,352,384,348,341,326,329,325,339,325,339,352,335
+ "35051","Sierra, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",4075,4116,3982,4062,4153,4236,4477,4674,4678,4683,4617,4478,4480,4511,4560,4630,4664
+ "35051","Sierra, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",3111,3185,3035,3085,3212,3309,3574,3738,3740,3747,3701,3548,3582,3600,3672,3724,3747
+ "35051","Sierra, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),146,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35051","Sierra, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),13,(D),(D),(D),(D),(D),31,(D),(D),(D),(D),(D),(D),(D)
+ "35051","Sierra, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),27,27,31,33,36,44
+ "35051","Sierra, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",(D),(D),317,287,292,369,454,501,449,419,401,330,335,334,338,313,326
+ "35051","Sierra, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),(D),120,120,133,150,163,162,149,156,129,133,126,127,119,136,137
+ "35051","Sierra, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),24,25,25,31,35,21,21
+ "35051","Sierra, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",494,463,454,447,449,473,501,593,612,595,585,578,558,581,566,591,607
+ "35051","Sierra, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),86,73,75,88,93,92,86,73,69,(D),69,70,60,68,63,66
+ "35051","Sierra, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",40,37,34,28,25,26,28,25,29,29,37,38,37,34,29,31,31
+ "35051","Sierra, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",76,102,104,98,91,93,109,110,120,107,114,112,105,107,97,116,115
+ "35051","Sierra, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",171,160,144,137,159,140,156,175,191,178,183,197,190,181,184,169,175
+ "35051","Sierra, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",151,165,168,241,278,266,289,272,230,213,186,167,151,144,133,135,133
+ "35051","Sierra, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,18,22,32,(D)
+ "35051","Sierra, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",85,78,75,65,78,95,98,83,107,101,76,62,75,56,74,78,(D)
+ "35051","Sierra, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35051","Sierra, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35051","Sierra, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",94,105,104,112,121,121,(D),(D),(D),124,148,133,109,101,126,139,115
+ "35051","Sierra, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",557,551,457,471,497,493,(D),(D),(D),488,498,464,469,489,512,486,502
+ "35051","Sierra, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",305,325,313,319,323,299,317,289,299,301,302,277,276,285,273,272,280
+ "35051","Sierra, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",964,931,947,977,941,927,903,936,938,936,916,930,898,911,888,906,917
+ "35051","Sierra, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",118,120,119,119,108,103,98,115,122,126,121,122,109,108,95,86,86
+ "35051","Sierra, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",42,40,39,36,32,31,30,32,31,32,33,32,31,28,29,28,28
+ "35051","Sierra, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",804,771,789,822,801,793,775,789,785,778,762,776,758,775,764,792,803
+ "35051","Sierra, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",297,305,311,313,312,310,292,297,296,284,264,272,271,279,287,306,314
+ "35051","Sierra, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",507,466,478,509,489,483,483,492,489,494,498,504,487,496,477,486,489
+ "35053","Socorro, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",6988,7289,7549,7772,8220,8212,8428,8536,8343,8179,8189,8265,7969,7824,7862,8013,7853
+ "35053","Socorro, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",5391,5669,5820,5986,6266,6299,6360,6532,6412,6302,6240,6343,6084,5952,6039,6186,5996
+ "35053","Socorro, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",1597,1620,1729,1786,1954,1913,2068,2004,1931,1877,1949,1922,1885,1872,1823,1827,1857
+ "35053","Socorro, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",470,378,413,404,402,395,470,477,490,520,572,597,605,603,604,601,604
+ "35053","Socorro, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",1127,1242,1316,1382,1552,1518,1598,1527,1441,1357,1377,1325,1280,1269,1219,1226,1253
+ "35053","Socorro, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",612,511,556,551,563,554,629,628,660,692,757,803,833,805,826,849,820
+ "35053","Socorro, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",6376,6778,6993,7221,7657,7658,7799,7908,7683,7487,7432,7462,7136,7019,7036,7164,7033
+ "35053","Socorro, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",3714,4054,4123,4239,4577,4600,4780,4752,4580,4442,4428,4511,4405,4340,4349,4454,4372
+ "35053","Socorro, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35053","Socorro, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35053","Socorro, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35053","Socorro, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",277,349,306,262,231,233,223,226,206,185,178,178,185,166,162,180,151
+ "35053","Socorro, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",171,200,172,168,195,230,230,223,208,198,185,171,174,185,190,196,207
+ "35053","Socorro, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35053","Socorro, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",519,551,598,586,739,708,715,692,668,625,632,626,636,633,617,647,613
+ "35053","Socorro, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",107,107,105,130,126,114,122,124,109,104,122,164,101,99,103,97,94
+ "35053","Socorro, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",62,60,59,64,83,60,60,57,54,48,43,40,34,34,26,25,25
+ "35053","Socorro, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",150,141,130,144,148,151,178,172,188,177,182,191,183,102,102,115,119
+ "35053","Socorro, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",110,105,113,152,156,148,161,158,160,161,159,152,147,130,134,136,139
+ "35053","Socorro, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",549,612,670,690,654,668,640,643,615,554,509,498,450,448,446,443,440
+ "35053","Socorro, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35053","Socorro, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35053","Socorro, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),(D),(D),54,(D),(D),43,44,(D),(D),(D),(D),(D),(D)
+ "35053","Socorro, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),764,(D),(D),844,843,(D),(D),(D),(D),(D),(D)
+ "35053","Socorro, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),82,86,87
+ "35053","Socorro, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),671,688,671
+ "35053","Socorro, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",325,322,334,319,358,375,402,393,345,325,315,316,310,310,307,301,302
+ "35053","Socorro, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2662,2724,2870,2982,3080,3058,3019,3156,3103,3045,3004,2951,2731,2679,2687,2710,2661
+ "35053","Socorro, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",235,247,242,245,237,241,226,220,221,227,223,210,194,191,178,182,175
+ "35053","Socorro, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",57,55,54,51,48,46,45,47,46,47,48,47,47,43,44,47,42
+ "35053","Socorro, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",2370,2422,2574,2686,2795,2771,2748,2889,2836,2771,2733,2694,2490,2445,2465,2481,2444
+ "35053","Socorro, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",1388,1427,1558,1675,1789,1767,1743,1851,1738,1679,1685,1638,1441,1432,1456,1453,1442
+ "35053","Socorro, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",982,995,1016,1011,1006,1004,1005,1038,1098,1092,1048,1056,1049,1013,1009,1028,1002
+ "35055","Taos, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",16396,17127,17216,17345,17751,18016,18461,18204,17788,17220,17107,17117,17380,17612,17624,17672,17905
+ "35055","Taos, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",10780,11470,11505,11489,11711,11844,12011,12078,11599,11227,11065,10927,11145,11213,11227,11352,11484
+ "35055","Taos, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",5616,5657,5711,5856,6040,6172,6450,6126,6189,5993,6042,6190,6235,6399,6397,6320,6421
+ "35055","Taos, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",541,437,491,481,480,470,558,601,647,715,815,880,889,887,883,878,881
+ "35055","Taos, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",5075,5220,5220,5375,5560,5702,5892,5525,5542,5278,5227,5310,5346,5512,5514,5442,5540
+ "35055","Taos, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",589,486,542,533,535,523,610,649,701,768,872,944,959,949,951,954,947
+ "35055","Taos, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",15807,16641,16674,16812,17216,17493,17851,17555,17087,16452,16235,16173,16421,16663,16673,16718,16958
+ "35055","Taos, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",13532,14286,14298,14424,14863,15151,15534,15221,14697,14060,13912,13859,14158,14360,14444,14536,14805
+ "35055","Taos, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",101,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),107,109
+ "35055","Taos, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",318,267,277,297,370,471,482,726,570,440,421,422,419,360,223,235,238
+ "35055","Taos, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),125,(D),151,134,129,139,138,135,139,145,154
+ "35055","Taos, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",1460,1615,1532,1660,1764,1858,1717,1468,1272,1111,1018,1044,1128,1174,1101,1088,1116
+ "35055","Taos, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",402,419,389,398,351,348,366,376,372,333,335,341,363,356,409,398,427
+ "35055","Taos, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",220,215,223,198,223,200,193,187,180,193,199,197,186,248,249,192,193
+ "35055","Taos, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2044,1971,2020,2015,2036,2038,2035,2001,1900,1815,1833,1804,1819,1833,1867,1882,1923
+ "35055","Taos, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),149,(D),136,135,159,162,128,123,124,122,128
+ "35055","Taos, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",287,251,249,222,261,254,254,262,230,230,225,232,253,265,250,271,268
+ "35055","Taos, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",315,341,348,333,419,426,479,436,451,394,396,399,392,407,393,384,390
+ "35055","Taos, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",705,738,748,811,876,897,971,882,834,819,800,772,826,819,787,800,773
+ "35055","Taos, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",760,(D),(D),896,941,1002,1131,1125,1113,(D),(D),(D),943,986,1035,981,973
+ "35055","Taos, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),43,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35055","Taos, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),715,592,(D),394,(D),(D),(D),(D),739,690,680,(D),(D),(D),(D),(D)
+ "35055","Taos, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",188,153,190,257,309,293,279,295,287,290,271,292,368,402,414,453,480
+ "35055","Taos, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1560,1741,1835,1846,1813,1848,1907,1946,1986,1965,2049,2067,1960,1943,1996,2060,2079
+ "35055","Taos, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",1175,1268,1240,1217,1291,1293,1324,1278,1329,1304,1284,1291,1324,1372,1519,1509,1590
+ "35055","Taos, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",2330,2343,2396,2473,2377,2368,2306,2204,2147,2139,2132,2076,2308,2463,2440,2413,2405
+ "35055","Taos, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1019,1063,1059,1024,1048,1057,1072,1040,1014,984,927,890,908,907,923,925,919
+ "35055","Taos, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2275,2355,2376,2388,2353,2342,2317,2334,2390,2392,2323,2314,2263,2303,2229,2182,2153
+ "35055","Taos, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",307,338,346,330,317,305,301,319,318,347,301,298,283,281,280,270,260
+ "35055","Taos, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",99,98,97,93,86,84,84,87,86,88,91,90,89,84,84,84,84
+ "35055","Taos, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",1869,1919,1933,1965,1950,1953,1932,1928,1986,1957,1931,1926,1891,1938,1865,1828,1809
+ "35055","Taos, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",362,350,352,358,358,363,355,360,361,355,347,344,353,360,364,352,345
+ "35055","Taos, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",1507,1569,1581,1607,1592,1590,1577,1568,1625,1602,1584,1582,1538,1578,1501,1476,1464
+ "35057","Torrance, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",5485,5539,5439,5543,5713,5740,5819,5638,5337,5178,5159,5277,5234,5232,5351,5284,5336
+ "35057","Torrance, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",3689,3796,3706,3731,3854,3854,3846,3673,3443,3403,3389,3522,3480,3482,3536,3481,3505
+ "35057","Torrance, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",1796,1743,1733,1812,1859,1886,1973,1965,1894,1775,1770,1755,1754,1750,1815,1803,1831
+ "35057","Torrance, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",564,455,480,453,437,416,482,470,464,473,502,508,516,514,517,514,517
+ "35057","Torrance, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",1232,1288,1253,1359,1422,1470,1491,1495,1430,1302,1268,1247,1238,1236,1298,1289,1314
+ "35057","Torrance, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",755,655,676,636,619,576,624,595,596,598,629,641,663,644,660,674,656
+ "35057","Torrance, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",4730,4884,4763,4907,5094,5164,5195,5043,4741,4580,4530,4636,4571,4588,4691,4610,4680
+ "35057","Torrance, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",3524,3693,3539,3648,3824,3932,3976,3854,3499,3354,3350,3494,3481,3530,3660,3575,3664
+ "35057","Torrance, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35057","Torrance, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",13,9,17,13,14,12,17,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35057","Torrance, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),108,(D),(D),(D),(D),(D),(D),(D),110
+ "35057","Torrance, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",324,373,401,384,417,416,445,432,382,327,322,318,275,276,294,293,326
+ "35057","Torrance, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",112,117,124,132,133,169,165,166,138,134,133,169,186,187,209,139,148
+ "35057","Torrance, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),83,153,179,190,198,231,231,206,195
+ "35057","Torrance, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",703,709,684,719,734,727,719,665,640,632,634,632,648,665,670,657,653
+ "35057","Torrance, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",245,239,208,216,230,240,229,196,162,(D),(D),(D),(D),(D),(D),(D),160
+ "35057","Torrance, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",(D),(D),(D),(D),30,30,33,37,37,38,36,39,38,31,(D),29,31
+ "35057","Torrance, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",75,116,97,(D),(D),(D),120,121,128,(D),103,102,107,95,78,84,(D)
+ "35057","Torrance, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",91,101,88,(D),(D),(D),150,174,156,(D),140,113,112,112,(D),123,(D)
+ "35057","Torrance, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),110,120,121,(D),144,159,146,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35057","Torrance, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,13,18,22,32,33
+ "35057","Torrance, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),697,569,598,(D),703,605,493,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35057","Torrance, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),26,(D),(D),29,(D),(D),(D),44,47,89,92,111,93,(D)
+ "35057","Torrance, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),244,(D),(D),374,(D),(D),(D),380,480,375,371,394,430,(D)
+ "35057","Torrance, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",85,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35057","Torrance, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",348,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35057","Torrance, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",(D),(D),(D),(D),311,299,298,315,312,284,284,283,289,285,288,286,282
+ "35057","Torrance, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1206,1191,1224,1259,1270,1232,1219,1189,1242,1226,1180,1142,1090,1058,1031,1035,1016
+ "35057","Torrance, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",89,93,96,92,87,87,85,81,90,99,81,80,73,73,66,65,63
+ "35057","Torrance, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",53,51,50,47,43,42,42,42,42,43,44,43,42,39,39,39,39
+ "35057","Torrance, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",1064,1047,1078,1120,1140,1103,1092,1066,1110,1084,1055,1019,975,946,926,931,914
+ "35057","Torrance, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",90,90,88,89,90,91,105,70,70,69,67,67,67,68,77,98,96
+ "35057","Torrance, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",974,957,990,1031,1050,1012,987,996,1040,1015,988,952,908,878,849,833,818
+ "35059","Union, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",2548,2447,2448,2427,2411,2371,2383,2370,2329,2202,2222,2171,2354,2352,2378,2388,2379
+ "35059","Union, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",1530,1522,1534,1518,1525,1540,1513,1555,1496,1429,1440,1383,1595,1562,1563,1576,1550
+ "35059","Union, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",1018,925,914,909,886,831,870,815,833,773,782,788,759,790,815,812,829
+ "35059","Union, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",506,408,396,349,315,280,303,292,283,284,296,295,301,300,303,302,303
+ "35059","Union, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",512,517,518,560,571,551,567,523,550,489,486,493,458,490,512,510,526
+ "35059","Union, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",704,592,586,537,513,468,484,440,427,409,412,406,424,409,423,436,420
+ "35059","Union, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",1844,1855,1862,1890,1898,1903,1899,1930,1902,1793,1810,1765,1930,1943,1955,1952,1959
+ "35059","Union, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",1458,1459,1472,1502,1508,1512,1510,1547,1515,1402,1437,1416,1575,1596,1617,1628,1631
+ "35059","Union, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35059","Union, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),32,(D),(D),(D),(D),(D),(D),49,52
+ "35059","Union, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),26,(D),27,28,29,(D),(D),(D),(D)
+ "35059","Union, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",118,100,100,99,106,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35059","Union, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",18,28,36,36,32,(D),(D),35,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35059","Union, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",78,69,66,(D),(D),(D),(D),(D),(D),56,(D),(D),(D),51,47,(D),(D)
+ "35059","Union, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",207,198,200,210,211,203,199,183,181,172,196,178,191,190,198,214,208
+ "35059","Union, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35059","Union, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",57,53,54,55,57,50,48,48,48,52,(D),48,51,49,50,50,50
+ "35059","Union, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),136,(D),114,(D),116,(D),(D),(D),(D),(D),(D),(D),98
+ "35059","Union, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),(D),(D),(D),23,(D),55,(D),57,(D),(D),(D),(D),(D),(D),(D),25
+ "35059","Union, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),62,64,75,76,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35059","Union, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "35059","Union, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",20,24,19,20,38,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35059","Union, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),10,9,10,12,(D),(D)
+ "35059","Union, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),250,214,220,209,(D),(D)
+ "35059","Union, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),19,(D),19,20,20,29,20,20,(D),19,26,27,(D),18,26,25
+ "35059","Union, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),231,(D),213,203,221,213,210,176,(D),175,169,162,(D),170,167,170
+ "35059","Union, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",110,112,102,102,99,104,104,108,117,106,107,114,108,119,132,114,110
+ "35059","Union, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",386,396,390,388,390,391,389,383,387,391,373,349,355,347,338,324,328
+ "35059","Union, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",59,66,66,64,65,63,60,59,61,64,57,52,51,48,42,42,42
+ "35059","Union, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",13,13,12,11,10,10,10,10,10,11,11,10,10,9,9,9,9
+ "35059","Union, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",314,317,312,313,315,318,319,314,316,316,305,287,294,290,287,273,277
+ "35059","Union, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",54,54,52,54,54,55,55,53,52,52,52,52,52,54,54,47,42
+ "35059","Union, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",260,263,260,259,261,263,264,261,264,264,253,235,242,236,233,226,235
+ "35061","Valencia, NM",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",18894,19664,20969,21283,21987,23146,23924,23906,23039,22017,21757,21569,21089,21287,21607,21919,22506
+ "35061","Valencia, NM",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",13146,14117,15240,15407,15935,16765,17100,17237,16433,15501,14962,14803,14439,14672,15066,15269,15745
+ "35061","Valencia, NM",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",5748,5547,5729,5876,6052,6381,6824,6669,6606,6516,6795,6766,6650,6615,6541,6650,6761
+ "35061","Valencia, NM",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",870,708,774,735,720,690,806,898,1003,1139,1328,1456,1467,1462,1447,1439,1445
+ "35061","Valencia, NM",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",4878,4839,4955,5141,5332,5691,6018,5771,5603,5377,5467,5310,5183,5153,5094,5211,5316
+ "35061","Valencia, NM",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",954,775,858,832,838,817,945,1035,1162,1304,1509,1661,1694,1662,1667,1685,1659
+ "35061","Valencia, NM",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",17940,18889,20111,20451,21149,22329,22979,22871,21877,20713,20248,19908,19395,19625,19940,20234,20847
+ "35061","Valencia, NM",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",13589,14476,15647,15982,16590,17709,18349,18154,17182,16125,15879,15583,15093,15306,15655,16073,16716
+ "35061","Valencia, NM",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "35061","Valencia, NM",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),57,53,70,79,87,99,96,111,95,(D),99,90,96
+ "35061","Valencia, NM",6,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),66,(D),75,(D),(D),(D),72,61,63,56,67,64,61,60,68,83
+ "35061","Valencia, NM",6,CAEMP25N,400,"23","   Construction","Number of jobs",1449,1504,1563,1675,1871,2181,2019,1784,1506,1380,1343,1383,1458,1437,1485,1558,1958
+ "35061","Valencia, NM",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",990,1010,909,915,950,1007,1028,1038,768,736,878,717,712,702,786,866,1004
+ "35061","Valencia, NM",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),226,(D),251,289,(D),(D),331,300,307,309,314,325,384,388,270,224
+ "35061","Valencia, NM",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2504,2569,2912,2923,2900,2902,2910,2911,2940,2881,2885,2811,2768,2799,2839,2823,2834
+ "35061","Valencia, NM",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",1494,1581,1550,1450,1468,1594,1722,1760,1638,1461,1383,1313,1397,1433,1536,1564,1546
+ "35061","Valencia, NM",6,CAEMP25N,900,"51","   Information","Number of jobs",(D),140,146,164,170,172,(D),(D),(D),(D),(D),150,163,146,133,119,133
+ "35061","Valencia, NM",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",508,519,509,533,530,589,599,618,645,647,626,658,664,650,593,655,672
+ "35061","Valencia, NM",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",577,596,640,773,876,916,983,936,844,816,773,708,678,730,758,755,756
+ "35061","Valencia, NM",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",658,643,656,646,684,698,829,779,720,707,695,696,702,672,707,678,738
+ "35061","Valencia, NM",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),148,97,65,31,86,70,106,91,135,105,98,138,131
+ "35061","Valencia, NM",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),562,619,636,681,670,624,617,658,586,574,567,690,692
+ "35061","Valencia, NM",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",151,164,184,143,173,209,(D),190,213,212,199,(D),(D),208,228,258,272
+ "35061","Valencia, NM",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1553,1839,2353,2486,2679,3006,(D),3477,3395,2944,2691,(D),(D),2052,2185,2293,2304
+ "35061","Valencia, NM",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",339,336,352,360,326,358,414,363,365,358,340,333,336,356,(D),(D),(D)
+ "35061","Valencia, NM",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1214,1349,1499,1472,1468,1511,1531,1394,1334,1303,1336,1405,1424,1493,1504,1526,1541
+ "35061","Valencia, NM",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",(D),1201,1224,1271,1276,1343,1421,(D),1326,1249,1298,1272,1253,1278,1261,1289,1306
+ "35061","Valencia, NM",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",4351,4413,4464,4469,4559,4620,4630,4717,4695,4588,4369,4325,4302,4319,4285,4161,4131
+ "35061","Valencia, NM",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",114,118,119,117,118,124,124,123,116,143,114,112,106,104,97,96,97
+ "35061","Valencia, NM",6,CAEMP25N,2002,"...","   Military","Number of jobs",216,215,211,200,187,185,188,199,198,204,210,208,207,192,194,193,193
+ "35061","Valencia, NM",6,CAEMP25N,2010,"...","   State and local","Number of jobs",4021,4080,4134,4152,4254,4311,4318,4395,4381,4241,4045,4005,3989,4023,3994,3872,3841
+ "35061","Valencia, NM",6,CAEMP25N,2011,"...","    State government","Number of jobs",1501,1496,1548,1560,1559,1571,1519,1562,1555,1514,1415,1382,1387,1416,1378,1241,1228
+ "35061","Valencia, NM",6,CAEMP25N,2012,"...","    Local government","Number of jobs",2520,2584,2586,2592,2695,2740,2799,2833,2826,2727,2630,2623,2602,2607,2616,2631,2613
+"Note: See the included footnote file."
+"CAEMP25N: Total Full-Time and Part-Time Employment by NAICS Industry 1/"
+"Last updated: November 15, 2018-- new statistics for 2017; revised statistics for 2001-2016. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

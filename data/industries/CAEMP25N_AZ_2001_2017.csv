@@ -1,0 +1,533 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+ "04000","Arizona",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",2829002,2847095,2917121,3041476,3219820,3375218,3465075,3402808,3228493,3181571,3239045,3295537,3371219,3448834,3548679,3646813,3727687
+ "04000","Arizona",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",2352082,2356072,2393694,2479989,2610087,2738783,2773088,2706550,2515005,2473095,2499245,2558410,2617500,2669755,2745697,2816903,2881141
+ "04000","Arizona",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",476920,491023,523427,561487,609733,636435,691987,696258,713488,708476,739800,737127,753719,779079,802982,829910,846546
+ "04000","Arizona",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",10086,7356,9727,9541,9557,9446,15029,15640,16253,17192,18184,18959,18748,18758,18688,18762,18757
+ "04000","Arizona",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",466834,483667,513700,551946,600176,626989,676958,680618,697235,691284,721616,718168,734971,760321,784294,811148,827789
+ "04000","Arizona",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",22316,19274,22528,22562,23390,22869,28319,27272,28403,28609,29707,31585,32697,31118,32272,33965,31976
+ "04000","Arizona",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",2806686,2827821,2894593,3018914,3196430,3352349,3436756,3375536,3200090,3152962,3209338,3263952,3338522,3417716,3516407,3612848,3695711
+ "04000","Arizona",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",2409504,2416280,2474153,2593386,2764225,2914967,2986999,2916467,2747465,2703979,2767486,2820792,2894121,2972582,3071764,3167027,3247061
+ "04000","Arizona",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",18083,18949,17659,18017,17227,17503,17526,16486,14828,15508,15642,15281,15233,15920,16508,16388,15397
+ "04000","Arizona",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",12919,11662,11717,11603,12508,13698,16208,19114,16520,17976,17698,22558,23098,22312,22500,22710,23829
+ "04000","Arizona",6,CAEMP25N,300,"22","   Utilities","Number of jobs",11233,11317,11684,11726,12130,12740,13181,13297,12844,12515,12256,12607,12282,12338,12658,13260,13711
+ "04000","Arizona",6,CAEMP25N,400,"23","   Construction","Number of jobs",214418,213386,220988,239849,273970,297178,282613,240419,179765,159503,159458,165892,174505,176276,178896,191365,203279
+ "04000","Arizona",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",211028,193778,185806,186909,190478,195723,193259,183747,165325,158837,161619,166685,168502,169370,171731,175183,180525
+ "04000","Arizona",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",105069,103220,102462,106415,111817,117744,121970,120663,112851,108771,109723,109798,110642,113497,114498,108022,108782
+ "04000","Arizona",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",324534,328599,338001,352318,374880,390925,402242,387578,362602,353033,357062,358793,363166,379603,390401,395504,399068
+ "04000","Arizona",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",81317,81364,82202,85006,89120,94720,97127,94812,90208,87237,92091,95809,97468,102216,114739,128506,133631
+ "04000","Arizona",6,CAEMP25N,900,"51","   Information","Number of jobs",62101,58899,57885,56422,54141,53851,51811,51246,48956,47208,47471,48794,53047,55169,55888,56770,56695
+ "04000","Arizona",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",152092,154114,158669,163133,171999,179516,189335,192198,200610,194132,206458,207319,214620,213679,224148,236280,249822
+ "04000","Arizona",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",124961,129146,139210,157771,182648,194261,203317,198346,192220,193013,197336,193109,194965,199866,203239,207328,212997
+ "04000","Arizona",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",166383,165643,170788,183369,192877,205656,217638,217317,206567,205114,206773,206637,212362,217299,224084,231180,236671
+ "04000","Arizona",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",22768,23162,22524,24306,25520,27929,29399,32000,30926,29568,29378,30934,33163,34926,37263,41163,41251
+ "04000","Arizona",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",234378,231718,237578,249128,269809,288018,293020,278474,252349,250884,256003,264025,278484,285861,292067,302319,304419
+ "04000","Arizona",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",32141,37094,40937,44818,50221,54153,55201,58834,62000,67393,68948,72044,72170,75703,78960,79105,79923
+ "04000","Arizona",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",228413,237793,253375,264024,276785,292010,308326,322581,328128,340138,349623,358814,366099,373198,389569,404181,416787
+ "04000","Arizona",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",54023,55654,56206,58542,61156,64082,68416,69731,66540,66938,68101,70545,71496,76221,76803,79556,82452
+ "04000","Arizona",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",213251,213969,217589,226010,238181,249193,253109,249570,237768,235696,242527,247437,256307,265916,277454,287775,296341
+ "04000","Arizona",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",140392,146813,148873,154020,158758,166067,173301,170054,166458,160515,169319,173711,176512,183212,190358,190432,191481
+ "04000","Arizona",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",397182,411541,420440,425528,432205,437382,449757,459069,452625,448983,441852,443160,444401,445134,444643,445821,448650
+ "04000","Arizona",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",47034,48933,50591,51077,51831,52143,52365,54448,56814,60017,57250,56477,55617,54636,54687,55355,55861
+ "04000","Arizona",6,CAEMP25N,2002,"...","   Military","Number of jobs",33032,33316,34750,34527,34147,33188,33789,33842,34453,34886,34048,33381,33307,32595,32326,32800,33902
+ "04000","Arizona",6,CAEMP25N,2010,"...","   State and local","Number of jobs",317116,329292,335099,339924,346227,352051,363603,370779,361358,354080,350554,353302,355477,357903,357630,357666,358887
+ "04000","Arizona",6,CAEMP25N,2011,"...","    State government","Number of jobs",80466,82400,83552,83844,84663,84568,88009,88203,84321,83447,84037,85390,88033,89678,91273,90965,91387
+ "04000","Arizona",6,CAEMP25N,2012,"...","    Local government","Number of jobs",236650,246892,251547,256080,261564,267483,275594,282576,277037,270633,266517,267912,267444,268225,266357,266701,267500
+ "04001","Apache, AZ",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",23502,23967,24731,25532,26469,27369,29485,29453,29595,29145,28943,28618,28034,27994,28075,27999,28209
+ "04001","Apache, AZ",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",19950,20431,20134,20200,20290,20821,20715,20805,20681,20104,19631,19385,18813,18590,18635,18531,18683
+ "04001","Apache, AZ",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",3552,3536,4597,5332,6179,6548,8770,8648,8914,9041,9312,9233,9221,9404,9440,9468,9526
+ "04001","Apache, AZ",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",510,374,1340,1846,2256,2527,4395,4568,4784,5090,5405,5659,5554,5557,5455,5474,5472
+ "04001","Apache, AZ",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",3042,3162,3257,3486,3923,4021,4375,4080,4130,3951,3907,3574,3667,3847,3985,3994,4054
+ "04001","Apache, AZ",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",516,380,1345,1850,2260,2533,4401,4578,4791,5097,5415,5669,5568,5571,5466,5482,5479
+ "04001","Apache, AZ",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",22986,23587,23386,23682,24209,24836,25084,24875,24804,24048,23528,22949,22466,22423,22609,22517,22730
+ "04001","Apache, AZ",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",9891,10088,10234,10423,11330,11600,11985,11978,11924,11471,11704,11557,11482,11483,11745,11720,11883
+ "04001","Apache, AZ",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),238,253,215,223,255,228,221,210
+ "04001","Apache, AZ",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),63,193,222,194,185,179,215,266
+ "04001","Apache, AZ",6,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),238,256,292,294,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "04001","Apache, AZ",6,CAEMP25N,400,"23","   Construction","Number of jobs",1164,1044,1026,984,1224,(D),(D),(D),1087,1046,1024,884,758,739,664,680,811
+ "04001","Apache, AZ",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),(D),(D),(D),(D),610,693,632,684,605,589,467,438,393,353,393,424
+ "04001","Apache, AZ",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",208,224,197,219,272,259,219,223,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "04001","Apache, AZ",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1533,1639,1785,1816,1887,1894,1964,1866,1829,1708,1637,1532,1582,1540,1374,(D),1385
+ "04001","Apache, AZ",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),302,325,386,378,(D),387,385,364,389,425,516,582,578,576
+ "04001","Apache, AZ",6,CAEMP25N,900,"51","   Information","Number of jobs",156,160,126,138,138,146,142,117,123,120,120,118,125,99,188,180,163
+ "04001","Apache, AZ",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),205,191,196,203,206
+ "04001","Apache, AZ",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),658,(D),597,654,(D),640,596,625,610,625
+ "04001","Apache, AZ",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",331,295,313,366,409,427,474,428,370,352,326,306,371,377,397,393,382
+ "04001","Apache, AZ",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,0,44,40,38,1,1,0,0,0,0,0
+ "04001","Apache, AZ",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",374,341,357,403,426,440,422,411,418,375,340,370,401,443,540,501,465
+ "04001","Apache, AZ",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",744,830,845,812,667,697,681,657,629,633,617,615,545,565,619,616,623
+ "04001","Apache, AZ",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1199,1368,1421,1504,1886,1916,2075,2290,2349,2357,2560,2835,2886,2744,2814,2763,2813
+ "04001","Apache, AZ",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",157,(D),167,215,217,300,296,220,218,220,214,231,221,195,205,235,(D)
+ "04001","Apache, AZ",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1032,(D),1088,1058,1109,1151,1116,1143,1239,1239,1242,1186,1128,1199,1279,1376,(D)
+ "04001","Apache, AZ",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",689,720,677,706,721,727,762,773,760,713,730,728,704,705,711,692,696
+ "04001","Apache, AZ",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",13095,13499,13152,13259,12879,13236,13099,12897,12880,12577,11824,11392,10984,10940,10864,10797,10847
+ "04001","Apache, AZ",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",2711,2863,3022,3086,3156,3223,3270,3319,3453,3465,3035,2815,2713,2621,2605,2605,2632
+ "04001","Apache, AZ",6,CAEMP25N,2002,"...","   Military","Number of jobs",153,150,155,151,150,147,148,151,158,157,157,157,157,157,157,156,160
+ "04001","Apache, AZ",6,CAEMP25N,2010,"...","   State and local","Number of jobs",10231,10486,9975,10022,9573,9866,9681,9427,9269,8955,8632,8420,8114,8162,8102,8036,8055
+ "04001","Apache, AZ",6,CAEMP25N,2011,"...","    State government","Number of jobs",534,305,299,297,306,321,324,302,277,255,246,235,226,231,231,230,224
+ "04001","Apache, AZ",6,CAEMP25N,2012,"...","    Local government","Number of jobs",9697,10181,9676,9725,9267,9545,9357,9125,8992,8700,8386,8185,7888,7931,7871,7806,7831
+ "04003","Cochise, AZ",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",50753,50600,52389,53549,55625,56566,58186,57354,56700,56554,56143,54888,53141,52294,51819,51259,51028
+ "04003","Cochise, AZ",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",40235,40367,41534,42665,44540,45218,45849,45351,44834,45139,44526,43405,41759,40451,40061,39482,39071
+ "04003","Cochise, AZ",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",10518,10233,10855,10884,11085,11348,12337,12003,11866,11415,11617,11483,11382,11843,11758,11777,11957
+ "04003","Cochise, AZ",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",1337,968,1043,869,754,660,941,943,934,945,958,962,956,956,962,966,966
+ "04003","Cochise, AZ",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",9181,9265,9812,10015,10331,10688,11396,11060,10932,10470,10659,10521,10426,10887,10796,10811,10991
+ "04003","Cochise, AZ",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1998,1687,1841,1724,1808,1690,1999,1623,1787,2046,2082,2175,2186,1690,1640,1561,1439
+ "04003","Cochise, AZ",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",48755,48913,50548,51825,53817,54876,56187,55731,54913,54508,54061,52713,50955,50604,50179,49698,49589
+ "04003","Cochise, AZ",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",32012,32476,33657,34759,36155,37569,38487,38255,37471,36388,35797,34961,33927,34455,34440,34266,34454
+ "04003","Cochise, AZ",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),352,362,387,354,360,338,321,(D),(D),(D),397,452,410,397,366
+ "04003","Cochise, AZ",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",80,100,117,85,89,104,141,182,202,253,217,266,240,227,227,209,234
+ "04003","Cochise, AZ",6,CAEMP25N,300,"22","   Utilities","Number of jobs",497,484,507,514,522,516,543,528,525,544,519,487,324,363,360,316,306
+ "04003","Cochise, AZ",6,CAEMP25N,400,"23","   Construction","Number of jobs",2953,2957,3184,3422,3662,3818,3414,3003,2450,2394,2173,2142,1939,1979,2077,2194,2316
+ "04003","Cochise, AZ",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",1125,1093,1031,1048,1101,1040,1079,1017,933,792,(D),854,843,832,821,964,946
+ "04003","Cochise, AZ",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",608,584,648,645,630,759,693,699,655,650,660,604,618,741,708,612,598
+ "04003","Cochise, AZ",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",6035,6105,6417,6563,6667,6801,7075,6774,6243,5988,6086,6030,6062,6165,6048,6026,5825
+ "04003","Cochise, AZ",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",836,742,723,755,793,788,874,863,931,867,846,875,845,902,962,1010,1031
+ "04003","Cochise, AZ",6,CAEMP25N,900,"51","   Information","Number of jobs",613,587,599,649,588,595,665,730,771,763,743,532,509,502,618,591,589
+ "04003","Cochise, AZ",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",952,995,1019,1087,1097,1194,1291,1369,1317,1268,1340,1492,1419,1287,1323,1386,1549
+ "04003","Cochise, AZ",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),(D),1392,1519,1714,1919,2029,1927,1815,(D),(D),(D),1576,1572,1521,1550,1600
+ "04003","Cochise, AZ",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",2537,2524,2731,3321,3866,4251,4364,4657,4775,4917,4673,3840,3554,3428,3105,3002,2966
+ "04003","Cochise, AZ",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",84,132,117,61,79,119,149,180,204,179,152,112,98,113,103,110,108
+ "04003","Cochise, AZ",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",2278,2382,2420,2036,2173,2482,2586,2739,3030,2595,2555,2356,2523,2887,2893,2740,2803
+ "04003","Cochise, AZ",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",294,386,391,434,533,578,566,559,615,725,697,1434,1291,1284,1255,1194,1189
+ "04003","Cochise, AZ",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",4072,4179,4342,4419,4531,4459,4731,4821,4865,4680,4500,4393,4204,4113,4273,4553,4648
+ "04003","Cochise, AZ",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",720,748,760,812,861,867,964,933,864,842,843,847,833,862,826,861,865
+ "04003","Cochise, AZ",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",3900,3886,3943,4068,4037,4005,4045,4105,4140,4113,4083,3942,3904,3971,4048,3834,3797
+ "04003","Cochise, AZ",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",2813,2911,2964,2959,2825,2920,2918,2831,2815,2724,2824,2797,2748,2775,2862,2717,2718
+ "04003","Cochise, AZ",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",16743,16437,16891,17066,17662,17307,17700,17476,17442,18120,18264,17752,17028,16149,15739,15432,15135
+ "04003","Cochise, AZ",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",4237,4454,4597,4786,4943,4909,4749,4945,5206,5554,5896,5804,5560,5257,5099,5008,4834
+ "04003","Cochise, AZ",6,CAEMP25N,2002,"...","   Military","Number of jobs",5615,5287,5679,5633,5711,5231,5700,5325,5056,5616,5606,5277,4984,4451,4255,4063,4071
+ "04003","Cochise, AZ",6,CAEMP25N,2010,"...","   State and local","Number of jobs",6891,6696,6615,6647,7008,7167,7251,7206,7180,6950,6762,6671,6484,6441,6385,6361,6230
+ "04003","Cochise, AZ",6,CAEMP25N,2011,"...","    State government","Number of jobs",1338,1118,1097,1091,1213,1238,1265,1268,1212,1154,1155,1120,1087,1069,1073,1068,952
+ "04003","Cochise, AZ",6,CAEMP25N,2012,"...","    Local government","Number of jobs",5553,5578,5518,5556,5795,5929,5986,5938,5968,5796,5607,5551,5397,5372,5312,5293,5278
+ "04005","Coconino, AZ",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",66819,67698,69161,72523,74562,76556,79194,78696,76109,76341,76961,78072,80103,81656,83523,85092,86303
+ "04005","Coconino, AZ",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",54770,55528,56285,58762,60097,61873,63347,62859,59887,60175,60653,61730,63743,64888,66257,66847,67744
+ "04005","Coconino, AZ",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",12049,12170,12876,13761,14465,14683,15847,15837,16222,16166,16308,16342,16360,16768,17266,18245,18559
+ "04005","Coconino, AZ",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",260,185,533,704,845,936,1617,1712,1820,1963,2114,2239,2208,2209,2186,2195,2194
+ "04005","Coconino, AZ",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",11789,11985,12343,13057,13620,13747,14230,14125,14402,14203,14194,14103,14152,14559,15080,16050,16365
+ "04005","Coconino, AZ",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",306,237,588,748,890,992,1681,1772,1885,2014,2160,2290,2270,2262,2249,2280,2254
+ "04005","Coconino, AZ",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",66513,67461,68573,71775,73672,75564,77513,76924,74224,74327,74801,75782,77833,79394,81274,82812,84049
+ "04005","Coconino, AZ",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",50723,51662,52465,55570,57587,59465,60920,59970,57360,56657,56887,57507,58907,60237,62050,63543,64789
+ "04005","Coconino, AZ",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),251,191,197,198,205,210,216,211,229,186,194,(D),205,209,208,(D)
+ "04005","Coconino, AZ",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),184,192,202,193,201,188,188,159,220,213,281,(D),296,323,335,(D)
+ "04005","Coconino, AZ",6,CAEMP25N,300,"22","   Utilities","Number of jobs",194,193,156,110,108,105,104,115,106,107,113,122,326,211,214,204,220
+ "04005","Coconino, AZ",6,CAEMP25N,400,"23","   Construction","Number of jobs",3762,3897,3907,4341,4570,4870,4915,4231,3337,3144,2986,3065,2996,2970,3043,3223,3433
+ "04005","Coconino, AZ",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",3177,3244,3284,3465,3566,3950,4059,4158,4199,4083,4260,4537,4799,4680,4760,4843,4758
+ "04005","Coconino, AZ",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",828,812,832,923,986,1200,1266,1179,1057,973,1147,1130,1136,1467,1528,1162,1106
+ "04005","Coconino, AZ",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",8171,8360,8313,8537,8633,8856,8935,8827,8693,8514,8340,8278,8378,8527,8846,8708,8489
+ "04005","Coconino, AZ",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",2026,2052,1975,1938,2125,2155,2100,2070,1981,1971,2070,1964,1911,1917,1845,1953,1897
+ "04005","Coconino, AZ",6,CAEMP25N,900,"51","   Information","Number of jobs",712,649,658,667,702,710,641,752,685,595,604,591,594,630,674,662,726
+ "04005","Coconino, AZ",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1466,1407,1461,1487,1571,1580,1771,1868,1818,1622,1690,1619,1595,1499,1593,1784,1817
+ "04005","Coconino, AZ",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",2489,2517,2693,3003,3184,3361,3489,3391,3157,3236,3307,3250,3293,3385,3545,3689,3741
+ "04005","Coconino, AZ",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",2555,2716,2785,3022,3112,3160,3319,3239,3150,3020,2801,2839,2855,2946,3058,3327,3410
+ "04005","Coconino, AZ",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",186,126,103,140,142,136,118,125,137,128,139,148,176,168,185,244,259
+ "04005","Coconino, AZ",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",2075,2112,2390,2763,2789,2718,2688,2459,2107,2138,2117,2218,2230,2358,2625,2363,2331
+ "04005","Coconino, AZ",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",611,671,761,776,922,867,807,841,864,951,909,955,969,1059,1202,1245,1256
+ "04005","Coconino, AZ",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",6657,6980,7240,7354,7560,7637,7880,8164,8430,8754,8985,9054,9433,9704,9862,9984,10083
+ "04005","Coconino, AZ",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",2244,2170,2264,2436,2310,2343,2636,2784,2644,2687,2772,2716,2821,2875,2928,3314,3515
+ "04005","Coconino, AZ",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",10100,10101,10009,10833,11409,11837,12234,11755,11149,11031,11008,11192,11579,11895,12076,12693,13614
+ "04005","Coconino, AZ",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",3105,3220,3251,3376,3507,3574,3560,3608,3476,3254,3240,3354,3320,3445,3534,3602,3615
+ "04005","Coconino, AZ",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",15790,15799,16108,16205,16085,16099,16593,16954,16864,17670,17914,18275,18926,19157,19224,19269,19260
+ "04005","Coconino, AZ",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",3282,3432,3378,3188,3054,2922,2881,2900,3049,3220,3013,2967,2810,2736,2705,2787,2773
+ "04005","Coconino, AZ",6,CAEMP25N,2002,"...","   Military","Number of jobs",275,280,286,280,282,276,279,283,295,292,291,286,289,294,302,304,306
+ "04005","Coconino, AZ",6,CAEMP25N,2010,"...","   State and local","Number of jobs",12233,12087,12444,12737,12749,12901,13433,13771,13520,14158,14610,15022,15827,16127,16217,16178,16181
+ "04005","Coconino, AZ",6,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),5669,5619,5860,6038,5629,6473,6956,7338,7938,8174,8304,8114,8141
+ "04005","Coconino, AZ",6,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),7080,7282,7573,7733,7891,7685,7654,7684,7889,7953,7913,8064,8040
+ "04007","Gila, AZ",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",19901,19757,19770,19877,20367,21125,21679,21573,20766,20544,20513,20775,21238,21305,21099,20838,21144
+ "04007","Gila, AZ",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",14630,14398,14273,14266,14436,15065,15296,15387,14589,14546,14553,14925,15475,15535,15381,15244,15433
+ "04007","Gila, AZ",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",5271,5359,5497,5611,5931,6060,6383,6186,6177,5998,5960,5850,5763,5770,5718,5594,5711
+ "04007","Gila, AZ",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",230,162,200,185,177,169,262,241,221,205,189,172,172,172,174,175,175
+ "04007","Gila, AZ",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",5041,5197,5297,5426,5754,5891,6121,5945,5956,5793,5771,5678,5591,5598,5544,5419,5536
+ "04007","Gila, AZ",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",258,190,237,235,235,240,347,297,259,223,205,190,196,187,187,187,185
+ "04007","Gila, AZ",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",19643,19567,19533,19642,20132,20885,21332,21276,20507,20321,20308,20585,21042,21118,20912,20651,20959
+ "04007","Gila, AZ",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",14677,14643,14477,14676,15179,15938,16292,16025,15326,15151,15262,15444,15740,15715,15513,15259,15369
+ "04007","Gila, AZ",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),89,(D),111,100,103,96,121,116,122,103,(D),137,110,106,104
+ "04007","Gila, AZ",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),595,(D),544,738,845,1062,1014,1083,1069,(D),(D),1265,1214,1122,1137
+ "04007","Gila, AZ",6,CAEMP25N,300,"22","   Utilities","Number of jobs",87,82,87,90,93,90,69,81,67,66,57,54,87,83,80,101,114
+ "04007","Gila, AZ",6,CAEMP25N,400,"23","   Construction","Number of jobs",1592,1505,1494,1365,1596,1845,1801,1591,1269,1228,(D),(D),1083,1033,1007,1161,1262
+ "04007","Gila, AZ",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",1022,899,790,810,830,840,946,1008,933,1074,(D),1248,1293,1566,1499,1304,1268
+ "04007","Gila, AZ",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",304,351,328,317,362,351,310,289,254,249,297,285,210,262,270,203,206
+ "04007","Gila, AZ",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2434,2511,2451,2486,2590,2682,2724,2636,2531,2349,2352,2343,2390,2414,2368,2364,2355
+ "04007","Gila, AZ",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",332,325,315,326,326,347,358,365,459,423,486,505,513,481,516,460,449
+ "04007","Gila, AZ",6,CAEMP25N,900,"51","   Information","Number of jobs",171,150,164,169,159,174,180,182,196,218,215,198,202,194,206,196,165
+ "04007","Gila, AZ",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",435,412,423,408,395,437,476,470,507,493,487,463,532,521,499,518,551
+ "04007","Gila, AZ",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",872,875,908,990,1121,1125,1183,1139,1141,1081,1065,1014,983,958,1004,1005,1046
+ "04007","Gila, AZ",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "04007","Gila, AZ",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "04007","Gila, AZ",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",636,759,804,833,784,888,914,934,848,882,826,781,816,760,701,768,(D)
+ "04007","Gila, AZ",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",140,159,158,162,200,180,(D),(D),198,164,172,154,151,183,176,155,152
+ "04007","Gila, AZ",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",2155,2091,2133,2205,2178,2232,2226,2171,2229,2181,2255,2256,2152,2038,1894,1727,1737
+ "04007","Gila, AZ",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",369,412,422,455,469,468,474,477,423,359,286,293,284,401,385,373,366
+ "04007","Gila, AZ",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1438,1492,1446,1388,1403,1416,1500,1441,1469,1487,1545,1594,1644,1750,1857,1982,2004
+ "04007","Gila, AZ",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1097,1065,1059,1087,1070,1065,1047,993,961,957,1032,1019,995,1023,1041,1018,1006
+ "04007","Gila, AZ",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",4966,4924,5056,4966,4953,4947,5040,5251,5181,5170,5046,5141,5302,5403,5399,5392,5590
+ "04007","Gila, AZ",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",552,577,557,520,519,518,485,487,500,536,488,474,462,452,430,354,314
+ "04007","Gila, AZ",6,CAEMP25N,2002,"...","   Military","Number of jobs",115,115,117,114,113,111,113,115,119,117,116,113,115,116,117,116,119
+ "04007","Gila, AZ",6,CAEMP25N,2010,"...","   State and local","Number of jobs",4299,4232,4382,4332,4321,4318,4442,4649,4562,4517,4442,4554,4725,4835,4852,4922,5157
+ "04007","Gila, AZ",6,CAEMP25N,2011,"...","    State government","Number of jobs",459,343,337,337,357,357,364,368,346,314,300,299,303,310,292,297,279
+ "04007","Gila, AZ",6,CAEMP25N,2012,"...","    Local government","Number of jobs",3840,3889,4045,3995,3964,3961,4078,4281,4216,4203,4142,4255,4422,4525,4560,4625,4878
+ "04009","Graham, AZ",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",9691,9537,9609,9713,10063,10781,11622,12088,11341,11168,11442,11736,11764,11799,12094,12107,12133
+ "04009","Graham, AZ",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",7437,7436,7489,7623,7909,8578,9163,9701,8887,8771,8997,9364,9462,9411,9536,9480,9449
+ "04009","Graham, AZ",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",2254,2101,2120,2090,2154,2203,2459,2387,2454,2397,2445,2372,2302,2388,2558,2627,2684
+ "04009","Graham, AZ",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",408,287,319,273,245,221,326,331,336,349,363,374,372,373,376,378,378
+ "04009","Graham, AZ",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",1846,1814,1801,1817,1909,1982,2133,2056,2118,2048,2082,1998,1930,2015,2182,2249,2306
+ "04009","Graham, AZ",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",542,463,555,509,485,471,560,658,678,670,691,735,770,725,764,807,719
+ "04009","Graham, AZ",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",9149,9074,9054,9204,9578,10310,11062,11430,10663,10498,10751,11001,10994,11074,11330,11300,11414
+ "04009","Graham, AZ",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",6753,6654,6675,6837,7135,7715,8441,8752,7932,7735,7941,8202,8214,8278,8437,8296,8449
+ "04009","Graham, AZ",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",362,372,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "04009","Graham, AZ",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",17,18,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "04009","Graham, AZ",6,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),70,(D),65,65,(D),(D),(D),(D)
+ "04009","Graham, AZ",6,CAEMP25N,400,"23","   Construction","Number of jobs",394,376,358,396,459,575,696,723,425,(D),(D),(D),536,520,532,462,530
+ "04009","Graham, AZ",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",286,268,305,306,287,322,341,292,255,267,327,305,286,284,291,318,324
+ "04009","Graham, AZ",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",118,112,(D),(D),(D),(D),139,146,134,141,142,144,177,190,(D),173,171
+ "04009","Graham, AZ",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1572,1525,1509,1527,1582,1783,1695,1688,1571,1538,1597,1571,1567,1642,1681,1693,1710
+ "04009","Graham, AZ",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),144,(D),(D),(D),151,(D),150,155,(D),253,(D),(D)
+ "04009","Graham, AZ",6,CAEMP25N,900,"51","   Information","Number of jobs",(D),(D),(D),(D),(D),(D),143,146,130,124,105,95,87,93,89,54,79
+ "04009","Graham, AZ",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",211,180,194,186,200,209,234,263,296,266,301,277,280,261,254,269,275
+ "04009","Graham, AZ",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",252,255,267,269,300,296,334,(D),328,330,325,300,300,314,339,(D),(D)
+ "04009","Graham, AZ",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),228,(D),242,349,359,368,1098,911,912,944,1031,1055,1081,1011,453,281
+ "04009","Graham, AZ",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "04009","Graham, AZ",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",197,(D),197,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "04009","Graham, AZ",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),(D),(D),157,147,123,(D),112,132,138,(D),(D),(D),(D)
+ "04009","Graham, AZ",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1181,1207,1191,1187,1182,1189,1272,1343,1380,1360,1319,1329,1283,1244,1210,1211,1222
+ "04009","Graham, AZ",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",103,68,69,75,78,(D),80,(D),(D),(D),(D),(D),(D),(D),74,91,(D)
+ "04009","Graham, AZ",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",807,798,750,812,833,(D),971,(D),(D),(D),(D),(D),(D),(D),872,871,875
+ "04009","Graham, AZ",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",610,608,625,602,604,673,768,685,642,646,688,774,724,714,750,695,685
+ "04009","Graham, AZ",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2396,2420,2379,2367,2443,2595,2621,2678,2731,2763,2810,2799,2780,2796,2893,3004,2965
+ "04009","Graham, AZ",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",323,341,328,318,330,417,404,405,416,439,430,426,419,414,408,405,395
+ "04009","Graham, AZ",6,CAEMP25N,2002,"...","   Military","Number of jobs",69,68,69,66,66,65,68,72,76,74,74,73,75,77,78,77,78
+ "04009","Graham, AZ",6,CAEMP25N,2010,"...","   State and local","Number of jobs",2004,2011,1982,1983,2047,2113,2149,2201,2239,2250,2306,2300,2286,2305,2407,2522,2492
+ "04009","Graham, AZ",6,CAEMP25N,2011,"...","    State government","Number of jobs",435,436,425,423,(D),(D),(D),(D),(D),(D),(D),406,394,408,401,384,469
+ "04009","Graham, AZ",6,CAEMP25N,2012,"...","    Local government","Number of jobs",1569,1575,1557,1560,(D),(D),(D),(D),(D),(D),(D),1894,1892,1897,2006,2138,2023
+ "04011","Greenlee, AZ",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",4678,4213,4043,4116,4398,4898,5435,5911,4085,3981,4209,4577,6078,6127,5294,5062,5240
+ "04011","Greenlee, AZ",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",4026,3653,3510,3592,3881,4441,4870,5392,3546,3504,3713,4081,5575,5610,4686,4510,4668
+ "04011","Greenlee, AZ",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",652,560,533,524,517,457,565,519,539,477,496,496,503,517,608,552,572
+ "04011","Greenlee, AZ",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",181,132,137,111,93,80,110,116,118,125,132,135,136,136,138,139,139
+ "04011","Greenlee, AZ",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",471,428,396,413,424,377,455,403,421,352,364,361,367,381,470,413,433
+ "04011","Greenlee, AZ",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",220,168,167,141,122,111,135,141,148,154,162,171,174,171,179,193,174
+ "04011","Greenlee, AZ",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",4458,4045,3876,3975,4276,4787,5300,5770,3937,3827,4047,4406,5904,5956,5115,4869,5066
+ "04011","Greenlee, AZ",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",3910,3516,3358,3450,3748,4262,4754,5223,3383,3232,3469,3835,5342,5387,4537,4300,4498
+ "04011","Greenlee, AZ",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAEMP25N,300,"22","   Utilities","Number of jobs",48,48,49,50,51,53,47,45,45,52,44,44,45,45,(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAEMP25N,400,"23","   Construction","Number of jobs",449,257,247,323,374,(D),(D),(D),190,(D),283,340,(D),(D),247,111,135
+ "04011","Greenlee, AZ",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),(D),(D),(D),(D),21,24,21,27,12,9,25,14,25,38,30,32
+ "04011","Greenlee, AZ",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",72,73,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),131,130,144
+ "04011","Greenlee, AZ",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",272,231,216,212,227,191,218,225,192,174,180,197,224,238,232,(D),222
+ "04011","Greenlee, AZ",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",48,58,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAEMP25N,900,"51","   Information","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),5,8,7,5,1,7,7,7
+ "04011","Greenlee, AZ",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),52,39,(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",33,19,(D),(D),(D),(D),(D),(D),(D),(D),(D),18,14,14,21,(D),(D)
+ "04011","Greenlee, AZ",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),53,56,(D),(D),(D),34,(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "04011","Greenlee, AZ",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),102,(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",6,3,4,3,6,8,10,7,6,6,8,8,9,8,10,12,12
+ "04011","Greenlee, AZ",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),133,(D),126,129,(D),(D),(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "04011","Greenlee, AZ",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),121,98,(D),100,102,123,(D),(D),98
+ "04011","Greenlee, AZ",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",548,529,518,525,528,525,546,547,554,595,578,571,562,569,578,569,568
+ "04011","Greenlee, AZ",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",38,40,44,44,42,40,37,35,35,44,31,32,31,30,35,37,35
+ "04011","Greenlee, AZ",6,CAEMP25N,2002,"...","   Military","Number of jobs",19,18,17,17,17,17,18,19,19,18,19,19,20,21,21,21,21
+ "04011","Greenlee, AZ",6,CAEMP25N,2010,"...","   State and local","Number of jobs",491,471,457,464,469,468,491,493,500,533,528,520,511,518,522,511,512
+ "04011","Greenlee, AZ",6,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),18,20,(D),(D),(D),(D),12,13
+ "04011","Greenlee, AZ",6,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),515,508,(D),(D),(D),(D),499,499
+ "04012","La Paz, AZ",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",6977,7154,7180,7490,7773,7923,7962,7608,7232,7119,7170,7443,7439,7496,7709,7841,7693
+ "04012","La Paz, AZ",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",5645,5867,5869,6200,6336,6450,6389,6060,5728,5631,5639,5974,5975,5978,6200,6352,6164
+ "04012","La Paz, AZ",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",1332,1287,1311,1290,1437,1473,1573,1548,1504,1488,1531,1469,1464,1518,1509,1489,1529
+ "04012","La Paz, AZ",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",142,104,102,86,72,61,83,92,96,103,110,114,115,115,117,119,119
+ "04012","La Paz, AZ",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",1190,1183,1209,1204,1365,1412,1490,1456,1408,1385,1421,1355,1349,1403,1392,1370,1410
+ "04012","La Paz, AZ",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",345,306,333,319,327,285,306,332,317,254,267,314,319,314,372,446,435
+ "04012","La Paz, AZ",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",6632,6848,6847,7171,7446,7638,7656,7276,6915,6865,6903,7129,7120,7182,7337,7395,7258
+ "04012","La Paz, AZ",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",4479,4553,4514,4798,5017,5069,5119,4806,4576,4532,4605,4739,4729,4785,4906,4997,4984
+ "04012","La Paz, AZ",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),570,535,(D),(D),(D),(D),(D),447,(D),(D),458,503,(D),(D)
+ "04012","La Paz, AZ",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),19,18,(D),(D),(D),(D),(D),47,(D),(D),58,60,82,109
+ "04012","La Paz, AZ",6,CAEMP25N,300,"22","   Utilities","Number of jobs",8,9,(D),(D),(D),(D),(D),1,10,(D),(D),(D),17,(D),(D),(D),(D)
+ "04012","La Paz, AZ",6,CAEMP25N,400,"23","   Construction","Number of jobs",200,190,203,222,278,304,303,237,202,181,175,184,(D),(D),176,182,180
+ "04012","La Paz, AZ",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",303,246,268,325,345,362,356,244,157,158,181,243,175,203,204,210,197
+ "04012","La Paz, AZ",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",111,121,129,153,152,156,(D),(D),89,87,91,79,95,(D),(D),(D),(D)
+ "04012","La Paz, AZ",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1259,1283,1256,1316,1410,1391,1407,1316,1321,1239,1168,1211,1255,1292,1303,1316,1295
+ "04012","La Paz, AZ",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",139,129,(D),(D),(D),(D),(D),108,106,(D),(D),(D),131,130,(D),(D),158
+ "04012","La Paz, AZ",6,CAEMP25N,900,"51","   Information","Number of jobs",65,62,59,54,58,47,(D),(D),(D),29,38,38,37,47,56,110,109
+ "04012","La Paz, AZ",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",72,75,78,81,85,82,97,103,110,120,124,118,108,98,(D),(D),(D)
+ "04012","La Paz, AZ",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",252,244,253,289,328,303,285,271,299,297,308,253,252,267,230,204,209
+ "04012","La Paz, AZ",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",172,150,145,147,135,152,135,137,110,120,129,126,129,(D),129,118,117
+ "04012","La Paz, AZ",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",1,33,19,24,35,31,1,37,40,32,47,41,39,51,44,67,70
+ "04012","La Paz, AZ",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",115,112,143,187,194,200,223,242,303,322,319,310,224,174,177,180,192
+ "04012","La Paz, AZ",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),28,(D),32,24,(D),(D),(D),(D),(D)
+ "04012","La Paz, AZ",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),302,(D),349,337,(D),(D),(D),(D),(D)
+ "04012","La Paz, AZ",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "04012","La Paz, AZ",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "04012","La Paz, AZ",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),345,326,(D),338,306,327,(D),(D),348
+ "04012","La Paz, AZ",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2153,2295,2333,2373,2429,2569,2537,2470,2339,2333,2298,2390,2391,2397,2431,2398,2274
+ "04012","La Paz, AZ",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",143,149,180,210,220,324,317,317,321,347,318,318,319,310,315,336,328
+ "04012","La Paz, AZ",6,CAEMP25N,2002,"...","   Military","Number of jobs",44,44,45,44,45,43,44,44,46,45,44,43,44,44,45,45,46
+ "04012","La Paz, AZ",6,CAEMP25N,2010,"...","   State and local","Number of jobs",1966,2102,2108,2119,2164,2202,2176,2109,1972,1941,1936,2029,2028,2043,2071,2017,1900
+ "04012","La Paz, AZ",6,CAEMP25N,2011,"...","    State government","Number of jobs",57,77,78,78,81,86,91,92,83,76,70,74,(D),(D),(D),67,63
+ "04012","La Paz, AZ",6,CAEMP25N,2012,"...","    Local government","Number of jobs",1909,2025,2030,2041,2083,2116,2085,2017,1889,1865,1866,1955,(D),(D),(D),1950,1837
+ "04013","Maricopa, AZ",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",1898173,1909461,1958673,2044219,2176754,2291199,2344210,2295284,2165288,2128883,2181411,2226306,2289203,2352447,2439161,2517532,2586307
+ "04013","Maricopa, AZ",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",1604015,1603786,1630974,1689943,1791816,1886545,1907385,1852353,1707432,1674449,1703052,1748363,1797704,1842810,1910474,1967581,2024859
+ "04013","Maricopa, AZ",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",294158,305675,327699,354276,384938,404654,436825,442931,457856,454434,478359,477943,491499,509637,528687,549951,561448
+ "04013","Maricopa, AZ",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",2911,2145,2186,1726,1418,1174,1583,1691,1781,1907,2042,2150,2147,2148,2180,2188,2188
+ "04013","Maricopa, AZ",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",291247,303530,325513,352550,383520,403480,435242,441240,456075,452527,476317,475793,489352,507489,526507,547763,559260
+ "04013","Maricopa, AZ",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",8549,7603,7987,7543,7407,6828,7181,6533,6751,6325,6210,6630,6898,6621,7193,7658,6856
+ "04013","Maricopa, AZ",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",1889624,1901858,1950686,2036676,2169347,2284371,2337029,2288751,2158537,2122558,2175201,2219676,2282305,2345826,2431968,2509874,2579451
+ "04013","Maricopa, AZ",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",1694042,1692072,1734717,1817520,1945849,2058540,2104712,2050870,1924591,1896548,1952756,1997795,2058550,2120303,2204515,2281443,2348503
+ "04013","Maricopa, AZ",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",2863,2624,2725,2861,2709,2702,2872,2806,2637,2538,2571,2607,2578,2716,2787,2793,2655
+ "04013","Maricopa, AZ",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",3224,2915,3321,3105,3924,3985,4828,6008,5294,6350,5775,8249,8168,7785,8059,8319,8688
+ "04013","Maricopa, AZ",6,CAEMP25N,300,"22","   Utilities","Number of jobs",7606,7615,7860,7781,8033,8473,8830,8914,8539,8191,8032,8083,7945,7869,8055,8525,8787
+ "04013","Maricopa, AZ",6,CAEMP25N,400,"23","   Construction","Number of jobs",150425,148549,154186,167815,193413,210743,200000,168261,124767,109587,111017,117433,123362,125323,129080,138363,147553
+ "04013","Maricopa, AZ",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",155325,140869,134185,134454,137687,141434,138966,131480,116782,112512,115157,119528,120849,121743,123669,124997,128557
+ "04013","Maricopa, AZ",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",85218,83396,82678,85266,89549,94187,97762,96779,91114,87969,88762,89233,89772,89952,90357,86597,87655
+ "04013","Maricopa, AZ",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",215431,217912,224283,234112,252445,263646,270271,259408,241629,236686,239618,241515,243400,256830,266428,270138,274023
+ "04013","Maricopa, AZ",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",60844,61208,61820,63696,66353,70868,72413,71007,66855,64324,67828,70823,71886,75352,85409,97365,101602
+ "04013","Maricopa, AZ",6,CAEMP25N,900,"51","   Information","Number of jobs",47138,43864,42983,41198,38743,39109,37719,37589,35816,34552,34991,36443,40360,42534,43034,43375,43093
+ "04013","Maricopa, AZ",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",126977,128433,131839,135236,142801,148871,154934,156481,162161,156637,169057,170820,177359,177294,186890,197245,208932
+ "04013","Maricopa, AZ",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",86952,90984,98726,112268,130661,139170,145513,142760,139221,140165,144203,141900,143449,147475,150088,153578,157950
+ "04013","Maricopa, AZ",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",123900,122684,126259,134558,140148,150142,156817,156529,148920,147914,149206,150249,155781,159770,166665,173861,178610
+ "04013","Maricopa, AZ",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",18590,19052,18696,20778,21117,23473,25022,27187,26482,25173,25196,26772,29045,30650,33054,36879,37093
+ "04013","Maricopa, AZ",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",183586,179415,183687,193364,210441,224027,227055,212740,188956,188442,193957,199619,212434,217994,223834,232544,234475
+ "04013","Maricopa, AZ",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",22078,25476,28619,31885,36090,38934,39797,43110,46215,51118,52665,54086,53783,56084,59358,59742,60455
+ "04013","Maricopa, AZ",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",142425,148531,159327,166761,174379,186141,197306,207584,210967,221117,228897,236434,242939,249923,262824,273735,285335
+ "04013","Maricopa, AZ",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",34864,36182,36758,37985,40151,42243,45471,46716,44703,45043,45842,47743,48967,52827,53544,55516,57962
+ "04013","Maricopa, AZ",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",136607,138036,140755,144547,153890,162425,165689,164304,154951,153423,158612,162123,169643,176428,183883,190031,196341
+ "04013","Maricopa, AZ",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",89989,94327,96010,99850,103315,107967,113447,111207,108582,104807,111370,114135,116830,121754,127497,127840,128737
+ "04013","Maricopa, AZ",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",195582,209786,215969,219156,223498,225831,232317,237881,233946,226010,222445,221881,223755,225523,227453,228431,230948
+ "04013","Maricopa, AZ",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",19092,19738,20677,20632,20729,20452,20225,21055,21439,22345,20437,19914,19886,19740,20160,20608,21124
+ "04013","Maricopa, AZ",6,CAEMP25N,2002,"...","   Military","Number of jobs",13237,13561,14162,13911,13679,13303,13483,13657,14017,13601,12832,12649,12844,12819,12903,13089,13786
+ "04013","Maricopa, AZ",6,CAEMP25N,2010,"...","   State and local","Number of jobs",163253,176487,181130,184613,189090,192076,198609,203169,198490,190064,189176,189318,191025,192964,194390,194734,196038
+ "04013","Maricopa, AZ",6,CAEMP25N,2011,"...","    State government","Number of jobs",38233,44924,46314,46720,46591,46751,48580,48648,46937,41949,42942,42588,43631,44610,46033,46576,47136
+ "04013","Maricopa, AZ",6,CAEMP25N,2012,"...","    Local government","Number of jobs",125020,131563,134816,137893,142499,145325,150029,154521,151553,148115,146234,146730,147394,148354,148357,148158,148902
+ "04015","Mohave, AZ",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",57796,59875,63760,67457,72539,75359,74677,70529,65562,64092,64077,63231,63999,65391,66887,67897,69608
+ "04015","Mohave, AZ",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",44185,45747,48701,50978,54691,57165,55480,52301,48119,47016,46718,46156,46810,47779,48988,49727,51050
+ "04015","Mohave, AZ",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",13611,14128,15059,16479,17848,18194,19197,18228,17443,17076,17359,17075,17189,17612,17899,18170,18558
+ "04015","Mohave, AZ",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",326,235,273,242,223,205,309,302,294,293,292,284,283,283,286,287,287
+ "04015","Mohave, AZ",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",13285,13893,14786,16237,17625,17989,18888,17926,17149,16783,17067,16791,16906,17329,17613,17883,18271
+ "04015","Mohave, AZ",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",418,331,405,409,434,429,527,518,537,529,528,556,597,592,551,489,534
+ "04015","Mohave, AZ",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",57378,59544,63355,67048,72105,74930,74150,70011,65025,63563,63549,62675,63402,64799,66336,67408,69074
+ "04015","Mohave, AZ",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",49598,51740,55512,59199,63947,66487,65399,61096,56287,54905,55097,54243,55045,56524,58257,59423,61015
+ "04015","Mohave, AZ",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),102,105,108,(D),(D),(D),(D),(D),130,132,(D),(D),141,134,(D)
+ "04015","Mohave, AZ",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),194,190,198,(D),298,412,446,592,720,784,764,743,311,285,(D)
+ "04015","Mohave, AZ",6,CAEMP25N,300,"22","   Utilities","Number of jobs",297,354,296,306,323,337,341,327,317,310,318,314,465,470,471,485,481
+ "04015","Mohave, AZ",6,CAEMP25N,400,"23","   Construction","Number of jobs",7011,7618,7933,8703,9989,10101,8508,6903,4799,4051,3652,3477,3737,3911,4084,4398,4906
+ "04015","Mohave, AZ",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",3352,3483,3663,3981,4374,4375,4050,3900,3341,3144,3121,3174,3168,3255,3464,3596,3730
+ "04015","Mohave, AZ",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",1166,1126,1137,1318,1373,1482,1428,1291,1149,1076,1108,1059,1008,1158,1192,1061,1114
+ "04015","Mohave, AZ",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",9653,9762,10534,10727,11360,11772,11880,11267,10462,9859,9961,9870,9894,10219,10493,10630,10801
+ "04015","Mohave, AZ",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",1534,1678,1802,1744,1838,1787,1821,1772,1784,1774,1901,2000,2020,2045,2397,2379,2345
+ "04015","Mohave, AZ",6,CAEMP25N,900,"51","   Information","Number of jobs",996,1036,1020,1036,1121,1236,1200,1089,1089,1036,909,875,850,879,891,924,755
+ "04015","Mohave, AZ",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1608,1702,1906,1960,2137,2293,2578,2437,2210,2043,2202,2320,2217,2159,2147,2311,2488
+ "04015","Mohave, AZ",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",2592,2753,3126,3900,4548,4814,4844,4432,4047,4206,4058,3902,3800,3801,3935,3988,4121
+ "04015","Mohave, AZ",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",2061,2306,2536,2528,2735,2765,2772,2556,2352,2301,2286,2220,2322,2345,2433,2494,2614
+ "04015","Mohave, AZ",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",179,196,183,197,173,182,(D),(D),(D),(D),182,166,(D),(D),172,190,184
+ "04015","Mohave, AZ",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",2758,2905,3168,3654,3906,3973,4089,3814,3591,3888,3911,3872,3984,4020,3352,3451,3614
+ "04015","Mohave, AZ",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",344,425,480,568,649,728,795,841,750,742,709,704,698,724,773,790,793
+ "04015","Mohave, AZ",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",5673,6084,6338,6700,6964,7489,7797,7920,8091,8458,8707,8520,8582,8685,9046,9008,8872
+ "04015","Mohave, AZ",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",962,1022,1152,1223,1271,1269,1305,1215,1114,1013,1042,1137,1203,1241,1223,1203,1182
+ "04015","Mohave, AZ",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",5226,4791,5613,5831,6268,6721,6489,5927,5927,5820,5842,5307,5569,5853,6876,7368,7841
+ "04015","Mohave, AZ",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",3897,4202,4329,4528,4612,4807,4934,4732,4544,4304,4338,4410,4435,4669,4856,4728,4754
+ "04015","Mohave, AZ",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",7780,7804,7843,7849,8158,8443,8751,8915,8738,8658,8452,8432,8357,8275,8079,7985,8059
+ "04015","Mohave, AZ",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",502,511,525,521,526,518,516,508,527,677,510,506,488,463,463,449,461
+ "04015","Mohave, AZ",6,CAEMP25N,2002,"...","   Military","Number of jobs",367,377,399,405,417,418,427,433,447,440,438,433,438,441,450,447,459
+ "04015","Mohave, AZ",6,CAEMP25N,2010,"...","   State and local","Number of jobs",6911,6916,6919,6923,7215,7507,7808,7974,7764,7541,7504,7493,7431,7371,7166,7089,7139
+ "04015","Mohave, AZ",6,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),495,528,541,543,499,473,484,509,509,533,541,520,522
+ "04015","Mohave, AZ",6,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),6720,6979,7267,7431,7265,7068,7020,6984,6922,6838,6625,6569,6617
+ "04017","Navajo, AZ",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",35603,35899,37614,38237,39493,40691,42857,41787,40015,39741,39758,40546,40610,41048,41043,41878,41797
+ "04017","Navajo, AZ",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",27984,28323,29139,29157,29596,30339,30702,29728,28142,27586,27409,28022,28075,28496,28529,29364,29124
+ "04017","Navajo, AZ",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",7619,7576,8475,9080,9897,10352,12155,12059,11873,12155,12349,12524,12535,12552,12514,12514,12673
+ "04017","Navajo, AZ",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",411,284,947,1292,1571,1754,3046,3158,3295,3497,3704,3870,3795,3798,3722,3735,3734
+ "04017","Navajo, AZ",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",7208,7292,7528,7788,8326,8598,9109,8901,8578,8658,8645,8654,8740,8754,8792,8779,8939
+ "04017","Navajo, AZ",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",555,435,1096,1441,1736,1935,3240,3346,3485,3665,3859,4045,3988,3982,3915,3945,3904
+ "04017","Navajo, AZ",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",35048,35464,36518,36796,37757,38756,39617,38441,36530,36076,35899,36501,36622,37066,37128,37933,37893
+ "04017","Navajo, AZ",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",23817,24268,25400,25895,27094,28155,29016,27735,25924,25767,25817,26413,26656,27141,27344,28224,28300
+ "04017","Navajo, AZ",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",317,331,311,302,307,247,259,265,233,235,242,240,259,300,279,324,422
+ "04017","Navajo, AZ",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",896,880,819,787,807,613,609,657,602,567,605,665,659,636,584,545,517
+ "04017","Navajo, AZ",6,CAEMP25N,300,"22","   Utilities","Number of jobs",74,74,75,72,65,70,61,56,58,59,92,87,73,104,114,118,126
+ "04017","Navajo, AZ",6,CAEMP25N,400,"23","   Construction","Number of jobs",2534,2589,2720,2751,3105,3666,3702,2765,2016,1845,1861,1900,2047,2113,1985,2487,2199
+ "04017","Navajo, AZ",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",1034,986,988,1070,1127,1167,1115,965,830,735,722,666,445,459,548,576,605
+ "04017","Navajo, AZ",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",422,432,533,532,540,507,506,571,586,543,550,538,513,560,544,395,436
+ "04017","Navajo, AZ",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",4561,4579,4615,4517,4605,4731,4923,4736,4527,4357,4373,4412,4435,4553,4736,4967,4881
+ "04017","Navajo, AZ",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",1289,1323,1371,1418,1345,1307,1397,1147,1106,1081,1150,1174,1190,1276,1327,1326,1248
+ "04017","Navajo, AZ",6,CAEMP25N,900,"51","   Information","Number of jobs",569,623,676,760,874,903,945,1101,1188,1249,1281,1268,1258,1290,1151,1099,1095
+ "04017","Navajo, AZ",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",771,717,702,700,697,703,764,837,931,867,872,920,932,847,891,866,887
+ "04017","Navajo, AZ",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",1152,1190,1250,1287,1510,1746,1815,1775,1607,1592,1518,1605,1683,1651,1628,1547,1584
+ "04017","Navajo, AZ",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),922,1016,(D),1111,1141,(D),1177,989,1012,992,955,961,1003,1033,1087,1132
+ "04017","Navajo, AZ",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),227,208,(D),169,214,(D),238,225,254,246,211,207,227,262,185,197
+ "04017","Navajo, AZ",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",811,882,980,1045,1137,1247,1320,1189,1022,1059,1034,1189,1518,1422,1189,1286,1386
+ "04017","Navajo, AZ",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",641,777,865,957,1085,1080,935,917,908,979,825,837,763,828,861,861,846
+ "04017","Navajo, AZ",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",2428,2584,2829,2866,2966,3107,3355,3387,3415,3565,3613,3806,3794,3973,4143,4414,4454
+ "04017","Navajo, AZ",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",507,523,552,571,594,554,565,650,601,635,651,703,629,570,561,595,614
+ "04017","Navajo, AZ",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",2837,2685,2944,3017,2996,3130,3277,3278,3099,3285,3321,3331,3391,3423,3525,3631,3763
+ "04017","Navajo, AZ",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1859,1944,1946,1988,2054,2022,2048,2024,1981,1848,1869,1906,1899,1906,1983,1915,1908
+ "04017","Navajo, AZ",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",11231,11196,11118,10901,10663,10601,10601,10706,10606,10309,10082,10088,9966,9925,9784,9709,9593
+ "04017","Navajo, AZ",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",1663,1660,1635,1655,1649,1693,1676,1676,1724,1833,1725,1752,1699,1675,1659,1725,1802
+ "04017","Navajo, AZ",6,CAEMP25N,2002,"...","   Military","Number of jobs",219,223,232,226,227,223,226,230,238,234,231,228,231,234,237,236,241
+ "04017","Navajo, AZ",6,CAEMP25N,2010,"...","   State and local","Number of jobs",9349,9313,9251,9020,8787,8685,8699,8800,8644,8242,8126,8108,8036,8016,7888,7748,7550
+ "04017","Navajo, AZ",6,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),882,862,874,883,858,787,793,809,803,799,765,718,719
+ "04017","Navajo, AZ",6,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),7905,7823,7825,7917,7786,7455,7333,7299,7233,7217,7123,7030,6831
+ "04019","Pima, AZ",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",436864,437057,441824,458654,473271,491400,504656,500711,481987,476945,477616,484507,489825,495805,500149,507500,515453
+ "04019","Pima, AZ",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",358913,357958,359325,372000,381507,397005,402963,398246,377709,373449,370998,378618,382749,385435,387695,391962,397651
+ "04019","Pima, AZ",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",77951,79099,82499,86654,91764,94395,101693,102465,104278,103496,106618,105889,107076,110370,112454,115538,117802
+ "04019","Pima, AZ",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",687,501,561,477,422,374,540,579,608,650,696,736,736,736,750,754,754
+ "04019","Pima, AZ",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",77264,78598,81938,86177,91342,94021,101153,101886,103670,102846,105922,105153,106340,109634,111704,114784,117048
+ "04019","Pima, AZ",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1193,982,1072,986,945,864,1009,1101,1139,1177,1253,1320,1399,1349,1402,1473,1361
+ "04019","Pima, AZ",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",435671,436075,440752,457668,472326,490536,503647,499610,480848,475768,476363,483187,488426,494456,498747,506027,514092
+ "04019","Pima, AZ",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",354904,355316,358805,374902,388540,406823,417200,411772,394935,386218,389061,394131,398912,405298,410617,418509,425940
+ "04019","Pima, AZ",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",390,(D),(D),(D),319,324,384,397,375,391,388,400,382,465,388,400,(D)
+ "04019","Pima, AZ",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",2440,(D),(D),(D),1986,2310,2706,3086,2848,3242,3384,4427,4521,4511,4769,4336,4504
+ "04019","Pima, AZ",6,CAEMP25N,300,"22","   Utilities","Number of jobs",1571,1573,1763,1962,2063,2137,2161,2177,2137,2115,2075,2380,1984,1982,2032,2066,2157
+ "04019","Pima, AZ",6,CAEMP25N,400,"23","   Construction","Number of jobs",28700,28414,29311,30997,33171,35783,34377,30405,23984,22088,21611,21528,22707,22145,21847,22974,24067
+ "04019","Pima, AZ",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",34564,32437,30717,29906,28660,29285,29383,28791,27134,25871,25353,25442,25384,24651,24717,25739,26922
+ "04019","Pima, AZ",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",8556,8615,8503,9534,10170,10955,11634,11494,10358,9731,9701,9435,9349,10217,10299,9378,9224
+ "04019","Pima, AZ",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",47765,48581,49091,51144,51477,53683,55647,53837,50524,48910,49367,49352,50813,52029,51621,51684,51747
+ "04019","Pima, AZ",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",8788,8357,8393,8922,9505,10085,10261,9659,9313,9158,9909,10509,10767,11514,12771,13980,15061
+ "04019","Pima, AZ",6,CAEMP25N,900,"51","   Information","Number of jobs",9152,9138,8769,8843,8709,8456,7557,6972,6437,5866,5752,5905,6034,5951,6193,6743,7121
+ "04019","Pima, AZ",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",14196,14666,15395,16133,16401,17215,18960,19695,21908,22090,21256,20298,20878,20629,21143,21970,23203
+ "04019","Pima, AZ",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",19612,19197,20406,22629,24911,25987,27251,26369,25202,25055,25178,24356,24641,25071,25312,25577,26169
+ "04019","Pima, AZ",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",25771,25400,25830,28414,30184,31971,35163,34568,32889,32337,32062,31708,32359,32887,32533,32731,33030
+ "04019","Pima, AZ",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",2838,2751,2593,2271,3077,3096,3200,3410,3145,3173,2945,2960,2895,2860,2776,2602,2464
+ "04019","Pima, AZ",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",31452,31314,31401,32645,34705,36930,37117,36858,35038,33965,34641,36345,37061,37862,38699,39627,40014
+ "04019","Pima, AZ",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",4700,5407,5792,6051,6505,7248,7257,7450,7480,7510,7779,8367,8654,9214,8888,9024,9005
+ "04019","Pima, AZ",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",45026,46721,49059,50817,53583,55682,58030,60932,62307,62379,63184,63799,63945,64088,66092,67765,68381
+ "04019","Pima, AZ",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",10331,10630,10269,10641,10555,10815,11188,11299,10737,10803,10977,11013,10777,11316,11178,11415,(D)
+ "04019","Pima, AZ",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",34810,34487,33970,36007,36655,37631,37262,37210,36424,35865,36651,38129,37937,39309,40545,41799,42112
+ "04019","Pima, AZ",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",24242,25129,25296,25712,25904,27230,27662,27163,26695,25669,26848,27778,27824,28597,28814,28699,28781
+ "04019","Pima, AZ",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",80767,80759,81947,82766,83786,83713,86447,87838,85913,89550,87302,89056,89514,89158,88130,87518,88152
+ "04019","Pima, AZ",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",8823,9155,9499,9742,10093,10175,10503,10962,11800,12756,12624,12648,12622,12475,12501,12806,12845
+ "04019","Pima, AZ",6,CAEMP25N,2002,"...","   Military","Number of jobs",7810,8105,8377,8609,8400,8174,8091,8139,8408,8656,8610,8530,8564,8400,8043,7907,8121
+ "04019","Pima, AZ",6,CAEMP25N,2010,"...","   State and local","Number of jobs",64134,63499,64071,64415,65293,65364,67853,68737,65705,68138,66068,67878,68328,68283,67586,66805,67186
+ "04019","Pima, AZ",6,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),23375,23184,24289,24213,22834,26464,25361,26565,27792,28254,28358,27727,27699
+ "04019","Pima, AZ",6,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),41918,42180,43564,44524,42871,41674,40707,41313,40536,40029,39228,39078,39487
+ "04021","Pinal, AZ",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",54586,54393,56512,59850,68417,72428,81473,83467,81428,81024,83256,84876,86662,88681,90067,95251,94803
+ "04021","Pinal, AZ",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",42422,41534,42653,44895,48749,51479,55845,57938,55333,55373,56484,58744,59677,60598,61126,65166,64165
+ "04021","Pinal, AZ",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",12164,12859,13859,14955,19668,20949,25628,25529,26095,25651,26772,26132,26985,28083,28941,30085,30638
+ "04021","Pinal, AZ",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",956,715,740,620,527,458,643,677,691,718,751,774,783,783,814,817,817
+ "04021","Pinal, AZ",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",11208,12144,13119,14335,19141,20491,24985,24852,25404,24933,26021,25358,26202,27300,28127,29268,29821
+ "04021","Pinal, AZ",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",2270,1907,2008,2027,2256,2069,2292,2235,2346,2147,2343,2505,2721,2572,2888,3169,2636
+ "04021","Pinal, AZ",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",52316,52486,54504,57823,66161,70359,79181,81232,79082,78877,80913,82371,83941,86109,87179,92082,92167
+ "04021","Pinal, AZ",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",35923,36590,38226,41201,49084,52315,59645,60285,58036,58114,60239,61111,63009,65132,66773,71147,71315
+ "04021","Pinal, AZ",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",702,(D),607,630,627,634,648,579,573,616,573,595,665,589,569,654,601
+ "04021","Pinal, AZ",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",1344,1151,996,997,889,1101,1387,1721,1563,1541,1615,1781,1650,1743,1663,1582,1637
+ "04021","Pinal, AZ",6,CAEMP25N,300,"22","   Utilities","Number of jobs",206,230,227,215,220,254,290,308,298,294,276,286,284,276,276,293,325
+ "04021","Pinal, AZ",6,CAEMP25N,400,"23","   Construction","Number of jobs",2812,2880,2727,3225,4597,4923,5485,5269,3611,3380,3325,3360,3634,3811,3709,4248,4446
+ "04021","Pinal, AZ",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",3087,2726,2858,3171,3813,4157,4494,4326,3874,3535,3550,3681,3931,4226,4054,4240,4408
+ "04021","Pinal, AZ",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",1270,1264,1280,1287,1124,1037,1121,1255,1253,1338,1363,1338,1506,1681,1735,1550,1543
+ "04021","Pinal, AZ",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",6005,6329,7039,7522,8325,8950,9773,9950,9619,9071,9238,9451,9686,10186,10641,11540,11486
+ "04021","Pinal, AZ",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",923,1038,1130,1217,1438,1635,1842,1978,1906,1886,1936,1868,1939,2039,2444,3003,2836
+ "04021","Pinal, AZ",6,CAEMP25N,900,"51","   Information","Number of jobs",446,433,497,468,574,600,760,760,789,785,800,829,1100,1082,1029,1020,1000
+ "04021","Pinal, AZ",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1209,1315,1397,1479,1916,2019,2503,2671,3167,2941,3065,3010,3107,2989,3130,3338,3294
+ "04021","Pinal, AZ",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",1786,1901,2049,2387,3637,4047,4678,4470,4392,4431,4734,4438,4517,4672,4717,4821,4948
+ "04021","Pinal, AZ",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),(D),3580,3759,3609,3575,3588,3492,3336,3663,3840,4081,3876
+ "04021","Pinal, AZ",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),61,124,119,93,118,126,127,159,162,187,186
+ "04021","Pinal, AZ",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",3500,3620,3446,3584,4015,4424,5402,5896,6196,6454,6911,6951,7188,7522,7470,7484,7579
+ "04021","Pinal, AZ",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",322,395,434,433,617,691,882,951,1019,1143,1139,1302,1642,1741,1740,1553,1630
+ "04021","Pinal, AZ",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",3790,3709,4043,4382,5081,5022,5411,5217,5123,6036,6298,6594,6437,6117,6321,7004,6887
+ "04021","Pinal, AZ",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",860,856,973,1070,1487,1606,1778,1696,1584,1598,1668,1721,1775,1985,2009,2105,2106
+ "04021","Pinal, AZ",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",2927,2977,3127,3528,3898,4023,4432,4312,4224,4434,4795,4852,4910,4883,5143,6054,6165
+ "04021","Pinal, AZ",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",3015,3241,3364,3474,4032,4384,5118,5043,5117,4963,5247,5436,5575,5768,6121,6390,6362
+ "04021","Pinal, AZ",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",16393,15896,16278,16622,17077,18044,19536,20947,21046,20763,20674,21260,20932,20977,20406,20935,20852
+ "04021","Pinal, AZ",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",890,943,1007,1079,1115,1243,1322,1530,1640,1741,1769,1823,1742,1721,1683,1636,1626
+ "04021","Pinal, AZ",6,CAEMP25N,2002,"...","   Military","Number of jobs",394,409,440,451,483,540,613,679,734,795,784,785,790,817,851,869,914
+ "04021","Pinal, AZ",6,CAEMP25N,2010,"...","   State and local","Number of jobs",15109,14544,14831,15092,15479,16261,17601,18738,18672,18227,18121,18652,18400,18439,17872,18430,18312
+ "04021","Pinal, AZ",6,CAEMP25N,2011,"...","    State government","Number of jobs",5002,3405,3310,3288,3226,3107,3282,3305,3251,(D),(D),(D),3052,2951,2899,2896,2794
+ "04021","Pinal, AZ",6,CAEMP25N,2012,"...","    Local government","Number of jobs",10107,11139,11521,11804,12253,13154,14319,15433,15421,(D),(D),(D),15348,15488,14973,15534,15518
+ "04023","Santa Cruz, AZ",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",16600,16161,16567,16978,18484,19258,20029,19597,18983,19015,19501,19283,19947,20610,21018,20445,20352
+ "04023","Santa Cruz, AZ",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",12767,12155,12555,12715,13953,14590,14929,14517,13669,13472,13477,13337,13636,14067,14319,13901,13702
+ "04023","Santa Cruz, AZ",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",3833,4006,4012,4263,4531,4668,5100,5080,5314,5543,6024,5946,6311,6543,6699,6544,6650
+ "04023","Santa Cruz, AZ",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",212,150,164,139,123,108,158,168,174,184,196,203,204,204,212,214,214
+ "04023","Santa Cruz, AZ",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",3621,3856,3848,4124,4408,4560,4942,4912,5140,5359,5828,5743,6107,6339,6487,6330,6436
+ "04023","Santa Cruz, AZ",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",241,184,195,169,153,130,182,190,200,219,237,293,371,381,387,433,448
+ "04023","Santa Cruz, AZ",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",16359,15977,16372,16809,18331,19128,19847,19407,18783,18796,19264,18990,19576,20229,20631,20012,19904
+ "04023","Santa Cruz, AZ",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",13032,12719,13022,13432,14840,15538,16155,15580,14827,14812,15239,14889,15578,16297,16801,16201,16124
+ "04023","Santa Cruz, AZ",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),126,101,106,100,(D),(D),(D),(D),(D),(D),(D),128,(D),224,269,(D)
+ "04023","Santa Cruz, AZ",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),15,18,17,16,(D),(D),(D),(D),(D),(D),(D),46,49,(D),105,(D)
+ "04023","Santa Cruz, AZ",6,CAEMP25N,300,"22","   Utilities","Number of jobs",60,68,55,30,33,26,26,25,17,(D),(D),(D),(D),54,57,72,88
+ "04023","Santa Cruz, AZ",6,CAEMP25N,400,"23","   Construction","Number of jobs",791,781,834,834,931,1110,1033,1024,802,667,727,670,686,760,758,780,782
+ "04023","Santa Cruz, AZ",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",1000,702,702,621,650,652,560,589,639,667,620,616,610,638,675,732,675
+ "04023","Santa Cruz, AZ",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",1724,1706,1734,1701,1911,1927,2096,1907,1872,1880,1797,1861,1966,2247,2287,2095,2119
+ "04023","Santa Cruz, AZ",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2613,2614,2843,2832,3180,3266,3519,3497,3229,3044,3165,3078,3161,3108,3096,2842,2720
+ "04023","Santa Cruz, AZ",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",1411,1238,1230,1284,1470,1420,1511,1523,1510,(D),(D),(D),(D),2145,2252,2106,2199
+ "04023","Santa Cruz, AZ",6,CAEMP25N,900,"51","   Information","Number of jobs",100,106,104,108,146,132,153,142,140,124,132,135,128,143,138,135,130
+ "04023","Santa Cruz, AZ",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",283,343,318,339,277,338,412,432,487,472,489,476,503,482,467,514,521
+ "04023","Santa Cruz, AZ",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",738,724,627,716,807,906,976,1037,942,932,984,954,930,920,902,872,886
+ "04023","Santa Cruz, AZ",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",586,618,(D),(D),(D),(D),(D),(D),(D),(D),630,(D),(D),626,(D),690,622
+ "04023","Santa Cruz, AZ",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),50,(D),(D),(D),(D),77,(D)
+ "04023","Santa Cruz, AZ",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),664,(D),1095,1131,955,1048,1141,961,728,808,(D),904,865,(D)
+ "04023","Santa Cruz, AZ",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",112,109,92,99,128,130,100,112,164,157,127,161,(D),181,204,184,185
+ "04023","Santa Cruz, AZ",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",690,734,809,860,870,827,887,860,833,942,1011,1056,1196,1229,1213,1079,1131
+ "04023","Santa Cruz, AZ",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",287,279,234,204,229,266,233,219,189,203,238,234,253,235,224,240,244
+ "04023","Santa Cruz, AZ",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1185,1222,1280,1366,1521,1559,1543,1345,1257,1284,1321,1259,1313,1431,1631,1527,1490
+ "04023","Santa Cruz, AZ",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",830,836,766,787,806,845,885,889,906,877,993,1017,1030,1037,1045,1017,1006
+ "04023","Santa Cruz, AZ",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",3327,3258,3350,3377,3491,3590,3692,3827,3956,3984,4025,4101,3998,3932,3830,3811,3780
+ "04023","Santa Cruz, AZ",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",1069,1119,1120,1162,1198,1295,1375,1467,1560,1597,1731,1828,1788,1733,1664,1616,1586
+ "04023","Santa Cruz, AZ",6,CAEMP25N,2002,"...","   Military","Number of jobs",90,90,94,93,95,95,97,100,106,104,104,102,102,102,103,102,103
+ "04023","Santa Cruz, AZ",6,CAEMP25N,2010,"...","   State and local","Number of jobs",2168,2049,2136,2122,2198,2200,2220,2260,2290,2283,2190,2171,2108,2097,2063,2093,2091
+ "04023","Santa Cruz, AZ",6,CAEMP25N,2011,"...","    State government","Number of jobs",336,153,153,152,169,172,168,172,157,149,136,137,131,142,145,143,137
+ "04023","Santa Cruz, AZ",6,CAEMP25N,2012,"...","    Local government","Number of jobs",1832,1896,1983,1970,2029,2028,2052,2088,2133,2134,2054,2034,1977,1955,1918,1950,1954
+ "04025","Yavapai, AZ",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",76403,78539,80739,84763,90797,95889,98495,95085,89442,87118,87057,88290,90104,92499,94931,97420,99344
+ "04025","Yavapai, AZ",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",53317,55115,56166,58543,62313,66792,67494,64533,59203,56919,56126,57379,58574,60412,62378,64932,66206
+ "04025","Yavapai, AZ",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",23086,23424,24573,26220,28484,29097,31001,30552,30239,30199,30931,30911,31530,32087,32553,32488,33138
+ "04025","Yavapai, AZ",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",787,581,654,557,496,445,649,680,708,751,798,838,839,839,858,861,861
+ "04025","Yavapai, AZ",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",22299,22843,23919,25663,27988,28652,30352,29872,29531,29448,30133,30073,30691,31248,31695,31627,32277
+ "04025","Yavapai, AZ",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1025,817,918,806,755,707,892,918,897,937,1037,1107,1121,1100,1144,1218,1182
+ "04025","Yavapai, AZ",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",75378,77722,79821,83957,90042,95182,97603,94167,88545,86181,86020,87183,88983,91399,93787,96202,98162
+ "04025","Yavapai, AZ",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",64901,66992,68997,73014,78900,83528,85639,81999,76775,74628,74935,76290,78031,80317,82603,84862,86742
+ "04025","Yavapai, AZ",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",201,236,221,247,270,269,308,288,295,307,318,268,299,(D),273,292,285
+ "04025","Yavapai, AZ",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",1346,1155,1223,1341,1366,1500,1544,1798,1905,1691,1357,1685,1752,(D),1696,1651,1755
+ "04025","Yavapai, AZ",6,CAEMP25N,300,"22","   Utilities","Number of jobs",156,150,148,120,118,125,130,147,129,132,117,118,111,213,238,300,278
+ "04025","Yavapai, AZ",6,CAEMP25N,400,"23","   Construction","Number of jobs",7872,8187,8371,9158,10466,11361,10729,8952,6645,5708,5614,5681,5839,6118,6191,6613,7012
+ "04025","Yavapai, AZ",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",3890,3763,3762,3966,4332,4446,4281,3851,3483,3421,3563,3763,4031,4124,4169,4511,4773
+ "04025","Yavapai, AZ",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",2369,2496,2405,2554,2687,2805,2811,2670,2357,2394,2376,2344,2402,2785,3027,2685,2548
+ "04025","Yavapai, AZ",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",9477,9635,9949,10628,11434,11924,12413,12031,11516,11185,11409,11395,11617,11912,12304,12415,12372
+ "04025","Yavapai, AZ",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",1443,1418,1397,1488,1594,1726,1797,1811,1773,1698,1678,1713,1796,1800,1847,1964,1931
+ "04025","Yavapai, AZ",6,CAEMP25N,900,"51","   Information","Number of jobs",932,944,990,1034,1004,1019,1000,981,969,1080,1085,1076,1071,1049,1000,1062,1059
+ "04025","Yavapai, AZ",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",2442,2444,2528,2558,2786,2953,3398,3671,3636,3390,3611,3486,3408,3397,3392,3526,3627
+ "04025","Yavapai, AZ",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",4341,4536,4929,5819,6960,7372,7502,7150,6736,6786,6794,6419,6333,6561,6748,6850,7057
+ "04025","Yavapai, AZ",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",3757,3937,4076,4411,4631,4895,5355,5134,4803,4758,4660,4796,4910,5092,5280,5048,5304
+ "04025","Yavapai, AZ",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",107,99,96,104,152,150,141,138,145,132,157,150,161,185,182,272,287
+ "04025","Yavapai, AZ",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",3714,4270,4396,4394,4777,5047,4881,4239,4014,3850,3779,3950,3849,3529,3419,3854,3916
+ "04025","Yavapai, AZ",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",1795,2026,2034,2068,2191,2342,2449,2492,2452,2536,2584,2674,2784,3023,2997,2826,2887
+ "04025","Yavapai, AZ",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",7283,7501,8104,8101,8518,9142,9921,10220,10281,10132,9978,10066,10566,10786,11255,11932,12112
+ "04025","Yavapai, AZ",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",2071,2064,2094,2332,2392,2698,2833,2855,2758,2841,2840,2976,2921,2909,2846,2832,2926
+ "04025","Yavapai, AZ",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",6846,6997,7136,7359,7606,7876,8011,7515,6875,6752,6995,7511,7878,8350,8967,9559,9881
+ "04025","Yavapai, AZ",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",4859,5134,5138,5332,5616,5878,6135,6056,6003,5835,6020,6219,6303,6546,6772,6670,6732
+ "04025","Yavapai, AZ",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",10477,10730,10824,10943,11142,11654,11964,12168,11770,11553,11085,10893,10952,11082,11184,11340,11420
+ "04025","Yavapai, AZ",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",1170,1220,1243,1232,1215,1204,1203,1337,1439,1551,1447,1373,1372,1409,1497,1556,1603
+ "04025","Yavapai, AZ",6,CAEMP25N,2002,"...","   Military","Number of jobs",394,405,425,425,439,443,453,466,482,473,468,466,474,486,499,499,516
+ "04025","Yavapai, AZ",6,CAEMP25N,2010,"...","   State and local","Number of jobs",8913,9105,9156,9286,9488,10007,10308,10365,9849,9529,9170,9054,9106,9187,9188,9285,9301
+ "04025","Yavapai, AZ",6,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),600,638,643,663,607,554,556,569,572,601,599,631,637
+ "04025","Yavapai, AZ",6,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),8888,9369,9665,9702,9242,8975,8614,8485,8534,8586,8589,8654,8664
+ "04027","Yuma, AZ",6,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",70656,72784,74549,78518,80808,83776,85115,83665,79960,79901,80988,82389,83072,83682,85810,88692,88273
+ "04027","Yuma, AZ",6,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",61786,63774,65087,68450,69973,72422,72661,71379,67246,66961,67269,68927,69473,69695,71432,73824,73172
+ "04027","Yuma, AZ",6,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",8870,9010,9462,10068,10835,11354,12454,12286,12714,12940,13719,13462,13599,13987,14378,14868,15101
+ "04027","Yuma, AZ",6,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",728,533,528,414,335,274,367,382,393,412,434,449,448,449,458,460,459
+ "04027","Yuma, AZ",6,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",8142,8477,8934,9654,10500,11080,12087,11904,12321,12528,13285,13013,13151,13538,13920,14408,14642
+ "04027","Yuma, AZ",6,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",3880,3584,3781,3655,3577,3585,3567,3030,3183,3152,3258,3585,4119,3601,3935,4624,4370
+ "04027","Yuma, AZ",6,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",66776,69200,70768,74863,77231,80191,81548,80635,76777,76749,77730,78804,78953,80081,81875,84068,83903
+ "04027","Yuma, AZ",6,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",50842,52991,54094,57710,59820,61963,63235,62121,58118,57821,58677,59675,59999,61230,63226,64837,64696
+ "04027","Yuma, AZ",6,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),11619,10986,(D),(D),10089,8823,9444,9585,9229,9093,9407,10027,9800,(D)
+ "04027","Yuma, AZ",6,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),70,71,(D),(D),86,63,121,87,130,157,143,137,145,(D)
+ "04027","Yuma, AZ",6,CAEMP25N,300,"22","   Utilities","Number of jobs",163,172,174,181,192,204,199,172,177,178,176,183,177,178,202,209,212
+ "04027","Yuma, AZ",6,CAEMP25N,400,"23","   Construction","Number of jobs",3759,4142,4487,5313,6135,6444,5901,5274,4181,3556,3386,3561,3462,3404,3496,3489,3647
+ "04027","Yuma, AZ",6,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",2288,2517,2673,3131,2986,3062,2912,2473,2054,1961,2156,2136,2236,2291,2469,2730,2906
+ "04027","Yuma, AZ",6,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",2095,1908,1882,1781,1827,1863,1766,1948,1687,1437,1378,1406,1516,1644,1698,1578,1518
+ "04027","Yuma, AZ",6,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",7753,7533,7700,8379,9058,9355,9798,9520,8716,8411,8571,8558,8702,8948,9230,9564,9757
+ "04027","Yuma, AZ",6,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",1265,1373,1405,1623,1710,1912,2031,1974,1916,1794,1810,1890,1901,1903,1952,2007,2068
+ "04027","Yuma, AZ",6,CAEMP25N,900,"51","   Information","Number of jobs",944,1024,1119,1205,1222,607,663,648,588,662,688,684,687,675,614,612,604
+ "04027","Yuma, AZ",6,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1240,1187,1193,1258,1371,1397,1710,1672,1798,1685,1705,1803,2025,1986,2084,2198,2318
+ "04027","Yuma, AZ",6,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",1755,1785,1859,2074,2312,2463,2592,2623,2611,2555,2502,2473,2554,2609,2624,2665,2681
+ "04027","Yuma, AZ",6,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",1378,1418,1576,1726,1869,1984,2347,2427,2356,2515,3830,3759,3406,3281,3257,3177,3580
+ "04027","Yuma, AZ",6,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",159,144,149,144,151,153,154,147,115,107,123,131,162,265,259,345,319
+ "04027","Yuma, AZ",6,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",2395,2941,3601,3300,3341,4271,4881,5673,5470,5498,4391,5030,5131,5688,5942,6320,5737
+ "04027","Yuma, AZ",6,CAEMP25N,1500,"61","   Educational services","Number of jobs",253,312,331,420,473,521,535,529,549,575,573,591,545,652,718,718,706
+ "04027","Yuma, AZ",6,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",5424,5692,6116,6386,6605,6720,6962,7221,7423,7727,7841,8206,8206,8069,8112,8523,8617
+ "04027","Yuma, AZ",6,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",463,454,426,455,460,494,512,521,570,570,593,812,689,653,649,634,612
+ "04027","Yuma, AZ",6,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",4742,4756,4803,5487,5830,5749,5787,5557,5511,5531,5581,5393,5633,5611,5830,6125,6178
+ "04027","Yuma, AZ",6,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",2921,2988,2984,3158,3221,3407,3527,3567,3510,3494,3701,3700,3717,3823,3926,3998,4035
+ "04027","Yuma, AZ",6,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",15934,16209,16674,17153,17411,18228,18313,18514,18659,18928,19053,19129,18954,18851,18649,19231,19207
+ "04027","Yuma, AZ",6,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",2539,2731,2779,2902,3042,3210,3402,3505,3705,3912,3796,3797,3706,3600,3463,3427,3503
+ "04027","Yuma, AZ",6,CAEMP25N,2002,"...","   Military","Number of jobs",4231,4184,4253,4102,4023,4102,4029,4129,4252,4264,4274,4220,4180,4136,4265,4869,4961
+ "04027","Yuma, AZ",6,CAEMP25N,2010,"...","   State and local","Number of jobs",9164,9294,9642,10149,10346,10916,10882,10880,10702,10752,10983,11112,11068,11115,10921,10935,10743
+ "04027","Yuma, AZ",6,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),1225,1249,1276,1271,1203,1335,1498,1530,1509,1509,1550,1582,1602
+ "04027","Yuma, AZ",6,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),9121,9667,9606,9609,9499,9417,9485,9582,9559,9606,9371,9353,9141
+"Note: See the included footnote file."
+"CAEMP25N: Total Full-Time and Part-Time Employment by NAICS Industry 1/"
+"Last updated: November 15, 2018-- new statistics for 2017; revised statistics for 2001-2016. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

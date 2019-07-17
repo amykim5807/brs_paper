@@ -1,0 +1,388 @@
+
+
+ ela 
+2009 
+
+ Black Rural South 
+all : 203.1242 
+wht : 219.6699 
+blk : 195.5996 
+
+ Nonsouth Rural 
+all : 217.9233 
+wht : 221.0203 
+blk : 200.1441 
+
+ South Metro 
+all : 216.7485 
+wht : 227.4696 
+blk : 202.3892 
+
+ South 
+all : 215.8917 
+wht : 225.6351 
+blk : 201.519 
+
+ All 
+all : 216.7777 
+wht : 226.7459 
+blk : 200.9471 
+
+2010 
+
+ Black Rural South 
+all : 203.7729 
+wht : 221.1216 
+blk : 195.7414 
+
+ Nonsouth Rural 
+all : 218.3012 
+wht : 221.439 
+blk : 200.9296 
+
+ South Metro 
+all : 217.0627 
+wht : 228.6926 
+blk : 202.7396 
+
+ South 
+all : 216.2162 
+wht : 226.7776 
+blk : 201.865 
+
+ All 
+all : 217.1913 
+wht : 227.3981 
+blk : 201.1748 
+
+2011 
+
+ Black Rural South 
+all : 203.8468 
+wht : 221.4783 
+blk : 195.2714 
+
+ Nonsouth Rural 
+all : 217.9077 
+wht : 221.1017 
+blk : 199.0987 
+
+ South Metro 
+all : 217.4161 
+wht : 229.2346 
+blk : 202.8379 
+
+ South 
+all : 216.5421 
+wht : 227.2085 
+blk : 201.914 
+
+ All 
+all : 217.6323 
+wht : 227.6623 
+blk : 201.4507 
+
+2012 
+
+ Black Rural South 
+all : 203.3955 
+wht : 219.9324 
+blk : 195.3074 
+
+ Nonsouth Rural 
+all : 218.7088 
+wht : 222.2509 
+blk : 200.3423 
+
+ South Metro 
+all : 218.2833 
+wht : 230.0077 
+blk : 202.9437 
+
+ South 
+all : 217.3326 
+wht : 227.9011 
+blk : 202.0493 
+
+ All 
+all : 218.3531 
+wht : 228.5275 
+blk : 201.5583 
+
+2013 
+
+ Black Rural South 
+all : 203.9961 
+wht : 220.7673 
+blk : 195.8831 
+
+ Nonsouth Rural 
+all : 219.4059 
+wht : 223.0574 
+blk : 201.5426 
+
+ South Metro 
+all : 219.1322 
+wht : 231.9198 
+blk : 204.0716 
+
+ South 
+all : 218.1534 
+wht : 229.7175 
+blk : 203.1455 
+
+ All 
+all : 219.0398 
+wht : 229.5561 
+blk : 202.3126 
+
+2014 
+
+ Black Rural South 
+all : 205.777 
+wht : 221.6235 
+blk : 197.5068 
+
+ Nonsouth Rural 
+all : 220.2535 
+wht : 223.5889 
+blk : 201.2994 
+
+ South Metro 
+all : 219.5139 
+wht : 231.722 
+blk : 204.6979 
+
+ South 
+all : 218.6951 
+wht : 229.7157 
+blk : 203.8945 
+
+ All 
+all : 220.5522 
+wht : 229.8973 
+blk : 203.3193 
+
+2015 
+
+ Black Rural South 
+all : 207.0473 
+wht : 224.2193 
+blk : 198.8032 
+
+ Nonsouth Rural 
+all : 218.7162 
+wht : 222.2639 
+blk : 198.8027 
+
+ South Metro 
+all : 220.4289 
+wht : 232.8174 
+blk : 205.6591 
+
+ South 
+all : 219.6081 
+wht : 230.8155 
+blk : 204.8936 
+
+ All 
+all : 219.5683 
+wht : 230.2143 
+blk : 202.9394 
+
+
+
+
+
+ math 
+2009 
+
+ Black Rural South 
+all : 224.4739 
+wht : 238.4546 
+blk : 217.6782 
+
+ Nonsouth Rural 
+all : 239.0405 
+wht : 241.2988 
+blk : 222.6001 
+
+ South Metro 
+all : 237.6691 
+wht : 245.0941 
+blk : 225.703 
+
+ South 
+all : 236.8305 
+wht : 243.4917 
+blk : 224.8123 
+
+ All 
+all : 237.9577 
+wht : 245.2123 
+blk : 223.9572 
+
+2010 
+
+ Black Rural South 
+all : 226.3259 
+wht : 239.9171 
+blk : 219.6619 
+
+ Nonsouth Rural 
+all : 239.3074 
+wht : 241.4023 
+blk : 224.3402 
+
+ South Metro 
+all : 238.2242 
+wht : 245.8326 
+blk : 225.94 
+
+ South 
+all : 237.4516 
+wht : 244.3239 
+blk : 225.2257 
+
+ All 
+all : 238.4773 
+wht : 245.5789 
+blk : 224.3019 
+
+2011 
+
+ Black Rural South 
+all : 227.4287 
+wht : 241.0053 
+blk : 220.7244 
+
+ Nonsouth Rural 
+all : 239.4522 
+wht : 241.7166 
+blk : 223.0787 
+
+ South Metro 
+all : 238.828 
+wht : 246.3209 
+blk : 226.4105 
+
+ South 
+all : 238.0627 
+wht : 244.8005 
+blk : 225.7649 
+
+ All 
+all : 239.0482 
+wht : 246.0351 
+blk : 224.7746 
+
+2012 
+
+ Black Rural South 
+all : 228.0197 
+wht : 240.155 
+blk : 221.684 
+
+ Nonsouth Rural 
+all : 240.3806 
+wht : 242.9619 
+blk : 223.8846 
+
+ South Metro 
+all : 239.6862 
+wht : 247.1988 
+blk : 226.4274 
+
+ South 
+all : 239.027 
+wht : 245.709 
+blk : 225.9239 
+
+ All 
+all : 239.7518 
+wht : 246.9075 
+blk : 224.6664 
+
+2013 
+
+ Black Rural South 
+all : 227.7085 
+wht : 240.2811 
+blk : 221.2967 
+
+ Nonsouth Rural 
+all : 240.9442 
+wht : 243.5989 
+blk : 225.0789 
+
+ South Metro 
+all : 240.8217 
+wht : 248.9447 
+blk : 227.445 
+
+ South 
+all : 240.0159 
+wht : 247.275 
+blk : 226.8036 
+
+ All 
+all : 240.4007 
+wht : 247.8156 
+blk : 225.3263 
+
+2014 
+
+ Black Rural South 
+all : 227.4911 
+wht : 240.0989 
+blk : 220.9118 
+
+ Nonsouth Rural 
+all : 240.7817 
+wht : 243.4267 
+blk : 222.127 
+
+ South Metro 
+all : 240.5651 
+wht : 248.8686 
+blk : 226.6394 
+
+ South 
+all : 239.7457 
+wht : 247.1787 
+blk : 226.05 
+
+ All 
+all : 240.9746 
+wht : 248.0862 
+blk : 224.6055 
+
+2015 
+
+ Black Rural South 
+all : 227.8486 
+wht : 240.3891 
+blk : 221.3274 
+
+ Nonsouth Rural 
+all : 238.5592 
+wht : 241.3599 
+blk : 220.5576 
+
+ South Metro 
+all : 240.7943 
+wht : 249.3857 
+blk : 226.7329 
+
+ South 
+all : 239.9924 
+wht : 247.5803 
+blk : 226.2092 
+
+ All 
+all : 239.0259 
+wht : 247.1538 
+blk : 223.8516 
+
+
+

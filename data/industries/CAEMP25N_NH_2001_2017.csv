@@ -1,0 +1,368 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+ "33000","New Hampshire",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",788168,788484,797648,812823,825600,835582,848001,844862,820809,813707,818789,824361,835032,844623,860799,873508,883304
+ "33000","New Hampshire",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",640657,635883,637305,643788,648879,655750,658831,656967,633060,629907,633733,640426,647086,655565,666446,676434,682227
+ "33000","New Hampshire",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",147511,152601,160343,169035,176721,179832,189170,187895,187749,183800,185056,183935,187946,189058,194353,197074,201077
+ "33000","New Hampshire",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",3264,3481,3404,3328,3327,3265,3983,3979,3997,4048,4041,4071,4124,4127,4147,4141,4141
+ "33000","New Hampshire",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",144247,149120,156939,165707,173394,176567,185187,183916,183752,179752,181015,179864,183822,184931,190206,192933,196936
+ "33000","New Hampshire",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",4882,5045,4992,4630,4577,4396,5066,5159,5137,5173,5270,5521,5782,5791,5805,5689,5685
+ "33000","New Hampshire",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",783286,783439,792656,808193,821023,831186,842935,839703,815672,808534,813519,818840,829250,838832,854994,867819,877619
+ "33000","New Hampshire",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",695243,692225,699318,716337,729122,737593,748254,744061,719441,710810,718207,723916,734560,743778,760136,773340,783240
+ "33000","New Hampshire",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",3445,3591,3113,3238,3347,3172,3226,3305,3091,2943,2952,3298,3298,3288,3189,3199,3200
+ "33000","New Hampshire",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",882,779,905,922,950,1023,1268,1311,1176,1369,1221,1697,1582,1556,1619,1737,1808
+ "33000","New Hampshire",1,CAEMP25N,300,"22","   Utilities","Number of jobs",2885,2809,2697,2656,2639,2632,2670,2651,2677,2659,2583,2574,2617,2470,2385,2546,2768
+ "33000","New Hampshire",1,CAEMP25N,400,"23","   Construction","Number of jobs",52596,53694,56926,59423,61893,62016,59955,56866,51883,48861,48688,48849,49435,49728,50542,52879,54532
+ "33000","New Hampshire",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",101279,88690,83834,83681,83835,82294,82210,80222,72737,69976,71204,70685,71139,71430,72398,73556,74965
+ "33000","New Hampshire",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",29341,29474,29439,30296,30717,31313,31589,31217,29540,28874,29372,29617,29718,31541,32288,30783,30925
+ "33000","New Hampshire",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",111706,113429,114186,115212,116130,117089,117093,114766,110782,109135,109891,110612,111322,111013,112045,112853,112394
+ "33000","New Hampshire",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",16907,16688,16887,16751,17178,17049,17278,16728,16098,15644,15905,16233,16376,16491,17769,18906,19311
+ "33000","New Hampshire",1,CAEMP25N,900,"51","   Information","Number of jobs",15581,14597,14254,14752,15316,15111,15095,15381,14940,13821,13771,14572,14545,14777,14847,15231,15256
+ "33000","New Hampshire",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",34156,35158,35661,36226,37112,37480,39205,40613,41480,40539,42227,42585,43056,42120,43284,45254,43602
+ "33000","New Hampshire",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",25752,26521,28607,31275,33772,34097,34751,34475,33885,34620,35684,34898,35825,36673,37298,38717,39764
+ "33000","New Hampshire",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",47002,46396,46891,49603,51024,52583,55590,56400,54516,54270,54381,54701,56568,57158,59517,59624,63574
+ "33000","New Hampshire",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",7368,6864,6589,7468,7829,7869,8121,8683,8420,8521,8621,8736,8728,8826,9281,9883,9971
+ "33000","New Hampshire",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",34107,34156,35644,36886,36981,38900,40932,40792,39042,40467,40873,41909,43196,45577,46728,47187,47402
+ "33000","New Hampshire",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",23520,25166,26032,25954,26408,26359,26438,26754,27027,26865,26538,26851,27916,28738,30129,30760,31041
+ "33000","New Hampshire",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",78421,80605,82611,83963,85467,88378,91571,93360,94722,94964,95114,95647,96337,96872,99020,100761,101975
+ "33000","New Hampshire",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",17832,18563,19036,19876,19467,19822,20212,20847,20553,20920,21222,21322,21453,21489,21659,22303,22622
+ "33000","New Hampshire",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",52803,54106,54744,56417,56810,57527,57524,57300,55416,55890,56850,57754,59537,60940,62123,63257,64165
+ "33000","New Hampshire",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",39660,40939,41262,41738,42247,42879,43526,42390,41456,40472,41110,41376,41912,43091,44015,43904,43965
+ "33000","New Hampshire",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",88043,91214,93338,91856,91901,93593,94681,95642,96231,97724,95312,94924,94690,95054,94858,94479,94379
+ "33000","New Hampshire",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",7939,8073,8006,7902,7898,7926,7806,7816,7793,8046,7424,7400,7403,7410,7540,7658,7631
+ "33000","New Hampshire",1,CAEMP25N,2002,"...","   Military","Number of jobs",4279,4310,4464,4286,4018,3967,3943,4270,4544,4705,4654,4647,4668,4577,4624,4713,4679
+ "33000","New Hampshire",1,CAEMP25N,2010,"...","   State and local","Number of jobs",75825,78831,80868,79668,79985,81700,82932,83556,83894,84973,83234,82877,82619,83067,82694,82108,82069
+ "33000","New Hampshire",1,CAEMP25N,2011,"...","    State government","Number of jobs",23868,24888,25649,24090,23486,24204,24985,25145,24956,26068,25362,24928,24917,25452,25736,25397,25339
+ "33000","New Hampshire",1,CAEMP25N,2012,"...","    Local government","Number of jobs",51957,53943,55219,55578,56499,57496,57947,58411,58938,58905,57872,57949,57702,57615,56958,56711,56730
+ "33001","Belknap, NH",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",36771,36610,37195,38449,38525,38922,39537,38990,37774,36866,36866,37096,37594,37485,37866,37655,37992
+ "33001","Belknap, NH",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",27905,27670,27768,28440,28405,28699,28693,28288,27170,26460,26371,26582,26948,26902,27042,27209,27334
+ "33001","Belknap, NH",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",8866,8940,9427,10009,10120,10223,10844,10702,10604,10406,10495,10514,10646,10583,10824,10446,10658
+ "33001","Belknap, NH",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",222,238,234,228,227,221,270,272,278,286,289,294,297,297,299,298,298
+ "33001","Belknap, NH",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",8644,8702,9193,9781,9893,10002,10574,10430,10326,10120,10206,10220,10349,10286,10525,10148,10360
+ "33001","Belknap, NH",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",291,308,309,293,292,283,331,335,336,340,344,356,367,367,369,363,363
+ "33001","Belknap, NH",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",36480,36302,36886,38156,38233,38639,39206,38655,37438,36526,36522,36740,37227,37118,37497,37292,37629
+ "33001","Belknap, NH",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",32744,32304,32699,33984,33932,34187,34706,34078,32714,31890,32020,32233,32702,32621,33046,32842,33213
+ "33001","Belknap, NH",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",129,147,129,131,123,115,(D),135,130,(D),(D),(D),153,161,(D),133,136
+ "33001","Belknap, NH",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),49,71,73,(D),(D),76,(D),(D),(D),(D),108,97,115,125
+ "33001","Belknap, NH",1,CAEMP25N,300,"22","   Utilities","Number of jobs",114,114,115,119,139,141,141,140,140,143,131,133,143,133,127,147,173
+ "33001","Belknap, NH",1,CAEMP25N,400,"23","   Construction","Number of jobs",(D),(D),(D),(D),(D),4010,(D),(D),3465,3178,3066,(D),(D),3017,3125,3141,3241
+ "33001","Belknap, NH",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",4854,3911,3591,3732,3884,3562,3309,3186,2775,2415,2383,2476,2582,2554,2529,2503,2516
+ "33001","Belknap, NH",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",714,690,683,853,846,872,861,887,854,807,785,746,706,776,821,798,819
+ "33001","Belknap, NH",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",6230,6409,6341,6441,6223,6315,6533,6356,6112,5988,5930,5900,5993,6036,6018,6086,6081
+ "33001","Belknap, NH",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",726,637,684,697,717,717,710,694,631,635,644,653,665,676,710,691,713
+ "33001","Belknap, NH",1,CAEMP25N,900,"51","   Information","Number of jobs",381,(D),422,423,433,419,414,420,435,397,396,380,406,355,359,359,324
+ "33001","Belknap, NH",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1041,1057,1075,960,958,971,1022,1142,1246,1208,1273,1213,1203,1194,1168,1188,1224
+ "33001","Belknap, NH",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",1508,(D),1622,1827,1939,1944,2046,2008,1886,1978,2057,2041,2042,2089,2203,2165,2212
+ "33001","Belknap, NH",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",1559,1546,1624,1754,1768,1822,1933,1895,1862,1934,1952,1943,1920,1913,1929,1848,1844
+ "33001","Belknap, NH",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),366,373,349,350,336,362,384,549,611,670,682,686
+ "33001","Belknap, NH",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1581,1689,1648,1790,1777,1903,1877,1784,1787,1714,1829,1899,1884,1697,1677,1651,1667
+ "33001","Belknap, NH",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",604,656,658,656,657,639,627,650,659,641,599,688,657,616,(D),643,637
+ "33001","Belknap, NH",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",3514,3499,3520,3592,3519,3649,3755,3786,3796,3807,3812,3966,3989,3932,3979,3832,3839
+ "33001","Belknap, NH",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",910,920,949,1117,1040,1081,1144,1173,1047,1059,1035,1065,1093,1107,1106,1081,1122
+ "33001","Belknap, NH",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",3359,3257,3301,3342,3389,3443,3506,3462,3348,3389,3495,3518,3604,3626,3681,3762,3810
+ "33001","Belknap, NH",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1996,2114,2272,2149,2113,2145,2216,2168,2115,2032,2037,1964,1975,2020,2049,2017,2044
+ "33001","Belknap, NH",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",3736,3998,4187,4172,4301,4452,4500,4577,4724,4636,4502,4507,4525,4497,4451,4450,4416
+ "33001","Belknap, NH",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",272,278,275,278,261,258,234,243,240,230,152,147,141,138,137,142,138
+ "33001","Belknap, NH",1,CAEMP25N,2002,"...","   Military","Number of jobs",186,188,195,195,181,173,175,191,203,208,204,202,201,197,198,203,201
+ "33001","Belknap, NH",1,CAEMP25N,2010,"...","   State and local","Number of jobs",3278,3532,3717,3699,3859,4021,4091,4143,4281,4198,4146,4158,4183,4162,4116,4105,4077
+ "33001","Belknap, NH",1,CAEMP25N,2011,"...","    State government","Number of jobs",739,769,778,780,825,905,(D),(D),(D),(D),(D),(D),899,904,894,891,853
+ "33001","Belknap, NH",1,CAEMP25N,2012,"...","    Local government","Number of jobs",2539,2763,2939,2919,3034,3116,(D),(D),(D),(D),(D),(D),3284,3258,3222,3214,3224
+ "33003","Carroll, NH",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",28820,29402,30004,30508,30784,30992,31655,31610,30835,30411,30495,30632,30645,30686,30580,30841,31130
+ "33003","Carroll, NH",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",20823,21089,21474,21692,21373,21499,21578,21722,21089,20959,21119,21205,21058,21105,20935,21085,21178
+ "33003","Carroll, NH",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",7997,8313,8530,8816,9411,9493,10077,9888,9746,9452,9376,9427,9587,9581,9645,9756,9952
+ "33003","Carroll, NH",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",221,241,236,228,227,221,267,266,267,269,269,271,275,276,279,278,278
+ "33003","Carroll, NH",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",7776,8072,8294,8588,9184,9272,9810,9622,9479,9183,9107,9156,9312,9305,9366,9478,9674
+ "33003","Carroll, NH",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",317,343,333,302,293,277,316,319,318,318,322,334,347,348,351,345,345
+ "33003","Carroll, NH",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",28503,29059,29671,30206,30491,30715,31339,31291,30517,30093,30173,30298,30298,30338,30229,30496,30785
+ "33003","Carroll, NH",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",25786,26291,26866,27332,27571,27765,28287,28167,27294,26846,26967,27085,27099,27084,27060,27357,27635
+ "33003","Carroll, NH",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),315,(D),286,298,269,293,302,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "33003","Carroll, NH",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),55,(D),55,62,72,77,70,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "33003","Carroll, NH",1,CAEMP25N,300,"22","   Utilities","Number of jobs",74,73,75,90,93,95,94,101,92,93,93,90,95,93,(D),(D),(D)
+ "33003","Carroll, NH",1,CAEMP25N,400,"23","   Construction","Number of jobs",(D),(D),(D),(D),(D),3708,(D),(D),3267,2997,2982,(D),2902,2887,2863,3050,3132
+ "33003","Carroll, NH",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",1523,1495,1482,1330,1293,1254,1360,1383,(D),(D),(D),1308,1278,1180,(D),1187,1230
+ "33003","Carroll, NH",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",437,495,523,(D),(D),525,(D),(D),457,434,445,435,421,475,526,470,481
+ "33003","Carroll, NH",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",4812,4815,4805,4824,4894,4823,4869,4778,4543,(D),4406,4471,4451,4433,4419,4440,4419
+ "33003","Carroll, NH",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",362,355,366,357,359,344,400,371,367,341,354,345,(D),(D),(D),(D),(D)
+ "33003","Carroll, NH",1,CAEMP25N,900,"51","   Information","Number of jobs",463,451,429,428,387,365,387,395,388,375,375,355,356,361,370,374,381
+ "33003","Carroll, NH",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",688,730,760,778,837,840,872,827,929,1003,1030,1070,1020,964,1010,969,917
+ "33003","Carroll, NH",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",1198,(D),1301,1432,1589,1574,1683,1628,1555,1576,1618,1565,1553,1614,1592,1685,1744
+ "33003","Carroll, NH",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",1333,1410,1427,1488,(D),1457,1527,1546,1499,1505,1418,(D),1486,1434,1486,1544,1604
+ "33003","Carroll, NH",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",209,196,171,181,246,233,226,229,175,185,243,(D),202,171,142,156,100
+ "33003","Carroll, NH",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1118,1214,1207,1203,1178,1208,1276,1300,1366,1331,1252,1383,1435,1475,1455,1487,1508
+ "33003","Carroll, NH",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",623,630,640,650,650,649,591,633,653,650,650,701,699,683,704,719,711
+ "33003","Carroll, NH",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",2653,2732,2934,3003,2916,3028,3108,3092,3175,3150,3153,3108,3116,3104,2954,2890,2854
+ "33003","Carroll, NH",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",1067,1173,1321,1353,1215,1269,1272,1325,1301,1313,1314,1298,1304,1324,1286,1320,1352
+ "33003","Carroll, NH",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",4594,4674,4653,4692,4615,4583,4563,4617,4440,4471,4580,4542,4602,4681,4745,4777,4854
+ "33003","Carroll, NH",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1299,1296,1310,1369,1371,1469,1548,1511,1480,1434,1437,1457,1483,1517,1579,1535,1565
+ "33003","Carroll, NH",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2717,2768,2805,2874,2920,2950,3052,3124,3223,3247,3206,3213,3199,3254,3169,3139,3150
+ "33003","Carroll, NH",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",124,130,132,132,132,134,138,141,145,182,145,132,129,131,127,130,135
+ "33003","Carroll, NH",1,CAEMP25N,2002,"...","   Military","Number of jobs",143,144,150,151,140,136,139,152,162,166,161,159,160,156,156,160,160
+ "33003","Carroll, NH",1,CAEMP25N,2010,"...","   State and local","Number of jobs",2450,2494,2523,2591,2648,2680,2775,2831,2916,2899,2900,2922,2910,2967,2886,2849,2855
+ "33003","Carroll, NH",1,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),219,212,215,219,225,233,227,223,208,(D),260,(D),(D),(D)
+ "33003","Carroll, NH",1,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),2372,2436,2465,2556,2606,2683,2672,2677,2714,(D),2707,(D),(D),(D)
+ "33005","Cheshire, NH",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",43815,44284,44637,45439,46411,46735,46733,46194,45164,44484,44532,44829,45033,44997,45351,45137,45133
+ "33005","Cheshire, NH",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",34943,35034,35096,35469,36147,36444,35889,35547,34505,33977,34055,34337,34238,34175,34440,34319,34102
+ "33005","Cheshire, NH",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",8872,9250,9541,9970,10264,10291,10844,10647,10659,10507,10477,10492,10795,10822,10911,10818,11031
+ "33005","Cheshire, NH",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",319,340,335,328,331,326,401,393,390,389,383,378,382,383,383,382,382
+ "33005","Cheshire, NH",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",8553,8910,9206,9642,9933,9965,10443,10254,10269,10118,10094,10114,10413,10439,10528,10436,10649
+ "33005","Cheshire, NH",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",471,467,456,420,414,396,464,469,470,475,483,504,526,527,527,516,516
+ "33005","Cheshire, NH",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",43344,43817,44181,45019,45997,46339,46269,45725,44694,44009,44049,44325,44507,44470,44824,44621,44617
+ "33005","Cheshire, NH",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",38067,38235,38449,39424,40328,40673,40564,40148,38955,38146,38399,38663,38797,38682,38976,38924,39042
+ "33005","Cheshire, NH",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),239,251,(D)
+ "33005","Cheshire, NH",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),90,88,(D)
+ "33005","Cheshire, NH",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),74,66,68,(D),80,84,89,98
+ "33005","Cheshire, NH",1,CAEMP25N,400,"23","   Construction","Number of jobs",3210,3297,3531,3737,3970,4083,3845,3739,3461,3231,3091,3124,3079,3008,3020,3135,3196
+ "33005","Cheshire, NH",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",6550,6284,6135,5975,6261,5976,5808,5736,(D),(D),(D),4976,4897,4865,4922,4985,5068
+ "33005","Cheshire, NH",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",1205,1217,1281,1449,1464,1495,1416,1419,1377,1349,1398,1449,1438,1495,1438,1349,1305
+ "33005","Cheshire, NH",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",6454,6312,6394,6538,6532,6858,6786,6565,6241,6258,6328,6320,6338,6357,6404,6390,6279
+ "33005","Cheshire, NH",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),859,840,824,851,842
+ "33005","Cheshire, NH",1,CAEMP25N,900,"51","   Information","Number of jobs",618,567,572,562,576,542,543,563,558,568,574,570,555,551,542,548,550
+ "33005","Cheshire, NH",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",2224,2426,2374,2307,2247,2226,2166,2188,2202,2123,2238,2233,2110,1916,1873,1857,1876
+ "33005","Cheshire, NH",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",1205,1251,1334,1436,1481,1519,1552,1536,1560,1590,1636,1614,1633,1743,1764,1749,1780
+ "33005","Cheshire, NH",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",1767,1825,1838,1876,1899,1827,1992,1959,1884,1922,1891,1962,1972,1947,2057,1949,1955
+ "33005","Cheshire, NH",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",368,332,309,498,703,866,1016,971,992,992,1064,1103,1126,1098,1163,1158,1250
+ "33005","Cheshire, NH",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1808,1896,1636,1753,1728,1656,1709,1685,1727,1748,1816,1749,1860,1750,1752,1796,1748
+ "33005","Cheshire, NH",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",1300,1415,1471,1426,1433,1434,1449,1477,1479,1466,1416,1359,1405,1433,1467,1472,1493
+ "33005","Cheshire, NH",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",4242,4208,4272,4347,4360,4484,4616,4770,4775,4667,4588,4650,4604,4586,4624,4597,4557
+ "33005","Cheshire, NH",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",928,(D),(D),987,1068,1028,1026,1055,1019,1019,1032,1004,1069,1067,1053,1036,1095
+ "33005","Cheshire, NH",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",2642,(D),2722,2746,2756,2948,2865,2766,2675,2615,2725,2739,2795,2946,2919,2926,2915
+ "33005","Cheshire, NH",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",2454,2482,2528,2639,2676,2660,2626,2578,2588,2524,2542,2582,2625,2648,2741,2698,2689
+ "33005","Cheshire, NH",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",5277,5582,5732,5595,5669,5666,5705,5577,5739,5863,5650,5662,5710,5788,5848,5697,5575
+ "33005","Cheshire, NH",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",197,207,195,198,189,185,183,185,182,195,167,159,155,156,158,160,166
+ "33005","Cheshire, NH",1,CAEMP25N,2002,"...","   Military","Number of jobs",231,230,240,238,222,213,216,234,250,254,247,245,246,239,238,242,241
+ "33005","Cheshire, NH",1,CAEMP25N,2010,"...","   State and local","Number of jobs",4849,5145,5297,5159,5258,5268,5306,5158,5307,5414,5236,5258,5309,5393,5452,5295,5168
+ "33005","Cheshire, NH",1,CAEMP25N,2011,"...","    State government","Number of jobs",1593,1705,1796,1634,1531,1586,1596,1620,1648,1807,1704,1701,1650,1724,1797,1669,1616
+ "33005","Cheshire, NH",1,CAEMP25N,2012,"...","    Local government","Number of jobs",3256,3440,3501,3525,3727,3682,3710,3538,3659,3607,3532,3557,3659,3669,3655,3626,3552
+ "33007","Coos, NH",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",18668,18603,18860,19111,19066,19021,19208,18788,18198,17955,17588,17359,17402,16920,16795,16843,16919
+ "33007","Coos, NH",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",14767,14632,14804,14876,14750,14630,14644,14308,13744,13583,13287,13052,13221,12724,12625,12624,12619
+ "33007","Coos, NH",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",3901,3971,4056,4235,4316,4391,4564,4480,4454,4372,4301,4307,4181,4196,4170,4219,4300
+ "33007","Coos, NH",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",212,225,220,215,215,211,259,263,269,278,281,289,292,292,294,293,293
+ "33007","Coos, NH",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",3689,3746,3836,4020,4101,4180,4305,4217,4185,4094,4020,4018,3889,3904,3876,3926,4007
+ "33007","Coos, NH",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",302,318,312,288,283,271,315,321,323,330,336,351,362,362,364,358,358
+ "33007","Coos, NH",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",18366,18285,18548,18823,18783,18750,18893,18467,17875,17625,17252,17008,17040,16558,16431,16485,16561
+ "33007","Coos, NH",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",15516,15333,15586,15854,15800,15660,15877,15444,14789,14513,14241,13983,13862,13362,13290,13321,13423
+ "33007","Coos, NH",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),434,399,426,467,418,389,395,362,360,356,384,384,370,349,354,350
+ "33007","Coos, NH",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),38,52,42,49,(D),(D),(D),(D),(D),(D),(D),61,(D),69,72
+ "33007","Coos, NH",1,CAEMP25N,300,"22","   Utilities","Number of jobs",98,94,102,102,92,100,106,112,100,(D),(D),(D),106,121,122,122,128
+ "33007","Coos, NH",1,CAEMP25N,400,"23","   Construction","Number of jobs",1034,1038,1099,1222,1316,1365,1349,1286,1230,1151,1160,1378,1458,1104,(D),1054,(D)
+ "33007","Coos, NH",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",2116,1806,2026,1978,1900,1713,1606,1423,1217,1101,928,842,811,747,(D),702,(D)
+ "33007","Coos, NH",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",355,305,299,(D),(D),301,(D),(D),247,277,266,249,267,281,309,284,268
+ "33007","Coos, NH",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2696,2678,2666,2641,2593,2634,2702,2587,2433,(D),2303,(D),2209,2181,2194,2274,2237
+ "33007","Coos, NH",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",646,662,625,659,668,617,646,580,542,527,511,504,483,461,466,456,450
+ "33007","Coos, NH",1,CAEMP25N,900,"51","   Information","Number of jobs",130,(D),129,126,137,137,135,118,106,120,121,118,113,115,110,121,117
+ "33007","Coos, NH",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",450,429,419,401,415,465,440,415,376,402,422,393,347,326,328,352,364
+ "33007","Coos, NH",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",364,345,403,456,479,471,474,493,523,518,524,520,521,513,523,524,542
+ "33007","Coos, NH",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",429,424,444,455,(D),451,485,489,463,434,448,424,(D),420,401,383,378
+ "33007","Coos, NH",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),16,(D),(D),(D),168,139,132,(D),158,136,134,134
+ "33007","Coos, NH",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),408,456,427,447,449,467,455,441,455,464,429,447,456
+ "33007","Coos, NH",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",88,116,102,119,114,124,143,142,152,158,138,135,129,138,(D),149,147
+ "33007","Coos, NH",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",2389,2531,2491,2539,2541,2605,2762,2797,2790,2689,2692,2593,2470,2421,2418,2415,2399
+ "33007","Coos, NH",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",751,780,805,790,771,817,665,519,644,624,640,682,603,617,592,610,615
+ "33007","Coos, NH",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",2056,2141,2151,2226,2136,2024,2236,2375,2105,2184,2187,1983,2114,2066,2097,2107,2158
+ "33007","Coos, NH",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",971,991,922,919,909,897,908,859,838,808,803,812,767,798,803,764,766
+ "33007","Coos, NH",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2850,2952,2962,2969,2983,3090,3016,3023,3086,3112,3011,3025,3178,3196,3141,3164,3138
+ "33007","Coos, NH",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",152,164,158,160,154,156,154,150,155,169,130,204,363,388,395,417,402
+ "33007","Coos, NH",1,CAEMP25N,2002,"...","   Military","Number of jobs",106,105,108,107,99,95,96,103,109,111,106,103,104,100,99,100,98
+ "33007","Coos, NH",1,CAEMP25N,2010,"...","   State and local","Number of jobs",2592,2683,2696,2702,2730,2839,2766,2770,2822,2832,2775,2718,2711,2708,2647,2647,2638
+ "33007","Coos, NH",1,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),754,713,717,732,(D),(D),(D),(D),(D),(D),(D),708,(D),(D),(D)
+ "33007","Coos, NH",1,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),1942,1989,2013,2107,(D),(D),(D),(D),(D),(D),(D),2000,(D),(D),(D)
+ "33009","Grafton, NH",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",65847,66760,67726,68766,68994,70101,71214,71687,70007,69597,70005,70434,70761,70961,71598,72573,73285
+ "33009","Grafton, NH",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",53882,54480,55158,55619,55473,56240,56555,57081,55493,55475,55766,56073,56272,56398,56979,57840,58263
+ "33009","Grafton, NH",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",11965,12280,12568,13147,13521,13861,14659,14606,14514,14122,14239,14361,14489,14563,14619,14733,15022
+ "33009","Grafton, NH",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",421,441,439,436,443,439,541,525,512,504,488,479,485,485,486,486,486
+ "33009","Grafton, NH",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",11544,11839,12129,12711,13078,13422,14118,14081,14002,13618,13751,13882,14004,14078,14133,14247,14536
+ "33009","Grafton, NH",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",559,581,591,568,576,565,666,651,625,608,593,592,615,615,616,607,607
+ "33009","Grafton, NH",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",65288,66179,67135,68198,68418,69536,70548,71036,69382,68989,69412,69842,70146,70346,70982,71966,72678
+ "33009","Grafton, NH",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",58460,59066,59744,60883,61237,62140,63088,63515,61801,61077,61661,62121,62522,62766,63439,64399,65162
+ "33009","Grafton, NH",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",503,515,432,443,455,453,480,495,470,427,428,486,511,494,494,490,497
+ "33009","Grafton, NH",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",87,71,92,107,100,105,123,130,109,145,123,197,153,151,163,174,172
+ "33009","Grafton, NH",1,CAEMP25N,300,"22","   Utilities","Number of jobs",115,120,120,120,122,105,119,132,148,147,142,145,159,133,135,168,170
+ "33009","Grafton, NH",1,CAEMP25N,400,"23","   Construction","Number of jobs",3538,3670,4136,4215,4344,4451,4327,4062,3770,3484,3370,3338,3348,3302,3321,3454,3467
+ "33009","Grafton, NH",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",6591,6098,5818,5711,5811,5818,5890,5739,5062,5008,5468,5624,5573,5577,5592,5456,5489
+ "33009","Grafton, NH",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",1316,1235,1251,1250,1226,1274,1305,1297,1179,1145,1112,1145,1192,1289,1259,1163,1196
+ "33009","Grafton, NH",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",8510,8645,8580,8739,8861,9038,9163,9197,9037,8665,8455,8433,8275,8214,8196,8068,8018
+ "33009","Grafton, NH",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",915,843,922,872,820,857,859,823,815,812,839,920,932,942,1008,1098,1381
+ "33009","Grafton, NH",1,CAEMP25N,900,"51","   Information","Number of jobs",966,1414,1371,1379,1418,1431,1430,1564,1093,944,984,910,895,905,866,962,947
+ "33009","Grafton, NH",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1357,1365,1402,1361,1450,1456,1521,1645,1786,1735,1822,1845,1825,1770,1861,1977,2039
+ "33009","Grafton, NH",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",1886,1932,1918,2018,2172,2167,2212,2315,2303,2355,2421,2408,2459,2494,2580,2647,2706
+ "33009","Grafton, NH",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",3669,3120,3021,3490,3580,3724,3932,3879,3973,3969,3996,3975,3996,3903,3966,4088,4255
+ "33009","Grafton, NH",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",492,479,481,484,481,474,421,449,445,446,472,481,471,464,535,540,522
+ "33009","Grafton, NH",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1782,1718,1689,1842,1776,1870,1910,1909,1863,1935,1984,1965,1975,2036,2012,2195,2263
+ "33009","Grafton, NH",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",7264,7708,7849,7728,7706,7701,7613,7856,7721,7519,7533,7759,8068,8204,8241,8167,7914
+ "33009","Grafton, NH",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",9332,9750,10105,10337,10537,10818,11225,11448,11695,12006,11838,11896,12047,12277,12520,12874,13053
+ "33009","Grafton, NH",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",2010,2101,2169,2165,1945,1926,1978,2094,2059,2054,2137,2105,2097,2052,1996,2042,2135
+ "33009","Grafton, NH",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",5053,5187,5256,5523,5362,5373,5433,5397,5266,5337,5565,5604,5701,5703,5833,6011,6113
+ "33009","Grafton, NH",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",3074,3095,3132,3099,3071,3099,3147,3084,3007,2944,2972,2885,2845,2856,2861,2825,2825
+ "33009","Grafton, NH",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",6828,7113,7391,7315,7181,7396,7460,7521,7581,7912,7751,7721,7624,7580,7543,7567,7516
+ "33009","Grafton, NH",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",575,607,613,596,565,558,526,509,517,597,554,546,514,510,505,524,532
+ "33009","Grafton, NH",1,CAEMP25N,2002,"...","   Military","Number of jobs",252,250,259,259,243,237,242,268,288,293,283,284,285,276,277,283,280
+ "33009","Grafton, NH",1,CAEMP25N,2010,"...","   State and local","Number of jobs",6001,6256,6519,6460,6373,6601,6692,6744,6776,7022,6914,6891,6825,6794,6761,6760,6704
+ "33009","Grafton, NH",1,CAEMP25N,2011,"...","    State government","Number of jobs",1882,1950,2102,1948,1868,1945,2023,2065,2090,2284,2296,2260,2158,2125,2171,2126,2082
+ "33009","Grafton, NH",1,CAEMP25N,2012,"...","    Local government","Number of jobs",4119,4306,4417,4512,4505,4656,4669,4679,4686,4738,4618,4631,4667,4669,4590,4634,4622
+ "33011","Hillsborough, NH",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",245028,242388,246090,250596,255100,256756,260416,258229,250764,247058,249484,250653,254367,258616,264891,269178,272228
+ "33011","Hillsborough, NH",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",206064,201978,203239,205321,207632,208358,209658,207673,199897,197293,199182,200962,203354,207118,211130,214788,216729
+ "33011","Hillsborough, NH",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",38964,40410,42851,45275,47468,48398,50758,50556,50867,49765,50302,49691,51013,51498,53761,54390,55499
+ "33011","Hillsborough, NH",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",451,485,485,480,483,478,585,592,598,608,611,621,626,626,625,626,626
+ "33011","Hillsborough, NH",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",38513,39925,42366,44795,46985,47920,50173,49964,50269,49157,49691,49070,50387,50872,53136,53764,54873
+ "33011","Hillsborough, NH",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",611,613,631,612,621,612,722,736,733,737,748,778,806,806,805,794,794
+ "33011","Hillsborough, NH",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",244417,241775,245459,249984,254479,256144,259694,257493,250031,246321,248736,249875,253561,257810,264086,268384,271434
+ "33011","Hillsborough, NH",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",222975,219631,222605,227289,231566,233159,236576,233999,226161,222439,225325,226817,230520,234834,241126,245559,248579
+ "33011","Hillsborough, NH",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",440,448,398,428,440,454,456,449,415,375,380,431,419,412,402,421,423
+ "33011","Hillsborough, NH",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",131,102,132,147,134,132,171,211,182,215,181,272,239,243,(D),266,(D)
+ "33011","Hillsborough, NH",1,CAEMP25N,300,"22","   Utilities","Number of jobs",606,505,(D),(D),448,462,474,395,419,416,390,405,425,(D),(D),(D),(D)
+ "33011","Hillsborough, NH",1,CAEMP25N,400,"23","   Construction","Number of jobs",14319,14536,15450,16138,16654,16403,15892,14901,13490,12763,13028,12987,13163,13662,(D),14798,(D)
+ "33011","Hillsborough, NH",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",40423,35066,33420,33396,32835,32031,31847,30564,27944,27285,27621,26657,25822,25804,26077,26494,27192
+ "33011","Hillsborough, NH",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",10218,10425,10353,10778,10770,10820,11038,10958,10308,9960,9944,9955,9879,10639,10987,10477,10381
+ "33011","Hillsborough, NH",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",32634,32883,33346,33344,33887,34154,33684,33145,31659,30993,31248,31877,32768,32210,32729,32882,32755
+ "33011","Hillsborough, NH",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",4987,5097,(D),(D),5435,5389,5183,5381,5164,4915,4976,4946,4899,(D),(D),(D),(D)
+ "33011","Hillsborough, NH",1,CAEMP25N,900,"51","   Information","Number of jobs",6657,6145,6140,6291,6451,6425,6552,6584,6741,6042,6111,6138,6063,6076,6092,6366,6667
+ "33011","Hillsborough, NH",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",12957,13192,13559,14279,14504,14024,14687,14765,14470,13849,14394,14770,15004,14501,14755,15524,15770
+ "33011","Hillsborough, NH",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",8025,8509,9172,9935,10721,10778,10785,10639,10552,10732,11002,10731,11024,11373,11609,11905,12244
+ "33011","Hillsborough, NH",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",16748,16407,16752,17624,18673,19321,20362,21118,20344,19833,20013,20196,21091,21673,22341,21753,21584
+ "33011","Hillsborough, NH",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",2492,2196,2210,2545,2386,2531,2580,3016,3121,3178,3222,3467,3443,3440,3487,3795,3788
+ "33011","Hillsborough, NH",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",12110,12128,13064,12966,13045,13547,14212,13750,13049,13507,13730,14275,14807,16170,16566,16768,16872
+ "33011","Hillsborough, NH",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",5620,5908,6037,6110,6318,6448,6827,5783,6577,6741,6671,6910,7486,8062,9087,9792,10043
+ "33011","Hillsborough, NH",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",24646,25210,25634,25664,26355,27332,28404,29036,29370,29447,29645,29483,29983,30215,31412,31918,32770
+ "33011","Hillsborough, NH",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",3592,3850,3964,4173,4310,4471,4679,5046,4995,5111,5094,5069,5102,5097,5436,5649,5765
+ "33011","Hillsborough, NH",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",14345,14824,14761,15286,15554,15526,15679,15407,14885,14908,15124,15391,15806,16464,16748,17131,17179
+ "33011","Hillsborough, NH",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",12025,12200,12423,12482,12646,12911,13064,12851,12476,12169,12551,12857,13097,13517,13549,13544,13513
+ "33011","Hillsborough, NH",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",21442,22144,22854,22695,22913,22985,23118,23494,23870,23882,23411,23058,23041,22976,22960,22825,22855
+ "33011","Hillsborough, NH",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",4043,4071,4021,3983,4016,3981,3928,3965,3940,3947,3883,3940,3900,3870,4017,4013,3985
+ "33011","Hillsborough, NH",1,CAEMP25N,2002,"...","   Military","Number of jobs",1277,1284,1456,1306,1211,1160,1172,1280,1368,1410,1374,1362,1376,1351,1374,1428,1415
+ "33011","Hillsborough, NH",1,CAEMP25N,2010,"...","   State and local","Number of jobs",16122,16789,17377,17406,17686,17844,18018,18249,18562,18525,18154,17756,17765,17755,17569,17384,17455
+ "33011","Hillsborough, NH",1,CAEMP25N,2011,"...","    State government","Number of jobs",1927,1975,2133,2114,2094,2122,2194,2273,2397,2488,2471,2183,2266,2331,2227,2118,2125
+ "33011","Hillsborough, NH",1,CAEMP25N,2012,"...","    Local government","Number of jobs",14195,14814,15244,15292,15592,15722,15824,15976,16165,16037,15683,15573,15499,15424,15342,15266,15330
+ "33013","Merrimack, NH",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",92524,93745,94718,95260,96185,98021,99036,99497,96888,96264,96606,97361,98585,99761,100865,102492,103376
+ "33013","Merrimack, NH",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",76851,77308,77558,77129,77322,78658,78693,79368,76747,76572,76849,77921,78684,79944,80851,81694,82166
+ "33013","Merrimack, NH",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",15673,16437,17160,18131,18863,19363,20343,20129,20141,19692,19757,19440,19901,19817,20014,20798,21210
+ "33013","Merrimack, NH",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",474,511,493,478,473,462,560,552,547,548,540,540,551,551,557,557,557
+ "33013","Merrimack, NH",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",15199,15926,16667,17653,18390,18901,19783,19577,19594,19144,19217,18900,19350,19266,19457,20241,20653
+ "33013","Merrimack, NH",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",901,942,905,798,764,711,788,801,785,780,793,836,892,894,897,876,873
+ "33013","Merrimack, NH",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",91623,92803,93813,94462,95421,97310,98248,98696,96103,95484,95813,96525,97693,98867,99968,101616,102503
+ "33013","Merrimack, NH",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",75459,76112,76702,77786,78704,80287,81000,81196,78725,77961,78624,79228,80590,81663,82752,84320,85186
+ "33013","Merrimack, NH",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",326,403,349,351,385,355,348,333,328,330,336,369,359,365,368,359,361
+ "33013","Merrimack, NH",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",253,233,242,245,257,278,272,259,247,261,250,265,271,259,279,301,314
+ "33013","Merrimack, NH",1,CAEMP25N,300,"22","   Utilities","Number of jobs",378,388,419,438,420,417,427,437,435,433,431,405,401,416,409,400,408
+ "33013","Merrimack, NH",1,CAEMP25N,400,"23","   Construction","Number of jobs",6149,6219,6634,6802,6804,6917,6692,6435,5808,5665,5649,5806,6029,6036,6014,6383,6632
+ "33013","Merrimack, NH",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",8879,8048,7489,7255,7576,7354,6883,6675,6098,5921,6274,6364,6432,6548,6596,6588,6575
+ "33013","Merrimack, NH",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",4015,4366,4313,4463,4545,4861,4987,4796,4659,4561,4623,4760,4719,4845,4887,4646,4751
+ "33013","Merrimack, NH",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",11360,11577,11863,11889,11765,11840,11966,11712,11411,11172,11290,11315,11292,11519,11430,11418,11412
+ "33013","Merrimack, NH",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",1454,1489,1454,1512,1551,1618,1736,1484,1484,1500,1608,1543,1632,1651,1700,1809,1874
+ "33013","Merrimack, NH",1,CAEMP25N,900,"51","   Information","Number of jobs",1154,923,915,924,1017,930,882,856,855,841,802,785,873,892,950,989,968
+ "33013","Merrimack, NH",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",5245,5492,5132,4881,5071,5331,5578,5801,5813,5886,5789,5775,6011,5987,6192,6311,6570
+ "33013","Merrimack, NH",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",2768,2583,2832,3195,3407,3527,3617,3610,3494,3555,3649,3574,3735,3692,3713,4058,4185
+ "33013","Merrimack, NH",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",5311,5221,5170,5376,5459,5554,5678,5626,5408,5555,5557,5722,5653,5640,5782,6042,6141
+ "33013","Merrimack, NH",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",562,446,414,422,384,343,454,477,473,427,451,488,499,458,523,614,689
+ "33013","Merrimack, NH",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",2851,2886,2980,3179,2874,3187,3303,3413,3399,3373,3328,3553,3686,4138,4200,4121,4176
+ "33013","Merrimack, NH",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",2799,2965,3042,3139,3171,3012,3060,3923,3206,3073,3117,2926,2951,2932,3007,2928,2946
+ "33013","Merrimack, NH",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",9932,10538,10867,11040,11418,11839,12168,12471,12985,12907,12750,12842,13054,13114,13278,13553,13508
+ "33013","Merrimack, NH",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",2592,2587,2527,2586,2280,2352,2340,2478,2489,2493,2678,2628,2729,2665,2559,2714,2651
+ "33013","Merrimack, NH",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",4640,4644,4955,4876,5055,5108,5019,5054,4885,4890,4931,4929,5095,5234,5407,5403,5449
+ "33013","Merrimack, NH",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",4791,5104,5105,5213,5265,5464,5590,5356,5248,5118,5111,5179,5169,5272,5458,5683,5576
+ "33013","Merrimack, NH",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",16164,16691,17111,16676,16717,17023,17248,17500,17378,17523,17189,17297,17103,17204,17216,17296,17317
+ "33013","Merrimack, NH",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",848,878,870,858,843,879,876,897,918,937,848,862,809,815,799,815,821
+ "33013","Merrimack, NH",1,CAEMP25N,2002,"...","   Military","Number of jobs",436,440,458,457,427,415,422,454,481,495,489,481,482,468,476,487,487
+ "33013","Merrimack, NH",1,CAEMP25N,2010,"...","   State and local","Number of jobs",14880,15373,15783,15361,15447,15729,15950,16149,15979,16091,15852,15954,15812,15921,15941,15994,16009
+ "33013","Merrimack, NH",1,CAEMP25N,2011,"...","    State government","Number of jobs",8607,9039,9254,8796,8857,9114,9305,9350,9231,9133,8971,9148,9050,9159,9217,9346,9395
+ "33013","Merrimack, NH",1,CAEMP25N,2012,"...","    Local government","Number of jobs",6273,6334,6529,6565,6590,6615,6645,6799,6748,6958,6881,6806,6762,6762,6724,6648,6614
+ "33015","Rockingham, NH",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",176165,176790,178492,184003,188574,191693,194319,193183,187931,187843,190144,191978,195788,199182,205556,210272,213731
+ "33015","Rockingham, NH",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",141293,140820,139971,143171,145339,147723,148131,146861,141264,141999,143747,145667,148062,150797,154912,158604,160984
+ "33015","Rockingham, NH",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",34872,35970,38521,40832,43235,43970,46188,46322,46667,45844,46397,46311,47726,48385,50644,51668,52747
+ "33015","Rockingham, NH",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",422,446,442,439,447,445,550,556,563,575,580,590,598,599,602,601,601
+ "33015","Rockingham, NH",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",34450,35524,38079,40393,42788,43525,45638,45766,46104,45269,45817,45721,47128,47786,50042,51067,52146
+ "33015","Rockingham, NH",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",664,685,695,654,661,644,745,775,779,794,824,884,933,937,937,915,914
+ "33015","Rockingham, NH",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",175501,176105,177797,183349,187913,191049,193574,192408,187152,187049,189320,191094,194855,198245,204619,209357,212817
+ "33015","Rockingham, NH",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",160835,161070,162642,168097,172605,175283,177677,176353,170934,170780,173476,175313,179085,182475,189039,193804,197251
+ "33015","Rockingham, NH",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",584,637,539,532,556,523,547,582,553,531,510,571,556,568,563,562,563
+ "33015","Rockingham, NH",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",164,137,155,139,155,186,304,317,264,306,275,394,368,377,379,421,439
+ "33015","Rockingham, NH",1,CAEMP25N,300,"22","   Utilities","Number of jobs",1284,1304,1222,1131,1095,1103,1091,1108,1138,1100,1090,1083,1054,975,901,961,1002
+ "33015","Rockingham, NH",1,CAEMP25N,400,"23","   Construction","Number of jobs",12947,13093,13475,14112,14964,14942,14234,13509,12261,11616,11734,11604,11654,12005,12528,12952,13541
+ "33015","Rockingham, NH",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",18345,15973,14660,15316,15316,15689,16471,16662,14990,14148,14288,14381,15112,15279,15701,16347,16737
+ "33015","Rockingham, NH",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",8298,8345,8481,8534,8740,9144,9135,9112,8638,8529,8848,8952,9096,9610,9909,9578,9701
+ "33015","Rockingham, NH",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",28628,29558,29629,30034,30429,30352,30186,29373,28613,28801,29404,29693,29623,29613,30063,30437,30206
+ "33015","Rockingham, NH",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",5789,5556,5344,5157,5274,5240,5410,5181,4997,4888,4995,5164,5208,5336,5924,6347,6517
+ "33015","Rockingham, NH",1,CAEMP25N,900,"51","   Information","Number of jobs",3409,3053,2941,3233,3390,3362,3425,3534,3431,3259,3137,3807,3757,4037,4157,4092,3952
+ "33015","Rockingham, NH",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",7168,7369,7706,8061,8378,8721,9007,8577,9266,8967,9540,9395,9972,9923,10459,11119,10392
+ "33015","Rockingham, NH",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",6642,6853,7549,8229,8996,8990,9185,9152,9020,9208,9581,9378,9731,10049,10188,10712,11009
+ "33015","Rockingham, NH",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",12540,12740,12835,13552,13786,14151,14602,14776,14616,14807,14840,14768,15742,15870,17089,17520,19527
+ "33015","Rockingham, NH",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",2469,2418,2377,2498,2826,2714,2672,2790,2352,2422,2341,2215,2051,2182,2396,2559,2533
+ "33015","Rockingham, NH",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",9312,9243,9888,10422,10686,11400,12227,12438,11627,12378,12393,12252,12674,13396,13996,14258,14317
+ "33015","Rockingham, NH",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",3935,4269,4648,4436,4453,4297,4173,4315,4599,4670,4618,4577,4702,4694,4988,4985,5173
+ "33015","Rockingham, NH",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",13958,14197,14566,15018,15395,15886,16479,16741,16873,17107,17456,17933,17821,17881,18311,19111,19318
+ "33015","Rockingham, NH",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",4499,4677,4828,5064,5069,5031,5235,5340,5252,5399,5446,5634,5643,5692,5805,5936,5954
+ "33015","Rockingham, NH",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",12110,12388,12616,13186,13350,13826,13442,13310,13071,13447,13605,14166,14738,15012,15295,15568,15892
+ "33015","Rockingham, NH",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",8754,9260,9183,9443,9747,9726,9852,9536,9373,9197,9375,9346,9583,9976,10387,10339,10478
+ "33015","Rockingham, NH",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",14666,15035,15155,15252,15308,15766,15897,16055,16218,16269,15844,15781,15770,15770,15580,15553,15566
+ "33015","Rockingham, NH",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",1295,1293,1298,1259,1297,1331,1334,1299,1273,1326,1135,1001,991,1010,1015,1064,1055
+ "33015","Rockingham, NH",1,CAEMP25N,2002,"...","   Military","Number of jobs",1145,1168,1078,1057,1017,1077,1011,1075,1132,1200,1234,1268,1265,1248,1259,1249,1239
+ "33015","Rockingham, NH",1,CAEMP25N,2010,"...","   State and local","Number of jobs",12226,12574,12779,12936,12994,13358,13552,13681,13813,13743,13475,13512,13514,13512,13306,13240,13272
+ "33015","Rockingham, NH",1,CAEMP25N,2011,"...","    State government","Number of jobs",1327,1324,1298,1315,1322,1279,1303,1352,1421,1450,1434,1391,1425,1443,1442,1459,1413
+ "33015","Rockingham, NH",1,CAEMP25N,2012,"...","    Local government","Number of jobs",10899,11250,11481,11621,11672,12079,12249,12329,12392,12293,12041,12121,12089,12069,11864,11781,11859
+ "33017","Strafford, NH",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",60252,59662,60080,60512,61240,62603,64795,65724,63154,63453,63217,63826,64417,65588,66737,67746,68869
+ "33017","Strafford, NH",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",49110,48131,47942,47620,47687,48773,50215,51395,49083,49592,49266,50102,50517,51608,52478,53097,53918
+ "33017","Strafford, NH",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",11142,11531,12138,12892,13553,13830,14580,14329,14071,13861,13951,13724,13900,13980,14259,14649,14951
+ "33017","Strafford, NH",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",272,293,272,256,245,232,272,284,296,310,321,331,336,336,338,337,337
+ "33017","Strafford, NH",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",10870,11238,11866,12636,13308,13598,14308,14045,13775,13551,13630,13393,13564,13644,13921,14312,14614
+ "33017","Strafford, NH",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",421,442,422,378,360,335,370,396,410,427,455,496,524,525,527,513,513
+ "33017","Strafford, NH",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",59831,59220,59658,60134,60880,62268,64425,65328,62744,63026,62762,63330,63893,65063,66210,67233,68356
+ "33017","Strafford, NH",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",48217,47065,47306,48451,49633,50708,52458,53342,51155,50598,50826,51422,52009,52954,53896,55139,56122
+ "33017","Strafford, NH",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",181,190,160,182,191,191,184,200,179,166,(D),194,197,200,197,(D),(D)
+ "33017","Strafford, NH",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",36,35,41,42,46,46,56,60,59,70,(D),117,(D),110,(D),(D),(D)
+ "33017","Strafford, NH",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "33017","Strafford, NH",1,CAEMP25N,400,"23","   Construction","Number of jobs",3537,3696,3930,4070,4275,4163,4069,3769,3480,3256,3116,3129,(D),3247,(D),3346,(D)
+ "33017","Strafford, NH",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",7640,6125,5771,5588,5617,5636,5622,5511,4970,4990,5098,5036,5321,5412,(D),5784,(D)
+ "33017","Strafford, NH",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",2376,1983,1855,1720,1807,1494,1493,1471,1383,1379,1475,1475,1508,1628,1631,1533,1526
+ "33017","Strafford, NH",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",7521,7617,7703,7969,8021,8112,8242,8127,7913,7647,7603,7551,7543,7632,7797,8044,8195
+ "33017","Strafford, NH",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "33017","Strafford, NH",1,CAEMP25N,900,"51","   Information","Number of jobs",1626,1348,1165,1209,1305,1316,1148,1153,1200,1129,1109,1356,1373,1333,1243,1273,1206
+ "33017","Strafford, NH",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",2447,2528,2657,2609,2667,2839,3263,4557,4647,4682,5040,5187,4912,4884,5016,5284,3812
+ "33017","Strafford, NH",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",1524,1662,1801,2074,2255,2374,2417,2345,2248,2366,2411,2369,2424,2406,2446,2556,2616
+ "33017","Strafford, NH",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",2854,2941,2971,3131,3086,3390,4086,4143,3521,3342,3334,3316,3337,3369,3457,3458,5270
+ "33017","Strafford, NH",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",529,541,360,353,329,272,257,246,244,260,232,228,227,204,213,232,251
+ "33017","Strafford, NH",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",2533,2339,2420,2507,2668,2802,3130,3204,2990,3128,3089,3079,3027,3163,3216,3106,3082
+ "33017","Strafford, NH",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",820,943,1005,1073,1271,1466,1380,1426,1443,1394,1252,1235,1278,1403,1305,1327,1365
+ "33017","Strafford, NH",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",5870,6025,6314,6494,6504,6788,7135,7243,7276,7319,7334,7340,7460,7594,7764,7865,7998
+ "33017","Strafford, NH",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",1120,1139,1159,1277,1347,1429,1445,1368,1353,1426,1445,1459,1426,1495,1451,1554,1563
+ "33017","Strafford, NH",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",3285,3534,3567,3675,3701,3792,3850,3946,3783,3713,3681,3896,4100,4256,4413,4534,4709
+ "33017","Strafford, NH",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",3231,3298,3285,3317,3331,3384,3440,3361,3311,3246,3290,3320,3387,3476,3567,3517,3526
+ "33017","Strafford, NH",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",11614,12155,12352,11683,11247,11560,11967,11986,11589,12428,11936,11908,11884,12109,12314,12094,12234
+ "33017","Strafford, NH",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",325,332,335,333,336,338,330,326,320,346,318,320,315,304,300,304,305
+ "33017","Strafford, NH",1,CAEMP25N,2002,"...","   Military","Number of jobs",371,369,382,378,350,337,344,375,404,417,410,400,405,401,406,417,416
+ "33017","Strafford, NH",1,CAEMP25N,2010,"...","   State and local","Number of jobs",10918,11454,11635,10972,10561,10885,11293,11285,10865,11665,11208,11188,11164,11404,11608,11373,11513
+ "33017","Strafford, NH",1,CAEMP25N,2011,"...","    State government","Number of jobs",6579,6843,6999,6280,5761,6021,6343,6223,5832,6564,6165,6110,6183,6447,6682,6454,6568
+ "33017","Strafford, NH",1,CAEMP25N,2012,"...","    Local government","Number of jobs",4339,4611,4636,4692,4800,4864,4950,5062,5033,5101,5043,5078,4981,4957,4926,4919,4945
+ "33019","Sullivan, NH",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",20278,20240,19846,20179,20721,20738,21088,20960,20094,19776,19852,20193,20440,20427,20560,20771,20641
+ "33019","Sullivan, NH",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",15019,14741,14295,14451,14751,14726,14775,14724,14068,13997,14091,14525,14732,14794,15054,15174,14934
+ "33019","Sullivan, NH",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",5259,5499,5551,5728,5970,6012,6313,6236,6026,5779,5761,5668,5708,5633,5506,5597,5707
+ "33019","Sullivan, NH",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",250,261,248,240,236,230,278,276,277,281,279,278,282,282,284,283,283
+ "33019","Sullivan, NH",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",5009,5238,5303,5488,5734,5782,6035,5960,5749,5498,5482,5390,5426,5351,5222,5314,5424
+ "33019","Sullivan, NH",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",345,346,338,317,313,302,349,356,358,364,372,390,410,410,412,402,402
+ "33019","Sullivan, NH",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",19933,19894,19508,19862,20408,20436,20739,20604,19736,19412,19480,19803,20030,20017,20148,20369,20239
+ "33019","Sullivan, NH",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",17184,17118,16719,17237,17746,17731,18021,17819,16913,16560,16668,17051,17374,17337,17512,17675,17627
+ "33019","Sullivan, NH",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "33019","Sullivan, NH",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "33019","Sullivan, NH",1,CAEMP25N,300,"22","   Utilities","Number of jobs",80,76,75,83,85,64,63,61,56,60,58,63,(D),(D),106,111,125
+ "33019","Sullivan, NH",1,CAEMP25N,400,"23","   Construction","Number of jobs",1543,1614,1649,1798,1960,1974,1904,1829,1651,1520,1492,1519,(D),1460,1472,1566,1576
+ "33019","Sullivan, NH",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",4358,3884,3442,3400,3342,3261,3414,3343,3064,2902,2824,3021,3311,3464,3444,3510,3519
+ "33019","Sullivan, NH",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",407,413,400,459,517,527,529,521,438,433,476,451,492,503,521,485,497
+ "33019","Sullivan, NH",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2861,2935,2859,2793,2925,2963,2962,2926,2820,2813,2924,(D),2830,2818,2795,2814,2792
+ "33019","Sullivan, NH",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",249,262,298,330,389,377,373,321,294,299,298,320,(D),286,328,318,279
+ "33019","Sullivan, NH",1,CAEMP25N,900,"51","   Information","Number of jobs",177,(D),170,177,202,184,179,194,133,146,162,153,154,152,158,147,144
+ "33019","Sullivan, NH",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",579,570,577,589,585,607,649,696,745,684,679,704,652,655,622,673,638
+ "33019","Sullivan, NH",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",632,662,675,673,733,753,780,749,744,742,785,698,703,700,680,716,726
+ "33019","Sullivan, NH",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",792,762,809,857,873,886,993,969,946,969,932,(D),(D),989,1009,1039,1016
+ "33019","Sullivan, NH",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",47,49,46,66,66,54,(D),(D),(D),107,95,(D),(D),40,16,13,18
+ "33019","Sullivan, NH",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),841,871,861,862,785,886,997,1313,1393,1288,1425,1358,1313
+ "33019","Sullivan, NH",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",467,556,580,617,635,589,575,549,538,553,544,561,541,573,551,578,612
+ "33019","Sullivan, NH",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1885,1915,1908,1929,1922,1949,1919,1976,1987,1865,1846,1836,1793,1748,1760,1706,1679
+ "33019","Sullivan, NH",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",363,(D),(D),364,422,418,428,449,394,422,401,378,387,373,375,361,370
+ "33019","Sullivan, NH",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",719,(D),762,865,892,904,931,966,958,936,957,986,982,952,985,1038,1086
+ "33019","Sullivan, NH",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1065,1099,1102,1108,1118,1124,1135,1086,1020,1000,992,974,981,1011,1021,982,983
+ "33019","Sullivan, NH",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2749,2776,2789,2625,2662,2705,2718,2785,2823,2852,2812,2752,2656,2680,2636,2694,2612
+ "33019","Sullivan, NH",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",108,113,109,105,105,106,103,101,103,117,92,89,86,88,87,89,92
+ "33019","Sullivan, NH",1,CAEMP25N,2002,"...","   Military","Number of jobs",132,132,138,138,128,124,126,138,147,151,146,143,144,141,141,144,142
+ "33019","Sullivan, NH",1,CAEMP25N,2010,"...","   State and local","Number of jobs",2509,2531,2542,2382,2429,2475,2489,2546,2573,2584,2574,2520,2426,2451,2408,2461,2378
+ "33019","Sullivan, NH",1,CAEMP25N,2011,"...","    State government","Number of jobs",298,303,(D),291,299,285,305,307,321,343,339,306,327,351,370,420,370
+ "33019","Sullivan, NH",1,CAEMP25N,2012,"...","    Local government","Number of jobs",2211,2228,(D),2091,2130,2190,2184,2239,2252,2241,2235,2214,2099,2100,2038,2041,2008
+"Note: See the included footnote file."
+"CAEMP25N: Total Full-Time and Part-Time Employment by NAICS Industry 1/"
+"Last updated: November 15, 2018-- new statistics for 2017; revised statistics for 2001-2016. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

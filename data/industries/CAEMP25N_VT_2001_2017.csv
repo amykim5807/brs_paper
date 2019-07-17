@@ -1,0 +1,500 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+ "50000","Vermont",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",403836,405652,406050,413089,417100,421004,425032,424270,414181,413312,416949,421809,425029,429328,432827,434040,436750
+ "50000","Vermont",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",316443,316147,314749,318138,319449,321622,321217,320122,309536,310261,313167,318183,320076,323339,325842,326845,327624
+ "50000","Vermont",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",87393,89505,91301,94951,97651,99382,103815,104148,104645,103051,103782,103626,104953,105989,106985,107195,109126
+ "50000","Vermont",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",6658,6865,6509,6197,6008,5824,6340,6469,6477,6633,6777,6782,6848,6852,6937,6931,6929
+ "50000","Vermont",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",80735,82640,84792,88754,91643,93558,97475,97679,98168,96418,97005,96844,98105,99137,100048,100264,102197
+ "50000","Vermont",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",9647,9929,9630,8769,8486,8075,8506,8828,8756,8882,9236,9363,9797,9813,9888,9685,9677
+ "50000","Vermont",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",394189,395723,396420,404320,408614,412929,416526,415442,405425,404430,407713,412446,415232,419515,422939,424355,427073
+ "50000","Vermont",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",341108,341704,341848,349276,353104,356932,360268,358641,348300,347013,350454,354778,357421,361109,364794,366266,369187
+ "50000","Vermont",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",3353,3544,3024,3261,3488,3412,3439,3656,3532,3339,3442,3653,3736,3774,3635,3606,3654
+ "50000","Vermont",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",1247,1082,1084,1031,936,1126,1217,1209,1048,1112,1092,1422,1311,1212,1327,1372,1401
+ "50000","Vermont",1,CAEMP25N,300,"22","   Utilities","Number of jobs",1707,1748,1781,1779,1775,1809,1837,1803,1839,1912,1879,1917,1904,1841,1705,1597,1675
+ "50000","Vermont",1,CAEMP25N,400,"23","   Construction","Number of jobs",28257,27980,29356,31438,32559,33505,33074,31311,29039,27942,27944,28147,28034,28575,28703,29168,29417
+ "50000","Vermont",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",48113,43483,40080,39660,39515,38880,39115,37863,34501,33911,34250,35565,35810,35071,34820,34086,33882
+ "50000","Vermont",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",11314,11146,11375,11461,11498,11822,11823,11498,10866,10794,10918,10449,10493,11303,11448,10753,10516
+ "50000","Vermont",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",48885,49116,48747,49451,49948,49693,49581,49104,47208,46496,46635,45890,46029,46361,46219,46290,46017
+ "50000","Vermont",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",9049,9117,8796,8987,9303,9255,9262,9108,8746,8675,9075,9110,8916,8805,9023,8976,9072
+ "50000","Vermont",1,CAEMP25N,900,"51","   Information","Number of jobs",7963,(D),7693,7649,7705,7378,7376,7193,6844,6768,6308,5955,5996,6148,5979,6098,5924
+ "50000","Vermont",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",13169,13175,13273,13148,13044,13151,13539,13802,14360,13955,14640,14392,14211,13784,13890,14103,14446
+ "50000","Vermont",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",10469,10547,10995,11804,12641,13131,13777,13989,13804,14374,14869,14428,14770,14951,15176,15443,15832
+ "50000","Vermont",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",22991,22935,23056,24363,24384,24883,25906,26158,25618,26117,25837,26125,26368,26328,26980,26903,27288
+ "50000","Vermont",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",372,419,383,426,436,324,307,944,1000,1121,1644,2221,2182,2337,2498,2506,2462
+ "50000","Vermont",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",13549,13866,14312,15157,15347,15684,15896,16216,15995,16168,16624,17114,17449,17774,17561,17993,18430
+ "50000","Vermont",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",15405,16797,16546,16593,16691,17010,16766,16726,16668,17005,16949,17119,17439,18045,18645,19307,19304
+ "50000","Vermont",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",43631,46133,48178,49184,49965,51212,53140,54368,55127,54968,55023,56192,56733,56956,57888,58583,59457
+ "50000","Vermont",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",9024,9608,9695,9862,10095,10325,10545,10796,10632,10842,10949,11216,11246,11684,11460,11777,12042
+ "50000","Vermont",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",31648,31750,31681,31906,31795,32165,31507,31495,30635,31335,31717,32311,33267,34184,35228,35290,36262
+ "50000","Vermont",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",20962,(D),21793,22116,21979,22167,22161,21402,20838,20179,20659,21552,21527,21976,22609,22415,22106
+ "50000","Vermont",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",53081,54019,54572,55044,55510,55997,56258,56801,57125,57417,57259,57668,57811,58406,58145,58089,57886
+ "50000","Vermont",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",5634,5954,6275,6273,6106,6017,5966,6267,6633,6811,6470,6476,6589,6697,6791,6955,6969
+ "50000","Vermont",1,CAEMP25N,2002,"...","   Military","Number of jobs",4445,4411,4460,4319,4037,3985,4009,4120,4166,4317,4328,4395,4402,4500,4375,4179,3989
+ "50000","Vermont",1,CAEMP25N,2010,"...","   State and local","Number of jobs",43002,43654,43837,44452,45367,45995,46283,46414,46326,46289,46461,46797,46820,47209,46979,46955,46928
+ "50000","Vermont",1,CAEMP25N,2011,"...","    State government","Number of jobs",15724,15636,15443,15801,16074,16384,16685,16714,16251,16049,16505,16635,16852,17203,17072,17086,17062
+ "50000","Vermont",1,CAEMP25N,2012,"...","    Local government","Number of jobs",27278,28018,28394,28651,29293,29611,29598,29700,30075,30240,29956,30162,29968,30006,29907,29869,29866
+ "50001","Addison, VT",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",21580,21867,22209,22119,22503,23405,23582,23477,22742,22193,22548,22722,23073,23526,23598,24038,24209
+ "50001","Addison, VT",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",15824,16175,16345,16091,16209,16994,16948,16738,16001,15551,15869,16053,16267,16620,16712,17186,17235
+ "50001","Addison, VT",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",5756,5692,5864,6028,6294,6411,6634,6739,6741,6642,6679,6669,6806,6906,6886,6852,6974
+ "50001","Addison, VT",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",711,727,684,659,643,632,698,709,707,718,732,727,738,738,753,754,754
+ "50001","Addison, VT",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",5045,4965,5180,5369,5651,5779,5936,6030,6034,5924,5947,5942,6068,6168,6133,6098,6220
+ "50001","Addison, VT",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1293,1288,1272,1159,1140,1097,1159,1202,1174,1170,1218,1231,1312,1316,1328,1290,1287
+ "50001","Addison, VT",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",20287,20579,20937,20960,21363,22308,22423,22275,21568,21023,21330,21491,21761,22210,22270,22748,22922
+ "50001","Addison, VT",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",18130,18425,18645,18669,19070,19971,20084,20067,19405,18860,19203,19372,19649,20123,20194,20597,20701
+ "50001","Addison, VT",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",266,285,248,293,306,277,270,265,262,235,233,261,283,259,253,250,248
+ "50001","Addison, VT",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",90,53,70,59,34,43,49,52,40,52,53,73,68,67,71,89,91
+ "50001","Addison, VT",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50001","Addison, VT",1,CAEMP25N,400,"23","   Construction","Number of jobs",1670,(D),1742,1825,1913,1953,1941,1904,1728,1692,1721,1623,1619,1669,1670,1732,1812
+ "50001","Addison, VT",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",2497,2351,2278,2259,2276,2436,2423,2280,2102,1977,2136,2022,2097,2172,2180,2178,2193
+ "50001","Addison, VT",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",389,373,359,341,381,416,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50001","Addison, VT",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2447,2388,2329,2460,2540,2663,2747,2732,2523,2431,2435,2415,2407,2414,2326,2403,2385
+ "50001","Addison, VT",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),427,444,472,508,535,468,487,517,463,453,470
+ "50001","Addison, VT",1,CAEMP25N,900,"51","   Information","Number of jobs",176,173,172,191,214,186,179,176,149,163,154,131,(D),(D),164,184,177
+ "50001","Addison, VT",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",524,545,567,504,512,521,535,567,597,583,621,630,646,638,604,623,631
+ "50001","Addison, VT",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",425,435,449,464,504,502,495,540,538,(D),597,594,606,642,648,657,658
+ "50001","Addison, VT",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),1195,1249,1290,1313,1280,1268,1205,1244,1229,1272,1312,1273,1265
+ "50001","Addison, VT",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,7,11,20,11,24,16,(D),(D),(D),(D),(D),(D),(D),(D)
+ "50001","Addison, VT",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),488,536,527,540,595,600,611,621,(D),(D),(D),(D),(D),(D),(D),(D)
+ "50001","Addison, VT",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",2440,2722,2791,2477,2488,2685,(D),(D),2557,2534,2619,2720,2748,2944,3100,3267,(D)
+ "50001","Addison, VT",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",2267,2440,2562,2651,2708,2829,(D),(D),(D),(D),2995,3067,3075,3056,3032,3116,(D)
+ "50001","Addison, VT",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",527,551,556,560,584,590,585,600,558,630,654,682,697,714,710,706,706
+ "50001","Addison, VT",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1286,1308,1333,1284,1249,1320,1261,1230,1222,1178,1124,1182,1217,1294,1355,1375,1362
+ "50001","Addison, VT",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1128,1150,1144,1193,1181,1201,1241,1200,1202,1120,1170,1237,1249,1256,1261,1295,1278
+ "50001","Addison, VT",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2157,2154,2292,2291,2293,2337,2339,2208,2163,2163,2127,2119,2112,2087,2076,2151,2221
+ "50001","Addison, VT",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",140,146,144,141,133,133,129,123,119,134,119,115,107,104,106,107,109
+ "50001","Addison, VT",1,CAEMP25N,2002,"...","   Military","Number of jobs",246,245,247,240,223,220,222,228,230,238,238,242,242,248,240,229,217
+ "50001","Addison, VT",1,CAEMP25N,2010,"...","   State and local","Number of jobs",1771,1763,1901,1910,1937,1984,1988,1857,1814,1791,1770,1762,1763,1735,1730,1815,1895
+ "50001","Addison, VT",1,CAEMP25N,2011,"...","    State government","Number of jobs",200,190,192,169,168,185,191,170,165,154,160,162,(D),(D),(D),(D),(D)
+ "50001","Addison, VT",1,CAEMP25N,2012,"...","    Local government","Number of jobs",1571,1573,1709,1741,1769,1799,1797,1687,1649,1637,1610,1600,(D),(D),(D),(D),(D)
+ "50003","Bennington, VT",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",25515,25336,24913,25012,25282,25889,25979,25865,24645,24373,24297,24724,24618,24721,24848,24787,25124
+ "50003","Bennington, VT",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",20213,19917,19370,19259,19323,19811,19731,19625,18432,18356,18174,18517,18437,18435,18434,18486,18707
+ "50003","Bennington, VT",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",5302,5419,5543,5753,5959,6078,6248,6240,6213,6017,6123,6207,6181,6286,6414,6301,6417
+ "50003","Bennington, VT",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",214,225,213,200,193,185,198,209,219,233,246,258,259,259,261,260,260
+ "50003","Bennington, VT",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",5088,5194,5330,5553,5766,5893,6050,6031,5994,5784,5877,5949,5922,6027,6153,6041,6157
+ "50003","Bennington, VT",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",300,313,303,273,263,248,258,281,296,315,342,365,382,382,384,375,375
+ "50003","Bennington, VT",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",25215,25023,24610,24739,25019,25641,25721,25584,24349,24058,23955,24359,24236,24339,24464,24412,24749
+ "50003","Bennington, VT",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",22737,22526,22124,22486,22713,23268,23325,23119,21831,21587,21554,21929,21819,21856,21982,21933,22242
+ "50003","Bennington, VT",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),133,122,129,137,(D),(D),(D),(D),(D),(D),(D),(D),187,184,187
+ "50003","Bennington, VT",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),18,16,24,16,20,(D),(D),(D),(D),(D),(D),(D),(D),37,39,41
+ "50003","Bennington, VT",1,CAEMP25N,300,"22","   Utilities","Number of jobs",38,36,34,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50003","Bennington, VT",1,CAEMP25N,400,"23","   Construction","Number of jobs",1677,(D),1694,1779,1863,1994,1942,1879,1674,1567,1534,1552,1495,1528,1532,1519,1532
+ "50003","Bennington, VT",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",3493,3139,2810,2668,2734,2904,3010,2813,2533,2545,2521,2779,2802,2749,2678,2490,2451
+ "50003","Bennington, VT",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",595,419,369,351,386,404,411,423,274,269,273,(D),(D),(D),(D),(D),256
+ "50003","Bennington, VT",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",3968,3911,3901,3987,3960,3902,3776,3663,3535,3430,3389,3425,3365,3293,3187,3218,3152
+ "50003","Bennington, VT",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",311,307,281,(D),(D),(D),(D),(D),(D),(D),(D),267,262,232,274,261,(D)
+ "50003","Bennington, VT",1,CAEMP25N,900,"51","   Information","Number of jobs",564,555,493,488,488,475,516,514,494,469,425,410,379,398,379,392,379
+ "50003","Bennington, VT",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",530,576,620,639,640,652,676,696,746,669,758,752,752,705,700,687,714
+ "50003","Bennington, VT",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",764,787,796,875,917,960,1035,1013,973,1013,1025,979,1004,1021,1021,1021,1032
+ "50003","Bennington, VT",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),1132,1100,1135,1119,1146,1176,1215,1125,(D),(D),(D),(D),(D),(D),(D),(D)
+ "50003","Bennington, VT",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),31,26,31,36,33,27,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50003","Bennington, VT",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",926,923,900,985,1048,1042,1043,(D),(D),(D),1020,1064,1129,1146,1112,1167,1207
+ "50003","Bennington, VT",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",1163,1362,1271,1302,1367,1390,1422,1393,1334,1379,1376,1370,1372,1375,1389,1536,1566
+ "50003","Bennington, VT",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",3126,3276,3417,3453,3518,3568,3544,3549,3540,3472,3376,3428,3364,3348,3437,3369,3575
+ "50003","Bennington, VT",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",802,830,817,820,780,824,839,854,825,848,837,872,871,903,927,908,926
+ "50003","Bennington, VT",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",2192,2169,2109,2173,2073,2193,2122,2041,1873,1853,1912,1861,1805,1867,1933,2047,2123
+ "50003","Bennington, VT",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1287,1305,1337,1342,1320,1283,1275,1223,1178,1141,1160,1225,1230,1268,1319,1298,1271
+ "50003","Bennington, VT",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2478,2497,2486,2253,2306,2373,2396,2465,2518,2471,2401,2430,2417,2483,2482,2479,2507
+ "50003","Bennington, VT",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",134,132,132,134,131,128,127,160,192,201,172,170,156,163,170,177,173
+ "50003","Bennington, VT",1,CAEMP25N,2002,"...","   Military","Number of jobs",263,260,262,253,235,232,233,239,241,250,248,251,250,253,244,232,218
+ "50003","Bennington, VT",1,CAEMP25N,2010,"...","   State and local","Number of jobs",2081,2105,2092,1866,1940,2013,2036,2066,2085,2020,1981,2009,2011,2067,2068,2070,2116
+ "50003","Bennington, VT",1,CAEMP25N,2011,"...","    State government","Number of jobs",663,647,654,446,448,480,486,493,492,492,490,495,502,526,513,503,513
+ "50003","Bennington, VT",1,CAEMP25N,2012,"...","    Local government","Number of jobs",1418,1458,1438,1420,1492,1533,1550,1573,1593,1528,1491,1514,1509,1541,1555,1567,1603
+ "50005","Caledonia, VT",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",16875,17001,17099,17531,17767,18098,18327,18365,17654,17409,17531,17347,17611,17626,17266,17225,17168
+ "50005","Caledonia, VT",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",12295,12277,12367,12575,12584,12759,12806,12845,12114,11995,12097,12023,12154,12120,11901,11899,11753
+ "50005","Caledonia, VT",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",4580,4724,4732,4956,5183,5339,5521,5520,5540,5414,5434,5324,5457,5506,5365,5326,5415
+ "50005","Caledonia, VT",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",524,535,513,490,476,463,502,516,518,533,546,548,550,551,552,552,552
+ "50005","Caledonia, VT",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",4056,4189,4219,4466,4707,4876,5019,5004,5022,4881,4888,4776,4907,4955,4813,4774,4863
+ "50005","Caledonia, VT",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",664,681,657,605,584,557,589,611,609,622,643,649,666,667,668,660,660
+ "50005","Caledonia, VT",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",16211,16320,16442,16926,17183,17541,17738,17754,17045,16787,16888,16698,16945,16959,16598,16565,16508
+ "50005","Caledonia, VT",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",14054,14157,14292,14752,15004,15300,15503,15417,14717,14465,14591,14422,14638,14648,14327,14302,14258
+ "50005","Caledonia, VT",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",386,406,330,357,409,391,407,(D),(D),(D),(D),399,404,(D),(D),(D),(D)
+ "50005","Caledonia, VT",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",35,27,28,32,25,34,30,(D),(D),(D),(D),60,55,(D),(D),(D),(D)
+ "50005","Caledonia, VT",1,CAEMP25N,300,"22","   Utilities","Number of jobs",49,48,47,54,55,56,59,56,(D),(D),(D),42,50,47,48,47,51
+ "50005","Caledonia, VT",1,CAEMP25N,400,"23","   Construction","Number of jobs",1480,1473,1526,1674,1644,1786,1780,1708,1573,1528,1509,1486,1505,1489,1445,1381,1396
+ "50005","Caledonia, VT",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",2139,1931,1866,1878,1921,1959,2056,2052,1738,1698,1695,1652,1652,1601,1506,1517,1477
+ "50005","Caledonia, VT",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",284,357,380,392,413,390,345,322,(D),(D),(D),286,295,352,313,258,286
+ "50005","Caledonia, VT",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2214,2106,2104,2117,2152,2166,2183,2140,2079,2010,2119,2036,2086,2055,2035,1997,1987
+ "50005","Caledonia, VT",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",492,500,499,530,524,549,511,484,443,440,437,414,425,429,421,403,402
+ "50005","Caledonia, VT",1,CAEMP25N,900,"51","   Information","Number of jobs",319,312,316,317,366,353,337,309,283,293,294,263,265,255,234,253,245
+ "50005","Caledonia, VT",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",443,475,466,458,464,477,494,491,497,471,494,494,529,492,462,493,515
+ "50005","Caledonia, VT",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",293,296,305,(D),(D),370,420,441,453,451,489,471,472,469,472,478,492
+ "50005","Caledonia, VT",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",640,652,690,723,788,818,871,(D),888,846,828,762,722,725,727,690,708
+ "50005","Caledonia, VT",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),11,12,(D),(D),21,1,(D),(D),(D),(D),(D),6,(D)
+ "50005","Caledonia, VT",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),(D),524,(D),(D),557,561,(D),(D),(D),(D),(D),606,(D)
+ "50005","Caledonia, VT",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",569,636,688,747,756,769,850,886,873,895,879,881,915,932,934,969,936
+ "50005","Caledonia, VT",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1971,2109,2167,2203,2148,2212,2269,2314,2294,2325,2287,2303,2383,2388,2381,2345,2344
+ "50005","Caledonia, VT",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",275,298,276,287,321,421,411,430,419,409,437,428,428,396,387,410,350
+ "50005","Caledonia, VT",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1079,1068,1068,1080,1066,941,919,884,822,866,927,923,936,984,969,974,986
+ "50005","Caledonia, VT",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",973,1009,1041,1071,1072,1072,1031,984,950,909,919,947,950,980,1034,1028,1007
+ "50005","Caledonia, VT",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2157,2163,2150,2174,2179,2241,2235,2337,2328,2322,2297,2276,2307,2311,2271,2263,2250
+ "50005","Caledonia, VT",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",108,110,115,113,109,117,121,122,124,133,103,97,94,99,97,96,92
+ "50005","Caledonia, VT",1,CAEMP25N,2002,"...","   Military","Number of jobs",213,212,214,210,197,196,196,200,202,209,209,212,212,215,207,195,184
+ "50005","Caledonia, VT",1,CAEMP25N,2010,"...","   State and local","Number of jobs",1836,1841,1821,1851,1873,1928,1918,2015,2002,1980,1985,1967,2001,1997,1967,1972,1974
+ "50005","Caledonia, VT",1,CAEMP25N,2011,"...","    State government","Number of jobs",619,612,608,625,636,673,683,715,699,681,688,687,697,696,665,660,641
+ "50005","Caledonia, VT",1,CAEMP25N,2012,"...","    Local government","Number of jobs",1217,1229,1213,1226,1237,1255,1235,1300,1303,1299,1297,1280,1304,1301,1302,1312,1333
+ "50007","Chittenden, VT",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",120735,119874,119825,122533,123071,123988,125430,125411,123380,124518,127751,130167,131123,133258,134639,135777,136775
+ "50007","Chittenden, VT",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",101985,100817,100147,101736,101519,101819,101911,101606,99228,100475,103220,105789,106248,107756,109252,109650,110143
+ "50007","Chittenden, VT",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",18750,19057,19678,20797,21552,22169,23519,23805,24152,24043,24531,24378,24875,25502,25387,26127,26632
+ "50007","Chittenden, VT",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",478,486,475,466,466,465,520,523,515,520,524,515,522,522,533,532,532
+ "50007","Chittenden, VT",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",18272,18571,19203,20331,21086,21704,22999,23282,23637,23523,24007,23863,24353,24980,24854,25595,26100
+ "50007","Chittenden, VT",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",694,708,689,633,617,594,636,664,666,682,714,727,764,765,775,758,758
+ "50007","Chittenden, VT",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",120041,119166,119136,121900,122454,123394,124794,124747,122714,123836,127037,129440,130359,132493,133864,135019,136017
+ "50007","Chittenden, VT",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",105258,104060,103870,106255,106671,107510,108709,108409,106052,107073,109852,112134,112910,114031,115307,116826,117918
+ "50007","Chittenden, VT",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",187,219,181,203,(D),236,239,262,240,219,254,274,(D),289,261,256,272
+ "50007","Chittenden, VT",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",93,85,97,86,(D),94,125,126,113,136,147,183,(D),177,202,203,217
+ "50007","Chittenden, VT",1,CAEMP25N,300,"22","   Utilities","Number of jobs",242,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),312,307,312,328,335,370
+ "50007","Chittenden, VT",1,CAEMP25N,400,"23","   Construction","Number of jobs",7398,6911,7246,7835,7850,7906,7881,7377,6729,6582,6845,6968,6900,7301,7219,7408,7485
+ "50007","Chittenden, VT",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",17351,15187,13632,13182,12906,12651,12783,12331,11278,11363,11292,11992,11731,10958,10847,10430,10310
+ "50007","Chittenden, VT",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",3661,3628,3882,3972,3927,3929,3846,3757,3551,3654,3737,3860,3925,3981,4082,4131,3963
+ "50007","Chittenden, VT",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",14326,14716,14710,14917,15144,14969,14924,15005,14512,14561,14862,14445,14384,14483,14410,14443,14359
+ "50007","Chittenden, VT",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",2902,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),2711,2624,2735,2920,3045,3059
+ "50007","Chittenden, VT",1,CAEMP25N,900,"51","   Information","Number of jobs",3001,2876,2835,2841,2833,2775,2820,2700,2617,2588,2491,2392,2482,2667,2587,2695,2653
+ "50007","Chittenden, VT",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",4803,4872,4841,4766,4697,4662,4779,4722,4952,4817,5155,4849,4822,4722,4842,4949,5004
+ "50007","Chittenden, VT",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",3625,3580,3726,3988,4239,4451,4678,4725,4673,4859,5144,5120,5287,5416,5443,5585,5738
+ "50007","Chittenden, VT",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",9377,9242,9239,9691,9692,9783,10324,10699,10550,11035,11138,11444,11454,11695,12034,12228,12430
+ "50007","Chittenden, VT",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),185,175,190,180,186,182,308,370,397,633,701,793,805,820,869,841
+ "50007","Chittenden, VT",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),4348,4656,5062,5229,5242,4826,4808,4668,4961,5634,5948,6088,5958,5742,5678,6123
+ "50007","Chittenden, VT",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",4189,4432,4238,4265,4233,4125,4017,3991,4051,4104,4200,4280,4462,4766,5013,5143,5108
+ "50007","Chittenden, VT",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",13654,14469,15039,15440,15797,16447,17136,17671,18145,18057,18018,18479,18671,18865,19149,19701,20048
+ "50007","Chittenden, VT",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",3030,3230,3195,3194,3260,3350,3440,3501,3414,3395,3490,3605,3600,3741,3757,3984,4100
+ "50007","Chittenden, VT",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",7215,7347,7355,7741,7559,7927,7933,7813,7919,8296,8563,8861,9165,9253,9656,9678,9894
+ "50007","Chittenden, VT",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",5469,(D),5656,5658,5564,5647,5624,5513,5336,5163,5357,5710,5750,5907,5995,6065,5944
+ "50007","Chittenden, VT",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",14783,15106,15266,15645,15783,15884,16085,16338,16662,16763,17185,17306,17449,18462,18557,18193,18099
+ "50007","Chittenden, VT",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",1799,1905,2105,2041,1923,1887,1928,2091,2248,2332,2318,2336,2355,2343,2330,2384,2406
+ "50007","Chittenden, VT",1,CAEMP25N,2002,"...","   Military","Number of jobs",1076,1073,1084,1050,988,982,992,1020,1039,1081,1099,1134,1146,1186,1170,1127,1093
+ "50007","Chittenden, VT",1,CAEMP25N,2010,"...","   State and local","Number of jobs",11908,12128,12077,12554,12872,13015,13165,13227,13375,13350,13768,13836,13948,14933,15057,14682,14600
+ "50007","Chittenden, VT",1,CAEMP25N,2011,"...","    State government","Number of jobs",5747,5772,5564,5854,6016,6196,6293,6266,6189,6129,6509,6497,6560,7510,7544,7251,6969
+ "50007","Chittenden, VT",1,CAEMP25N,2012,"...","    Local government","Number of jobs",6161,6356,6513,6700,6856,6819,6872,6961,7186,7221,7259,7339,7388,7423,7513,7431,7631
+ "50009","Essex, VT",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",2822,2629,2510,2593,2716,2685,2590,2496,2384,2252,2144,2080,2084,2142,2124,2040,2097
+ "50009","Essex, VT",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",1910,1677,1569,1646,1735,1686,1550,1466,1393,1276,1168,1100,1112,1171,1127,1083,1122
+ "50009","Essex, VT",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",912,952,941,947,981,999,1040,1030,991,976,976,980,972,971,997,957,975
+ "50009","Essex, VT",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",101,106,99,91,85,80,85,86,87,89,92,89,89,89,89,89,89
+ "50009","Essex, VT",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",811,846,842,856,896,919,955,944,904,887,884,891,883,882,908,868,886
+ "50009","Essex, VT",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",139,144,141,128,123,117,122,123,119,117,119,112,115,116,116,114,114
+ "50009","Essex, VT",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",2683,2485,2369,2465,2593,2568,2468,2373,2265,2135,2025,1968,1969,2026,2008,1926,1983
+ "50009","Essex, VT",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",2260,2073,1954,2002,2125,2120,2020,1923,1799,1682,1585,1543,1540,1563,1572,1500,1567
+ "50009","Essex, VT",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",151,159,134,158,168,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50009","Essex, VT",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",0,0,0,0,11,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50009","Essex, VT",1,CAEMP25N,300,"22","   Utilities","Number of jobs",4,0,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50009","Essex, VT",1,CAEMP25N,400,"23","   Construction","Number of jobs",201,212,228,233,226,244,247,(D),(D),(D),(D),186,197,200,217,202,211
+ "50009","Essex, VT",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",960,718,(D),619,659,(D),554,474,(D),(D),(D),168,176,177,181,169,173
+ "50009","Essex, VT",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),8,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50009","Essex, VT",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",161,174,164,169,216,202,180,188,185,180,190,181,173,164,172,(D),(D)
+ "50009","Essex, VT",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),102,(D),108,98,101,85,93,76,91,52,50,66,50,76,80
+ "50009","Essex, VT",1,CAEMP25N,900,"51","   Information","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50009","Essex, VT",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",28,(D),(D),(D),(D),(D),(D),(D),(D),(D),55,54,62,51,66,49,48
+ "50009","Essex, VT",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),(D),39,47,50,53,64,57,49,58,(D),(D),(D),(D),(D),(D),(D)
+ "50009","Essex, VT",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",44,46,62,65,77,70,73,71,71,(D),(D),(D),(D),(D),65,62,66
+ "50009","Essex, VT",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,0,(D),(D),(D),(D),(D),(D),(D),(D),0,0
+ "50009","Essex, VT",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",98,109,67,71,(D),(D),(D),(D),(D),105,119,119,121,(D),(D),78,79
+ "50009","Essex, VT",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",12,14,17,14,9,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50009","Essex, VT",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50009","Essex, VT",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),(D),(D),(D),(D),(D),29,34,(D),(D),34,(D),(D),(D),(D),(D)
+ "50009","Essex, VT",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),134,147,(D),(D),151,99,(D),(D),(D),(D),97,(D),(D),(D),(D),(D)
+ "50009","Essex, VT",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",144,139,143,146,161,170,174,157,150,145,151,(D),(D),(D),(D),169,169
+ "50009","Essex, VT",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",423,412,415,463,468,448,448,450,466,453,440,425,429,463,436,426,416
+ "50009","Essex, VT",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",61,70,82,88,85,87,87,96,105,103,94,94,93,96,85,76,78
+ "50009","Essex, VT",1,CAEMP25N,2002,"...","   Military","Number of jobs",47,47,47,46,42,41,42,43,43,44,44,44,44,45,44,42,40
+ "50009","Essex, VT",1,CAEMP25N,2010,"...","   State and local","Number of jobs",315,295,286,329,341,320,319,311,318,306,302,287,292,322,307,308,298
+ "50009","Essex, VT",1,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50009","Essex, VT",1,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50011","Franklin, VT",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",21094,21434,21764,21977,22212,22417,23120,23434,23027,23022,22983,23063,23766,24062,24927,25315,25173
+ "50011","Franklin, VT",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",16332,16504,16720,16819,16908,16896,17245,17639,17250,17436,17257,17392,17978,18303,18592,19015,18771
+ "50011","Franklin, VT",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",4762,4930,5044,5158,5304,5521,5875,5795,5777,5586,5726,5671,5788,5759,6335,6300,6402
+ "50011","Franklin, VT",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",800,815,758,708,674,640,684,688,681,686,692,680,688,688,698,697,697
+ "50011","Franklin, VT",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",3962,4115,4286,4450,4630,4881,5191,5107,5096,4900,5034,4991,5100,5071,5637,5603,5705
+ "50011","Franklin, VT",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1242,1260,1231,1115,1083,1026,1071,1101,1072,1065,1100,1102,1169,1172,1178,1145,1143
+ "50011","Franklin, VT",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",19852,20174,20533,20862,21129,21391,22049,22333,21955,21957,21883,21961,22597,22890,23749,24170,24030
+ "50011","Franklin, VT",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",16408,16590,16770,17026,17147,17262,17932,18084,17599,17539,17517,17513,17980,18168,18960,19371,19241
+ "50011","Franklin, VT",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),190,(D),(D),(D),(D),(D),(D),(D),303,334,334,334,346,355
+ "50011","Franklin, VT",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),23,(D),(D),(D),(D),(D),(D),(D),58,(D),(D),58,56,54
+ "50011","Franklin, VT",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),37,36,36,37,40,45
+ "50011","Franklin, VT",1,CAEMP25N,400,"23","   Construction","Number of jobs",1202,1220,1287,1328,1416,1561,1586,1494,1416,1317,1363,1427,1447,1389,1433,1464,1487
+ "50011","Franklin, VT",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",3040,2949,2836,2827,2919,2857,2866,2924,2903,2861,2780,2786,2893,2954,2981,3049,2928
+ "50011","Franklin, VT",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",750,684,655,644,690,770,830,851,803,747,(D),570,612,635,640,652,617
+ "50011","Franklin, VT",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2854,2816,2747,2828,2843,2779,2829,2805,2697,2704,2722,2706,2769,2905,2925,2918,2896
+ "50011","Franklin, VT",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),919,938,1010,994,933,951,947
+ "50011","Franklin, VT",1,CAEMP25N,900,"51","   Information","Number of jobs",675,654,712,780,706,655,629,642,557,531,285,180,167,152,144,149,142
+ "50011","Franklin, VT",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",500,431,436,444,454,467,496,514,533,527,531,521,497,463,470,483,506
+ "50011","Franklin, VT",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",425,425,450,457,503,571,573,583,573,568,576,547,549,593,622,667,697
+ "50011","Franklin, VT",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",544,565,613,613,604,625,680,(D),(D),(D),(D),754,(D),(D),(D),(D),798
+ "50011","Franklin, VT",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),3,7,11,8,1,6,11,(D),(D),8,(D),(D),(D),(D),23
+ "50011","Franklin, VT",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),602,607,574,608,910,1015,974,1068,1116,1095,1096,1262,1581,1824,1729
+ "50011","Franklin, VT",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",306,340,346,371,284,134,154,140,140,131,135,133,137,164,184,163,162
+ "50011","Franklin, VT",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",2299,2422,2589,2660,2709,2762,2839,2897,2908,2960,2889,2834,2960,2976,3073,3089,3091
+ "50011","Franklin, VT",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",252,251,245,247,256,248,253,253,259,246,244,264,255,253,(D),267,264
+ "50011","Franklin, VT",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1038,1047,1109,1072,1085,1093,1155,1097,1074,1106,1147,1163,1160,1099,(D),1151,1200
+ "50011","Franklin, VT",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1130,1177,1184,1183,1181,1217,1205,1155,1131,1110,1147,1189,1191,1211,1338,1299,1300
+ "50011","Franklin, VT",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",3444,3584,3763,3836,3982,4129,4117,4249,4356,4418,4366,4448,4617,4722,4789,4799,4789
+ "50011","Franklin, VT",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",769,923,1051,1121,1103,1029,985,1079,1164,1149,1112,1181,1367,1422,1489,1488,1549
+ "50011","Franklin, VT",1,CAEMP25N,2002,"...","   Military","Number of jobs",334,332,337,328,307,303,306,314,318,331,334,340,341,351,341,326,309
+ "50011","Franklin, VT",1,CAEMP25N,2010,"...","   State and local","Number of jobs",2341,2329,2375,2387,2572,2797,2826,2856,2874,2938,2920,2927,2909,2949,2959,2985,2931
+ "50011","Franklin, VT",1,CAEMP25N,2011,"...","    State government","Number of jobs",419,398,403,378,382,428,439,448,444,432,429,432,435,452,460,477,468
+ "50011","Franklin, VT",1,CAEMP25N,2012,"...","    Local government","Number of jobs",1922,1931,1972,2009,2190,2369,2387,2408,2430,2506,2491,2495,2474,2497,2499,2508,2463
+ "50013","Grand Isle, VT",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",2334,2399,2455,2543,2681,2664,2736,2743,2740,2771,2709,2795,2701,2675,2707,2722,2761
+ "50013","Grand Isle, VT",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",1175,1198,1240,1344,1353,1345,1341,1304,1300,1368,1316,1345,1289,1291,1291,1318,1330
+ "50013","Grand Isle, VT",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",1159,1201,1215,1199,1328,1319,1395,1439,1440,1403,1393,1450,1412,1384,1416,1404,1431
+ "50013","Grand Isle, VT",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",105,105,99,97,94,93,103,106,105,108,110,112,114,115,118,117,117
+ "50013","Grand Isle, VT",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",1054,1096,1116,1102,1234,1226,1292,1333,1335,1295,1283,1338,1298,1269,1298,1287,1314
+ "50013","Grand Isle, VT",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",196,203,191,165,153,141,142,151,150,154,162,168,178,179,182,177,177
+ "50013","Grand Isle, VT",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",2138,2196,2264,2378,2528,2523,2594,2592,2590,2617,2547,2627,2523,2496,2525,2545,2584
+ "50013","Grand Isle, VT",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",1800,1848,1912,2006,2143,2142,2211,2228,2227,2249,2182,2264,2158,2129,2171,2214,2253
+ "50013","Grand Isle, VT",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50013","Grand Isle, VT",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",1,(D),(D),(D),(D),(D),(D),(D),(D),(D),37,55,44,34,(D),(D),(D)
+ "50013","Grand Isle, VT",1,CAEMP25N,300,"22","   Utilities","Number of jobs",0,3,0,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50013","Grand Isle, VT",1,CAEMP25N,400,"23","   Construction","Number of jobs",290,293,326,391,418,439,417,(D),(D),(D),(D),326,317,317,302,307,317
+ "50013","Grand Isle, VT",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",80,63,(D),(D),(D),(D),94,77,(D),(D),(D),95,92,91,101,109,110
+ "50013","Grand Isle, VT",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",8,17,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50013","Grand Isle, VT",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",272,298,315,304,313,307,316,299,306,303,301,327,293,293,290,(D),(D)
+ "50013","Grand Isle, VT",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",105,96,(D),113,114,105,114,(D),135,123,144,150,137,126,148,164,168
+ "50013","Grand Isle, VT",1,CAEMP25N,900,"51","   Information","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50013","Grand Isle, VT",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",42,(D),(D),(D),(D),(D),(D),(D),(D),(D),76,86,90,85,88,93,96
+ "50013","Grand Isle, VT",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),(D),112,(D),(D),162,163,177,178,(D),(D),(D),175,(D),(D),173,(D)
+ "50013","Grand Isle, VT",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),158,151,156,167,167,176,178,166,180,188,173,173,162,162,145,145
+ "50013","Grand Isle, VT",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,25,22,19,26,1,1
+ "50013","Grand Isle, VT",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),(D),130,137,144,146,149,138,137,124,123,(D),141,133
+ "50013","Grand Isle, VT",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),24,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50013","Grand Isle, VT",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),187,179,183,(D),(D),(D),(D),(D),(D),(D)
+ "50013","Grand Isle, VT",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),(D),(D),(D),(D),(D),75,59,(D),(D),58,64,64,67,(D),(D)
+ "50013","Grand Isle, VT",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),165,175,(D),(D),156,159,(D),(D),(D),(D),221,213,(D),238,(D),(D)
+ "50013","Grand Isle, VT",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",159,157,160,156,168,180,182,177,170,161,162,(D),(D),(D),(D),162,174
+ "50013","Grand Isle, VT",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",338,348,352,372,385,381,383,364,363,368,365,363,365,367,354,331,331
+ "50013","Grand Isle, VT",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",24,25,25,24,25,26,23,22,22,27,18,17,18,18,18,18,18
+ "50013","Grand Isle, VT",1,CAEMP25N,2002,"...","   Military","Number of jobs",52,52,53,51,48,46,47,48,47,49,49,50,50,51,48,47,45
+ "50013","Grand Isle, VT",1,CAEMP25N,2010,"...","   State and local","Number of jobs",262,271,274,297,312,309,313,294,294,292,298,296,297,298,288,266,268
+ "50013","Grand Isle, VT",1,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50013","Grand Isle, VT",1,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50015","Lamoille, VT",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",15143,15443,15529,15818,16334,16530,16679,16547,16111,16266,16689,16962,17201,17712,17932,17927,18204
+ "50015","Lamoille, VT",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",11232,11444,11409,11525,11932,12109,12080,11962,11501,11668,11945,12107,12263,12700,12881,12879,13067
+ "50015","Lamoille, VT",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",3911,3999,4120,4293,4402,4421,4599,4585,4610,4598,4744,4855,4938,5012,5051,5048,5137
+ "50015","Lamoille, VT",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",333,342,313,291,274,258,274,288,296,311,326,332,334,335,338,337,337
+ "50015","Lamoille, VT",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",3578,3657,3807,4002,4128,4163,4325,4297,4314,4287,4418,4523,4604,4677,4713,4711,4800
+ "50015","Lamoille, VT",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",410,419,395,362,345,325,342,366,375,393,419,433,450,451,454,445,445
+ "50015","Lamoille, VT",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",14733,15024,15134,15456,15989,16205,16337,16181,15736,15873,16270,16529,16751,17261,17478,17482,17759
+ "50015","Lamoille, VT",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",12974,13315,13381,13675,14181,14379,14498,14346,13912,14058,14452,14706,14974,15419,15666,15651,15912
+ "50015","Lamoille, VT",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",158,160,128,130,(D),144,146,(D),221,(D),(D),(D),(D),200,(D),(D),(D)
+ "50015","Lamoille, VT",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",22,17,19,19,(D),22,25,(D),22,(D),(D),(D),(D),39,(D),(D),(D)
+ "50015","Lamoille, VT",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50015","Lamoille, VT",1,CAEMP25N,400,"23","   Construction","Number of jobs",1424,1479,1545,1564,1704,1735,1691,1574,1472,1436,1438,1456,1478,1502,1503,1585,1568
+ "50015","Lamoille, VT",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",872,864,789,(D),(D),760,785,701,620,636,691,735,768,832,814,773,780
+ "50015","Lamoille, VT",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),238,234,237,251,272,224,222,298,319,273,279
+ "50015","Lamoille, VT",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1878,1936,1885,1893,1921,1861,1847,1816,1765,1741,1739,1783,1819,1852,1870,1833,1816
+ "50015","Lamoille, VT",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",206,197,196,197,184,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50015","Lamoille, VT",1,CAEMP25N,900,"51","   Information","Number of jobs",136,145,158,159,160,152,176,178,153,160,178,145,158,166,171,163,176
+ "50015","Lamoille, VT",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",276,288,291,289,310,313,307,335,335,338,343,379,356,367,383,394,414
+ "50015","Lamoille, VT",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",393,415,423,516,591,610,632,637,584,597,631,631,646,630,671,700,717
+ "50015","Lamoille, VT",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",721,713,748,834,810,921,988,989,1005,966,946,954,935,892,963,953,953
+ "50015","Lamoille, VT",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,9,11,8,12,7,18,(D),(D),(D),(D),39,37,42,59,(D)
+ "50015","Lamoille, VT",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",525,557,546,595,618,638,719,753,(D),(D),(D),(D),709,694,660,724,(D)
+ "50015","Lamoille, VT",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),320,301,319,286,273,308,288,303,(D),(D),(D),375,383
+ "50015","Lamoille, VT",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1627,1718,1759,1762,1930,1982,1989,1973,2009,2078,2114,2207,2282,2358,2399,2407,2422
+ "50015","Lamoille, VT",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",302,340,393,382,374,406,407,399,376,379,409,409,430,423,413,397,390
+ "50015","Lamoille, VT",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",3045,3037,3023,2971,3018,3064,2976,3067,2922,3075,3198,3250,3331,3482,3570,3511,3723
+ "50015","Lamoille, VT",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",891,925,937,965,988,973,978,950,945,904,927,974,991,1028,1017,1018,1005
+ "50015","Lamoille, VT",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1759,1709,1753,1781,1808,1826,1839,1835,1824,1815,1818,1823,1777,1842,1812,1831,1847
+ "50015","Lamoille, VT",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",74,80,79,76,72,71,67,73,75,77,64,61,61,62,62,60,58
+ "50015","Lamoille, VT",1,CAEMP25N,2002,"...","   Military","Number of jobs",168,166,168,161,150,149,151,156,159,167,168,172,174,178,173,166,157
+ "50015","Lamoille, VT",1,CAEMP25N,2010,"...","   State and local","Number of jobs",1517,1463,1506,1544,1586,1606,1621,1606,1590,1571,1586,1590,1542,1602,1577,1605,1632
+ "50015","Lamoille, VT",1,CAEMP25N,2011,"...","    State government","Number of jobs",471,407,384,410,422,427,452,424,405,414,431,436,430,447,424,432,423
+ "50015","Lamoille, VT",1,CAEMP25N,2012,"...","    Local government","Number of jobs",1046,1056,1122,1134,1164,1179,1169,1182,1185,1157,1155,1154,1112,1155,1153,1173,1209
+ "50017","Orange, VT",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",13414,13946,13863,13957,14005,14171,14352,14153,13838,13624,13607,13721,13805,13836,13956,13838,13875
+ "50017","Orange, VT",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",8717,9025,8922,8774,8797,8973,8935,8697,8458,8388,8361,8484,8526,8599,8658,8543,8499
+ "50017","Orange, VT",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",4697,4921,4941,5183,5208,5198,5417,5456,5380,5236,5246,5237,5279,5237,5298,5295,5376
+ "50017","Orange, VT",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",689,726,680,641,616,593,642,655,658,676,692,697,703,703,711,710,710
+ "50017","Orange, VT",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",4008,4195,4261,4542,4592,4605,4775,4801,4722,4560,4554,4540,4576,4534,4587,4585,4666
+ "50017","Orange, VT",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",923,978,934,848,813,770,809,838,835,851,884,897,932,933,940,924,924
+ "50017","Orange, VT",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",12491,12968,12929,13109,13192,13401,13543,13315,13003,12773,12723,12824,12873,12903,13016,12914,12951
+ "50017","Orange, VT",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",10342,10776,10781,10964,11070,11160,11295,11146,10850,10564,10523,10558,10652,10657,10837,10793,10900
+ "50017","Orange, VT",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",292,327,(D),(D),(D),311,312,323,292,289,295,314,317,308,304,285,288
+ "50017","Orange, VT",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",31,27,(D),(D),(D),27,32,35,27,29,41,57,50,37,42,44,49
+ "50017","Orange, VT",1,CAEMP25N,300,"22","   Utilities","Number of jobs",21,24,29,31,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),4,11,(D)
+ "50017","Orange, VT",1,CAEMP25N,400,"23","   Construction","Number of jobs",1278,1356,1441,1506,1626,1673,1645,1569,1493,1388,1356,1325,1342,1355,1397,1418,1456
+ "50017","Orange, VT",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",1237,1231,1058,1042,1049,974,957,839,826,806,819,854,954,907,908,936,930
+ "50017","Orange, VT",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",458,449,396,372,348,365,456,440,407,387,398,397,378,428,426,372,357
+ "50017","Orange, VT",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1336,1338,1412,1409,1384,1455,1394,1319,1237,1190,1178,1181,1193,1212,1214,1203,1162
+ "50017","Orange, VT",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",211,249,248,239,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),265,257,(D)
+ "50017","Orange, VT",1,CAEMP25N,900,"51","   Information","Number of jobs",126,150,150,142,159,143,144,141,141,144,136,137,142,139,(D),(D),(D)
+ "50017","Orange, VT",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",296,300,276,297,280,288,303,339,350,334,371,358,314,249,242,221,285
+ "50017","Orange, VT",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",258,263,276,306,331,348,361,369,386,423,428,408,(D),(D),(D),(D),(D)
+ "50017","Orange, VT",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",763,778,779,858,894,848,840,841,815,818,810,790,822,804,856,834,893
+ "50017","Orange, VT",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,12,1,1,0,7,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50017","Orange, VT",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",448,477,482,507,459,525,552,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50017","Orange, VT",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",260,304,294,325,337,333,336,336,365,344,360,349,337,318,323,314,322
+ "50017","Orange, VT",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1435,1543,1624,1679,1683,1723,1818,1875,1851,1832,1850,1874,(D),(D),(D),(D),2011
+ "50017","Orange, VT",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",350,343,334,371,390,379,370,401,380,415,379,419,(D),(D),(D),(D),400
+ "50017","Orange, VT",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",799,817,848,774,725,706,690,691,655,602,635,626,(D),(D),(D),(D),658
+ "50017","Orange, VT",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",743,800,831,791,797,795,806,774,748,732,714,730,(D),722,(D),717,700
+ "50017","Orange, VT",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2149,2192,2148,2145,2122,2241,2248,2169,2153,2209,2200,2266,2221,2246,2179,2121,2051
+ "50017","Orange, VT",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",97,99,99,96,98,101,101,100,100,107,90,83,76,82,80,76,71
+ "50017","Orange, VT",1,CAEMP25N,2002,"...","   Military","Number of jobs",207,204,207,201,187,185,185,190,191,198,199,201,201,205,199,190,180
+ "50017","Orange, VT",1,CAEMP25N,2010,"...","   State and local","Number of jobs",1845,1889,1842,1848,1837,1955,1962,1879,1862,1904,1911,1982,1944,1959,1900,1855,1800
+ "50017","Orange, VT",1,CAEMP25N,2011,"...","    State government","Number of jobs",449,473,451,464,469,515,522,460,455,470,502,517,523,530,504,456,470
+ "50017","Orange, VT",1,CAEMP25N,2012,"...","    Local government","Number of jobs",1396,1416,1391,1384,1368,1440,1440,1419,1407,1434,1409,1465,1421,1429,1396,1399,1330
+ "50019","Orleans, VT",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",14692,14865,15093,15409,15399,15478,15646,15725,15474,15417,15595,16013,16277,16416,16500,16560,16874
+ "50019","Orleans, VT",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",10407,10465,10614,10798,10800,10881,10832,10884,10658,10595,10793,11221,11375,11468,11573,11557,11788
+ "50019","Orleans, VT",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",4285,4400,4479,4611,4599,4597,4814,4841,4816,4822,4802,4792,4902,4948,4927,5003,5086
+ "50019","Orleans, VT",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",619,625,600,575,562,549,602,608,605,614,623,620,626,626,632,631,631
+ "50019","Orleans, VT",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",3666,3775,3879,4036,4037,4048,4212,4233,4211,4208,4179,4172,4276,4322,4295,4372,4455
+ "50019","Orleans, VT",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",986,1017,976,864,821,766,794,824,820,832,867,883,926,927,932,911,910
+ "50019","Orleans, VT",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",13706,13848,14117,14545,14578,14712,14852,14901,14654,14585,14728,15130,15351,15489,15568,15649,15964
+ "50019","Orleans, VT",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",11662,11794,12016,12397,12340,12394,12521,12614,12365,12313,12482,12844,13093,13199,13291,13415,13735
+ "50019","Orleans, VT",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),344,387,379,381,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50019","Orleans, VT",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),18,15,16,11,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50019","Orleans, VT",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),21,20,19,20,21,21,22,25,31
+ "50019","Orleans, VT",1,CAEMP25N,400,"23","   Construction","Number of jobs",1166,1232,1204,1360,1415,1415,1405,1398,1312,1265,1266,1269,1298,1328,1363,1335,1340
+ "50019","Orleans, VT",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",2008,1773,1771,1749,1695,1589,1575,1564,1341,1224,1417,1533,1537,1556,1622,1688,1672
+ "50019","Orleans, VT",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),330,321,358,328,364,362,317,314,327,328,310,293,353,346,275,261
+ "50019","Orleans, VT",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1709,1684,1724,1776,1802,1909,1908,1931,1905,1860,1765,1750,1794,1828,1819,1940,2098
+ "50019","Orleans, VT",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),411,423,448,471,458,432,456,459,482
+ "50019","Orleans, VT",1,CAEMP25N,900,"51","   Information","Number of jobs",128,129,119,126,115,128,129,124,125,131,128,135,125,128,118,114,115
+ "50019","Orleans, VT",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",319,350,336,335,329,347,369,382,393,392,397,360,365,324,326,344,348
+ "50019","Orleans, VT",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",293,312,339,366,380,402,418,397,419,470,488,467,487,497,512,503,512
+ "50019","Orleans, VT",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",461,431,473,493,471,440,468,480,470,(D),(D),(D),(D),(D),(D),(D),(D)
+ "50019","Orleans, VT",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,0,0,0,(D),(D),(D),(D),(D),(D),(D),(D)
+ "50019","Orleans, VT",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",276,335,382,402,452,503,468,552,637,619,555,543,550,526,554,566,610
+ "50019","Orleans, VT",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",290,347,406,362,338,336,275,264,303,295,294,279,282,282,282,(D),296
+ "50019","Orleans, VT",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1913,2047,2148,2188,2038,2074,2192,2264,2232,2237,2234,2255,2289,2213,2195,2160,2128
+ "50019","Orleans, VT",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",176,188,209,240,220,213,292,301,284,349,369,304,318,327,300,329,348
+ "50019","Orleans, VT",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",909,926,945,992,1001,940,894,921,965,1009,1121,1374,1476,1573,1534,1544,1630
+ "50019","Orleans, VT",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",842,872,874,892,926,919,905,858,822,806,807,852,852,854,893,870,865
+ "50019","Orleans, VT",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2044,2054,2101,2148,2238,2318,2331,2287,2289,2272,2246,2286,2258,2290,2277,2234,2229
+ "50019","Orleans, VT",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",190,206,236,248,249,245,236,241,267,275,252,245,233,234,233,243,235
+ "50019","Orleans, VT",1,CAEMP25N,2002,"...","   Military","Number of jobs",190,188,192,186,174,171,173,177,179,185,185,188,188,191,185,175,166
+ "50019","Orleans, VT",1,CAEMP25N,2010,"...","   State and local","Number of jobs",1664,1660,1673,1714,1815,1902,1922,1869,1843,1812,1809,1853,1837,1865,1859,1816,1828
+ "50019","Orleans, VT",1,CAEMP25N,2011,"...","    State government","Number of jobs",361,338,340,363,366,428,434,382,383,379,381,388,395,398,374,351,351
+ "50019","Orleans, VT",1,CAEMP25N,2012,"...","    Local government","Number of jobs",1303,1322,1333,1351,1449,1474,1488,1487,1460,1433,1428,1465,1442,1467,1485,1465,1477
+ "50021","Rutland, VT",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",38812,39067,38919,39798,40355,40394,40600,40099,38712,38432,38226,38522,38492,38430,38383,37910,37761
+ "50021","Rutland, VT",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",31088,31094,30837,31484,31819,31830,31758,31403,29927,29758,29489,29759,29813,29774,29777,29428,29125
+ "50021","Rutland, VT",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",7724,7973,8082,8314,8536,8564,8842,8696,8785,8674,8737,8763,8679,8656,8606,8482,8636
+ "50021","Rutland, VT",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",619,644,607,573,549,525,561,571,566,573,579,572,577,577,584,583,583
+ "50021","Rutland, VT",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",7105,7329,7475,7741,7987,8039,8281,8125,8219,8101,8158,8191,8102,8079,8022,7899,8053
+ "50021","Rutland, VT",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",821,850,817,746,715,676,706,726,713,716,732,731,759,760,767,754,754
+ "50021","Rutland, VT",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",37991,38217,38102,39052,39640,39718,39894,39373,37999,37716,37494,37791,37733,37670,37616,37156,37007
+ "50021","Rutland, VT",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",33156,33205,33210,34137,34724,34862,35069,34442,32946,32542,32520,32828,32860,32850,32894,32585,32663
+ "50021","Rutland, VT",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",213,224,193,230,220,227,207,214,210,204,203,241,246,240,224,224,229
+ "50021","Rutland, VT",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",538,480,455,464,417,533,544,544,462,412,393,443,418,401,401,392,379
+ "50021","Rutland, VT",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50021","Rutland, VT",1,CAEMP25N,400,"23","   Construction","Number of jobs",2772,2857,3070,3216,3355,3445,3307,3012,2779,2697,2658,2739,2753,2726,2776,2815,2838
+ "50021","Rutland, VT",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",4495,4265,3988,4074,4148,3971,3950,3805,3267,3135,3293,3471,3658,3540,3467,3273,3279
+ "50021","Rutland, VT",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",1127,1088,1057,988,(D),(D),(D),1103,1118,1101,(D),(D),(D),(D),(D),(D),(D)
+ "50021","Rutland, VT",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",5153,5244,5297,5374,5360,5311,5398,5352,5038,4960,4914,4796,4848,4817,4681,4604,4585
+ "50021","Rutland, VT",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),907,(D),(D),(D),(D),(D)
+ "50021","Rutland, VT",1,CAEMP25N,900,"51","   Information","Number of jobs",575,549,524,548,594,516,483,439,389,394,424,393,375,383,395,396,357
+ "50021","Rutland, VT",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",928,861,869,964,968,940,997,1021,1044,1020,1024,1042,997,965,825,856,885
+ "50021","Rutland, VT",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",940,950,1003,1059,1123,1186,1262,1282,1262,1287,1308,1185,1177,1171,1244,1207,1221
+ "50021","Rutland, VT",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",1872,1782,1795,1844,(D),(D),(D),1609,1527,1528,1494,1521,1481,1483,1457,1436,1445
+ "50021","Rutland, VT",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),130,146,190,232,254,224,330,355,378,396
+ "50021","Rutland, VT",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),(D),(D),1731,1672,1576,1525,1582,1560,1524,1609,1601,1601,1612
+ "50021","Rutland, VT",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",687,708,689,722,759,939,928,953,956,857,741,782,799,804,847,832,823
+ "50021","Rutland, VT",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",4310,4516,4659,4770,4891,4859,5122,5274,5419,5605,5677,5850,5790,5643,5689,5773,5789
+ "50021","Rutland, VT",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",572,612,662,690,736,735,752,719,727,696,723,735,701,711,722,734,781
+ "50021","Rutland, VT",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",3960,3926,3762,3763,3832,3891,3760,3763,3578,3502,3274,3300,3460,3574,3639,3676,3732
+ "50021","Rutland, VT",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",2053,2150,2193,2193,2191,2204,2176,2055,2006,2009,2085,2117,2097,2175,2212,2170,2138
+ "50021","Rutland, VT",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",4835,5012,4892,4915,4916,4856,4825,4931,5053,5174,4974,4963,4873,4820,4722,4571,4344
+ "50021","Rutland, VT",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",374,394,388,379,379,375,351,329,330,344,309,300,294,291,292,289,279
+ "50021","Rutland, VT",1,CAEMP25N,2002,"...","   Military","Number of jobs",450,444,448,431,402,394,394,403,403,416,415,418,415,420,404,382,362
+ "50021","Rutland, VT",1,CAEMP25N,2010,"...","   State and local","Number of jobs",4011,4174,4056,4105,4135,4087,4080,4199,4320,4414,4250,4245,4164,4109,4026,3900,3703
+ "50021","Rutland, VT",1,CAEMP25N,2011,"...","    State government","Number of jobs",1017,1013,993,1032,1062,1013,1045,1146,1132,1135,1161,1175,1197,1178,1127,1129,1102
+ "50021","Rutland, VT",1,CAEMP25N,2012,"...","    Local government","Number of jobs",2994,3161,3063,3073,3073,3074,3035,3053,3188,3279,3089,3070,2967,2931,2899,2771,2601
+ "50023","Washington, VT",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",43806,44141,44263,44936,45322,45777,45917,46227,45424,45283,45296,45857,46188,46095,46865,46855,47392
+ "50023","Washington, VT",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",34867,34916,34845,35186,35495,35711,35383,35665,34737,34686,34804,35457,35653,35537,35982,36058,36383
+ "50023","Washington, VT",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",8939,9225,9418,9750,9827,10066,10534,10562,10687,10597,10492,10400,10535,10558,10883,10797,11009
+ "50023","Washington, VT",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",425,445,422,401,388,375,407,430,443,468,491,507,513,513,524,524,524
+ "50023","Washington, VT",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",8514,8780,8996,9349,9439,9691,10127,10132,10244,10129,10001,9893,10022,10045,10359,10273,10485
+ "50023","Washington, VT",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",557,576,565,527,517,499,534,561,563,581,609,624,647,647,658,649,649
+ "50023","Washington, VT",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",43249,43565,43698,44409,44805,45278,45383,45666,44861,44702,44687,45233,45541,45448,46207,46206,46743
+ "50023","Washington, VT",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",34937,35119,35130,35905,36262,36941,36959,37057,36584,36486,36520,36984,37191,37710,38542,38156,38464
+ "50023","Washington, VT",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",214,239,197,210,226,225,233,265,241,232,247,257,274,246,248,242,246
+ "50023","Washington, VT",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",191,160,166,163,166,172,188,124,111,123,132,163,145,124,119,109,104
+ "50023","Washington, VT",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),93,99,101,117,121,123,134,129,145,136,149,166,176,216,238,305
+ "50023","Washington, VT",1,CAEMP25N,400,"23","   Construction","Number of jobs",2496,2501,2677,2875,2915,3023,3002,2918,2842,2585,2601,2631,2580,2648,2682,2691,2710
+ "50023","Washington, VT",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",3901,3394,3165,3231,3126,2893,2899,2858,2807,2808,2735,2792,2728,2724,2740,2677,2625
+ "50023","Washington, VT",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",1178,1193,1125,1143,1183,1323,1418,1410,1412,1377,1438,1087,1075,1270,1307,1218,1149
+ "50023","Washington, VT",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",5023,4982,4999,5042,5088,5018,5047,5086,4976,4871,4860,4681,4707,4764,4900,4852,4761
+ "50023","Washington, VT",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),763,686,671,794,806,793,803,819,825,810,801,761,686,618,597,638
+ "50023","Washington, VT",1,CAEMP25N,900,"51","   Information","Number of jobs",895,848,848,790,798,775,755,791,785,752,700,678,643,584,535,539,516
+ "50023","Washington, VT",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",2894,2832,2855,2689,2666,2771,2773,2899,2989,2943,2974,3005,3006,3059,3101,3135,3253
+ "50023","Washington, VT",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",986,981,975,1053,1105,1096,1164,1158,1180,1224,1263,1214,1277,1268,1305,1352,1377
+ "50023","Washington, VT",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",2432,2540,2562,2695,2662,2800,2854,2732,2608,2637,2687,2735,2793,2791,2839,2802,2783
+ "50023","Washington, VT",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",66,49,(D),(D),(D),(D),(D),68,64,82,250,678,630,628,695,534,512
+ "50023","Washington, VT",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1203,1315,(D),(D),(D),(D),(D),1570,1560,1535,1371,1458,1483,1588,1589,1519,1500
+ "50023","Washington, VT",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",2140,2334,2307,2377,2411,2493,2376,2316,2311,2499,2449,2442,2537,2501,2625,2679,2752
+ "50023","Washington, VT",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",4384,4667,4900,5141,5200,5368,5484,5494,5529,5508,5448,5608,5616,5612,5871,5920,6131
+ "50023","Washington, VT",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",912,1028,1046,1034,1063,1051,1030,1062,1084,1179,1157,1183,1198,1324,1278,1246,1270
+ "50023","Washington, VT",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",2725,2757,2737,2763,2870,3066,2852,2906,2713,2794,2907,2974,3161,3251,3315,3318,3379
+ "50023","Washington, VT",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",2416,2443,2411,2573,2476,2536,2505,2463,2424,2367,2355,2448,2411,2466,2559,2488,2453
+ "50023","Washington, VT",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",8312,8446,8568,8504,8543,8337,8424,8609,8277,8216,8167,8249,8350,7738,7665,8050,8279
+ "50023","Washington, VT",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",313,316,312,294,286,301,306,304,300,308,275,266,258,252,247,240,237
+ "50023","Washington, VT",1,CAEMP25N,2002,"...","   Military","Number of jobs",459,456,461,449,421,413,411,431,438,449,442,440,435,443,432,412,399
+ "50023","Washington, VT",1,CAEMP25N,2010,"...","   State and local","Number of jobs",7540,7674,7795,7761,7836,7623,7707,7874,7539,7459,7450,7543,7657,7043,6986,7398,7643
+ "50023","Washington, VT",1,CAEMP25N,2011,"...","    State government","Number of jobs",4886,4931,4995,5046,5086,4870,4952,5130,4821,4735,4727,4812,4913,4320,4303,4669,4976
+ "50023","Washington, VT",1,CAEMP25N,2012,"...","    Local government","Number of jobs",2654,2743,2800,2715,2750,2753,2755,2744,2718,2724,2723,2731,2744,2723,2683,2729,2667
+ "50025","Windham, VT",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",32646,33194,32601,33132,33228,32934,33013,32837,32085,32309,32175,32245,32323,32850,33139,32910,32884
+ "50025","Windham, VT",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",25273,25615,25035,25206,25016,24665,24532,24244,23451,23907,23848,23980,23977,24254,24416,24284,24115
+ "50025","Windham, VT",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",7373,7579,7566,7926,8212,8269,8481,8593,8634,8402,8327,8265,8346,8596,8723,8626,8769
+ "50025","Windham, VT",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",377,394,375,358,348,339,371,378,380,391,401,400,405,405,411,410,410
+ "50025","Windham, VT",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",6996,7185,7191,7568,7864,7930,8110,8215,8254,8011,7926,7865,7941,8191,8312,8216,8359
+ "50025","Windham, VT",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",561,584,556,497,472,442,461,481,485,499,524,534,559,559,565,554,554
+ "50025","Windham, VT",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",32085,32610,32045,32635,32756,32492,32552,32356,31600,31810,31651,31711,31764,32291,32574,32356,32330
+ "50025","Windham, VT",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",29082,29479,28894,29319,29506,29244,29318,29137,28340,28496,28344,28360,28446,29035,29355,29152,29174
+ "50025","Windham, VT",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50025","Windham, VT",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "50025","Windham, VT",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),514,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),189,123
+ "50025","Windham, VT",1,CAEMP25N,400,"23","   Construction","Number of jobs",2218,2170,2221,2439,2600,2637,2699,2569,2352,2385,2254,2237,2289,2322,2393,2430,2364
+ "50025","Windham, VT",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",3047,3033,2749,2716,2722,2651,2597,2592,2388,2321,2385,2400,2379,2456,2460,2574,2682
+ "50025","Windham, VT",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",1746,1834,1842,1848,1644,1644,1502,1334,1283,1268,1334,1251,1222,1303,1318,1181,1171
+ "50025","Windham, VT",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",3683,3637,3486,3501,3598,3489,3461,3370,3148,3055,3010,3001,3014,3049,3072,3108,3090
+ "50025","Windham, VT",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),846,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),611,618
+ "50025","Windham, VT",1,CAEMP25N,900,"51","   Information","Number of jobs",516,501,501,475,473,440,448,443,455,447,403,397,375,367,358,336,307
+ "50025","Windham, VT",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",869,845,853,851,844,842,877,863,883,845,899,859,779,747,761,761,768
+ "50025","Windham, VT",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",888,881,930,967,1066,1122,1165,1165,1125,1196,1207,1182,1213,1217,1197,1164,1192
+ "50025","Windham, VT",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),1609,1584,(D),(D),(D),(D),(D),1561
+ "50025","Windham, VT",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),42
+ "50025","Windham, VT",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1261,1364,1303,1407,1275,1305,1336,1342,1333,(D),(D),1258,1320,1413,1423,1483,1474
+ "50025","Windham, VT",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",2413,2541,2428,2530,2628,2690,2631,2669,2636,2725,2691,2668,2634,2640,2619,2720,2738
+ "50025","Windham, VT",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",3013,3097,3284,3350,3439,3410,3510,3584,3696,3799,3792,3936,4030,4197,4297,4219,4214
+ "50025","Windham, VT",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",818,895,879,929,948,929,957,975,983,1007,999,1035,1061,1166,1001,1028,1077
+ "50025","Windham, VT",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",3656,3686,3671,3531,3460,3341,3261,3433,3382,3404,3274,3249,3365,3447,3771,3684,3690
+ "50025","Windham, VT",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1600,1648,1642,1662,1692,1687,1712,1633,1602,1548,1612,1656,1621,1614,1675,1642,1618
+ "50025","Windham, VT",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",3003,3131,3151,3316,3250,3248,3234,3219,3260,3314,3307,3351,3318,3256,3219,3204,3156
+ "50025","Windham, VT",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",183,185,185,180,180,185,174,174,176,194,154,145,144,148,139,139,142
+ "50025","Windham, VT",1,CAEMP25N,2002,"...","   Military","Number of jobs",316,312,316,304,283,279,281,288,291,302,300,303,302,307,294,281,264
+ "50025","Windham, VT",1,CAEMP25N,2010,"...","   State and local","Number of jobs",2504,2634,2650,2832,2787,2784,2779,2757,2793,2818,2853,2903,2872,2801,2786,2784,2750
+ "50025","Windham, VT",1,CAEMP25N,2011,"...","    State government","Number of jobs",191,178,178,282,284,326,333,327,325,323,330,332,331,292,294,300,294
+ "50025","Windham, VT",1,CAEMP25N,2012,"...","    Local government","Number of jobs",2313,2456,2472,2550,2503,2458,2446,2430,2468,2495,2523,2571,2541,2509,2492,2484,2456
+ "50027","Windsor, VT",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",34368,34456,35007,35731,36225,36574,37061,36891,35965,35443,35398,35591,35767,35979,35943,36136,36453
+ "50027","Windsor, VT",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",25125,25023,25329,25695,25959,26143,26165,26044,25086,24802,24826,24956,24984,25311,25246,25459,25586
+ "50027","Windsor, VT",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",9243,9433,9678,10036,10266,10431,10896,10847,10879,10641,10572,10635,10783,10668,10697,10677,10867
+ "50027","Windsor, VT",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",663,690,671,647,640,627,693,702,697,713,723,725,730,731,733,735,733
+ "50027","Windsor, VT",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",8580,8743,9007,9389,9626,9804,10203,10145,10182,9928,9849,9910,10053,9937,9964,9942,10134
+ "50027","Windsor, VT",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",861,908,903,847,840,817,883,899,879,885,903,907,938,939,941,929,927
+ "50027","Windsor, VT",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",33507,33548,34104,34884,35385,35757,36178,35992,35086,34558,34495,34684,34829,35040,35002,35207,35526
+ "50027","Windsor, VT",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",28308,28337,28869,29683,30148,30379,30824,30652,29673,29099,29129,29321,29511,29721,29696,29771,30159
+ "50027","Windsor, VT",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),396,341,357,374,362,(D),(D),(D),332,328,345,329,345,328,317,312
+ "50027","Windsor, VT",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",144,134,118,76,73,76,(D),(D),(D),78,77,97,119,121,147,143,164
+ "50027","Windsor, VT",1,CAEMP25N,300,"22","   Utilities","Number of jobs",88,89,91,84,85,80,77,78,76,75,77,74,77,107,123,128,128
+ "50027","Windsor, VT",1,CAEMP25N,400,"23","   Construction","Number of jobs",2985,2987,3149,3413,3614,3694,3531,3337,3084,2918,2891,2922,2814,2801,2771,2881,2901
+ "50027","Windsor, VT",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",2993,2585,2477,2540,2521,2496,2566,2553,2185,2142,2156,2286,2343,2354,2335,2223,2272
+ "50027","Windsor, VT",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",650,629,830,866,925,945,914,876,789,810,921,867,883,988,962,877,924
+ "50027","Windsor, VT",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",3861,3886,3674,3674,3627,3662,3571,3398,3302,3200,3151,3163,3177,3232,3318,3321,3271
+ "50027","Windsor, VT",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",718,721,727,800,903,915,906,880,894,879,806,800,758,704,656,645,637
+ "50027","Windsor, VT",1,CAEMP25N,900,"51","   Information","Number of jobs",825,801,825,764,764,755,731,705,669,670,669,669,711,747,713,702,687
+ "50027","Windsor, VT",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",717,705,759,818,789,784,843,852,910,890,942,1003,996,917,1020,1015,979
+ "50027","Windsor, VT",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",1014,1082,1172,1234,1313,1298,1347,1445,1411,1491,1491,1393,1424,1429,1422,1439,1475
+ "50027","Windsor, VT",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",2260,2290,2317,2570,2604,2668,2749,2824,2895,2796,2508,2504,2599,2516,2521,2475,2526
+ "50027","Windsor, VT",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",8,(D),(D),(D),(D),(D),(D),(D),19,28,96,86,74,80,109,154,154
+ "50027","Windsor, VT",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),1534,1480,1500,1611,1606,1622,1472,1510,1490
+ "50027","Windsor, VT",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",627,703,719,731,737,778,797,814,823,875,861,853,877,925,917,933,935
+ "50027","Windsor, VT",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",3372,3543,3745,3589,3607,3672,3941,4077,4009,3826,4053,4081,4078,4064,4077,4184,4252
+ "50027","Windsor, VT",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",916,933,972,1002,1053,1087,1105,1197,1230,1191,1154,1188,1189,1218,1193,1258,1320
+ "50027","Windsor, VT",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",3441,3363,3399,3454,3530,3376,3426,3362,3244,3354,3355,3230,3303,3367,3373,3372,3548
+ "50027","Windsor, VT",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",2127,2208,2240,2291,2262,2283,2347,2260,2174,2064,2093,2149,2154,2184,2239,2194,2184
+ "50027","Windsor, VT",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",5199,5211,5235,5201,5237,5378,5354,5340,5413,5459,5366,5363,5318,5319,5306,5436,5367
+ "50027","Windsor, VT",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",1368,1363,1322,1338,1333,1332,1331,1353,1411,1427,1390,1366,1333,1383,1443,1562,1522
+ "50027","Windsor, VT",1,CAEMP25N,2002,"...","   Military","Number of jobs",424,420,424,409,380,374,376,383,385,398,398,400,402,407,394,375,355
+ "50027","Windsor, VT",1,CAEMP25N,2010,"...","   State and local","Number of jobs",3407,3428,3489,3454,3524,3672,3647,3604,3617,3634,3578,3597,3583,3529,3469,3499,3490
+ "50027","Windsor, VT",1,CAEMP25N,2011,"...","    State government","Number of jobs",662,640,644,648,651,787,797,717,699,678,680,688,696,667,667,660,653
+ "50027","Windsor, VT",1,CAEMP25N,2012,"...","    Local government","Number of jobs",2745,2788,2845,2806,2873,2885,2850,2887,2918,2956,2898,2909,2887,2862,2802,2839,2837
+"Note: See the included footnote file."
+"CAEMP25N: Total Full-Time and Part-Time Employment by NAICS Industry 1/"
+"Last updated: November 15, 2018-- new statistics for 2017; revised statistics for 2001-2016. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

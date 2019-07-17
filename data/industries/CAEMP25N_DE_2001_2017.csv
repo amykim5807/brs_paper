@@ -1,0 +1,137 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+ "10000","Delaware",2,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",502735,500640,504099,518103,528674,537109,544949,544911,525634,522400,530400,534261,544797,556560,568893,578770,584066
+ "10000","Delaware",2,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",435790,431374,431320,440381,445858,450363,451163,450700,428633,426000,429319,433059,441311,450681,459075,464150,466853
+ "10000","Delaware",2,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",66945,69266,72779,77722,82816,86746,93786,94211,97001,96400,101081,101202,103486,105879,109818,114620,117213
+ "10000","Delaware",2,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",2396,2184,2011,1944,1915,1854,2011,1977,1935,1988,1957,1942,1965,2007,2023,2021,2020
+ "10000","Delaware",2,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",64549,67082,70768,75778,80901,84892,91775,92234,95066,94412,99124,99260,101521,103872,107795,112599,115193
+ "10000","Delaware",2,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",4041,3809,3379,3254,3164,3138,3212,3046,2972,3133,3101,3755,3637,3804,3763,4121,4042
+ "10000","Delaware",2,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",498694,496831,500720,514849,525510,533971,541737,541865,522662,519267,527299,530506,541160,552756,565130,574649,580024
+ "10000","Delaware",2,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",431810,429349,433060,447409,457207,464402,471247,470181,451040,446330,454505,456717,467015,478640,491927,500837,505822
+ "10000","Delaware",2,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),935,794,834,841,826,863,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "10000","Delaware",2,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),222,240,216,(D),185,225,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "10000","Delaware",2,CAEMP25N,300,"22","   Utilities","Number of jobs",2276,2248,2245,2249,2241,2247,2210,2299,2204,2174,2017,2076,2153,2209,2250,2309,2443
+ "10000","Delaware",2,CAEMP25N,400,"23","   Construction","Number of jobs",32291,32270,33224,36224,(D),40378,38004,34724,29416,28294,27917,27301,28601,29440,29947,30647,31670
+ "10000","Delaware",2,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",40171,37820,36406,35560,34065,34187,34388,32764,29073,27178,26854,26997,26717,27067,28539,27285,27422
+ "10000","Delaware",2,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",14333,14502,15079,15830,16051,16322,16011,15710,14432,13612,13800,13785,13614,14075,13972,13238,12185
+ "10000","Delaware",2,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",58325,59077,60240,60955,62466,62867,63747,61810,58754,58383,59455,59331,60197,61147,61989,62720,62452
+ "10000","Delaware",2,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",12268,12184,12256,13359,13169,13783,14150,13701,12730,12354,12717,13117,14537,15739,18089,19440,19232
+ "10000","Delaware",2,CAEMP25N,900,"51","   Information","Number of jobs",8854,7889,7753,7382,7698,7756,7979,8138,7567,7142,7014,6832,6707,6490,6171,6189,6120
+ "10000","Delaware",2,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",48805,48817,46902,46418,48546,47314,48601,50329,51973,50274,52679,52902,54571,54793,57268,59170,60949
+ "10000","Delaware",2,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",16883,17177,18234,20120,22158,23531,25260,25251,24785,25166,26247,25661,26033,26771,27517,28319,28932
+ "10000","Delaware",2,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",34870,33080,34012,35930,34138,34045,35486,36043,34229,33988,35973,37467,38905,39478,39439,36639,36927
+ "10000","Delaware",2,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",12515,12725,12064,13174,13163,12792,12062,11839,11030,10517,9137,8676,7205,6830,6376,10998,10742
+ "10000","Delaware",2,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",29814,26858,26649,27785,28329,29497,30568,29625,27711,27753,28250,28153,30175,31888,32746,33440,34215
+ "10000","Delaware",2,CAEMP25N,1500,"61","   Educational services","Number of jobs",7263,7786,7888,8054,8632,9195,9129,9181,9198,9207,9019,9056,9484,9900,9798,9765,9806
+ "10000","Delaware",2,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",46749,47907,49663,51122,52895,54519,56937,60988,61978,62873,64334,65710,67715,69814,72811,74496,75596
+ "10000","Delaware",2,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",11036,12028,12399,12721,13016,13071,12663,12928,12733,13523,13978,13902,14748,15444,15256,15167,15447
+ "10000","Delaware",2,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",30402,30874,31497,33030,33607,34060,34591,35210,34942,35696,36549,37225,38290,39415,41018,42212,42678
+ "10000","Delaware",2,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",23790,24950,25515,26446,27411,27827,28373,28450,27054,26900,27211,27052,25745,26333,26909,26978,27234
+ "10000","Delaware",2,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",66884,67482,67660,67440,68303,69569,70490,71684,71622,72937,72794,73789,74145,74116,73203,73812,74202
+ "10000","Delaware",2,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",5441,5497,5348,5408,5416,5385,5533,5689,5791,6156,5840,5629,5551,5536,5665,5668,5754
+ "10000","Delaware",2,CAEMP25N,2002,"...","   Military","Number of jobs",9005,9262,9396,9033,8422,8032,8275,8378,8464,8674,8765,8974,9141,8877,8574,8603,8566
+ "10000","Delaware",2,CAEMP25N,2010,"...","   State and local","Number of jobs",52438,52723,52916,52999,54465,56152,56682,57617,57367,58107,58189,59186,59453,59703,58964,59541,59882
+ "10000","Delaware",2,CAEMP25N,2011,"...","    State government","Number of jobs",30114,30567,30394,29991,30597,32439,32669,33173,32566,32803,32494,33272,33366,33358,32315,32632,32750
+ "10000","Delaware",2,CAEMP25N,2012,"...","    Local government","Number of jobs",22324,22156,22522,23008,23868,23713,24013,24444,24801,25304,25695,25914,26087,26345,26649,26909,27132
+ "10001","Kent, DE",2,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",72004,73663,75124,78240,81729,83361,84923,84602,81628,81669,83855,84764,86586,87649,88491,90458,91545
+ "10001","Kent, DE",2,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",62171,63444,64272,66623,69119,69876,70329,70196,66966,67362,68706,69499,71105,71890,72133,73172,73878
+ "10001","Kent, DE",2,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",9833,10219,10852,11617,12610,13485,14594,14406,14662,14307,15149,15265,15481,15759,16358,17286,17667
+ "10001","Kent, DE",2,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",757,689,641,628,626,614,675,679,681,716,722,735,743,758,763,762,761
+ "10001","Kent, DE",2,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",9076,9530,10211,10989,11984,12871,13919,13727,13981,13591,14427,14530,14738,15001,15595,16524,16906
+ "10001","Kent, DE",2,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1270,1196,1040,992,973,975,1021,976,956,1021,1040,1263,1234,1286,1285,1323,1321
+ "10001","Kent, DE",2,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",70734,72467,74084,77248,80756,82386,83902,83626,80672,80648,82815,83501,85352,86363,87206,89135,90224
+ "10001","Kent, DE",2,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",49200,50880,52400,55753,58842,60135,61272,60693,57812,57246,59250,59742,61536,62773,64053,65931,67110
+ "10001","Kent, DE",2,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "10001","Kent, DE",2,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "10001","Kent, DE",2,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),124,150,173,183,183,(D),220,(D),(D),(D),(D),(D),(D),(D),312,353
+ "10001","Kent, DE",2,CAEMP25N,400,"23","   Construction","Number of jobs",4117,(D),(D),(D),(D),5967,5836,4800,4020,3771,3668,3605,4054,4297,4224,4304,4314
+ "10001","Kent, DE",2,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",5805,(D),4588,4455,3928,3714,(D),3684,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "10001","Kent, DE",2,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),1599,1815,1846,1874,2046,(D),1913,(D),(D),(D),(D),(D),(D),(D),1372,1350
+ "10001","Kent, DE",2,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",8200,8486,9333,10199,11117,11286,11536,11122,10372,10162,10400,10347,10323,10526,10500,10726,11175
+ "10001","Kent, DE",2,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),1750,1801,2756,2855,3063,(D),2673,(D),(D),(D),(D),(D),(D),(D),3108,3135
+ "10001","Kent, DE",2,CAEMP25N,900,"51","   Information","Number of jobs",759,710,772,784,814,811,864,901,796,674,636,611,651,610,573,598,580
+ "10001","Kent, DE",2,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),3019,2991,3090,3269,3176,2888,3121,3213,2932,3150,3273,3253,3205,3608,4014,4093
+ "10001","Kent, DE",2,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),1799,1915,2163,2493,2713,2997,3007,3014,2914,3142,3051,3062,3185,3212,3308,3373
+ "10001","Kent, DE",2,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),2620,2476,2485,2465,2674,2882,2961,3074,3231,(D)
+ "10001","Kent, DE",2,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),208,242,234,273,283,315,340,420,483,(D)
+ "10001","Kent, DE",2,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",3163,3299,(D),2562,2669,2952,3209,3577,3171,3486,3183,3116,3184,3231,3165,3320,3728
+ "10001","Kent, DE",2,CAEMP25N,1500,"61","   Educational services","Number of jobs",777,831,771,693,695,754,736,717,731,844,820,827,899,957,970,961,903
+ "10001","Kent, DE",2,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",6041,6261,6540,6878,7707,7952,8584,8908,8969,8927,9103,9303,9726,9812,10405,10782,10666
+ "10001","Kent, DE",2,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),3117,(D),3337,(D),2837,2920,2788,3252,3514,3555,3464,3652,3446,3498,3442
+ "10001","Kent, DE",2,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),4532,(D),4840,(D),5005,5281,5241,5310,5399,5542,5647,5778,5855,5919,5994
+ "10001","Kent, DE",2,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",3486,3730,3924,4205,4444,4433,4684,4776,4584,4467,4489,4409,4354,4357,4475,4474,4402
+ "10001","Kent, DE",2,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",21534,21587,21684,21495,21914,22251,22630,22933,22860,23402,23565,23759,23816,23590,23153,23204,23114
+ "10001","Kent, DE",2,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",1699,1739,1654,1617,1752,1804,1798,1681,1742,1971,1994,1894,1801,1728,1741,1725,1680
+ "10001","Kent, DE",2,CAEMP25N,2002,"...","   Military","Number of jobs",4528,4723,4718,4713,4372,4080,4171,4262,4299,4422,4408,4462,4541,4378,4165,4195,4266
+ "10001","Kent, DE",2,CAEMP25N,2010,"...","   State and local","Number of jobs",15307,15125,15312,15165,15790,16367,16661,16990,16819,17009,17163,17403,17474,17484,17247,17284,17168
+ "10001","Kent, DE",2,CAEMP25N,2011,"...","    State government","Number of jobs",10718,10686,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "10001","Kent, DE",2,CAEMP25N,2012,"...","    Local government","Number of jobs",4589,4439,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "10003","New Castle, DE",2,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",346542,340579,340934,347141,350651,354624,358625,359443,345682,341825,348576,350310,356946,363923,372113,376087,377938
+ "10003","New Castle, DE",2,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",307050,299825,298371,301903,302944,304831,304733,304326,287783,284232,288099,290108,295256,301290,307194,308000,308227
+ "10003","New Castle, DE",2,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",39492,40754,42563,45238,47707,49793,53892,55117,57899,57593,60477,60202,61690,62633,64919,68087,69711
+ "10003","New Castle, DE",2,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",342,320,290,274,266,252,267,267,266,279,280,283,286,293,297,296,296
+ "10003","New Castle, DE",2,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",39150,40434,42273,44964,47441,49541,53625,54850,57633,57314,60197,59919,61404,62340,64622,67791,69415
+ "10003","New Castle, DE",2,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",726,693,605,570,523,476,461,448,438,470,474,601,606,585,601,649,607
+ "10003","New Castle, DE",2,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",345816,339886,340329,346571,350128,354148,358164,358995,345244,341355,348102,349709,356340,363338,371512,375438,377331
+ "10003","New Castle, DE",2,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",308261,301816,302123,308587,312065,315493,319335,319419,305775,301274,308337,309339,315757,322692,331450,334975,336445
+ "10003","New Castle, DE",2,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "10003","New Castle, DE",2,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),247,261,(D)
+ "10003","New Castle, DE",2,CAEMP25N,300,"22","   Utilities","Number of jobs",1864,1779,1740,1723,1687,1683,1610,1679,1595,1561,1421,1486,1566,1610,1606,1618,1707
+ "10003","New Castle, DE",2,CAEMP25N,400,"23","   Construction","Number of jobs",20381,(D),(D),(D),22299,23472,22192,21053,17935,17297,17181,16812,17213,17522,17817,18050,18750
+ "10003","New Castle, DE",2,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",22321,20873,20207,19159,16996,(D),(D),15830,(D),(D),(D),(D),(D),(D),(D),(D),11727
+ "10003","New Castle, DE",2,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",11374,11399,11786,12448,12558,12529,12347,12102,11280,10463,10527,10402,10111,10339,10100,9588,8597
+ "10003","New Castle, DE",2,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",37259,37348,37582,37302,37985,38058,37749,36428,34430,34155,34635,34827,35266,35801,36352,36792,36299
+ "10003","New Castle, DE",2,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",8590,8358,8308,8366,8168,8396,8655,8592,8006,7850,8142,8537,9736,10924,12951,13906,13605
+ "10003","New Castle, DE",2,CAEMP25N,900,"51","   Information","Number of jobs",7446,6547,6352,5989,6197,6228,6382,6483,6055,5700,5575,5442,5244,5037,4784,4774,4714
+ "10003","New Castle, DE",2,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",42301,42301,40144,39592,42714,41517,42520,43617,44748,43123,45399,45470,47359,47728,49571,50742,52329
+ "10003","New Castle, DE",2,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",10878,11024,11520,12505,13372,14059,15156,15130,14980,15278,15869,15411,15677,16229,16606,17097,17485
+ "10003","New Castle, DE",2,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",30526,28522,28926,30244,28038,27844,29088,29762,28178,27867,29862,30916,31855,32110,31731,28886,28932
+ "10003","New Castle, DE",2,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",11683,11773,11655,12858,12777,12374,11683,11351,10578,10079,8626,8143,6624,6216,5603,10074,9773
+ "10003","New Castle, DE",2,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",22974,19705,19853,21078,21040,21721,22369,20982,19372,19314,20072,20143,21587,22989,23886,23468,23323
+ "10003","New Castle, DE",2,CAEMP25N,1500,"61","   Educational services","Number of jobs",6071,6499,6602,6832,7349,7835,7794,7816,7800,7759,7599,7584,7859,8193,8068,7946,8022
+ "10003","New Castle, DE",2,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",32971,33486,34698,35340,36019,37013,38630,42045,42732,43358,44253,44936,46569,48216,50028,50735,51478
+ "10003","New Castle, DE",2,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",7467,7680,7619,7586,7821,7944,7876,8123,7907,8211,8256,8011,8955,9219,9264,9095,9235
+ "10003","New Castle, DE",2,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",18195,18063,18644,19179,19677,19960,20358,20431,20024,20379,21318,21583,22101,22361,23297,23722,23702
+ "10003","New Castle, DE",2,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",15577,15912,16051,16516,17078,17343,17569,17641,16689,16602,16805,16656,15397,15780,16012,16094,16284
+ "10003","New Castle, DE",2,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",37555,38070,38206,37984,38063,38655,38829,39576,39469,40081,39765,40370,40583,40646,40062,40463,40886
+ "10003","New Castle, DE",2,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",3214,3216,3165,3274,3124,3027,3179,3459,3484,3529,3297,3203,3237,3287,3366,3368,3474
+ "10003","New Castle, DE",2,CAEMP25N,2002,"...","   Military","Number of jobs",3391,3427,3524,3222,3009,2919,3014,3003,3030,3080,3151,3255,3308,3222,3144,3128,3032
+ "10003","New Castle, DE",2,CAEMP25N,2010,"...","   State and local","Number of jobs",30950,31427,31517,31488,31930,32709,32636,33114,32955,33472,33317,33912,34038,34137,33552,33967,34380
+ "10003","New Castle, DE",2,CAEMP25N,2011,"...","    State government","Number of jobs",17557,18091,17882,17567,17551,18894,18728,19026,18653,18876,18512,19056,19151,19170,18457,18617,18925
+ "10003","New Castle, DE",2,CAEMP25N,2012,"...","    Local government","Number of jobs",13393,13336,13635,13921,14379,13815,13908,14088,14302,14596,14805,14856,14887,14967,15095,15350,15455
+ "10005","Sussex, DE",2,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",84189,86398,88041,92722,96294,99124,101401,100866,98324,98906,97969,99187,101265,104988,108289,112225,114583
+ "10005","Sussex, DE",2,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",66569,68105,68677,71855,73795,75656,76101,76178,73884,74406,72514,73452,74950,77501,79748,82978,84748
+ "10005","Sussex, DE",2,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",17620,18293,19364,20867,22499,23468,25300,24688,24440,24500,25455,25735,26315,27487,28541,29247,29835
+ "10005","Sussex, DE",2,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",1297,1175,1080,1042,1023,988,1069,1031,988,993,955,924,936,956,963,963,963
+ "10005","Sussex, DE",2,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",16323,17118,18284,19825,21476,22480,24231,23657,23452,23507,24500,24811,25379,26531,27578,28284,28872
+ "10005","Sussex, DE",2,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",2045,1920,1734,1692,1668,1687,1730,1622,1578,1642,1587,1891,1797,1933,1877,2149,2114
+ "10005","Sussex, DE",2,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",82144,84478,86307,91030,94626,97437,99671,99244,96746,97264,96382,97296,99468,103055,106412,110076,112469
+ "10005","Sussex, DE",2,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",74349,76653,78537,83069,86300,88774,90640,90069,87453,87810,86918,87636,89722,93175,96424,99931,102267
+ "10005","Sussex, DE",2,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),550,554,653,653,667,690,707,(D),(D)
+ "10005","Sussex, DE",2,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),66,101,76,116,105,239,297,(D),(D)
+ "10005","Sussex, DE",2,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),345,355,353,371,381,(D),400,(D),(D),(D),(D),(D),(D),(D),379,383
+ "10005","Sussex, DE",2,CAEMP25N,400,"23","   Construction","Number of jobs",7793,7726,8473,9616,10614,10939,9976,8871,7461,7226,7068,6884,7334,7621,7906,8293,8606
+ "10005","Sussex, DE",2,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",12045,(D),11611,11946,13141,(D),13515,13250,12440,11900,9804,9784,9621,10133,10095,10234,(D)
+ "10005","Sussex, DE",2,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),1504,1478,1536,1619,1747,(D),1695,(D),(D),(D),(D),(D),(D),(D),2278,2238
+ "10005","Sussex, DE",2,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",12866,13243,13325,13454,13364,13523,14462,14260,13952,14066,14420,14157,14608,14820,15137,15202,14978
+ "10005","Sussex, DE",2,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),2076,2147,2237,2146,2324,(D),2436,(D),(D),(D),(D),(D),(D),(D),2426,2492
+ "10005","Sussex, DE",2,CAEMP25N,900,"51","   Information","Number of jobs",649,632,629,609,687,717,733,754,716,768,803,779,812,843,814,817,826
+ "10005","Sussex, DE",2,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),3497,3767,3736,2563,2621,3193,3591,4012,4219,4130,4159,3959,3860,4089,4414,4527
+ "10005","Sussex, DE",2,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),4354,4799,5452,6293,6759,7107,7114,6791,6974,7236,7199,7294,7357,7699,7914,8074
+ "10005","Sussex, DE",2,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),3661,3575,3636,3646,3877,4168,4407,4634,4522,(D)
+ "10005","Sussex, DE",2,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),280,210,204,238,250,266,274,353,441,(D)
+ "10005","Sussex, DE",2,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",3677,3854,(D),4145,4620,4824,4990,5066,5168,4953,4995,4894,5404,5668,5695,6652,7164
+ "10005","Sussex, DE",2,CAEMP25N,1500,"61","   Educational services","Number of jobs",415,456,515,529,588,606,599,648,667,604,600,645,726,750,760,858,881
+ "10005","Sussex, DE",2,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",7737,8160,8425,8904,9169,9554,9723,10035,10277,10588,10978,11471,11420,11786,12378,12979,13452
+ "10005","Sussex, DE",2,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),1663,(D),1858,(D),1950,1885,2038,2060,2208,2336,2329,2573,2546,2574,2770
+ "10005","Sussex, DE",2,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),8321,(D),9090,(D),9228,9498,9677,10007,9832,10100,10542,11276,11866,12571,12982
+ "10005","Sussex, DE",2,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",4727,5308,5540,5725,5889,6051,6120,6033,5781,5831,5917,5987,5994,6196,6422,6410,6548
+ "10005","Sussex, DE",2,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",7795,7825,7770,7961,8326,8663,9031,9175,9293,9454,9464,9660,9746,9880,9988,10145,10202
+ "10005","Sussex, DE",2,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",528,542,529,517,540,554,556,549,565,656,549,532,513,521,558,575,600
+ "10005","Sussex, DE",2,CAEMP25N,2002,"...","   Military","Number of jobs",1086,1112,1154,1098,1041,1033,1090,1113,1135,1172,1206,1257,1292,1277,1265,1280,1268
+ "10005","Sussex, DE",2,CAEMP25N,2010,"...","   State and local","Number of jobs",6181,6171,6087,6346,6745,7076,7385,7513,7593,7626,7709,7871,7941,8082,8165,8290,8334
+ "10005","Sussex, DE",2,CAEMP25N,2011,"...","    State government","Number of jobs",1839,1790,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "10005","Sussex, DE",2,CAEMP25N,2012,"...","    Local government","Number of jobs",4342,4381,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+"Note: See the included footnote file."
+"CAEMP25N: Total Full-Time and Part-Time Employment by NAICS Industry 1/"
+"Last updated: November 15, 2018-- new statistics for 2017; revised statistics for 2001-2016. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

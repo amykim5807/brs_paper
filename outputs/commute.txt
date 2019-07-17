@@ -1,0 +1,16 @@
+
+
+ Black Rural South 
+24.16739
+
+ Nonsouth Rural 
+21.30814
+
+ South Metro 
+26.49307
+
+ South 
+26.16117
+
+ All 
+26.38194

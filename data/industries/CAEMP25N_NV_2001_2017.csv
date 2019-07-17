@@ -1,0 +1,599 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+ "32000","Nevada",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",1285310,1299543,1353123,1441158,1533724,1604488,1643860,1619014,1512913,1478054,1501839,1519198,1561388,1610463,1665161,1724769,1775729
+ "32000","Nevada",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",1081457,1085051,1122817,1190151,1259506,1316861,1330265,1301090,1185067,1153901,1161009,1179620,1207788,1251274,1292456,1329421,1371359
+ "32000","Nevada",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",203853,214492,230306,251007,274218,287627,313595,317924,327846,324153,340830,339578,353600,359189,372705,395348,404370
+ "32000","Nevada",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",2942,2912,2776,2710,2699,2641,2728,2868,3026,3254,3388,3553,3607,3652,3678,3499,3499
+ "32000","Nevada",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",200911,211580,227530,248297,271519,284986,310867,315056,324820,320899,337442,336025,349993,355537,369027,391849,400871
+ "32000","Nevada",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",5311,4815,5107,4943,4934,4907,4716,4953,5038,5354,5368,5658,5852,5761,5727,5663,6102
+ "32000","Nevada",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",1279999,1294728,1348016,1436215,1528790,1599581,1639144,1614061,1507875,1472700,1496471,1513540,1555536,1604702,1659434,1719106,1769627
+ "32000","Nevada",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",1144477,1153110,1201788,1285444,1372868,1437683,1470255,1440612,1336618,1303611,1329932,1348219,1388877,1436661,1490758,1548030,1594365
+ "32000","Nevada",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",1413,1611,1418,1518,1458,1476,1627,1659,1629,1585,1686,1697,1675,1759,1667,1746,1702
+ "32000","Nevada",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",12060,11154,11626,12275,12993,13966,15385,16489,15546,17025,18018,22129,21400,20078,19966,19756,20673
+ "32000","Nevada",8,CAEMP25N,300,"22","   Utilities","Number of jobs",4600,5131,5171,5258,4789,4779,4731,4852,4768,4542,4346,4227,4175,4098,4272,4602,4961
+ "32000","Nevada",8,CAEMP25N,400,"23","   Construction","Number of jobs",107342,108545,117943,136969,155711,163998,154566,135790,98674,75642,68320,67968,72990,79684,86479,93398,101219
+ "32000","Nevada",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",46319,45959,46768,49137,51579,54149,54359,52050,44452,41664,42571,43632,45766,46745,47749,49644,54344
+ "32000","Nevada",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",38151,38336,37818,39423,41844,43774,44251,43589,39711,37488,37627,37409,38021,41723,42714,39834,41214
+ "32000","Nevada",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",136163,138589,144622,150752,158252,164613,168248,165464,154830,152353,155180,158421,163228,168986,173485,174855,176676
+ "32000","Nevada",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",42493,42164,42756,45859,49485,53006,57207,57329,53951,53215,56069,58934,59986,64057,72817,87722,92139
+ "32000","Nevada",8,CAEMP25N,900,"51","   Information","Number of jobs",22051,19854,19286,18920,19343,20053,20977,20052,18082,17692,17615,17890,18460,19512,19042,20409,20367
+ "32000","Nevada",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",64585,64604,67175,68924,72702,74084,80318,83569,89737,83023,87206,84914,87827,81913,85011,88354,92442
+ "32000","Nevada",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",58410,62604,69980,81107,92050,99027,103815,100676,95680,94364,95627,92628,93725,95933,98669,100942,103487
+ "32000","Nevada",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",63484,65448,69652,76697,79689,84472,89239,87958,82722,81695,81850,82832,85512,88524,92439,94350,96868
+ "32000","Nevada",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",9297,9327,9307,11748,14468,16758,18970,22176,21447,21738,21401,23005,23674,24709,27038,30911,32486
+ "32000","Nevada",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",81616,80942,85772,95304,102742,109833,109132,101940,92606,95137,100631,102559,106779,111394,118008,125757,127911
+ "32000","Nevada",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",6041,6868,7539,8350,9721,10620,11801,12574,13174,13960,13991,14160,14795,16050,16384,16837,17259
+ "32000","Nevada",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",75309,79083,83178,87198,91492,94973,100387,104826,106853,109665,113017,115587,118880,123386,129051,135539,140702
+ "32000","Nevada",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",41382,42449,44159,45831,47433,48610,50770,50006,47122,46697,48739,49521,50378,53066,51582,54071,55622
+ "32000","Nevada",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",283200,277023,282522,291651,305808,314950,316622,312076,289293,290878,296930,298004,305092,316994,322294,325186,328629
+ "32000","Nevada",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",50561,53419,55096,58523,61309,64542,67850,67537,66341,65248,69108,72702,76514,78050,82091,84117,85664
+ "32000","Nevada",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",135522,141618,146228,150771,155922,161898,168889,173449,171257,169089,166539,165321,166659,168041,168676,171076,175262
+ "32000","Nevada",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",14709,15900,16836,16781,17002,17058,17100,17499,17897,18743,17744,18243,18387,18113,18564,18899,19208
+ "32000","Nevada",8,CAEMP25N,2002,"...","   Military","Number of jobs",12002,12772,13527,13832,13859,14053,14672,15686,15940,17002,17848,18300,18608,18484,17920,17920,18220
+ "32000","Nevada",8,CAEMP25N,2010,"...","   State and local","Number of jobs",108811,112946,115865,120158,125061,130787,137117,140264,137420,133344,130947,128778,129664,131444,132192,134257,137834
+ "32000","Nevada",8,CAEMP25N,2011,"...","    State government","Number of jobs",27548,28698,29083,30560,31569,32171,33324,35318,36012,35250,35185,34387,34761,35096,35199,35392,36512
+ "32000","Nevada",8,CAEMP25N,2012,"...","    Local government","Number of jobs",81263,84248,86782,89598,93492,98616,103793,104946,101408,98094,95762,94391,94903,96348,96993,98865,101322
+ "32001","Churchill, NV",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",12219,12128,12309,12645,13064,13132,13166,13058,12405,11946,11793,11706,11793,11684,11756,11727,11984
+ "32001","Churchill, NV",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",9675,9621,9757,9915,10286,10313,10168,10172,9469,9151,8972,8836,8859,8755,8742,8790,8994
+ "32001","Churchill, NV",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",2544,2507,2552,2730,2778,2819,2998,2886,2936,2795,2821,2870,2934,2929,3014,2937,2990
+ "32001","Churchill, NV",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",529,517,497,486,488,477,495,513,538,575,594,617,628,635,637,604,604
+ "32001","Churchill, NV",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",2015,1990,2055,2244,2290,2342,2503,2373,2398,2220,2227,2253,2306,2294,2377,2333,2386
+ "32001","Churchill, NV",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",785,744,769,742,738,726,708,727,738,777,779,810,834,828,825,803,843
+ "32001","Churchill, NV",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",11434,11384,11540,11903,12326,12406,12458,12331,11667,11169,11014,10896,10959,10856,10931,10924,11141
+ "32001","Churchill, NV",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",8304,8211,8318,8653,9188,9399,9461,9305,8723,8211,8162,8186,8304,8257,8353,8389,8620
+ "32001","Churchill, NV",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",72,94,80,94,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32001","Churchill, NV",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",61,(D),(D),59,56,(D),(D),(D),(D),(D),(D),(D),113,117,126,93,94
+ "32001","Churchill, NV",8,CAEMP25N,300,"22","   Utilities","Number of jobs",94,97,107,98,85,91,102,113,115,115,93,87,96,94,104,97,86
+ "32001","Churchill, NV",8,CAEMP25N,400,"23","   Construction","Number of jobs",718,765,815,977,1080,1046,917,1040,843,635,620,682,686,636,633,636,769
+ "32001","Churchill, NV",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",612,549,521,540,586,573,533,509,401,332,359,424,474,528,519,537,537
+ "32001","Churchill, NV",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",230,218,229,217,227,223,234,220,206,202,214,200,208,236,230,189,189
+ "32001","Churchill, NV",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1354,1313,1304,1389,1449,1543,1500,1327,1216,1138,1132,1127,1147,1222,1273,1230,1229
+ "32001","Churchill, NV",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",318,339,360,463,504,519,780,772,754,823,802,836,846,756,709,715,782
+ "32001","Churchill, NV",8,CAEMP25N,900,"51","   Information","Number of jobs",74,165,164,151,146,141,136,127,108,128,116,129,126,107,94,108,101
+ "32001","Churchill, NV",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",292,287,328,304,342,336,394,375,403,343,381,368,366,319,341,331,340
+ "32001","Churchill, NV",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",373,342,374,448,508,546,549,514,510,468,488,476,453,484,516,502,518
+ "32001","Churchill, NV",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),363,363,(D),(D),(D),433,420,442,389,384,348,355,(D),(D),394,412
+ "32001","Churchill, NV",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),4,3,(D),(D),(D),6,12,25,5,6,7,(D),(D),(D),(D),(D)
+ "32001","Churchill, NV",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1110,1108,1094,939,899,860,658,689,629,638,614,612,562,501,466,494,513
+ "32001","Churchill, NV",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),79,(D),(D),(D),100,85,75,77,82,60,71,88,92
+ "32001","Churchill, NV",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),975,(D),(D),(D),1076,1047,979,917,948,944,990,998,974
+ "32001","Churchill, NV",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",495,491,472,444,457,508,533,515,475,450,442,458,467,474,481,486,498
+ "32001","Churchill, NV",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",628,674,688,711,742,761,758,734,714,705,693,668,667,683,692,725,729
+ "32001","Churchill, NV",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",539,532,543,569,548,575,612,604,570,578,560,577,609,608,601,613,604
+ "32001","Churchill, NV",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",3130,3173,3222,3250,3138,3007,2997,3026,2944,2958,2852,2710,2655,2599,2578,2535,2521
+ "32001","Churchill, NV",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",667,678,668,640,599,595,583,589,599,617,622,609,592,587,603,600,594
+ "32001","Churchill, NV",8,CAEMP25N,2002,"...","   Military","Number of jobs",1053,1074,1101,1129,1063,960,942,986,899,921,905,808,770,716,697,672,635
+ "32001","Churchill, NV",8,CAEMP25N,2010,"...","   State and local","Number of jobs",1410,1421,1453,1481,1476,1452,1472,1451,1446,1420,1325,1293,1293,1296,1278,1263,1292
+ "32001","Churchill, NV",8,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),116,111,113,122,120,120,118,123,122,127,134,130,131
+ "32001","Churchill, NV",8,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),1360,1341,1359,1329,1326,1300,1207,1170,1171,1169,1144,1133,1161
+ "32003","Clark, NV",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",882073,896528,941654,1011906,1087078,1145464,1174103,1160263,1081892,1056986,1076766,1092996,1125631,1169854,1216212,1263416,1297670
+ "32003","Clark, NV",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",754129,760037,792006,846535,903607,950664,961458,945570,858376,834289,838724,855757,878067,914559,948621,975750,1003482
+ "32003","Clark, NV",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",127944,136491,149648,165371,183471,194800,212645,214693,223516,222697,238042,237239,247564,255295,267591,287666,294188
+ "32003","Clark, NV",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",248,249,227,207,192,173,164,170,176,186,192,200,207,210,216,206,206
+ "32003","Clark, NV",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",127696,136242,149421,165164,183279,194627,212481,214523,223340,222511,237850,237039,247357,255085,267375,287460,293982
+ "32003","Clark, NV",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",434,406,401,355,321,283,242,295,334,384,407,454,479,464,463,467,520
+ "32003","Clark, NV",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",881639,896122,941253,1011551,1086757,1145181,1173861,1159968,1081558,1056602,1076359,1092542,1125152,1169390,1215749,1262949,1297150
+ "32003","Clark, NV",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",799097,809319,850641,917287,988345,1041623,1064528,1046319,969987,946254,967514,983578,1015254,1058248,1104161,1149432,1180392
+ "32003","Clark, NV",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",351,425,317,332,331,277,311,328,346,329,343,334,363,396,348,366,357
+ "32003","Clark, NV",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",1378,1232,1478,1385,1381,1464,1941,2139,2006,2389,2054,3207,2960,2891,2802,2813,3097
+ "32003","Clark, NV",8,CAEMP25N,300,"22","   Utilities","Number of jobs",2722,3241,3272,3386,3350,3298,3172,3194,3151,3015,2943,2814,2739,2683,2802,3017,3229
+ "32003","Clark, NV",8,CAEMP25N,400,"23","   Construction","Number of jobs",78155,79170,86441,101228,115475,122492,116272,105251,75609,55382,48343,47783,51803,56286,62160,66900,71420
+ "32003","Clark, NV",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",22014,22489,23547,25014,27146,29215,28844,27559,23534,21606,22165,22824,23803,24278,25135,25895,27153
+ "32003","Clark, NV",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",22879,23438,23509,24505,26437,28211,28710,28313,25850,24615,24623,24505,24974,27714,28486,26415,27379
+ "32003","Clark, NV",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",93398,95746,100777,106068,111516,115882,119015,117711,109982,109278,112098,115654,119136,124096,128650,129749,130884
+ "32003","Clark, NV",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",29218,28849,29116,31498,34209,36825,39296,39461,37254,36639,39094,40774,41531,44377,51142,63308,66204
+ "32003","Clark, NV",8,CAEMP25N,900,"51","   Information","Number of jobs",16319,14303,13768,13435,13922,14754,15547,14774,13317,12998,13121,13604,14200,15163,14747,15907,15780
+ "32003","Clark, NV",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",46765,46829,49408,50878,54307,56290,60681,62433,66630,61553,64678,63391,65467,61751,64485,67346,70744
+ "32003","Clark, NV",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",39768,43388,49462,57913,66739,72608,75658,71965,68187,66955,67791,66117,66940,68617,70796,72443,74238
+ "32003","Clark, NV",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",41919,43681,46990,52348,54738,58211,61647,60539,57037,56485,56559,57571,59941,62960,66053,67401,69307
+ "32003","Clark, NV",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",6625,6573,6717,8636,10234,12556,14510,16866,16293,16577,16668,18233,18808,19906,22106,25305,26848
+ "32003","Clark, NV",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",61075,60441,63920,71269,76642,81907,81595,77299,70066,72346,76589,78237,81538,86039,92025,98407,100072
+ "32003","Clark, NV",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",3884,4504,5052,5757,6707,7385,8284,8770,9184,9889,9991,10210,10592,11497,11679,12058,12439
+ "32003","Clark, NV",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",49007,51794,54893,58127,61581,64366,68167,71024,72850,75183,78684,81303,84319,87937,92532,97591,101851
+ "32003","Clark, NV",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",27313,28010,29884,31333,32160,32900,34557,34532,32526,32430,34305,35599,36403,38718,37639,39618,40651
+ "32003","Clark, NV",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",222510,219296,225044,234465,249357,258449,259290,257077,239901,242559,248127,249273,255138,266145,270340,272607,275363
+ "32003","Clark, NV",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",33797,35910,37046,39710,42113,44533,47031,47084,46264,46026,49338,52145,54599,56794,60234,62286,63376
+ "32003","Clark, NV",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",82542,86803,90612,94264,98412,103558,109333,113649,111571,110348,108845,108964,109898,111142,111588,113517,116758
+ "32003","Clark, NV",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",8969,9857,10666,10738,11069,11163,11223,11486,11711,12390,11747,12312,12515,12361,12710,12953,13093
+ "32003","Clark, NV",8,CAEMP25N,2002,"...","   Military","Number of jobs",9720,10437,11113,11380,11399,11644,12202,13043,13311,14203,14944,15459,15780,15665,15112,15148,15498
+ "32003","Clark, NV",8,CAEMP25N,2010,"...","   State and local","Number of jobs",63853,66509,68833,72146,75944,80751,85908,89120,86549,83755,82154,81193,81603,83116,83766,85416,88167
+ "32003","Clark, NV",8,CAEMP25N,2011,"...","    State government","Number of jobs",11667,12184,12520,13601,14293,14785,15531,16667,16708,16336,16400,16281,16467,16798,16958,17207,18037
+ "32003","Clark, NV",8,CAEMP25N,2012,"...","    Local government","Number of jobs",52186,54325,56313,58545,61651,65966,70377,72453,69841,67419,65754,64912,65136,66318,66808,68209,70130
+ "32005","Douglas, NV",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",29036,29285,30303,31571,32071,32063,32438,31364,29041,27687,27724,27640,28573,28826,29749,29932,30498
+ "32005","Douglas, NV",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",21453,21221,21833,22522,22607,22702,22372,21318,18963,17955,18027,17949,18537,18805,19546,19612,19922
+ "32005","Douglas, NV",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",7583,8064,8470,9049,9464,9361,10066,10046,10078,9732,9697,9691,10036,10021,10203,10320,10576
+ "32005","Douglas, NV",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",170,173,161,156,154,150,155,168,181,200,212,226,230,233,236,224,224
+ "32005","Douglas, NV",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",7413,7891,8309,8893,9310,9211,9911,9878,9897,9532,9485,9465,9806,9788,9967,10096,10352
+ "32005","Douglas, NV",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",325,305,316,298,289,280,262,279,287,310,314,334,345,341,341,335,358
+ "32005","Douglas, NV",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",28711,28980,29987,31273,31782,31783,32176,31085,28754,27377,27410,27306,28228,28485,29408,29597,30140
+ "32005","Douglas, NV",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",26539,26755,27697,28929,29403,29389,29765,28625,26321,24957,25060,24996,25870,26117,27025,27165,27707
+ "32005","Douglas, NV",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32005","Douglas, NV",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32005","Douglas, NV",8,CAEMP25N,300,"22","   Utilities","Number of jobs",32,36,44,38,43,50,54,61,47,47,37,40,32,33,38,50,58
+ "32005","Douglas, NV",8,CAEMP25N,400,"23","   Construction","Number of jobs",2404,2546,2773,2920,3113,3092,2890,2357,1916,1557,1466,1438,1479,1678,1832,1999,2149
+ "32005","Douglas, NV",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",1898,1904,1880,1887,1906,1968,2123,2229,2040,1848,1902,1986,1896,1926,1927,1968,2030
+ "32005","Douglas, NV",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",368,394,363,341,356,357,369,385,365,354,371,361,366,446,516,391,367
+ "32005","Douglas, NV",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2171,2367,2910,3212,3289,3271,3282,3062,2869,2727,2674,2715,2911,2837,2845,2823,2818
+ "32005","Douglas, NV",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",259,282,233,248,235,283,298,289,293,262,259,287,415,434,480,586,606
+ "32005","Douglas, NV",8,CAEMP25N,900,"51","   Information","Number of jobs",314,351,345,335,350,360,334,301,268,275,269,247,258,283,319,321,316
+ "32005","Douglas, NV",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1229,1161,1184,1149,1125,1174,1384,1528,1756,1565,1758,1612,1795,1646,1626,1693,1767
+ "32005","Douglas, NV",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",1722,1948,2149,2493,2680,2691,2773,2676,2516,2522,2583,2540,2563,2595,2579,2548,2612
+ "32005","Douglas, NV",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",1587,1637,1671,1892,1933,1989,2102,1989,1914,1948,1855,1867,1879,1882,1971,1944,2000
+ "32005","Douglas, NV",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",119,73,52,92,148,159,173,224,213,226,237,240,291,317,314,319,326
+ "32005","Douglas, NV",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",792,967,1145,1265,1319,1319,1333,1292,1214,1230,1164,1110,1250,1291,1429,1452,1340
+ "32005","Douglas, NV",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",97,115,118,142,185,202,243,287,316,311,300,303,311,352,332,332,337
+ "32005","Douglas, NV",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1120,1115,1175,1234,1347,1432,1512,1563,1562,1558,1582,1663,1675,1689,1751,1769,1819
+ "32005","Douglas, NV",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",1060,1154,1199,1168,1137,1080,1122,1096,1047,1020,992,1019,1053,1079,1011,1045,1240
+ "32005","Douglas, NV",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",9861,9049,8734,8716,8407,8100,7784,7289,6073,5631,5763,5567,5637,5591,5917,5751,5743
+ "32005","Douglas, NV",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1250,1372,1426,1496,1521,1543,1624,1610,1569,1484,1504,1549,1638,1669,1740,1757,1745
+ "32005","Douglas, NV",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2172,2225,2290,2344,2379,2394,2411,2460,2433,2420,2350,2310,2358,2368,2383,2432,2433
+ "32005","Douglas, NV",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",108,109,112,107,109,104,101,110,117,118,104,97,88,88,95,87,84
+ "32005","Douglas, NV",8,CAEMP25N,2002,"...","   Military","Number of jobs",83,86,90,92,93,95,100,107,110,117,124,129,129,133,132,131,130
+ "32005","Douglas, NV",8,CAEMP25N,2010,"...","   State and local","Number of jobs",1981,2030,2088,2145,2177,2195,2210,2243,2206,2185,2122,2084,2141,2147,2156,2214,2219
+ "32005","Douglas, NV",8,CAEMP25N,2011,"...","    State government","Number of jobs",102,113,117,115,122,129,133,135,125,122,108,104,98,96,100,105,107
+ "32005","Douglas, NV",8,CAEMP25N,2012,"...","    Local government","Number of jobs",1879,1917,1971,2030,2055,2066,2077,2108,2081,2063,2014,1980,2043,2051,2056,2109,2112
+ "32007","Elko, NV",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",23991,23105,23200,24117,25277,25776,26835,27197,26175,26706,27982,28801,28632,28308,27423,27771,28187
+ "32007","Elko, NV",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",19880,19131,19120,19947,20913,21435,22130,22353,21259,21930,23196,23803,23627,23321,22494,22778,23099
+ "32007","Elko, NV",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",4111,3974,4080,4170,4364,4341,4705,4844,4916,4776,4786,4998,5005,4987,4929,4993,5088
+ "32007","Elko, NV",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",387,381,367,366,373,372,392,402,416,439,449,462,466,472,468,445,445
+ "32007","Elko, NV",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",3724,3593,3713,3804,3991,3969,4313,4442,4500,4337,4337,4536,4539,4515,4461,4548,4643
+ "32007","Elko, NV",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",699,625,670,660,672,680,667,670,657,675,659,672,690,682,672,660,704
+ "32007","Elko, NV",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",23292,22480,22530,23457,24605,25096,26168,26527,25518,26031,27323,28129,27942,27626,26751,27111,27483
+ "32007","Elko, NV",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",19544,18679,18708,19655,20833,21279,22257,22575,21592,22126,23460,24367,24156,23821,22937,23180,23456
+ "32007","Elko, NV",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",123,107,104,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),201,218,214
+ "32007","Elko, NV",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",1311,1255,1305,1728,2029,2267,2325,2542,1948,2261,2850,3655,3141,2390,2234,2327,2487
+ "32007","Elko, NV",8,CAEMP25N,300,"22","   Utilities","Number of jobs",121,123,123,128,133,145,123,119,114,106,97,114,129,105,107,112,121
+ "32007","Elko, NV",8,CAEMP25N,400,"23","   Construction","Number of jobs",1361,1138,1217,1350,1662,1696,1695,1618,1486,1878,2206,1926,1839,2389,1833,1819,1862
+ "32007","Elko, NV",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",243,243,239,233,244,291,313,307,304,272,303,317,356,313,247,241,246
+ "32007","Elko, NV",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",659,652,619,671,689,773,819,857,952,954,1028,1111,1162,1262,1348,1256,1270
+ "32007","Elko, NV",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2711,2591,2474,2433,2703,2869,2968,2995,2868,2778,2878,2947,3005,2962,3027,3113,3087
+ "32007","Elko, NV",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",626,606,625,654,706,694,745,736,770,731,724,758,813,777,787,761,753
+ "32007","Elko, NV",8,CAEMP25N,900,"51","   Information","Number of jobs",234,239,234,251,225,249,249,227,204,189,185,202,228,218,203,200,184
+ "32007","Elko, NV",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",595,553,596,559,569,543,602,613,750,644,623,621,604,613,584,600,608
+ "32007","Elko, NV",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",714,694,680,(D),(D),812,889,918,856,867,920,927,944,976,960,997,1020
+ "32007","Elko, NV",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",643,646,668,743,737,757,840,855,866,843,889,899,840,796,814,819,848
+ "32007","Elko, NV",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",64,38,41,61,76,64,69,101,231,304,356,433,440,449,330,334,351
+ "32007","Elko, NV",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",889,784,786,809,861,752,738,766,715,800,863,902,805,735,694,788,733
+ "32007","Elko, NV",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",87,95,96,89,107,(D),(D),(D),(D),(D),(D),(D),(D),(D),141,155,156
+ "32007","Elko, NV",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1327,1248,1261,1275,1337,(D),(D),(D),1612,1642,1589,1578,1613,1727,1701,1784,1813
+ "32007","Elko, NV",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",588,568,458,430,586,586,757,773,731,715,713,713,699,642,620,642,690
+ "32007","Elko, NV",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",6190,6019,6093,6259,6009,5842,5952,5875,5502,5495,5583,5550,5696,5646,5601,5555,5510
+ "32007","Elko, NV",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1058,1080,1089,1138,1224,1314,1414,1404,1371,1315,1335,1396,1521,1465,1505,1459,1503
+ "32007","Elko, NV",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",3748,3801,3822,3802,3772,3817,3911,3952,3926,3905,3863,3762,3786,3805,3814,3931,4027
+ "32007","Elko, NV",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",406,455,463,445,432,424,410,396,416,420,390,374,365,352,354,348,350
+ "32007","Elko, NV",8,CAEMP25N,2002,"...","   Military","Number of jobs",88,87,88,87,89,93,100,107,112,121,129,138,143,146,143,141,140
+ "32007","Elko, NV",8,CAEMP25N,2010,"...","   State and local","Number of jobs",3254,3259,3271,3270,3251,3300,3401,3449,3398,3364,3344,3250,3278,3307,3317,3442,3537
+ "32007","Elko, NV",8,CAEMP25N,2011,"...","    State government","Number of jobs",803,848,866,869,866,892,914,951,995,980,947,880,878,857,838,913,920
+ "32007","Elko, NV",8,CAEMP25N,2012,"...","    Local government","Number of jobs",2451,2411,2405,2401,2385,2408,2487,2498,2403,2384,2397,2370,2400,2450,2479,2529,2617
+ "32009","Esmeralda, NV",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",421,397,419,407,415,404,402,430,401,434,458,518,556,592,585,551,540
+ "32009","Esmeralda, NV",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",290,256,268,262,265,268,258,273,251,258,289,339,407,409,400,376,361
+ "32009","Esmeralda, NV",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",131,141,151,145,150,136,144,157,150,176,169,179,149,183,185,175,179
+ "32009","Esmeralda, NV",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",17,16,16,16,16,16,17,21,25,29,33,38,38,38,37,36,36
+ "32009","Esmeralda, NV",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",114,125,135,129,134,120,127,136,125,147,136,141,111,145,148,139,143
+ "32009","Esmeralda, NV",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",38,29,33,33,36,37,37,40,42,46,48,54,55,54,53,53,56
+ "32009","Esmeralda, NV",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",383,368,386,374,379,367,365,390,359,388,410,464,501,538,532,498,484
+ "32009","Esmeralda, NV",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",281,261,283,270,283,262,266,293,260,290,314,366,404,441,429,394,371
+ "32009","Esmeralda, NV",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",104,79,(D),77,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAEMP25N,300,"22","   Utilities","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,(D),(D)
+ "32009","Esmeralda, NV",8,CAEMP25N,400,"23","   Construction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",5,6,6,6,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",(D),(D),(D),(D),28,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",10,12,12,(D),(D),(D),(D),(D),(D),(D),13,15,(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAEMP25N,900,"51","   Information","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),1,(D),(D),1,5,4,3,3,3
+ "32009","Esmeralda, NV",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1,7,10,1,1,0,0,9,17,(D),1,17,1,11,16,17,18
+ "32009","Esmeralda, NV",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",20,16,12,12,14,16,10,13,11,11,16,9,14,14,12,9,9
+ "32009","Esmeralda, NV",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),14,(D),20,17,(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,(D),(D),(D),(D),(D),(D),(D),0,0,0,0,0,0,0,0,0
+ "32009","Esmeralda, NV",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),8,10,9,9,7,7,8,(D),11,9,8,8,6,9,(D)
+ "32009","Esmeralda, NV",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",0,0,4,4,6,3,4,4,3,5,5,3,5,4,6,1,0
+ "32009","Esmeralda, NV",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",5,5,5,7,7,5,6,1,4,1,1,0,0,0,6,0,1
+ "32009","Esmeralda, NV",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",5,10,8,9,8,9,9,6,8,8,7,8,5,9,5,6,6
+ "32009","Esmeralda, NV",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",102,107,103,104,96,105,99,97,99,98,96,98,97,97,103,104,113
+ "32009","Esmeralda, NV",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",8,7,6,5,6,6,6,6,6,6,6,6,5,5,6,5,5
+ "32009","Esmeralda, NV",8,CAEMP25N,2002,"...","   Military","Number of jobs",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+ "32009","Esmeralda, NV",8,CAEMP25N,2010,"...","   State and local","Number of jobs",92,98,95,97,88,97,91,89,91,90,88,90,90,90,95,97,106
+ "32009","Esmeralda, NV",8,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32009","Esmeralda, NV",8,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",4255,4009,3907,3950,4209,4736,5455,4907,4930,4715,4853,5214,5157,4833,4923,4944,4953
+ "32011","Eureka, NV",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",3966,3725,3636,3702,3934,4474,5186,4614,4630,4427,4539,4871,4830,4510,4586,4618,4622
+ "32011","Eureka, NV",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",289,284,271,248,275,262,269,293,300,288,314,343,327,323,337,326,331
+ "32011","Eureka, NV",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",71,68,66,66,66,66,70,72,74,78,80,86,87,88,90,86,86
+ "32011","Eureka, NV",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",218,216,205,182,209,196,199,221,226,210,234,257,240,235,247,240,245
+ "32011","Eureka, NV",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",127,110,127,134,143,155,157,159,153,157,152,160,166,162,162,162,177
+ "32011","Eureka, NV",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",4128,3899,3780,3816,4066,4581,5298,4748,4777,4558,4701,5054,4991,4671,4761,4782,4776
+ "32011","Eureka, NV",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",3902,3690,3588,3619,3883,4382,5094,4538,4559,4339,4491,4850,4777,4453,4560,4585,4580
+ "32011","Eureka, NV",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",3552,(D),(D),(D),(D),(D),3931,(D),4039,3868,3977,4301,4276,(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),59,80,79,78,(D),(D),78,(D),76,(D),(D)
+ "32011","Eureka, NV",8,CAEMP25N,400,"23","   Construction","Number of jobs",25,(D),(D),(D),(D),(D),(D),110,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",12,(D),(D),(D),(D),(D),(D),(D),11,12,9,(D),(D),8,18,15,(D)
+ "32011","Eureka, NV",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),4
+ "32011","Eureka, NV",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",(D),(D),(D),(D),52,(D),(D),53,57,56,49,50,(D),60,66,74,78
+ "32011","Eureka, NV",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",27,23,20,(D),(D),25,(D),(D),(D),(D),(D),(D),57,(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAEMP25N,900,"51","   Information","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0,0,0
+ "32011","Eureka, NV",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),13,13,11,13,(D),(D),(D),19,23,(D),(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,(D),(D),(D),(D),0,0,(D),(D),0,0,0,0,0,0,0
+ "32011","Eureka, NV",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",13,13,11,12,13,11,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",0,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),9,9
+ "32011","Eureka, NV",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",8,14,11,9,9,11,12,9,13,11,8,13,12,15,11,11,11
+ "32011","Eureka, NV",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",43,42,40,51,53,49,55,57,56,59,53,63,69,62,49,41,43
+ "32011","Eureka, NV",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",(D),(D),37,36,43,41,45,43,49,44,46,40,41,(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",226,209,192,197,183,199,204,210,218,219,210,204,214,218,201,197,196
+ "32011","Eureka, NV",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",10,6,5,7,8,8,7,7,5,8,5,5,7,6,7,9,9
+ "32011","Eureka, NV",8,CAEMP25N,2002,"...","   Military","Number of jobs",3,3,3,3,3,3,4,4,5,5,5,5,6,6,6,5,5
+ "32011","Eureka, NV",8,CAEMP25N,2010,"...","   State and local","Number of jobs",213,200,184,187,172,188,193,199,208,206,200,194,201,206,188,183,182
+ "32011","Eureka, NV",8,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32011","Eureka, NV",8,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32013","Humboldt, NV",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",8397,8061,8286,8620,9077,9487,9743,9871,9737,10161,10385,10937,10954,10417,10208,9750,9880
+ "32013","Humboldt, NV",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",6701,6396,6619,6941,7329,7699,7840,7951,7735,8142,8408,8831,8825,8389,8158,7856,7946
+ "32013","Humboldt, NV",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",1696,1665,1667,1679,1748,1788,1903,1920,2002,2019,1977,2106,2129,2028,2050,1894,1934
+ "32013","Humboldt, NV",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",227,229,214,212,211,208,215,229,245,266,279,299,304,308,312,297,297
+ "32013","Humboldt, NV",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",1469,1436,1453,1467,1537,1580,1688,1691,1757,1753,1698,1807,1825,1720,1738,1597,1637
+ "32013","Humboldt, NV",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",504,439,477,471,475,483,463,492,502,536,536,574,596,584,580,580,637
+ "32013","Humboldt, NV",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",7893,7622,7809,8149,8602,9004,9280,9379,9235,9625,9849,10363,10358,9833,9628,9170,9243
+ "32013","Humboldt, NV",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",6516,6237,6438,6778,7219,7598,7829,7894,7742,8117,8366,8857,8827,8266,8085,7627,7669
+ "32013","Humboldt, NV",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),101,113,114,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),121
+ "32013","Humboldt, NV",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",956,806,921,1079,1261,1412,1479,1618,1682,1926,1966,2299,2269,2132,2098,1953,2018
+ "32013","Humboldt, NV",8,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),156,(D),(D),(D),(D),(D),(D),(D),138,134,134,142,157,164,160
+ "32013","Humboldt, NV",8,CAEMP25N,400,"23","   Construction","Number of jobs",407,355,389,436,518,583,534,521,544,710,749,624,717,529,507,443,400
+ "32013","Humboldt, NV",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",338,343,352,355,361,355,364,347,304,297,289,322,349,302,294,290,297
+ "32013","Humboldt, NV",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),191,(D),(D),(D),199,190,165,139,153,195,208,213,184,164,155
+ "32013","Humboldt, NV",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1137,1154,1134,1121,1110,1159,1256,1238,1175,1154,1192,1225,1276,1225,1197,1105,1126
+ "32013","Humboldt, NV",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",361,346,348,377,415,408,(D),(D),(D),(D),258,304,307,303,316,307,322
+ "32013","Humboldt, NV",8,CAEMP25N,900,"51","   Information","Number of jobs",104,104,93,90,90,100,95,95,89,93,96,87,85,76,76,79,77
+ "32013","Humboldt, NV",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",162,116,124,164,160,118,179,135,153,177,147,164,133,129,120,123,127
+ "32013","Humboldt, NV",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",180,178,170,194,184,195,224,212,227,227,232,227,237,255,245,237,245
+ "32013","Humboldt, NV",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),209,261,265,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32013","Humboldt, NV",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),26,24,71,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32013","Humboldt, NV",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",267,265,272,288,416,479,474,408,380,437,510,535,504,424,378,338,329
+ "32013","Humboldt, NV",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),10,(D),(D),(D),(D),14,(D),20,(D),(D),(D),(D),(D),(D),(D),(D)
+ "32013","Humboldt, NV",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),384,(D),435,(D),(D),(D),(D),(D),(D),(D),(D)
+ "32013","Humboldt, NV",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",154,167,149,156,182,179,172,171,177,166,180,174,164,172,169,162,166
+ "32013","Humboldt, NV",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1162,1131,1138,1127,1100,1124,1152,1158,1109,1059,1062,1062,1120,1140,1062,1033,1017
+ "32013","Humboldt, NV",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",353,366,393,406,409,437,452,461,451,431,441,474,509,464,491,466,459
+ "32013","Humboldt, NV",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1377,1385,1371,1371,1383,1406,1451,1485,1493,1508,1483,1506,1531,1567,1543,1543,1574
+ "32013","Humboldt, NV",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",170,201,200,190,179,173,163,160,170,170,163,162,158,146,152,163,156
+ "32013","Humboldt, NV",8,CAEMP25N,2002,"...","   Military","Number of jobs",30,29,29,29,30,31,33,36,38,41,44,47,48,48,47,46,45
+ "32013","Humboldt, NV",8,CAEMP25N,2010,"...","   State and local","Number of jobs",1177,1155,1142,1152,1174,1202,1255,1289,1285,1297,1276,1297,1325,1373,1344,1334,1373
+ "32013","Humboldt, NV",8,CAEMP25N,2011,"...","    State government","Number of jobs",206,220,222,221,240,249,253,261,265,259,250,237,239,234,237,211,215
+ "32013","Humboldt, NV",8,CAEMP25N,2012,"...","    Local government","Number of jobs",971,935,920,931,934,953,1002,1028,1020,1038,1026,1060,1086,1139,1107,1123,1158
+ "32015","Lander, NV",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",2992,2809,2780,2819,3040,3065,3216,3432,3654,3694,3886,4219,4377,4209,4132,4009,4102
+ "32015","Lander, NV",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",2445,2302,2254,2298,2542,2554,2709,2899,3054,3118,3301,3628,3799,3595,3531,3419,3494
+ "32015","Lander, NV",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",547,507,526,521,498,511,507,533,600,576,585,591,578,614,601,590,608
+ "32015","Lander, NV",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",109,114,104,94,86,78,73,80,87,96,103,108,111,112,114,108,108
+ "32015","Lander, NV",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",438,393,422,427,412,433,434,453,513,480,482,483,467,502,487,482,500
+ "32015","Lander, NV",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",174,160,162,152,146,141,130,143,150,164,169,180,188,184,184,182,197
+ "32015","Lander, NV",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",2818,2649,2618,2667,2894,2924,3086,3289,3504,3530,3717,4039,4189,4025,3948,3827,3905
+ "32015","Lander, NV",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",2218,2052,2044,2114,2361,2390,2553,2743,2948,2975,3166,3472,3615,3445,3365,3271,3357
+ "32015","Lander, NV",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32015","Lander, NV",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",1123,1037,1005,(D),1065,1089,1191,1357,1548,1662,1812,2005,2065,2082,2113,2045,2161
+ "32015","Lander, NV",8,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32015","Lander, NV",8,CAEMP25N,400,"23","   Construction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32015","Lander, NV",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32015","Lander, NV",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),88,(D),(D),(D),(D),(D),(D)
+ "32015","Lander, NV",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",329,302,299,307,325,347,363,346,330,290,284,335,339,337,315,304,288
+ "32015","Lander, NV",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",89,89,92,97,128,142,184,217,226,210,(D),219,206,168,150,135,132
+ "32015","Lander, NV",8,CAEMP25N,900,"51","   Information","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),14,7,(D),(D),(D),(D),(D),1,1
+ "32015","Lander, NV",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",42,31,(D),(D),25,27,36,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32015","Lander, NV",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",44,44,(D),(D),47,51,40,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32015","Lander, NV",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),39,45,35,33,(D),(D),42,43,31,30,28,(D),25
+ "32015","Lander, NV",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "32015","Lander, NV",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),24,(D),(D),47,49,39,41,(D),(D),52,52,52,55,44,(D),53
+ "32015","Lander, NV",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",6,7,7,7,9,8,7,7,7,10,11,6,13,12,12,12,12
+ "32015","Lander, NV",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",52,34,41,45,47,65,55,49,42,44,55,46,43,34,(D),36,37
+ "32015","Lander, NV",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",15,33,46,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),88,(D),(D)
+ "32015","Lander, NV",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",168,161,151,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),164,(D),(D)
+ "32015","Lander, NV",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",79,81,(D),78,(D),(D),(D),(D),89,87,(D),(D),(D),(D),104,116,113
+ "32015","Lander, NV",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",600,597,574,553,533,534,533,546,556,555,551,567,574,580,583,556,548
+ "32015","Lander, NV",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",90,96,95,90,84,82,85,79,87,85,77,72,69,68,65,68,69
+ "32015","Lander, NV",8,CAEMP25N,2002,"...","   Military","Number of jobs",11,10,10,10,10,11,12,12,13,14,15,16,17,17,16,16,15
+ "32015","Lander, NV",8,CAEMP25N,2010,"...","   State and local","Number of jobs",499,491,469,453,439,441,436,455,456,456,459,479,488,495,502,472,464
+ "32015","Lander, NV",8,CAEMP25N,2011,"...","    State government","Number of jobs",50,54,55,55,39,41,44,50,55,53,54,47,42,40,39,18,19
+ "32015","Lander, NV",8,CAEMP25N,2012,"...","    Local government","Number of jobs",449,437,414,398,400,400,392,405,401,403,405,432,446,455,463,454,445
+ "32017","Lincoln, NV",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",1820,1847,1899,1854,1894,1951,2045,2166,2120,2109,2157,2227,2224,2182,2239,2252,2264
+ "32017","Lincoln, NV",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",1295,1325,1357,1363,1385,1427,1486,1565,1542,1532,1563,1572,1538,1523,1570,1592,1595
+ "32017","Lincoln, NV",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",525,522,542,491,509,524,559,601,578,577,594,655,686,659,669,660,669
+ "32017","Lincoln, NV",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",113,106,99,93,91,86,86,102,117,135,149,163,164,166,166,159,159
+ "32017","Lincoln, NV",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",412,416,443,398,418,438,473,499,461,442,445,492,522,493,503,501,510
+ "32017","Lincoln, NV",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",158,147,150,143,141,137,132,161,183,212,229,254,261,257,255,253,272
+ "32017","Lincoln, NV",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",1662,1700,1749,1711,1753,1814,1913,2005,1937,1897,1928,1973,1963,1925,1984,1999,1992
+ "32017","Lincoln, NV",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",1083,1099,1140,1095,1139,1178,1256,1333,1277,1265,1287,1318,1328,1300,1336,1339,1328
+ "32017","Lincoln, NV",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),39,36,36,34,43,(D),(D),40,44,59,61
+ "32017","Lincoln, NV",8,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAEMP25N,400,"23","   Construction","Number of jobs",59,48,60,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),(D),30,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),16,(D),(D),(D),14
+ "32017","Lincoln, NV",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",224,216,249,240,245,240,253,268,252,244,231,228,225,235,235,238,(D)
+ "32017","Lincoln, NV",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",47,(D),(D),49,57,50,47,50,40,42,58,(D),(D),49,55,(D),(D)
+ "32017","Lincoln, NV",8,CAEMP25N,900,"51","   Information","Number of jobs",30,(D),(D),(D),(D),(D),32,28,34,(D),(D),(D),28,(D),32,(D),(D)
+ "32017","Lincoln, NV",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",75,58,59,(D),(D),(D),58,66,75,69,65,69,55,48,63,63,65
+ "32017","Lincoln, NV",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",56,51,54,(D),(D),(D),59,63,56,55,58,54,65,63,68,67,69
+ "32017","Lincoln, NV",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),228,(D),(D),(D),(D),259,(D),299,286,282,285,285,282,280,288,292
+ "32017","Lincoln, NV",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",14,8,9,0,1,0,0,0,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),31,34,35,(D),(D),32,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",7,7,7,8,9,9,8,8,6,8,9,6,11,(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",22,(D),(D),27,37,43,50,56,55,70,77,87,96,(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",(D),84,(D),(D),(D),(D),(D),90,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32017","Lincoln, NV",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",579,601,609,616,614,636,657,672,660,632,641,655,635,625,648,660,664
+ "32017","Lincoln, NV",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",41,51,47,42,41,39,38,40,44,44,48,49,43,40,50,51,53
+ "32017","Lincoln, NV",8,CAEMP25N,2002,"...","   Military","Number of jobs",8,8,8,8,9,9,10,11,12,13,13,14,14,14,14,14,13
+ "32017","Lincoln, NV",8,CAEMP25N,2010,"...","   State and local","Number of jobs",530,542,554,566,564,588,609,621,604,575,580,592,578,571,584,595,598
+ "32017","Lincoln, NV",8,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),135,140,143,140,135,126,136,141,143,141,140,143,149
+ "32017","Lincoln, NV",8,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),429,448,466,481,469,449,444,451,435,430,444,452,449
+ "32019","Lyon, NV",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",14220,14184,14701,15723,17311,18130,18730,18188,16478,16067,16319,16450,16764,17496,16530,16785,17262
+ "32019","Lyon, NV",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",10699,10767,11068,11583,12703,13328,13716,13260,11791,11519,11538,11599,11988,12573,11730,11839,12211
+ "32019","Lyon, NV",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",3521,3417,3633,4140,4608,4802,5014,4928,4687,4548,4781,4851,4776,4923,4800,4946,5051
+ "32019","Lyon, NV",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",328,327,303,292,286,274,279,299,321,351,371,394,404,410,418,398,398
+ "32019","Lyon, NV",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",3193,3090,3330,3848,4322,4528,4735,4629,4366,4197,4410,4457,4372,4513,4382,4548,4653
+ "32019","Lyon, NV",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",679,609,670,666,686,701,677,713,718,763,756,801,839,820,814,815,900
+ "32019","Lyon, NV",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",13541,13575,14031,15057,16625,17429,18053,17475,15760,15304,15563,15649,15925,16676,15716,15970,16362
+ "32019","Lyon, NV",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",11781,11726,12103,13071,14507,15161,15663,15050,13377,12916,13235,13401,13710,14459,13487,13667,14018
+ "32019","Lyon, NV",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",106,122,134,160,173,183,190,169,170,(D),174,169,(D),202,(D),194,189
+ "32019","Lyon, NV",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",170,155,230,218,194,207,206,239,177,209,272,401,401,524,538,371,362
+ "32019","Lyon, NV",8,CAEMP25N,300,"22","   Utilities","Number of jobs",75,73,69,69,71,69,61,59,60,60,61,59,58,60,63,62,81
+ "32019","Lyon, NV",8,CAEMP25N,400,"23","   Construction","Number of jobs",1383,1357,1417,1671,2010,1917,1745,1374,928,892,852,850,804,921,967,1046,1136
+ "32019","Lyon, NV",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",2123,2158,2261,2398,2574,2536,2704,2431,2118,2102,2140,2154,2202,2222,2266,2341,2287
+ "32019","Lyon, NV",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",710,653,534,639,695,692,689,681,586,308,338,302,311,323,310,281,264
+ "32019","Lyon, NV",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2203,2093,2094,2081,2311,2444,2583,2719,2433,2354,2356,2506,2806,2887,1783,1832,1927
+ "32019","Lyon, NV",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",339,356,328,344,351,433,482,473,497,689,739,805,792,878,969,907,977
+ "32019","Lyon, NV",8,CAEMP25N,900,"51","   Information","Number of jobs",59,57,68,71,112,96,83,99,83,77,97,87,81,77,77,84,80
+ "32019","Lyon, NV",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",243,278,271,281,343,360,439,503,556,520,534,538,494,461,482,476,488
+ "32019","Lyon, NV",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",502,501,558,730,820,907,891,861,781,755,807,756,789,807,770,805,830
+ "32019","Lyon, NV",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),650,698,747,766,789,727,705,755,720,700,756,767,789,789
+ "32019","Lyon, NV",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),46,41,69,120,137,92,63,76,67,62,77,73,74,80
+ "32019","Lyon, NV",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",446,469,553,631,671,734,743,706,636,644,677,637,671,731,706,711,740
+ "32019","Lyon, NV",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),84,51,(D),80,(D),(D),(D),54,(D),(D),(D),(D),(D)
+ "32019","Lyon, NV",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),828,877,(D),862,(D),(D),(D),708,(D),(D),(D),(D),(D)
+ "32019","Lyon, NV",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",660,694,718,750,915,1073,1114,1054,930,872,869,867,889,954,901,950,950
+ "32019","Lyon, NV",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",472,542,625,666,761,818,881,867,751,734,764,778,809,862,858,894,919
+ "32019","Lyon, NV",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",934,870,820,826,855,948,978,947,959,917,920,943,953,997,1054,1099,1104
+ "32019","Lyon, NV",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1760,1849,1928,1986,2118,2268,2390,2425,2383,2388,2328,2248,2215,2217,2229,2303,2344
+ "32019","Lyon, NV",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",71,75,73,68,71,74,80,80,81,96,75,69,65,64,67,72,72
+ "32019","Lyon, NV",8,CAEMP25N,2002,"...","   Military","Number of jobs",70,74,80,84,92,101,109,118,121,130,136,140,141,143,144,144,145
+ "32019","Lyon, NV",8,CAEMP25N,2010,"...","   State and local","Number of jobs",1619,1700,1775,1834,1955,2093,2201,2227,2181,2162,2117,2039,2009,2010,2018,2087,2127
+ "32019","Lyon, NV",8,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),84,96,103,91,76,81,75,75,78,83,85,89,92
+ "32019","Lyon, NV",8,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),1871,1997,2098,2136,2105,2081,2042,1964,1931,1927,1933,1998,2035
+ "32021","Mineral, NV",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",2382,2383,2378,2426,2438,2416,2515,2645,2644,2605,2748,2296,2186,2098,2009,2115,2145
+ "32021","Mineral, NV",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",1923,1913,1891,1920,1898,1879,1945,2115,2099,2115,2275,1856,1773,1687,1637,1751,1775
+ "32021","Mineral, NV",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",459,470,487,506,540,537,570,530,545,490,473,440,413,411,372,364,370
+ "32021","Mineral, NV",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",19,15,27,38,48,59,71,73,74,78,80,84,85,86,89,84,84
+ "32021","Mineral, NV",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",440,455,460,468,492,478,499,457,471,412,393,356,328,325,283,280,286
+ "32021","Mineral, NV",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",37,31,44,51,59,66,75,77,78,82,83,87,88,89,92,87,88
+ "32021","Mineral, NV",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",2345,2352,2334,2375,2379,2350,2440,2568,2566,2523,2665,2209,2098,2009,1917,2028,2057
+ "32021","Mineral, NV",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",1728,1736,1725,1770,1774,1736,1843,1969,1944,1883,2049,1604,1510,1436,1381,1490,1515
+ "32021","Mineral, NV",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),9,13,10,11,10,(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),40,(D),43,66,106,171,171,120,(D),93
+ "32021","Mineral, NV",8,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAEMP25N,400,"23","   Construction","Number of jobs",56,61,(D),64,76,(D),(D),65,(D),52,(D),(D),(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),(D),(D),28,26,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),7
+ "32021","Mineral, NV",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),22,25,24,28,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",203,215,199,207,218,216,204,171,194,173,168,159,147,(D),(D),(D),169
+ "32021","Mineral, NV",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",20,20,(D),(D),(D),(D),(D),(D),(D),25,(D),25,24,(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAEMP25N,900,"51","   Information","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),68,(D),(D),(D),(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),34,(D),(D),(D),(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",39,49,47,48,53,(D),(D),58,56,64,59,52,54,35,27,27,26
+ "32021","Mineral, NV",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,0,0,0,0,(D),(D),(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",7,7,7,7,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),5,5
+ "32021","Mineral, NV",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",77,71,65,68,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),30,(D)
+ "32021","Mineral, NV",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32021","Mineral, NV",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",81,(D),(D),81,87,(D),(D),78,(D),67,(D),(D),(D),62,62,64,66
+ "32021","Mineral, NV",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",617,616,609,605,605,614,597,599,622,640,616,605,588,573,536,538,542
+ "32021","Mineral, NV",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",85,85,78,76,79,87,82,82,91,91,79,82,75,68,61,61,55
+ "32021","Mineral, NV",8,CAEMP25N,2002,"...","   Military","Number of jobs",11,11,11,11,11,11,11,12,12,14,13,14,14,13,13,13,13
+ "32021","Mineral, NV",8,CAEMP25N,2010,"...","   State and local","Number of jobs",521,520,520,518,515,516,504,505,519,535,524,509,499,492,462,464,474
+ "32021","Mineral, NV",8,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),16,15,16,14,13,14,12,11,12,12,11,10,10
+ "32021","Mineral, NV",8,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),499,501,488,491,506,521,512,498,487,480,451,454,464
+ "32023","Nye, NV",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",12992,13458,14301,15660,16781,17684,17749,16636,15485,14938,15047,15041,15140,15274,15297,15572,15860
+ "32023","Nye, NV",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",9780,10188,10835,11783,12598,13323,13288,12343,11449,11061,11119,11149,11280,11490,11500,11715,11932
+ "32023","Nye, NV",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",3212,3270,3466,3877,4183,4361,4461,4293,4036,3877,3928,3892,3860,3784,3797,3857,3928
+ "32023","Nye, NV",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",166,168,159,153,149,145,147,148,151,155,156,160,161,163,164,156,156
+ "32023","Nye, NV",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",3046,3102,3307,3724,4034,4216,4314,4145,3885,3722,3772,3732,3699,3621,3633,3701,3772
+ "32023","Nye, NV",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",327,302,329,322,323,328,312,289,261,245,220,208,212,211,211,206,216
+ "32023","Nye, NV",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",12665,13156,13972,15338,16458,17356,17437,16347,15224,14693,14827,14833,14928,15063,15086,15366,15644
+ "32023","Nye, NV",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",10936,11390,12170,13502,14580,15386,15368,14204,13052,12622,12867,13014,13090,13193,13257,13475,13722
+ "32023","Nye, NV",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),52,54,59,67,66,(D),(D),(D),(D),(D),93,100,(D),98,99
+ "32023","Nye, NV",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",1013,941,974,1059,966,1033,1088,1082,1021,1035,1087,1204,1231,1230,1238,1197,1149
+ "32023","Nye, NV",8,CAEMP25N,300,"22","   Utilities","Number of jobs",121,114,(D),(D),(D),(D),131,138,131,109,107,120,139,136,136,164,193
+ "32023","Nye, NV",8,CAEMP25N,400,"23","   Construction","Number of jobs",978,986,1026,1335,1660,1745,1478,953,651,624,644,688,735,718,725,808,949
+ "32023","Nye, NV",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",279,253,218,287,336,385,278,233,220,189,180,184,218,213,230,251,269
+ "32023","Nye, NV",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",162,163,144,170,184,178,194,188,141,167,166,130,134,153,138,124,130
+ "32023","Nye, NV",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1449,1401,1715,1823,1994,2132,2051,1956,1872,1793,1797,1780,1769,1843,1982,2017,2031
+ "32023","Nye, NV",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",199,222,(D),(D),(D),(D),272,233,246,247,251,252,230,250,251,337,357
+ "32023","Nye, NV",8,CAEMP25N,900,"51","   Information","Number of jobs",180,147,149,144,147,159,148,136,139,134,129,135,142,150,141,145,150
+ "32023","Nye, NV",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",340,366,362,420,474,464,502,509,556,480,478,538,460,368,387,323,329
+ "32023","Nye, NV",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",526,546,603,781,856,968,973,898,820,777,780,719,756,745,741,771,791
+ "32023","Nye, NV",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",1434,1832,2273,2433,2449,2416,2473,2226,1904,1769,1739,1648,1659,1613,1622,1662,1601
+ "32023","Nye, NV",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",1,25,(D),(D),25,28,40,(D),(D),45,45,48,52,26,(D),51,53
+ "32023","Nye, NV",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",881,867,(D),(D),1026,1187,1164,1099,1001,1005,1181,1075,1035,1032,992,1003,1085
+ "32023","Nye, NV",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),87,(D),(D),183,180,(D),(D),(D),(D),233,233,240,260
+ "32023","Nye, NV",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),657,(D),(D),954,946,(D),973,(D),(D),1042,989,916,904
+ "32023","Nye, NV",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",733,727,601,609,827,862,903,848,752,710,672,679,644,727,719,733,760
+ "32023","Nye, NV",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1348,1383,1486,1596,1582,1555,1604,1539,1507,1509,1523,1559,1569,1603,1598,1627,1597
+ "32023","Nye, NV",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",697,727,745,797,877,932,929,918,869,830,830,971,1002,1011,1002,1008,1015
+ "32023","Nye, NV",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1729,1766,1802,1836,1878,1970,2069,2143,2172,2071,1960,1819,1838,1870,1829,1891,1922
+ "32023","Nye, NV",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",167,177,169,167,157,157,156,152,159,141,138,128,119,118,117,123,120
+ "32023","Nye, NV",8,CAEMP25N,2002,"...","   Military","Number of jobs",75,78,77,78,84,101,115,135,149,173,171,120,119,120,120,118,117
+ "32023","Nye, NV",8,CAEMP25N,2010,"...","   State and local","Number of jobs",1487,1511,1556,1591,1637,1712,1798,1856,1864,1757,1651,1571,1600,1632,1592,1650,1685
+ "32023","Nye, NV",8,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),155,164,168,165,169,175,166,170,169,165,168,194,194
+ "32023","Nye, NV",8,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),1482,1548,1630,1691,1695,1582,1485,1401,1431,1467,1424,1456,1491
+ "32027","Pershing, NV",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",2402,2341,2360,2432,2382,2379,2380,2379,2229,2175,2261,2375,2402,2398,2360,2403,2544
+ "32027","Pershing, NV",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",1993,1956,1964,1994,1927,1924,1913,1899,1717,1693,1788,1882,1938,1952,1908,1898,2031
+ "32027","Pershing, NV",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",409,385,396,438,455,455,467,480,512,482,473,493,464,446,452,505,513
+ "32027","Pershing, NV",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",112,107,106,104,106,105,111,112,115,120,121,126,127,128,129,122,122
+ "32027","Pershing, NV",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",297,278,290,334,349,350,356,368,397,362,352,367,337,318,323,383,391
+ "32027","Pershing, NV",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",220,182,206,207,217,226,224,227,223,230,223,233,241,235,233,232,254
+ "32027","Pershing, NV",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",2182,2159,2154,2225,2165,2153,2156,2152,2006,1945,2038,2142,2161,2163,2127,2171,2290
+ "32027","Pershing, NV",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",1458,1426,1402,1448,1405,1390,1381,1372,1266,1214,1333,1421,1439,1428,1385,1427,1531
+ "32027","Pershing, NV",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",595,(D),(D),(D),(D),444,440,432,351,354,514,606,631,649,592,584,689
+ "32027","Pershing, NV",8,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),0,(D),2,0,0,0,0,0,0
+ "32027","Pershing, NV",8,CAEMP25N,400,"23","   Construction","Number of jobs",(D),(D),(D),(D),48,48,69,36,33,25,(D),(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),(D),(D),(D),102,61,66,82,94,89,(D),(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),27,(D),26,15,(D),24,(D),11,14,17,(D),(D)
+ "32027","Pershing, NV",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",230,212,205,207,204,216,204,195,192,191,190,205,218,215,204,214,203
+ "32027","Pershing, NV",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",40,34,38,31,37,(D),(D),(D),42,44,42,(D),37,43,47,(D),(D)
+ "32027","Pershing, NV",8,CAEMP25N,900,"51","   Information","Number of jobs",11,13,14,15,15,16,17,19,14,(D),(D),(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",42,23,25,29,18,23,34,38,47,(D),39,43,(D),(D),35,46,48
+ "32027","Pershing, NV",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",57,50,35,43,(D),58,54,55,73,(D),(D),(D),(D),(D),35,35,36
+ "32027","Pershing, NV",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",32,(D),(D),(D),42,40,41,46,50,49,44,(D),34,(D),55,52,53
+ "32027","Pershing, NV",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0,0,0,0,(D),(D)
+ "32027","Pershing, NV",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",14,13,11,16,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",7,6,6,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",39,46,47,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),13,11,13,(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),160,148,131,(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",76,74,73,78,76,107,98,94,77,73,75,89,89,73,78,83,86
+ "32027","Pershing, NV",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",724,733,752,777,760,763,775,780,740,731,705,721,722,735,742,744,759
+ "32027","Pershing, NV",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",13,14,16,13,15,15,14,12,13,17,14,13,15,16,16,17,15
+ "32027","Pershing, NV",8,CAEMP25N,2002,"...","   Military","Number of jobs",10,10,10,10,10,10,11,11,12,13,13,14,14,14,14,14,13
+ "32027","Pershing, NV",8,CAEMP25N,2010,"...","   State and local","Number of jobs",701,709,726,754,735,738,750,757,715,701,678,694,693,705,712,713,731
+ "32027","Pershing, NV",8,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32027","Pershing, NV",8,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32029","Storey, NV",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",1446,1553,1594,1744,2027,2303,3073,3174,3248,3253,3431,3750,4219,5120,5904,7524,12033
+ "32029","Storey, NV",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",1188,1295,1346,1481,1767,2038,2786,2877,2963,2964,3145,3480,3946,4853,5611,6714,11206
+ "32029","Storey, NV",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",258,258,248,263,260,265,287,297,285,289,286,270,273,267,293,810,827
+ "32029","Storey, NV",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "32029","Storey, NV",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",258,258,248,263,260,265,287,297,285,289,286,270,273,267,293,810,827
+ "32029","Storey, NV",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "32029","Storey, NV",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",1446,1553,1594,1744,2027,2303,3073,3174,3248,3253,3431,3750,4219,5120,5904,7524,12033
+ "32029","Storey, NV",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",1258,1359,1396,1545,1826,2094,2840,2930,2981,3009,3207,3520,3981,4877,5656,7259,11771
+ "32029","Storey, NV",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",7,6,5,5,4,7,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32029","Storey, NV",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),88,92,93,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32029","Storey, NV",8,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),94,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32029","Storey, NV",8,CAEMP25N,400,"23","   Construction","Number of jobs",(D),(D),(D),110,167,184,479,184,93,154,153,(D),157,235,485,728,1644
+ "32029","Storey, NV",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",168,284,283,316,387,412,404,405,382,422,498,507,568,708,888,1304,3985
+ "32029","Storey, NV",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),152,(D),(D),(D),(D),(D),(D),(D),(D),(D),79,(D),(D),88,102,115
+ "32029","Storey, NV",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",103,107,109,109,106,102,85,(D),(D),(D),(D),(D),109,(D),(D),(D),(D)
+ "32029","Storey, NV",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),175,606,975,1319,1412,1319,1429,1748,2202,2834,3068,3497,4236
+ "32029","Storey, NV",8,CAEMP25N,900,"51","   Information","Number of jobs",1,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),45,68,(D)
+ "32029","Storey, NV",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),11,(D),(D),(D)
+ "32029","Storey, NV",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",37,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32029","Storey, NV",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",26,37,(D),(D),51,63,74,(D),65,66,69,74,81,92,(D),158,213
+ "32029","Storey, NV",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",0,0,0,0,0,0,0,(D),(D),(D),(D),(D),(D),(D),(D),1,1
+ "32029","Storey, NV",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",98,97,(D),(D),124,123,138,130,(D),(D),(D),(D),(D),(D),133,189,182
+ "32029","Storey, NV",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32029","Storey, NV",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),15,(D),12,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32029","Storey, NV",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",62,48,75,77,109,78,97,99,70,70,64,82,81,60,57,89,93
+ "32029","Storey, NV",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",139,139,103,98,97,107,116,118,135,116,118,129,137,158,155,182,166
+ "32029","Storey, NV",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",75,89,110,150,139,150,155,159,188,162,168,153,101,102,108,142,160
+ "32029","Storey, NV",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",188,194,198,199,201,209,233,244,267,244,224,230,238,243,248,265,262
+ "32029","Storey, NV",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",3,3,3,3,3,3,3,3,3,6,3,3,3,3,3,3,3
+ "32029","Storey, NV",8,CAEMP25N,2002,"...","   Military","Number of jobs",7,7,7,7,8,8,9,9,10,10,10,11,10,11,11,11,11
+ "32029","Storey, NV",8,CAEMP25N,2010,"...","   State and local","Number of jobs",178,184,188,189,190,198,221,232,254,228,211,216,225,229,234,251,248
+ "32029","Storey, NV",8,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32029","Storey, NV",8,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32031","Washoe, NV",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",241049,241605,247031,257779,267816,276415,283786,275243,256611,250062,251921,251925,259709,264161,272738,282520,290576
+ "32031","Washoe, NV",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",200506,199545,203518,211703,218776,225969,225942,216366,196529,191013,191282,191321,195679,201834,209080,217163,223655
+ "32031","Washoe, NV",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",40543,42060,43513,46076,49040,50446,57844,58877,60082,59049,60639,60604,64030,62327,63658,65357,66921
+ "32031","Washoe, NV",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",313,310,311,316,327,332,356,368,383,407,419,432,436,442,441,420,420
+ "32031","Washoe, NV",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",40230,41750,43202,45760,48713,50114,57488,58509,59699,58642,60220,60172,63594,61885,63217,64937,66501
+ "32031","Washoe, NV",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",540,474,492,468,458,443,433,459,478,514,526,551,563,561,557,543,568
+ "32031","Washoe, NV",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",240509,241131,246539,257311,267358,275972,283353,274784,256133,249548,251395,251374,259146,263600,272181,281977,290008
+ "32031","Washoe, NV",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",216229,215477,220343,230575,239533,247601,254329,244735,226290,220473,222712,223267,230844,235065,243527,252998,260601
+ "32031","Washoe, NV",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",320,361,300,285,253,251,293,265,225,215,247,251,241,252,259,298,289
+ "32031","Washoe, NV",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",1049,962,1032,1002,939,1031,1287,1479,1337,1648,1475,2193,2109,1919,1987,2039,2199
+ "32031","Washoe, NV",8,CAEMP25N,300,"22","   Utilities","Number of jobs",960,(D),973,949,(D),(D),531,584,571,542,497,500,480,444,451,509,573
+ "32031","Washoe, NV",8,CAEMP25N,400,"23","   Construction","Number of jobs",18980,19245,20790,23728,26348,27515,24383,19770,14432,12011,11540,11857,12779,14343,15418,16964,18404
+ "32031","Washoe, NV",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",14421,13959,13907,14505,14453,14837,15222,14510,12117,11578,11696,11828,12811,13170,13188,13830,14428
+ "32031","Washoe, NV",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",11995,11598,11205,11663,11888,(D),12030,11742,10488,9824,9772,9675,9765,10397,10490,10105,10526
+ "32031","Washoe, NV",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",25407,25752,26356,26803,27886,29178,29541,28616,26860,25917,25922,25462,26183,26665,27469,27688,28191
+ "32031","Washoe, NV",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",10361,(D),10695,11180,(D),(D),13116,12870,11599,11413,11605,12252,11979,12631,14284,16508,17073
+ "32031","Washoe, NV",8,CAEMP25N,900,"51","   Information","Number of jobs",4238,3925,3939,3886,3787,3625,3737,3680,3341,3234,3060,2883,2834,2932,2890,3038,3052
+ "32031","Washoe, NV",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",11844,11946,12058,12181,12544,12101,13118,14045,15116,14356,15299,14597,15571,13986,14359,14683,15164
+ "32031","Washoe, NV",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",10964,11277,11948,13306,14437,14921,18185,18143,17674,18110,18666,18175,18366,18721,19343,19814,20348
+ "32031","Washoe, NV",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",14303,14169,14455,15453,15978,17062,17978,18157,17053,16833,16946,17119,17545,17678,18390,18853,19291
+ "32031","Washoe, NV",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",2219,2306,2209,2592,3539,3456,3634,4179,3985,3920,3426,3369,3366,3300,3555,4093,4061
+ "32031","Washoe, NV",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",13662,13448,14419,16418,18036,19843,19574,16904,15300,15155,16033,16758,18005,18322,19105,20129,20579
+ "32031","Washoe, NV",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",1630,1769,1874,1949,2209,2434,2614,2753,2900,3009,2933,2930,3083,3359,3484,3543,3544
+ "32031","Washoe, NV",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",18663,19597,20322,20926,21223,21641,22787,22967,23175,23455,23325,23202,23628,24407,25365,26370,27043
+ "32031","Washoe, NV",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",8667,8754,8652,8613,8753,9138,9281,8802,8503,8417,8705,8158,8284,8495,8314,8678,8868
+ "32031","Washoe, NV",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",36905,34835,34687,34142,33814,34113,34923,33412,29837,29452,29662,29716,30544,31343,32127,32872,33603
+ "32031","Washoe, NV",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",9641,10244,10522,10994,11177,11646,12095,11857,11777,11384,11903,12342,13271,12701,13049,12984,13365
+ "32031","Washoe, NV",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",24280,25654,26196,26736,27825,28371,29024,30049,29843,29075,28683,28107,28302,28535,28654,28979,29407
+ "32031","Washoe, NV",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",3150,3291,3440,3425,3385,3357,3399,3523,3585,3709,3501,3514,3520,3483,3549,3650,3730
+ "32031","Washoe, NV",8,CAEMP25N,2002,"...","   Military","Number of jobs",714,736,774,780,831,847,881,955,990,1071,1162,1216,1235,1266,1278,1278,1273
+ "32031","Washoe, NV",8,CAEMP25N,2010,"...","   State and local","Number of jobs",20416,21627,21982,22531,23609,24167,24744,25571,25268,24295,24020,23377,23547,23786,23827,24051,24404
+ "32031","Washoe, NV",8,CAEMP25N,2011,"...","    State government","Number of jobs",6408,6949,7024,7229,7803,7929,8080,8880,9313,8977,9027,8691,8705,8843,8659,8665,8711
+ "32031","Washoe, NV",8,CAEMP25N,2012,"...","    Local government","Number of jobs",14008,14678,14958,15302,15806,16238,16664,16691,15955,15318,14993,14686,14842,14943,15168,15386,15693
+ "32033","White Pine, NV",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",3980,4079,4093,4447,4966,5162,5958,6904,6456,6076,6032,5697,5540,5436,5421,5241,5362
+ "32033","White Pine, NV",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",3165,3245,3192,3484,3905,4030,4171,4134,3979,4085,4455,4456,4308,4341,4324,4109,4208
+ "32033","White Pine, NV",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",815,834,901,963,1061,1132,1787,2770,2477,1991,1577,1241,1232,1095,1097,1132,1154
+ "32033","White Pine, NV",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",115,113,102,95,90,83,80,93,105,121,132,142,143,145,145,139,139
+ "32033","White Pine, NV",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",700,721,799,868,971,1049,1707,2677,2372,1870,1445,1099,1089,950,952,993,1015
+ "32033","White Pine, NV",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",211,198,204,190,182,175,157,171,177,194,199,212,218,215,213,211,226
+ "32033","White Pine, NV",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",3769,3881,3889,4257,4784,4987,5801,6733,6279,5882,5833,5485,5322,5221,5208,5030,5136
+ "32033","White Pine, NV",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",2397,2436,2434,2792,3279,3486,4324,5227,4775,4381,4388,4050,3878,3796,3785,3676,3803
+ "32033","White Pine, NV",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32033","White Pine, NV",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",182,167,189,342,650,716,(D),(D),(D),(D),1197,1169,1180,1216,1248,1182,1298
+ "32033","White Pine, NV",8,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32033","White Pine, NV",8,CAEMP25N,400,"23","   Construction","Number of jobs",192,197,198,248,255,259,264,235,193,169,210,308,194,176,161,158,151
+ "32033","White Pine, NV",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",56,44,48,49,51,56,66,61,58,54,53,54,54,64,58,53,58
+ "32033","White Pine, NV",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",48,58,54,61,71,64,79,84,76,75,78,(D),(D),(D),(D),(D),(D)
+ "32033","White Pine, NV",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",509,491,483,500,555,563,591,647,640,558,526,448,427,450,443,420,422
+ "32033","White Pine, NV",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),124,121,116,117,123,124
+ "32033","White Pine, NV",8,CAEMP25N,900,"51","   Information","Number of jobs",25,(D),37,34,38,40,55,57,42,39,36,30,38,29,23,26,26
+ "32033","White Pine, NV",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",98,81,89,76,65,71,88,93,112,109,95,91,85,67,81,86,86
+ "32033","White Pine, NV",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",84,92,90,124,167,235,832,1711,1418,984,641,330,239,215,204,182,181
+ "32033","White Pine, NV",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",109,94,89,(D),(D),(D),(D),(D),(D),116,124,(D),(D),113,(D),(D),(D)
+ "32033","White Pine, NV",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),0,0,(D),(D),(D),(D),(D),(D),41,43,(D),(D),41,(D),(D),(D)
+ "32033","White Pine, NV",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),118,121,150,136,161,193,148,111,119,123,142,143,131,135,114,122
+ "32033","White Pine, NV",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",8,7,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),12,12
+ "32033","White Pine, NV",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",238,225,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32033","White Pine, NV",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",27,43,46,56,62,56,63,52,61,56,53,48,45,47,39,49,53
+ "32033","White Pine, NV",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",457,502,485,522,537,544,549,553,535,536,579,587,588,585,551,543,533
+ "32033","White Pine, NV",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",133,(D),143,158,176,189,204,191,183,181,169,161,172,162,185,183,188
+ "32033","White Pine, NV",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1372,1445,1455,1465,1505,1501,1477,1506,1504,1501,1445,1435,1444,1425,1423,1354,1333
+ "32033","White Pine, NV",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",212,222,225,207,205,213,203,207,218,232,226,223,205,192,181,171,165
+ "32033","White Pine, NV",8,CAEMP25N,2002,"...","   Military","Number of jobs",15,15,15,15,16,17,18,19,20,22,23,24,24,25,24,23,22
+ "32033","White Pine, NV",8,CAEMP25N,2010,"...","   State and local","Number of jobs",1145,1208,1215,1243,1284,1271,1256,1280,1266,1247,1196,1188,1215,1208,1218,1160,1146
+ "32033","White Pine, NV",8,CAEMP25N,2011,"...","    State government","Number of jobs",491,523,535,562,582,574,547,558,573,559,513,528,550,539,537,489,493
+ "32033","White Pine, NV",8,CAEMP25N,2012,"...","    Local government","Number of jobs",654,685,680,681,702,697,709,722,693,688,683,660,665,669,681,671,653
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",41635,41771,41908,43058,43878,43921,42266,41157,39407,38440,38076,37406,37531,37575,37675,38257,39869
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",32369,32128,32153,32718,33064,32834,32897,31381,29261,28649,28388,28291,28387,28678,29018,29441,30826
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",9266,9643,9755,10340,10814,11087,9369,9776,10146,9791,9688,9115,9144,8897,8657,8816,9043
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",18,19,17,16,16,17,17,18,18,18,18,16,16,16,16,15,15
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",9248,9624,9738,10324,10798,11070,9352,9758,10128,9773,9670,9099,9128,8881,8641,8801,9028
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",53,54,57,51,48,46,40,51,57,65,68,74,77,74,72,74,86
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",41582,41717,41851,43007,43830,43875,42226,41106,39350,38375,38008,37332,37454,37501,37603,38183,39783
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",31206,31257,31358,32341,33310,33329,31498,31500,29524,28579,28321,27952,27890,28059,28029,28656,29924
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),31,39,31,35,(D),(D),(D),(D),(D),(D)
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),64,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,400,"23","   Construction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),1312,1369,1512,1527,1662,2072
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",3998,3551,3326,3322,3296,3323,3291,3250,2753,2725,2765,2826,2838,2844,2806,2740,2857
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",702,724,718,689,715,728,755,742,689,648,650,630,601,678,711,643,669
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",4650,4553,4234,4169,4261,4376,4273,4034,3755,3568,3552,3448,3451,3671,3696,3695,3818
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,900,"51","   Information","Number of jobs",437,437,405,433,431,442,507,461,399,442,429,404,392,405,357,368,399
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",2764,2787,2557,2707,2617,2458,2722,3112,3408,2994,2980,2722,2663,2391,2329,2432,2518
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",3292,3402,3751,4226,4629,4892,2598,2499,2426,2435,2429,2136,2169,2251,2218,2285,2334
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",1928,1931,2029,2063,1988,2060,2115,2052,1917,1840,1814,1741,1725,1646,1613,1611,1678
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",189,264,164,216,298,336,355,465,463,484,455,440,522,531,519,576,588
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1714,1785,1892,1855,1881,1758,1761,1497,1380,1532,1492,1655,1533,1494,1374,1387,1434
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",166,179,172,165,170,193,199,195,200,186,196,192,208,206,244,232,239
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",2387,2533,2669,2703,2751,2619,2681,3932,3862,4065,4174,4210,4120,4133,4188,4518,4637
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",1501,1622,1722,1987,2063,1974,1982,1894,1696,1649,1588,1536,1489,1504,1476,1454,1494
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",2650,2583,2590,2499,2488,2611,2647,2523,2350,2270,2281,2306,2369,2441,2598,2620,2690
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1737,1719,1894,1909,1902,1873,1942,1893,1753,1566,1568,1585,1699,1671,1705,1709,1731
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",10376,10460,10493,10666,10520,10546,10728,9606,9826,9796,9687,9380,9564,9442,9574,9527,9859
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",539,573,570,558,560,558,547,567,592,593,546,525,543,516,528,518,635
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,2002,"...","   Military","Number of jobs",102,105,109,107,109,110,113,119,124,132,139,143,142,145,147,144,143
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,2010,"...","   State and local","Number of jobs",9735,9782,9814,10001,9851,9878,10068,8920,9110,9071,9002,8712,8879,8781,8899,8865,9081
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,2011,"...","    State government","Number of jobs",7000,6985,6927,7048,6816,6740,6973,6976,7166,7151,(D),(D),(D),(D),(D),(D),(D)
+ "32510","Carson City (Independent City), NV",8,CAEMP25N,2012,"...","    Local government","Number of jobs",2735,2797,2887,2953,3035,3138,3095,1944,1944,1920,(D),(D),(D),(D),(D),(D),(D)
+"Note: See the included footnote file."
+"CAEMP25N: Total Full-Time and Part-Time Employment by NAICS Industry 1/"
+"Last updated: November 15, 2018-- new statistics for 2017; revised statistics for 2001-2016. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

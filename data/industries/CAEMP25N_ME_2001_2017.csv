@@ -1,0 +1,566 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+ "23000","Maine",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",787577,790609,794507,807625,809353,817622,828212,823517,800501,791331,794389,796903,803641,811156,816944,826971,835702
+ "23000","Maine",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",627326,626306,627164,632278,627819,632651,635466,635038,612929,607945,608840,611800,615236,619376,624837,632306,637895
+ "23000","Maine",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",160251,164303,167343,175347,181534,184971,192746,188479,187572,183386,185549,185103,188405,191780,192107,194665,197807
+ "23000","Maine",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",7038,7099,6909,6731,6619,6472,7348,7309,7315,7381,7519,7450,7545,7548,7560,7550,7549
+ "23000","Maine",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",153213,157204,160434,168616,174915,178499,185398,181170,180257,176005,178030,177653,180860,184232,184547,187115,190258
+ "23000","Maine",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",10901,10931,10811,9945,9715,9284,10052,10255,10162,10189,10590,11082,11695,11714,11711,11425,11416
+ "23000","Maine",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",776676,779678,783696,797680,799638,808338,818160,813262,790339,781142,783799,785821,791946,799442,805233,815546,824286
+ "23000","Maine",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",667290,668637,671478,685283,687763,695766,705334,700338,678739,670309,675067,677687,684963,692711,699100,708437,716964
+ "23000","Maine",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",15813,17030,14369,15685,16057,15885,15460,(D),(D),14102,13967,(D),15298,15434,14805,15053,14957
+ "23000","Maine",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",516,420,491,493,483,504,723,(D),(D),824,833,(D),1198,1059,1176,1196,1267
+ "23000","Maine",1,CAEMP25N,300,"22","   Utilities","Number of jobs",2357,2301,2091,2008,2035,1978,2110,2115,2021,1979,1738,1752,1746,1694,1836,1971,2195
+ "23000","Maine",1,CAEMP25N,400,"23","   Construction","Number of jobs",55263,54464,57894,60223,62258,63427,63291,60140,54696,51301,50798,51248,51264,51575,51779,53732,55315
+ "23000","Maine",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",78734,72282,68285,67509,65180,64189,64193,63296,57501,55116,55597,55737,55911,55382,55861,56300,57019
+ "23000","Maine",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",22710,22188,23037,23898,24028,24001,23882,23247,21995,21377,21643,21833,22013,23471,24019,22393,21932
+ "23000","Maine",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",105453,105731,105651,107393,107078,105264,105883,104035,100758,99047,99380,98735,99086,99681,99394,99773,99255
+ "23000","Maine",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",19853,19678,19260,19473,19560,21744,22642,21838,20639,20079,20248,20228,20592,20956,21444,21932,22640
+ "23000","Maine",1,CAEMP25N,900,"51","   Information","Number of jobs",13743,12990,12998,12899,13323,13330,12765,12235,11270,11208,10492,10053,9888,9838,9827,10068,9705
+ "23000","Maine",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",33054,33199,33052,32750,32197,31819,32518,32997,33936,33227,34833,34070,34251,32041,32356,32943,33612
+ "23000","Maine",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",20753,21597,22756,25053,26976,28073,28998,28875,28642,29545,30503,30058,30621,31689,32226,33396,34180
+ "23000","Maine",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",38708,38638,38807,40534,40376,41120,42609,43149,41989,41841,41432,41686,42979,43706,44560,44706,45496
+ "23000","Maine",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",6189,6520,6067,5912,5771,6423,6638,7359,7241,7335,7470,7949,7764,9568,9658,10804,11337
+ "23000","Maine",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",32453,33303,34030,33359,33421,35074,37382,38476,38070,38325,39244,39061,40562,42037,42024,42584,42245
+ "23000","Maine",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",14148,14701,15347,15521,15883,16571,17068,17455,17733,18557,18322,18730,19411,20104,20525,21028,21378
+ "23000","Maine",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",98492,101527,103570,107388,107841,110307,112213,113068,113496,113044,112883,113749,113853,113667,115427,116231,117851
+ "23000","Maine",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",16387,17239,17611,17693,17822,17962,18547,18792,18433,18838,19005,19986,20042,20209,20048,20735,21121
+ "23000","Maine",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",53548,54411,55377,56168,56131,56802,56925,56492,55914,56499,57299,57979,59042,60183,60792,62185,63835
+ "23000","Maine",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",39116,40418,40785,41324,41343,41293,41487,40649,39437,38065,39380,38615,39442,40417,41343,41407,41624
+ "23000","Maine",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",109386,111041,112218,112397,111875,112572,112826,112924,111600,110833,108732,108134,106983,106731,106133,107109,107322
+ "23000","Maine",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",13551,13958,14098,14113,13839,14105,14150,14600,15006,15441,14680,14501,14158,14046,14514,15030,15257
+ "23000","Maine",1,CAEMP25N,2002,"...","   Military","Number of jobs",10005,9862,10381,10123,9630,9530,9055,9146,8293,7799,7380,7293,7145,7026,6932,6798,6800
+ "23000","Maine",1,CAEMP25N,2010,"...","   State and local","Number of jobs",85830,87221,87739,88161,88406,88937,89621,89178,88301,87593,86672,86340,85680,85659,84687,85281,85265
+ "23000","Maine",1,CAEMP25N,2011,"...","    State government","Number of jobs",26377,26791,26616,26875,27130,27437,28208,27987,27763,27723,27241,27087,26808,26914,26232,26582,26397
+ "23000","Maine",1,CAEMP25N,2012,"...","    Local government","Number of jobs",59453,60430,61123,61286,61276,61500,61413,61191,60538,59870,59431,59253,58872,58745,58455,58699,58868
+ "23001","Androscoggin, ME",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",59480,60214,60114,60631,60554,61323,62993,62500,60515,60259,60362,60347,60398,61285,61733,62446,62493
+ "23001","Androscoggin, ME",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",50670,51358,50876,50865,50529,51154,52057,51891,49857,49854,49899,49958,50147,51049,51450,51975,51850
+ "23001","Androscoggin, ME",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",8810,8856,9238,9766,10025,10169,10936,10609,10658,10405,10463,10389,10251,10236,10283,10471,10643
+ "23001","Androscoggin, ME",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",312,314,305,299,295,288,327,344,363,386,412,425,431,431,433,433,433
+ "23001","Androscoggin, ME",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",8498,8542,8933,9467,9730,9881,10609,10265,10295,10019,10051,9964,9820,9805,9850,10038,10210
+ "23001","Androscoggin, ME",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",823,870,819,682,625,554,551,569,564,570,599,632,668,668,669,653,653
+ "23001","Androscoggin, ME",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",58657,59344,59295,59949,59929,60769,62442,61931,59951,59689,59763,59715,59730,60617,61064,61793,61840
+ "23001","Androscoggin, ME",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",52685,53189,53227,53830,53836,54721,56380,55878,54021,53857,54024,53954,54021,54870,55363,56111,56094
+ "23001","Androscoggin, ME",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",254,314,272,327,323,283,292,307,304,(D),(D),(D),(D),(D),(D),299,(D)
+ "23001","Androscoggin, ME",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",8,2,5,13,12,9,13,17,6,(D),(D),(D),(D),(D),(D),68,(D)
+ "23001","Androscoggin, ME",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),102,104,105,(D),99,96,92,(D),75,(D),(D),122,137,149,164
+ "23001","Androscoggin, ME",1,CAEMP25N,400,"23","   Construction","Number of jobs",4101,3960,(D),(D),(D),4695,(D),(D),3968,3802,3803,3720,3801,3806,3867,3958,4040
+ "23001","Androscoggin, ME",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",7267,6993,6673,6481,6604,6542,6430,6344,5520,5183,5192,5161,5174,5306,5417,5410,5413
+ "23001","Androscoggin, ME",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",1768,1743,1853,1923,1850,(D),1811,1842,1734,(D),1715,(D),(D),1821,1802,1767,1751
+ "23001","Androscoggin, ME",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",8715,8626,8287,8409,8212,7972,8191,7954,7620,7688,7747,7783,7602,7640,7514,7646,7598
+ "23001","Androscoggin, ME",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",1632,1605,1662,1695,1751,2219,2700,2666,2542,2603,2549,2422,2533,2679,2732,2792,2896
+ "23001","Androscoggin, ME",1,CAEMP25N,900,"51","   Information","Number of jobs",853,792,757,871,863,908,990,1013,874,862,810,808,719,636,633,628,565
+ "23001","Androscoggin, ME",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),3447,3343,3348,3353,3383,2489,2488,2488,2465
+ "23001","Androscoggin, ME",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",1259,1484,1563,1652,1764,1836,1936,1889,1844,1833,1910,1921,1915,1898,1755,1876,1944
+ "23001","Androscoggin, ME",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",3255,3210,3070,2836,2814,2953,2878,2790,2816,2847,2925,2939,2961,3015,3130,3185,3269
+ "23001","Androscoggin, ME",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",241,297,307,360,341,296,382,414,384,364,354,323,279,1206,1253,1270,1275
+ "23001","Androscoggin, ME",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",3358,3983,4098,3452,3457,3427,3792,3825,3772,4150,4456,4346,4387,4634,4717,4613,4386
+ "23001","Androscoggin, ME",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",1716,1724,1716,1733,1648,1766,1771,1861,1830,1875,1916,1882,1951,1976,1988,1947,1966
+ "23001","Androscoggin, ME",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",8599,8632,8732,9620,9591,9759,10333,10340,10547,10598,10262,10472,10374,10507,10726,11077,11005
+ "23001","Androscoggin, ME",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",763,790,873,901,812,(D),884,926,885,879,860,877,846,824,809,854,829
+ "23001","Androscoggin, ME",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",3062,3103,3172,3245,3277,3462,3477,3429,3280,3245,3262,3298,3433,3461,3485,3457,3536
+ "23001","Androscoggin, ME",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",2712,2712,2619,2654,2651,2676,2630,2583,2556,2486,2546,2536,2492,2525,2582,2627,2630
+ "23001","Androscoggin, ME",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",5972,6155,6068,6119,6093,6048,6062,6053,5930,5832,5739,5761,5709,5747,5701,5682,5746
+ "23001","Androscoggin, ME",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",356,353,293,320,319,324,317,321,362,326,291,279,265,257,259,273,277
+ "23001","Androscoggin, ME",1,CAEMP25N,2002,"...","   Military","Number of jobs",491,481,465,434,402,395,385,415,359,344,340,345,345,345,342,329,327
+ "23001","Androscoggin, ME",1,CAEMP25N,2010,"...","   State and local","Number of jobs",5125,5321,5310,5365,5372,5329,5360,5317,5209,5162,5108,5137,5099,5145,5100,5080,5142
+ "23001","Androscoggin, ME",1,CAEMP25N,2011,"...","    State government","Number of jobs",613,641,655,663,616,651,682,696,717,746,723,723,745,791,744,747,711
+ "23001","Androscoggin, ME",1,CAEMP25N,2012,"...","    Local government","Number of jobs",4512,4680,4655,4702,4756,4678,4678,4621,4492,4416,4385,4414,4354,4354,4356,4333,4431
+ "23003","Aroostook, ME",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",39843,39873,39939,40145,40384,40601,40887,40355,39145,38148,37739,37368,37198,36899,36476,36213,36282
+ "23003","Aroostook, ME",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",32195,32202,32256,32199,32120,32177,32160,31843,30761,30118,29765,29629,29434,29095,28891,28743,28694
+ "23003","Aroostook, ME",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",7648,7671,7683,7946,8264,8424,8727,8512,8384,8030,7974,7739,7764,7804,7585,7470,7588
+ "23003","Aroostook, ME",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",1067,1074,1043,1020,1006,990,1132,1054,989,929,878,800,810,810,812,811,811
+ "23003","Aroostook, ME",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",6581,6597,6640,6926,7258,7434,7595,7458,7395,7101,7096,6939,6954,6994,6773,6659,6777
+ "23003","Aroostook, ME",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1798,1833,1802,1637,1593,1515,1632,1625,1563,1515,1540,1603,1726,1732,1729,1668,1665
+ "23003","Aroostook, ME",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",38045,38040,38137,38508,38791,39086,39255,38730,37582,36633,36199,35765,35472,35167,34747,34545,34617
+ "23003","Aroostook, ME",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",31549,31545,31582,31893,31931,32188,32228,31535,30455,29593,29321,28989,28837,28742,28371,28188,28346
+ "23003","Aroostook, ME",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),1219,1132,1118,1089,1126,1134,1124,1078,1028,992
+ "23003","Aroostook, ME",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),11,(D),30,22,20,30,44,42,52,49,58,62
+ "23003","Aroostook, ME",1,CAEMP25N,300,"22","   Utilities","Number of jobs",48,71,68,74,88,87,92,122,122,122,77,61,58,68,115,118,(D)
+ "23003","Aroostook, ME",1,CAEMP25N,400,"23","   Construction","Number of jobs",1778,1698,1814,1917,1849,1931,(D),2107,1991,1826,1787,1788,1751,1764,1743,1770,1818
+ "23003","Aroostook, ME",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",4281,4067,3801,3760,3739,3724,3763,3569,3155,2977,3082,3046,3096,3000,3006,3083,3064
+ "23003","Aroostook, ME",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",980,1031,1051,1090,1008,979,867,811,780,761,713,723,743,792,790,706,(D)
+ "23003","Aroostook, ME",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",5196,5159,5244,5169,5247,5395,5472,5316,5188,5106,5136,5171,5098,5087,4935,4843,4723
+ "23003","Aroostook, ME",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",1722,1750,1708,1630,1608,1630,1655,1573,1544,1474,1482,1465,1429,1364,1415,1404,1427
+ "23003","Aroostook, ME",1,CAEMP25N,900,"51","   Information","Number of jobs",1212,1172,1198,1163,1136,1186,1126,943,751,694,625,561,548,525,497,468,460
+ "23003","Aroostook, ME",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1222,1232,1207,1185,1200,1147,1067,1091,1148,1124,1147,1102,1094,1075,1076,1130,1173
+ "23003","Aroostook, ME",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",718,722,733,783,864,827,872,897,865,880,886,873,876,895,868,875,889
+ "23003","Aroostook, ME",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",962,996,994,1003,983,944,969,1010,985,949,950,899,907,918,879,835,851
+ "23003","Aroostook, ME",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",316,359,310,288,296,296,292,283,281,302,366,352,328,330,283,330,331
+ "23003","Aroostook, ME",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1282,1351,1346,1275,1197,1221,1366,1542,1523,1314,1143,1041,1015,1097,1082,1004,993
+ "23003","Aroostook, ME",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",193,183,194,186,(D),(D),347,371,429,439,388,412,464,486,488,497,481
+ "23003","Aroostook, ME",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",5925,5988,6193,6387,6505,6621,6440,6243,6244,6236,6139,6092,5977,5859,5783,5778,5865
+ "23003","Aroostook, ME",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",253,308,328,343,339,344,338,328,328,341,331,333,345,336,309,313,326
+ "23003","Aroostook, ME",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",2116,2122,2216,2252,2284,(D),2187,2198,2136,2140,2149,2128,2139,2170,2168,2209,2271
+ "23003","Aroostook, ME",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",2013,1984,1994,2054,2035,2054,2005,1882,1831,1770,1801,1772,1793,1800,1807,1739,1740
+ "23003","Aroostook, ME",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",6496,6495,6555,6615,6860,6898,7027,7195,7127,7040,6878,6776,6635,6425,6376,6357,6271
+ "23003","Aroostook, ME",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",741,756,872,920,936,976,1076,1214,1248,1286,1274,1242,1207,1160,1181,1203,1200
+ "23003","Aroostook, ME",1,CAEMP25N,2002,"...","   Military","Number of jobs",403,376,343,306,274,268,260,277,240,229,224,225,223,222,217,207,204
+ "23003","Aroostook, ME",1,CAEMP25N,2010,"...","   State and local","Number of jobs",5352,5363,5340,5389,5650,5654,5691,5704,5639,5525,5380,5309,5205,5043,4978,4947,4867
+ "23003","Aroostook, ME",1,CAEMP25N,2011,"...","    State government","Number of jobs",1285,1279,1260,1328,1614,1583,1589,1615,1581,1544,1402,1374,1343,1214,1205,1216,1187
+ "23003","Aroostook, ME",1,CAEMP25N,2012,"...","    Local government","Number of jobs",4067,4084,4080,4061,4036,4071,4102,4089,4058,3981,3978,3935,3862,3829,3773,3731,3680
+ "23005","Cumberland, ME",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",216673,216383,218950,223042,223309,226650,230232,230702,224615,223436,226376,228461,231017,234252,238383,242922,247865
+ "23005","Cumberland, ME",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",182869,181397,182650,184670,183532,185570,187105,187598,181018,179860,181552,183263,184386,185945,188681,191880,195900
+ "23005","Cumberland, ME",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",33804,34986,36300,38372,39777,41080,43127,43104,43597,43576,44824,45198,46631,48307,49702,51042,51965
+ "23005","Cumberland, ME",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",546,554,535,515,500,484,542,554,568,586,610,617,624,625,625,624,624
+ "23005","Cumberland, ME",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",33258,34432,35765,37857,39277,40596,42585,42550,43029,42990,44214,44581,46007,47682,49077,50418,51341
+ "23005","Cumberland, ME",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",799,818,816,755,740,709,766,809,825,849,906,977,1036,1037,1036,1008,1007
+ "23005","Cumberland, ME",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",215874,215565,218134,222287,222569,225941,229466,229893,223790,222587,225470,227484,229981,233215,237347,241914,246858
+ "23005","Cumberland, ME",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",190957,190185,192425,196759,197626,200423,203931,204616,199204,198830,202456,204554,207481,210753,215291,219468,224317
+ "23005","Cumberland, ME",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",1397,1550,1269,1381,1419,(D),(D),1339,1245,(D),(D),(D),(D),(D),(D),(D),(D)
+ "23005","Cumberland, ME",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",100,87,101,85,99,(D),(D),195,183,(D),(D),(D),(D),(D),(D),(D),(D)
+ "23005","Cumberland, ME",1,CAEMP25N,300,"22","   Utilities","Number of jobs",612,577,644,577,594,579,576,589,571,581,540,553,442,409,400,364,393
+ "23005","Cumberland, ME",1,CAEMP25N,400,"23","   Construction","Number of jobs",12831,12690,13298,14064,13995,14148,14088,13466,12121,11602,11770,12226,12193,12324,12330,12789,13402
+ "23005","Cumberland, ME",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",14262,12937,12375,12169,11020,11214,11511,11377,10358,10091,10285,10388,10595,10533,10965,11428,11958
+ "23005","Cumberland, ME",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",9437,9073,9249,9489,9654,9484,9594,9323,8919,8337,8567,8743,8777,9171,9515,9236,9184
+ "23005","Cumberland, ME",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",28630,28344,28342,29135,29243,27033,26984,26699,25511,25233,25237,25118,25302,25576,25739,25948,25851
+ "23005","Cumberland, ME",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",5578,5453,5340,5405,5397,7199,7415,7132,6509,6369,6469,6317,6475,6741,6992,7231,7544
+ "23005","Cumberland, ME",1,CAEMP25N,900,"51","   Information","Number of jobs",5447,5060,5121,4899,5063,5120,4882,4728,4465,4577,3951,3816,3700,3720,3701,3785,3778
+ "23005","Cumberland, ME",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",15158,15057,15095,14910,14855,14825,15204,15397,15756,15580,16569,16294,16447,15849,16243,16677,17172
+ "23005","Cumberland, ME",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",7495,7702,8119,9110,9815,10256,10542,10634,10679,11076,11536,11363,11596,12127,12654,13220,13489
+ "23005","Cumberland, ME",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",14590,14350,14320,15124,15395,15882,16426,16864,16525,16464,16580,17007,17818,18134,18502,18412,18789
+ "23005","Cumberland, ME",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",2757,3119,3011,3068,2894,3560,3597,3880,3790,3929,4088,4402,4252,5004,4970,5757,6200
+ "23005","Cumberland, ME",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",11916,11581,11939,11624,11448,11405,12163,12417,12026,12334,12967,13049,13347,13268,13170,13300,13573
+ "23005","Cumberland, ME",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",4629,4726,4877,5125,5166,5426,5528,5772,5930,6179,6162,6448,6861,7064,7299,7732,7753
+ "23005","Cumberland, ME",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",27488,28521,29135,29951,30775,31959,32693,33647,33805,33716,34022,34538,34930,35112,36323,36107,36930
+ "23005","Cumberland, ME",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",4775,5015,5168,5328,5358,5467,5586,5685,5570,5767,5888,6197,6210,6379,6292,6477,6711
+ "23005","Cumberland, ME",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",14454,14555,14892,15133,15385,15463,15648,15626,15713,16178,16562,16744,16978,17347,17913,18502,19047
+ "23005","Cumberland, ME",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",9401,9788,10130,10182,10051,9855,9960,9846,9528,9356,9888,9709,9987,10457,10762,10966,11017
+ "23005","Cumberland, ME",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",24917,25380,25709,25528,24943,25518,25535,25277,24586,23757,23014,22930,22500,22462,22056,22446,22541
+ "23005","Cumberland, ME",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",3054,3056,3014,2765,2498,2730,2714,2732,2629,2433,2166,2062,1976,1906,1921,1951,1969
+ "23005","Cumberland, ME",1,CAEMP25N,2002,"...","   Military","Number of jobs",3958,4083,4189,4115,3934,3916,3735,3577,3179,2738,2546,2469,2382,2318,2231,2255,2273
+ "23005","Cumberland, ME",1,CAEMP25N,2010,"...","   State and local","Number of jobs",17905,18241,18506,18648,18511,18872,19086,18968,18778,18586,18302,18399,18142,18238,17904,18240,18299
+ "23005","Cumberland, ME",1,CAEMP25N,2011,"...","    State government","Number of jobs",4998,5106,5100,5298,5197,5347,5551,5444,5374,5296,5260,5315,5037,4950,4701,4839,4850
+ "23005","Cumberland, ME",1,CAEMP25N,2012,"...","    Local government","Number of jobs",12907,13135,13406,13350,13314,13525,13535,13524,13404,13290,13042,13084,13105,13288,13203,13401,13449
+ "23007","Franklin, ME",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",16244,16789,16805,17059,17167,16754,16887,16799,16469,16057,15920,15892,15983,15815,15845,15621,15658
+ "23007","Franklin, ME",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",12553,12960,12981,12948,12980,12550,12391,12397,12016,11750,11620,11544,11513,11429,11480,11331,11298
+ "23007","Franklin, ME",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",3691,3829,3824,4111,4187,4204,4496,4402,4453,4307,4300,4348,4470,4386,4365,4290,4360
+ "23007","Franklin, ME",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",313,327,318,315,313,310,357,355,354,358,364,361,366,366,364,364,364
+ "23007","Franklin, ME",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",3378,3502,3506,3796,3874,3894,4139,4047,4099,3949,3936,3987,4104,4020,4001,3926,3996
+ "23007","Franklin, ME",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",379,400,396,382,379,373,419,419,413,413,421,427,441,441,439,434,434
+ "23007","Franklin, ME",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",15865,16389,16409,16677,16788,16381,16468,16380,16056,15644,15499,15465,15542,15374,15406,15187,15224
+ "23007","Franklin, ME",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",13724,14197,14178,14493,14542,14181,14232,14171,13901,13563,13418,13364,13431,13222,13243,12948,12954
+ "23007","Franklin, ME",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),489,463,(D),440,432,473,468,449,419,420,445
+ "23007","Franklin, ME",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),29,23,(D),29,24,51,48,31,49,43,46
+ "23007","Franklin, ME",1,CAEMP25N,300,"22","   Utilities","Number of jobs",92,94,94,98,96,93,97,99,98,98,87,80,75,69,93,107,124
+ "23007","Franklin, ME",1,CAEMP25N,400,"23","   Construction","Number of jobs",1268,1296,1421,1565,1591,1529,1621,1570,1375,1238,1210,1128,1083,1070,1024,1002,1047
+ "23007","Franklin, ME",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",2468,2380,2219,2150,2099,2025,2004,1917,1744,(D),(D),(D),1794,1751,1618,1436,1363
+ "23007","Franklin, ME",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",189,178,226,228,224,206,208,182,166,176,182,191,183,208,212,213,170
+ "23007","Franklin, ME",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2117,2141,2127,2178,2167,2126,2189,2129,2218,2173,2146,2129,2103,2114,2102,2049,2041
+ "23007","Franklin, ME",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",338,358,305,232,156,157,175,166,184,169,172,166,(D),(D),(D),(D),210
+ "23007","Franklin, ME",1,CAEMP25N,900,"51","   Information","Number of jobs",102,117,126,130,127,135,143,150,141,145,141,143,141,120,112,106,99
+ "23007","Franklin, ME",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",562,539,541,505,498,417,360,417,466,441,427,421,429,404,390,412,426
+ "23007","Franklin, ME",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",405,406,420,(D),(D),(D),539,546,529,542,550,536,537,532,547,575,600
+ "23007","Franklin, ME",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),439,(D),(D),(D),(D),(D)
+ "23007","Franklin, ME",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),30,34,(D),(D),36,(D)
+ "23007","Franklin, ME",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",329,431,490,531,553,633,(D),723,718,729,642,691,783,821,889,849,813
+ "23007","Franklin, ME",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23007","Franklin, ME",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23007","Franklin, ME",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",465,484,685,634,602,(D),711,692,710,707,722,722,800,(D),849,848,(D)
+ "23007","Franklin, ME",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1512,1575,1396,1387,1587,(D),1360,1418,1369,1311,1288,1274,1253,(D),1275,1313,(D)
+ "23007","Franklin, ME",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",780,837,846,937,945,956,959,938,942,859,861,788,803,765,817,782,784
+ "23007","Franklin, ME",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2141,2192,2231,2184,2246,2200,2236,2209,2155,2081,2081,2101,2111,2152,2163,2239,2270
+ "23007","Franklin, ME",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",95,98,96,104,104,105,105,111,119,134,114,115,115,118,110,108,118
+ "23007","Franklin, ME",1,CAEMP25N,2002,"...","   Military","Number of jobs",137,135,129,120,110,109,107,114,100,96,96,97,96,96,94,91,89
+ "23007","Franklin, ME",1,CAEMP25N,2010,"...","   State and local","Number of jobs",1909,1959,2006,1960,2032,1986,2024,1984,1936,1851,1871,1889,1900,1938,1959,2040,2063
+ "23007","Franklin, ME",1,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23007","Franklin, ME",1,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23009","Hancock, ME",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",35237,35540,35499,36120,36292,36213,36413,36244,35174,34721,34977,34851,35100,35369,35288,36027,36324
+ "23009","Hancock, ME",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",24656,24818,24800,25042,24746,24537,24481,24524,23514,23330,23445,23178,23125,23327,23291,23653,23789
+ "23009","Hancock, ME",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",10581,10722,10699,11078,11546,11676,11932,11720,11660,11391,11532,11673,11975,12042,11997,12374,12535
+ "23009","Hancock, ME",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",320,311,308,302,302,297,341,343,349,358,370,373,377,377,376,375,375
+ "23009","Hancock, ME",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",10261,10411,10391,10776,11244,11379,11591,11377,11311,11033,11162,11300,11598,11665,11621,11999,12160
+ "23009","Hancock, ME",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",477,493,505,473,476,462,506,509,496,492,506,520,545,546,545,533,533
+ "23009","Hancock, ME",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",34760,35047,34994,35647,35816,35751,35907,35735,34678,34229,34471,34331,34555,34823,34743,35494,35791
+ "23009","Hancock, ME",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",30807,31202,31188,31816,31999,32019,32188,32052,31065,30598,30905,30804,31093,31326,31168,31921,32080
+ "23009","Hancock, ME",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",1952,2148,1774,1953,2068,2035,2028,1984,1877,1873,1934,(D),(D),(D),(D),(D),(D)
+ "23009","Hancock, ME",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",47,36,58,58,46,51,55,61,48,50,57,(D),(D),(D),(D),(D),(D)
+ "23009","Hancock, ME",1,CAEMP25N,300,"22","   Utilities","Number of jobs",78,65,62,60,55,58,53,55,56,56,57,59,60,58,75,90,106
+ "23009","Hancock, ME",1,CAEMP25N,400,"23","   Construction","Number of jobs",3576,3473,3680,3731,3942,4036,(D),(D),3616,3372,3280,3299,3261,3276,3249,3395,3446
+ "23009","Hancock, ME",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",3105,3003,2822,2825,2787,2637,2584,2541,2202,2124,2051,1910,1864,1882,1613,1540,1503
+ "23009","Hancock, ME",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",402,391,398,457,462,446,471,476,495,508,520,552,575,629,664,623,635
+ "23009","Hancock, ME",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",4705,4774,4724,4723,4706,4631,4616,4555,4590,4507,4470,4413,4385,4405,4366,4372,4322
+ "23009","Hancock, ME",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",760,704,734,725,687,675,692,722,682,620,644,662,648,639,654,679,678
+ "23009","Hancock, ME",1,CAEMP25N,900,"51","   Information","Number of jobs",449,424,437,444,438,463,438,429,386,389,429,398,396,383,378,408,399
+ "23009","Hancock, ME",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",765,801,816,806,794,816,866,837,878,842,879,829,802,737,751,830,832
+ "23009","Hancock, ME",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",974,1032,1099,1190,1275,1323,1342,1395,1396,1470,1478,1468,1514,1577,1675,1731,1803
+ "23009","Hancock, ME",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",2544,2680,2739,2778,2724,2724,2760,2815,2688,2698,2670,2664,2701,2746,2774,2814,2922
+ "23009","Hancock, ME",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",87,131,89,84,83,82,79,72,71,73,78,79,74,70,70,65,62
+ "23009","Hancock, ME",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",989,1058,1107,1164,1207,1299,1367,1403,1385,1359,1381,1366,1416,1478,1463,1514,1523
+ "23009","Hancock, ME",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",476,486,525,540,580,630,588,573,576,583,643,689,712,730,686,671,666
+ "23009","Hancock, ME",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",3288,3389,3370,3437,3398,3389,(D),(D),3634,3624,3719,3713,3652,3561,3674,3691,3695
+ "23009","Hancock, ME",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",1017,1003,1015,1013,1026,1043,1091,1087,1065,1117,1097,1098,1119,1170,1135,1171,1176
+ "23009","Hancock, ME",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",3464,3509,3590,3635,3533,3465,3482,3442,3337,3353,3434,3456,3541,3498,3397,3660,3681
+ "23009","Hancock, ME",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",2129,2095,2149,2193,2188,2216,2272,2153,2083,1980,2084,1977,2065,2143,2245,2238,2253
+ "23009","Hancock, ME",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",3953,3845,3806,3831,3817,3732,3719,3683,3613,3631,3566,3527,3462,3497,3575,3573,3711
+ "23009","Hancock, ME",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",426,404,355,351,338,336,340,348,354,388,365,347,331,325,323,338,341
+ "23009","Hancock, ME",1,CAEMP25N,2002,"...","   Military","Number of jobs",501,392,376,381,367,343,314,323,285,285,283,287,273,261,266,262,265
+ "23009","Hancock, ME",1,CAEMP25N,2010,"...","   State and local","Number of jobs",3026,3049,3075,3099,3112,3053,3065,3012,2974,2958,2918,2893,2858,2911,2986,2973,3105
+ "23009","Hancock, ME",1,CAEMP25N,2011,"...","    State government","Number of jobs",673,685,678,651,651,587,580,594,597,588,587,637,660,642,677,684,758
+ "23009","Hancock, ME",1,CAEMP25N,2012,"...","    Local government","Number of jobs",2353,2364,2397,2448,2461,2466,2485,2418,2377,2370,2331,2256,2198,2269,2309,2289,2347
+ "23011","Kennebec, ME",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",74709,75149,74879,75504,75740,77534,78468,78287,76442,75346,75500,75082,76193,76430,76473,77382,77899
+ "23011","Kennebec, ME",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",61650,61573,60971,61048,60955,62618,62888,62957,61258,60713,60824,60771,61753,62364,62454,63217,63504
+ "23011","Kennebec, ME",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",13059,13576,13908,14456,14785,14916,15580,15330,15184,14633,14676,14311,14440,14066,14019,14165,14395
+ "23011","Kennebec, ME",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",572,578,564,548,540,529,603,588,580,576,577,564,573,573,578,577,577
+ "23011","Kennebec, ME",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",12487,12998,13344,13908,14245,14387,14977,14742,14604,14057,14099,13747,13867,13493,13441,13588,13818
+ "23011","Kennebec, ME",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",829,799,803,756,750,729,804,807,791,784,804,831,879,879,883,862,861
+ "23011","Kennebec, ME",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",73880,74350,74076,74748,74990,76805,77664,77480,75651,74562,74696,74251,75314,75551,75590,76520,77038
+ "23011","Kennebec, ME",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",56988,57293,57054,57716,58026,59794,60473,60232,58609,57294,57613,57539,58684,58829,58835,59672,60251
+ "23011","Kennebec, ME",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",479,517,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),519,489,(D),(D),(D)
+ "23011","Kennebec, ME",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",14,17,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),50,61,(D),(D),(D)
+ "23011","Kennebec, ME",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),205,218,221,191,(D)
+ "23011","Kennebec, ME",1,CAEMP25N,400,"23","   Construction","Number of jobs",4529,4575,4671,4907,5046,5152,5041,4790,4331,4024,4008,4007,3966,4005,3978,4091,4141
+ "23011","Kennebec, ME",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",4592,3747,3247,2975,2989,3031,3139,3147,2863,2720,2837,2995,3077,3202,3191,3180,3295
+ "23011","Kennebec, ME",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",2935,2988,3278,3351,3329,3240,3243,3145,2943,2856,2802,2687,2609,2755,2815,2457,2410
+ "23011","Kennebec, ME",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",10328,10514,10226,10421,10588,10800,10738,10651,10475,9986,9990,9889,9859,9772,9820,10140,10166
+ "23011","Kennebec, ME",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),1309,1233,1294,1536,(D)
+ "23011","Kennebec, ME",1,CAEMP25N,900,"51","   Information","Number of jobs",881,903,1029,896,942,953,897,912,865,819,799,769,824,819,828,910,890
+ "23011","Kennebec, ME",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1715,1797,1752,1702,1652,1620,1674,1784,1886,1826,1909,1855,1926,1771,1730,1738,1798
+ "23011","Kennebec, ME",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",1629,1651,1742,1878,1924,1971,2061,2041,2067,2159,2159,2091,2161,2232,2208,2248,2286
+ "23011","Kennebec, ME",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",3672,3317,3103,3321,3141,3091,3269,3347,3308,3304,3246,3186,3300,3305,3307,3278,3331
+ "23011","Kennebec, ME",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",1026,865,989,904,881,880,873,897,909,839,793,843,898,873,867,952,1032
+ "23011","Kennebec, ME",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",2297,2437,2275,2329,2572,3424,3581,3820,3529,3466,3400,3369,3686,3802,3752,3672,3515
+ "23011","Kennebec, ME",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",1937,1977,2114,2002,2048,2094,2098,2066,2112,2127,2147,2237,2258,2292,2398,2577,2615
+ "23011","Kennebec, ME",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",10161,10992,11076,11272,11132,11401,11846,11772,11610,11729,11875,11896,12069,11986,11922,11898,12033
+ "23011","Kennebec, ME",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",1135,1237,1257,1245,1269,1273,1279,1252,1274,1228,1232,1174,1154,1153,1098,1163,1185
+ "23011","Kennebec, ME",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",4221,4215,4384,4364,4402,4695,4584,4488,4538,4565,4633,4678,4750,4743,4729,4878,5041
+ "23011","Kennebec, ME",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",3973,4133,4062,4162,4115,4207,4272,4216,4041,3847,3979,4007,4064,4118,4160,4257,4236
+ "23011","Kennebec, ME",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",16892,17057,17022,17032,16964,17011,17191,17248,17042,17268,17083,16712,16630,16722,16755,16848,16787
+ "23011","Kennebec, ME",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",1641,1705,1716,1736,1772,1751,1825,1998,2002,2213,2154,2113,2060,2080,2150,2179,2159
+ "23011","Kennebec, ME",1,CAEMP25N,2002,"...","   Military","Number of jobs",558,543,521,489,451,443,430,463,403,389,417,423,424,432,436,410,406
+ "23011","Kennebec, ME",1,CAEMP25N,2010,"...","   State and local","Number of jobs",14693,14809,14785,14807,14741,14817,14936,14787,14637,14666,14512,14176,14146,14210,14169,14259,14222
+ "23011","Kennebec, ME",1,CAEMP25N,2011,"...","    State government","Number of jobs",9327,9428,9394,9515,9435,9404,9518,9484,9436,9531,9377,9101,9156,9232,9213,9271,9209
+ "23011","Kennebec, ME",1,CAEMP25N,2012,"...","    Local government","Number of jobs",5366,5381,5391,5292,5306,5413,5418,5303,5201,5135,5135,5075,4990,4978,4956,4988,5013
+ "23013","Knox, ME",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",27142,27577,27314,28123,27694,27845,27871,27382,26473,26132,26231,26414,26811,27157,27462,27909,28041
+ "23013","Knox, ME",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",18714,18911,18872,19295,18699,18547,18522,18319,17510,17387,17347,17565,17777,17859,18218,18534,18544
+ "23013","Knox, ME",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",8428,8666,8442,8828,8995,9298,9349,9063,8963,8745,8884,8849,9034,9298,9244,9375,9497
+ "23013","Knox, ME",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",267,273,266,257,250,242,270,271,272,274,280,280,284,284,285,284,284
+ "23013","Knox, ME",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",8161,8393,8176,8571,8745,9056,9079,8792,8691,8471,8604,8569,8750,9014,8959,9091,9213
+ "23013","Knox, ME",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",341,361,357,332,323,308,334,338,335,334,344,354,368,368,369,362,362
+ "23013","Knox, ME",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",26801,27216,26957,27791,27371,27537,27537,27044,26138,25798,25887,26060,26443,26789,27093,27547,27679
+ "23013","Knox, ME",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",23910,24118,23867,24657,24292,24488,24431,23921,23055,22767,22940,23156,23614,24011,24326,24772,24957
+ "23013","Knox, ME",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),1878,1845,1881,1793,1772,1648,1634,1589,1706,1758,1783,1780,1877,1987
+ "23013","Knox, ME",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",18,(D),9,13,15,15,26,23,19,24,27,44,48,37,43,50,54
+ "23013","Knox, ME",1,CAEMP25N,300,"22","   Utilities","Number of jobs",104,109,103,106,110,103,103,105,103,81,71,75,83,84,71,78,93
+ "23013","Knox, ME",1,CAEMP25N,400,"23","   Construction","Number of jobs",2349,2244,2391,2400,2497,2605,2572,2459,2331,2192,2193,2165,2168,2152,2140,2237,2248
+ "23013","Knox, ME",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",1907,1851,1865,1915,1868,1881,1941,1910,1635,1599,1733,1836,1807,1974,2037,2032,2042
+ "23013","Knox, ME",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",493,489,484,531,526,525,518,515,474,449,427,458,474,482,491,437,436
+ "23013","Knox, ME",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",3650,3587,3480,3670,3645,3659,3583,3471,3306,3285,3214,3246,3267,3367,3384,3482,3470
+ "23013","Knox, ME",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",545,574,543,552,535,547,530,521,509,496,486,489,518,520,524,526,526
+ "23013","Knox, ME",1,CAEMP25N,900,"51","   Information","Number of jobs",548,517,513,597,696,635,577,546,497,464,474,377,353,388,404,438,402
+ "23013","Knox, ME",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1482,1567,1342,1252,830,675,640,665,716,726,783,758,741,708,723,744,747
+ "23013","Knox, ME",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",811,822,790,854,888,974,1053,1001,1002,1029,1057,1044,1087,1125,1149,1170,1230
+ "23013","Knox, ME",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",1414,1379,1384,(D),(D),(D),(D),(D),(D),1301,1322,1417,1483,1481,1557,1544,1520
+ "23013","Knox, ME",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),92,61,67,65,72,81,118,154
+ "23013","Knox, ME",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),1271,1260,1225,1242,1233,1343,1375,1366,1372,1428,1481,1487,1589,1591
+ "23013","Knox, ME",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",449,413,443,448,412,423,430,486,457,471,450,474,491,493,478,451,440
+ "23013","Knox, ME",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",2944,2970,3062,3129,3150,3304,3327,3232,3256,3214,3217,3184,3217,3201,3262,3258,3187
+ "23013","Knox, ME",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",936,958,911,934,990,984,976,974,915,947,976,997,982,1027,991,986,993
+ "23013","Knox, ME",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1923,1997,2077,1989,1931,2075,2107,2019,1982,1981,2025,2012,2158,2113,2152,2178,2223
+ "23013","Knox, ME",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1439,1463,1586,1604,1601,1563,1513,1478,1442,1407,1469,1435,1486,1523,1572,1577,1614
+ "23013","Knox, ME",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2891,3098,3090,3134,3079,3049,3106,3123,3083,3031,2947,2904,2829,2778,2767,2775,2722
+ "23013","Knox, ME",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",120,125,133,128,120,123,129,128,121,124,110,107,104,104,110,112,114
+ "23013","Knox, ME",1,CAEMP25N,2002,"...","   Military","Number of jobs",270,274,263,251,230,228,222,231,206,206,207,211,207,200,201,198,203
+ "23013","Knox, ME",1,CAEMP25N,2010,"...","   State and local","Number of jobs",2501,2699,2694,2755,2729,2698,2755,2764,2756,2701,2630,2586,2518,2474,2456,2465,2405
+ "23013","Knox, ME",1,CAEMP25N,2011,"...","    State government","Number of jobs",733,829,821,831,815,831,864,866,857,850,829,765,724,714,684,694,618
+ "23013","Knox, ME",1,CAEMP25N,2012,"...","    Local government","Number of jobs",1768,1870,1873,1924,1914,1867,1891,1898,1899,1851,1801,1821,1794,1760,1772,1771,1787
+ "23015","Lincoln, ME",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",18796,19065,19171,19729,19560,19501,19723,19588,19119,18717,18514,18840,18872,18984,18767,19144,19161
+ "23015","Lincoln, ME",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",11987,12064,12175,12339,12177,12103,12069,12130,11645,11616,11489,11763,11736,11706,11633,11868,11784
+ "23015","Lincoln, ME",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",6809,7001,6996,7390,7383,7398,7654,7458,7474,7101,7025,7077,7136,7278,7134,7276,7377
+ "23015","Lincoln, ME",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",274,280,277,273,272,268,307,305,308,312,319,317,319,319,318,318,318
+ "23015","Lincoln, ME",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",6535,6721,6719,7117,7111,7130,7347,7153,7166,6789,6706,6760,6817,6959,6816,6958,7059
+ "23015","Lincoln, ME",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",372,394,405,388,391,384,426,425,416,411,420,428,447,447,446,437,437
+ "23015","Lincoln, ME",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",18424,18671,18766,19341,19169,19117,19297,19163,18703,18306,18094,18412,18425,18537,18321,18707,18724
+ "23015","Lincoln, ME",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",16580,16783,16858,17423,17274,17278,17454,17277,16839,16419,16248,16551,16562,16714,16567,16946,16967
+ "23015","Lincoln, ME",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),1291,1043,1128,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),825,856,(D)
+ "23015","Lincoln, ME",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",18,8,21,15,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),49,43,(D)
+ "23015","Lincoln, ME",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23015","Lincoln, ME",1,CAEMP25N,400,"23","   Construction","Number of jobs",2046,1948,2066,2249,2336,2307,2348,2208,2041,1896,1793,1799,1770,1805,1839,1966,1988
+ "23015","Lincoln, ME",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",1133,1135,1108,1105,1066,(D),971,995,956,963,992,1027,(D),(D),(D),(D),(D)
+ "23015","Lincoln, ME",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),231,(D),(D),(D),(D),(D),322,315,308,(D),(D),(D),(D),(D),(D),(D)
+ "23015","Lincoln, ME",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2619,2652,2551,2614,2608,2621,2631,2534,2492,2396,2348,2332,2381,2388,2371,2357,2334
+ "23015","Lincoln, ME",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),270,274,288,305,310,(D),(D),(D),(D),311,314,323,313,276,(D)
+ "23015","Lincoln, ME",1,CAEMP25N,900,"51","   Information","Number of jobs",(D),(D),(D),222,227,228,219,219,217,218,221,217,232,225,224,230,225
+ "23015","Lincoln, ME",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",522,552,569,562,549,554,573,617,674,628,687,654,678,596,587,536,541
+ "23015","Lincoln, ME",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",485,510,525,569,615,639,(D),646,637,616,633,647,672,660,694,698,717
+ "23015","Lincoln, ME",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",942,867,865,919,907,902,940,943,928,932,(D),(D),972,1028,1053,1053,1061
+ "23015","Lincoln, ME",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",127,100,111,125,129,136,136,146,118,114,(D),(D),70,87,95,142,145
+ "23015","Lincoln, ME",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",776,906,1026,1095,1030,1069,1119,1080,1090,1038,1026,1008,986,1018,945,997,975
+ "23015","Lincoln, ME",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",333,339,336,337,349,359,351,405,454,488,446,469,341,372,478,473,498
+ "23015","Lincoln, ME",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1930,1923,2055,2082,2114,2162,2167,2197,2147,2156,2180,2253,2170,2183,2143,2165,2117
+ "23015","Lincoln, ME",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",603,652,654,679,678,680,692,696,702,700,694,709,737,793,747,820,838
+ "23015","Lincoln, ME",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1834,1789,1787,1735,1574,1628,1567,1574,1536,1528,1543,1657,1711,1666,1575,1669,1715
+ "23015","Lincoln, ME",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1239,1343,1323,1360,1349,1312,1343,1281,1241,1192,1195,1143,1163,1198,1243,1248,1245
+ "23015","Lincoln, ME",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1844,1888,1908,1918,1895,1839,1843,1886,1864,1887,1846,1861,1863,1823,1754,1761,1757
+ "23015","Lincoln, ME",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",99,104,100,102,99,103,102,105,105,116,87,87,81,79,75,80,79
+ "23015","Lincoln, ME",1,CAEMP25N,2002,"...","   Military","Number of jobs",186,181,175,165,155,153,149,158,139,135,134,137,135,132,131,127,127
+ "23015","Lincoln, ME",1,CAEMP25N,2010,"...","   State and local","Number of jobs",1559,1603,1633,1651,1641,1583,1592,1623,1620,1636,1625,1637,1647,1612,1548,1554,1551
+ "23015","Lincoln, ME",1,CAEMP25N,2011,"...","    State government","Number of jobs",(D),97,(D),(D),(D),(D),(D),(D),(D),103,100,(D),(D),107,112,112,114
+ "23015","Lincoln, ME",1,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),1506,(D),(D),(D),(D),(D),(D),(D),1533,1525,(D),(D),1505,1436,1442,1437
+ "23017","Oxford, ME",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",25516,25502,25781,26074,26288,26322,26605,25751,24801,24565,24349,24610,24839,25040,24963,24966,25345
+ "23017","Oxford, ME",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",19111,18926,18967,18896,18871,18814,18818,18375,17360,17244,17043,17253,17385,17546,17471,17423,17674
+ "23017","Oxford, ME",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",6405,6576,6814,7178,7417,7508,7787,7376,7441,7321,7306,7357,7454,7494,7492,7543,7671
+ "23017","Oxford, ME",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",467,475,469,461,458,451,516,512,512,517,526,521,526,526,523,522,522
+ "23017","Oxford, ME",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",5938,6101,6345,6717,6959,7057,7271,6864,6929,6804,6780,6836,6928,6968,6969,7021,7149
+ "23017","Oxford, ME",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",669,695,690,641,630,606,663,655,635,625,631,632,654,654,651,641,641
+ "23017","Oxford, ME",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",24847,24807,25091,25433,25658,25716,25942,25096,24166,23940,23718,23978,24185,24386,24312,24325,24704
+ "23017","Oxford, ME",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",21340,21254,21554,21902,22124,22138,22340,21505,20650,20393,20228,20475,20692,20968,20942,20995,21364
+ "23017","Oxford, ME",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",673,672,576,636,669,659,642,625,604,642,642,685,701,694,693,703,699
+ "23017","Oxford, ME",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",39,39,33,32,33,40,48,42,34,39,46,56,59,53,60,60,63
+ "23017","Oxford, ME",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),29,31,27,39,42,44,48,56,70
+ "23017","Oxford, ME",1,CAEMP25N,400,"23","   Construction","Number of jobs",2255,2149,2311,2382,2617,2686,2583,2394,2309,2170,2066,2065,2136,2136,2128,2232,2295
+ "23017","Oxford, ME",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),(D),(D),3646,(D),(D),3346,3122,2636,2637,2688,2793,2777,2777,2675,2476,2499
+ "23017","Oxford, ME",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),326,337,312,313,316,345,363,282,269
+ "23017","Oxford, ME",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",3219,3313,3439,3352,3281,3268,3307,3114,3033,2970,2988,2923,2985,3108,3140,3132,3146
+ "23017","Oxford, ME",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",556,548,522,528,544,559,588,590,546,548,562,600,575,511,497,488,501
+ "23017","Oxford, ME",1,CAEMP25N,900,"51","   Information","Number of jobs",285,283,275,156,154,149,183,166,144,157,161,146,138,140,127,169,197
+ "23017","Oxford, ME",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",503,513,525,514,502,480,503,500,504,484,538,516,488,444,460,482,499
+ "23017","Oxford, ME",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",535,542,589,692,711,788,831,810,807,849,855,838,823,888,855,863,884
+ "23017","Oxford, ME",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",647,681,(D),751,733,754,792,783,730,737,780,753,763,773,830,837,836
+ "23017","Oxford, ME",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",132,140,(D),142,144,204,199,203,210,196,204,224,228,217,225,286,292
+ "23017","Oxford, ME",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",744,817,839,765,709,768,785,808,903,938,854,753,726,740,702,748,756
+ "23017","Oxford, ME",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",501,595,615,629,655,591,716,592,559,581,538,522,526,564,573,582,602
+ "23017","Oxford, ME",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",2894,2890,2994,3041,3041,3069,3141,3163,3171,3082,2964,2994,2951,2952,2972,2996,3059
+ "23017","Oxford, ME",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",1270,1279,1237,1010,1111,1026,1044,998,912,967,937,1277,1436,1451,1433,1476,1464
+ "23017","Oxford, ME",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1460,1456,1520,1844,1746,1790,1786,1743,1694,1630,1668,1639,1670,1748,1744,1722,1797
+ "23017","Oxford, ME",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1456,1518,1586,1509,1574,1511,1505,1509,1499,1398,1398,1339,1352,1383,1417,1405,1436
+ "23017","Oxford, ME",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",3507,3553,3537,3531,3534,3578,3602,3591,3516,3547,3490,3503,3493,3418,3370,3330,3340
+ "23017","Oxford, ME",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",167,172,162,162,160,166,165,162,170,205,161,160,154,145,130,132,137
+ "23017","Oxford, ME",1,CAEMP25N,2002,"...","   Military","Number of jobs",262,257,247,232,214,211,206,222,192,184,184,186,185,185,183,176,175
+ "23017","Oxford, ME",1,CAEMP25N,2010,"...","   State and local","Number of jobs",3078,3124,3128,3137,3160,3201,3231,3207,3154,3158,3145,3157,3154,3088,3057,3022,3028
+ "23017","Oxford, ME",1,CAEMP25N,2011,"...","    State government","Number of jobs",337,337,324,320,321,352,367,362,352,385,401,424,414,393,386,376,365
+ "23017","Oxford, ME",1,CAEMP25N,2012,"...","    Local government","Number of jobs",2741,2787,2804,2817,2839,2849,2864,2845,2802,2773,2744,2733,2740,2695,2671,2646,2663
+ "23019","Penobscot, ME",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",90067,90467,89799,90971,92341,93316,94140,93709,91487,89458,89529,89690,90227,90551,90494,90434,90686
+ "23019","Penobscot, ME",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",75291,75489,74425,75048,75670,76158,76487,76690,74805,73397,73278,73635,73987,74145,74333,74506,74504
+ "23019","Penobscot, ME",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",14776,14978,15374,15923,16671,17158,17653,17019,16682,16061,16251,16055,16240,16406,16161,15928,16182
+ "23019","Penobscot, ME",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",578,567,565,561,559,554,636,631,626,627,634,621,630,631,634,633,633
+ "23019","Penobscot, ME",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",14198,14411,14809,15362,16112,16604,17017,16388,16056,15434,15617,15434,15610,15775,15527,15295,15549
+ "23019","Penobscot, ME",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",788,783,797,762,762,747,829,834,816,808,826,842,883,885,887,869,869
+ "23019","Penobscot, ME",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",89279,89684,89002,90209,91579,92569,93311,92875,90671,88650,88703,88848,89344,89666,89607,89565,89817
+ "23019","Penobscot, ME",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",74189,74714,74199,75496,76687,77511,78083,77558,75319,73423,73782,73976,74555,74840,75147,75077,75340
+ "23019","Penobscot, ME",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),1436,(D),(D),1273,1220,(D),(D),(D),(D),(D),(D)
+ "23019","Penobscot, ME",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),26,(D),(D),47,(D),(D),48,61,(D),(D),(D),(D),(D),(D)
+ "23019","Penobscot, ME",1,CAEMP25N,300,"22","   Utilities","Number of jobs",334,299,266,(D),298,309,396,303,287,272,264,276,297,236,203,336,333
+ "23019","Penobscot, ME",1,CAEMP25N,400,"23","   Construction","Number of jobs",5141,5075,5506,5547,5793,6033,6053,5699,5103,4668,4678,4708,4688,4774,4965,5071,5254
+ "23019","Penobscot, ME",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",7240,6429,5314,5128,5190,4932,4795,4969,4835,4272,3998,4022,3924,3362,3258,3000,3014
+ "23019","Penobscot, ME",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",2854,2752,2914,2888,2922,2913,2873,2789,2645,2679,2852,2782,2751,2819,2838,2673,2534
+ "23019","Penobscot, ME",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",13066,13249,13550,13605,13556,13932,13856,13718,13174,13115,13347,13275,13261,13185,12983,12687,12530
+ "23019","Penobscot, ME",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",3475,3505,3425,3463,3764,3663,3776,3580,3369,3048,3116,3130,3107,3103,3135,3138,3191
+ "23019","Penobscot, ME",1,CAEMP25N,900,"51","   Information","Number of jobs",2056,2007,1679,1726,1780,1722,1552,1463,1366,1332,1317,1337,1303,1302,1283,1253,1027
+ "23019","Penobscot, ME",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",2613,2517,2446,2436,2429,2480,2629,2713,2638,2576,2727,2604,2543,2495,2451,2449,2471
+ "23019","Penobscot, ME",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",1933,1949,2126,2305,2516,2647,2687,2571,2470,2523,2621,2548,2578,2632,2698,2774,2838
+ "23019","Penobscot, ME",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",3660,3914,4043,4352,4318,4419,4344,4325,4048,3798,3465,3349,3317,3382,3404,3423,3432
+ "23019","Penobscot, ME",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",1001,984,688,582,567,545,581,859,862,849,862,892,877,898,929,915,942
+ "23019","Penobscot, ME",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",3584,3770,3774,3758,3730,3846,4108,4238,4192,4098,4545,4496,4721,5263,5299,5400,5153
+ "23019","Penobscot, ME",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",1083,1117,1207,1198,1382,1530,1664,1742,1695,1881,1783,1848,1893,1912,1882,1852,1847
+ "23019","Penobscot, ME",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",13384,13887,14146,14952,14935,14933,15329,15144,15521,15395,15273,15539,15840,15731,15915,16301,16750
+ "23019","Penobscot, ME",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",1135,1232,1205,1219,1222,1379,1400,1561,1542,1536,1552,1690,1688,1376,1589,1655,1723
+ "23019","Penobscot, ME",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",5442,5649,5709,5879,6049,5959,5856,5799,5837,5819,5741,5885,6034,6620,6594,6625,6763
+ "23019","Penobscot, ME",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",4789,4924,4826,4717,4720,4743,4701,4619,4436,4241,4360,4240,4368,4358,4386,4295,4354
+ "23019","Penobscot, ME",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",15090,14970,14803,14713,14892,15058,15228,15317,15352,15227,14921,14872,14789,14826,14460,14488,14477
+ "23019","Penobscot, ME",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",1413,1404,1403,1397,1371,1337,1315,1308,1385,1416,1299,1245,1222,1172,1180,1185,1169
+ "23019","Penobscot, ME",1,CAEMP25N,2002,"...","   Military","Number of jobs",688,672,647,608,560,552,542,579,506,489,486,493,490,490,483,464,461
+ "23019","Penobscot, ME",1,CAEMP25N,2010,"...","   State and local","Number of jobs",12989,12894,12753,12708,12961,13169,13371,13430,13461,13322,13136,13134,13077,13164,12797,12839,12847
+ "23019","Penobscot, ME",1,CAEMP25N,2011,"...","    State government","Number of jobs",6123,6164,6068,5977,6233,6466,6785,6759,6699,6592,6476,6548,6561,6766,6424,6465,6446
+ "23019","Penobscot, ME",1,CAEMP25N,2012,"...","    Local government","Number of jobs",6866,6730,6685,6731,6728,6703,6586,6671,6762,6730,6660,6586,6516,6398,6373,6374,6401
+ "23021","Piscataquis, ME",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",8507,8449,8373,8390,8416,8536,8568,8446,7963,7897,7952,7959,7911,7926,7851,7881,7958
+ "23021","Piscataquis, ME",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",6234,6191,6134,6147,6115,6205,6194,6141,5714,5733,5755,5809,5821,5821,5792,5849,5898
+ "23021","Piscataquis, ME",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",2273,2258,2239,2243,2301,2331,2374,2305,2249,2164,2197,2150,2090,2105,2059,2032,2060
+ "23021","Piscataquis, ME",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",194,199,188,178,170,160,176,178,181,184,190,192,194,194,194,194,194
+ "23021","Piscataquis, ME",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",2079,2059,2051,2065,2131,2171,2198,2127,2068,1980,2007,1958,1896,1911,1865,1838,1866
+ "23021","Piscataquis, ME",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",237,244,235,217,207,194,209,211,210,211,217,223,229,229,229,227,227
+ "23021","Piscataquis, ME",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",8270,8205,8138,8173,8209,8342,8359,8235,7753,7686,7735,7736,7682,7697,7622,7654,7731
+ "23021","Piscataquis, ME",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",7018,6933,6787,6782,6788,6885,6897,6777,6298,6240,6294,6275,6196,6205,6179,6219,6309
+ "23021","Piscataquis, ME",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23021","Piscataquis, ME",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23021","Piscataquis, ME",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),56,29,27,28,24,25,(D),(D)
+ "23021","Piscataquis, ME",1,CAEMP25N,400,"23","   Construction","Number of jobs",554,569,(D),593,657,643,690,653,581,550,518,519,473,479,471,506,515
+ "23021","Piscataquis, ME",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",1711,1504,1507,(D),1386,1365,1285,1256,1066,1106,1163,1192,(D),1225,1207,1261,1281
+ "23021","Piscataquis, ME",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),52,44,46,46,64,(D),(D),(D)
+ "23021","Piscataquis, ME",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1119,1069,1085,1060,1107,1105,1147,1078,1072,1053,1085,1058,1029,1059,1080,1046,1064
+ "23021","Piscataquis, ME",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",324,312,266,260,255,271,286,284,280,276,230,233,(D),205,190,192,195
+ "23021","Piscataquis, ME",1,CAEMP25N,900,"51","   Information","Number of jobs",60,55,60,(D),50,47,48,46,48,53,51,46,45,43,45,40,34
+ "23021","Piscataquis, ME",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",100,93,106,97,97,98,90,96,99,95,117,125,114,119,122,117,123
+ "23021","Piscataquis, ME",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",214,234,242,263,277,290,260,247,231,237,237,210,213,215,221,207,216
+ "23021","Piscataquis, ME",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),212,213,197,215,208,210,208,204,201,(D),(D),(D),(D),(D),(D)
+ "23021","Piscataquis, ME",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),1,1,0,0,0,0,0,0,0,(D),(D),(D),0,(D),(D)
+ "23021","Piscataquis, ME",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",214,243,248,249,268,295,306,318,(D),363,377,372,(D),381,388,386,374
+ "23021","Piscataquis, ME",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",(D),(D),(D),(D),39,20,40,33,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23021","Piscataquis, ME",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",(D),(D),(D),(D),(D),(D),1184,1192,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23021","Piscataquis, ME",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",99,106,96,(D),93,101,111,112,105,123,95,(D),109,109,110,(D),108
+ "23021","Piscataquis, ME",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",428,450,428,452,416,405,408,417,404,406,451,(D),452,(D),460,(D),(D)
+ "23021","Piscataquis, ME",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",422,442,417,408,406,409,430,418,389,386,410,398,392,391,390,402,391
+ "23021","Piscataquis, ME",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1252,1272,1351,1391,1421,1457,1462,1458,1455,1446,1441,1461,1486,1492,1443,1435,1422
+ "23021","Piscataquis, ME",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",63,63,64,65,66,69,71,69,63,75,53,50,50,49,46,51,53
+ "23021","Piscataquis, ME",1,CAEMP25N,2002,"...","   Military","Number of jobs",82,80,77,72,66,65,63,67,58,56,55,56,56,55,54,52,51
+ "23021","Piscataquis, ME",1,CAEMP25N,2010,"...","   State and local","Number of jobs",1107,1129,1210,1254,1289,1323,1328,1322,1334,1315,1333,1355,1380,1388,1343,1332,1318
+ "23021","Piscataquis, ME",1,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),13,10,(D),(D),(D),7,8,8,7,6
+ "23021","Piscataquis, ME",1,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),(D),(D),(D),1309,1324,(D),(D),(D),1373,1380,1335,1325,1312
+ "23023","Sagadahoc, ME",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",21361,20928,21464,21968,21441,21578,22110,22130,21458,21610,21186,20864,20887,21130,21603,22049,21852
+ "23023","Sagadahoc, ME",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",17027,16491,16963,17215,16512,16549,16846,16899,16311,16585,16015,15716,15688,15898,16357,16652,16378
+ "23023","Sagadahoc, ME",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",4334,4437,4501,4753,4929,5029,5264,5231,5147,5025,5171,5148,5199,5232,5246,5397,5474
+ "23023","Sagadahoc, ME",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",156,158,157,152,151,148,167,178,188,199,214,218,222,223,225,224,224
+ "23023","Sagadahoc, ME",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",4178,4279,4344,4601,4778,4881,5097,5053,4959,4826,4957,4930,4977,5009,5021,5173,5250
+ "23023","Sagadahoc, ME",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",223,231,225,203,195,184,197,219,235,252,278,300,316,317,319,312,312
+ "23023","Sagadahoc, ME",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",21138,20697,21239,21765,21246,21394,21913,21911,21223,21358,20908,20564,20571,20813,21284,21737,21540
+ "23023","Sagadahoc, ME",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",18706,18148,18370,19095,18693,18766,19395,19425,18831,18915,18774,18569,18670,18899,19355,19753,19547
+ "23023","Sagadahoc, ME",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),403,397,(D),(D),(D),(D),(D),(D),(D),(D)
+ "23023","Sagadahoc, ME",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",16,14,14,15,13,15,23,23,25,20,17,38,32,31,49,29,31
+ "23023","Sagadahoc, ME",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23023","Sagadahoc, ME",1,CAEMP25N,400,"23","   Construction","Number of jobs",1616,1516,1610,1685,1810,(D),(D),1864,1692,1609,1658,1653,1631,1608,1661,1743,1802
+ "23023","Sagadahoc, ME",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),(D),(D),(D),(D),5680,5874,5985,5760,(D),(D),(D),(D),(D),(D),(D),(D)
+ "23023","Sagadahoc, ME",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",340,(D),336,361,401,403,396,391,400,435,407,380,354,388,397,350,354
+ "23023","Sagadahoc, ME",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1775,1844,1919,2045,2064,2291,2364,2376,2347,2249,2291,2292,2285,2216,2229,2260,2216
+ "23023","Sagadahoc, ME",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23023","Sagadahoc, ME",1,CAEMP25N,900,"51","   Information","Number of jobs",90,107,117,132,132,138,151,131,119,128,135,126,141,146,172,180,184
+ "23023","Sagadahoc, ME",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",368,409,411,424,438,430,493,452,488,482,530,513,536,533,543,541,541
+ "23023","Sagadahoc, ME",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",393,383,410,469,508,516,547,547,548,600,643,608,633,629,630,668,703
+ "23023","Sagadahoc, ME",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),894,946,1054,1303,1320,1432,1386,1344,1365,1308,1290,1247,1246,1317,1374,1361
+ "23023","Sagadahoc, ME",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),(D),(D),(D),(D),6,24,28,28,23,37,(D),67,93,102,63
+ "23023","Sagadahoc, ME",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),(D),(D),(D),(D),705,708,699,711,691,699,(D),728,716,769,744
+ "23023","Sagadahoc, ME",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",254,255,280,305,326,336,328,329,338,329,325,316,312,317,329,335,332
+ "23023","Sagadahoc, ME",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",1306,1288,1340,1467,1480,1540,1628,1598,1592,1618,1632,1617,1593,1659,1621,1483,1447
+ "23023","Sagadahoc, ME",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",415,440,454,492,484,481,504,608,561,575,526,535,541,524,492,531,540
+ "23023","Sagadahoc, ME",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1222,1164,1191,1272,1201,1241,1242,1256,1210,1267,1329,1355,1359,1378,1373,1416,1471
+ "23023","Sagadahoc, ME",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1027,1109,1100,1131,1105,1113,1124,1090,1083,1067,1064,1046,1054,1060,1087,1088,1079
+ "23023","Sagadahoc, ME",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2432,2549,2869,2670,2553,2628,2518,2486,2392,2443,2134,1995,1901,1914,1929,1984,1993
+ "23023","Sagadahoc, ME",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",354,358,333,323,321,324,324,319,336,360,324,297,296,302,329,358,370
+ "23023","Sagadahoc, ME",1,CAEMP25N,2002,"...","   Military","Number of jobs",483,493,798,632,469,535,469,490,450,515,268,186,145,140,131,125,124
+ "23023","Sagadahoc, ME",1,CAEMP25N,2010,"...","   State and local","Number of jobs",1595,1698,1738,1715,1763,1769,1725,1677,1606,1568,1542,1512,1460,1472,1469,1501,1499
+ "23023","Sagadahoc, ME",1,CAEMP25N,2011,"...","    State government","Number of jobs",29,29,30,29,28,29,30,30,28,30,25,22,21,20,20,21,20
+ "23023","Sagadahoc, ME",1,CAEMP25N,2012,"...","    Local government","Number of jobs",1566,1669,1708,1686,1735,1740,1695,1647,1578,1538,1517,1490,1439,1452,1449,1480,1479
+ "23025","Somerset, ME",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",25628,25103,25213,25062,24957,25008,25095,24656,23580,23191,23227,23352,23718,24163,23856,23677,23423
+ "23025","Somerset, ME",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",20451,19849,19977,19630,19322,19388,19312,19067,18135,17885,17913,18044,18348,18319,18194,17992,17643
+ "23025","Somerset, ME",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",5177,5254,5236,5432,5635,5620,5783,5589,5445,5306,5314,5308,5370,5844,5662,5685,5780
+ "23025","Somerset, ME",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",523,528,504,489,474,460,519,521,522,529,541,538,546,546,550,549,549
+ "23025","Somerset, ME",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",4654,4726,4732,4943,5161,5160,5264,5068,4923,4777,4773,4770,4824,5298,5112,5136,5231
+ "23025","Somerset, ME",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",650,651,672,661,672,668,744,786,795,813,867,940,1003,1009,1010,978,976
+ "23025","Somerset, ME",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",24978,24452,24541,24401,24285,24340,24351,23870,22785,22378,22360,22412,22715,23154,22846,22699,22447
+ "23025","Somerset, ME",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",21801,21227,21278,21167,21110,21226,21398,20890,19786,19381,19471,19536,19886,20371,20094,19967,19737
+ "23025","Somerset, ME",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",900,911,783,851,873,907,872,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23025","Somerset, ME",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",16,12,17,15,15,19,29,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23025","Somerset, ME",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),77,(D),(D),100,104,109,130
+ "23025","Somerset, ME",1,CAEMP25N,400,"23","   Construction","Number of jobs",2989,2889,3135,2944,2938,3014,3251,3053,2585,2439,2385,2514,2527,2437,2507,2584,2481
+ "23025","Somerset, ME",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",4435,4192,4025,3982,3844,3754,3642,3568,3332,3189,3299,3308,3389,3325,3186,2992,2815
+ "23025","Somerset, ME",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),359,(D),(D),424,459,394,402
+ "23025","Somerset, ME",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",3148,3200,3321,3234,3175,3079,3020,2929,2900,2864,2901,2858,2820,2927,2919,2933,2864
+ "23025","Somerset, ME",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",725,712,680,703,711,740,730,645,590,595,588,607,640,657,671,606,610
+ "23025","Somerset, ME",1,CAEMP25N,900,"51","   Information","Number of jobs",182,153,163,175,189,170,170,169,153,160,145,132,109,133,128,123,121
+ "23025","Somerset, ME",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",425,423,426,430,396,381,388,379,406,362,390,412,414,408,409,421,421
+ "23025","Somerset, ME",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",396,429,433,442,469,517,506,604,587,617,617,632,620,657,669,702,705
+ "23025","Somerset, ME",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",586,582,638,647,606,626,646,626,588,611,593,595,661,714,694,684,690
+ "23025","Somerset, ME",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",17,16,15,38,36,22,23,20,20,18,20,43,62,145,162,180,185
+ "23025","Somerset, ME",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",796,709,679,660,721,858,942,918,884,867,851,757,908,974,919,949,958
+ "23025","Somerset, ME",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",201,249,244,260,284,301,303,288,297,309,301,293,325,420,415,409,430
+ "23025","Somerset, ME",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",3335,3097,3146,3133,3235,3290,3274,3221,3272,3230,3269,3226,3154,3149,3081,3161,3161
+ "23025","Somerset, ME",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",703,681,634,639,602,559,547,552,484,465,481,493,493,536,509,508,493
+ "23025","Somerset, ME",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1185,1192,1183,1186,1171,1171,1198,1123,1108,1104,1118,1092,1173,1141,1134,1129,1168
+ "23025","Somerset, ME",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1236,1256,1270,1334,1356,1315,1313,1325,1258,1229,1218,1179,1216,1290,1247,1221,1216
+ "23025","Somerset, ME",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",3177,3225,3263,3234,3175,3114,2953,2980,2999,2997,2889,2876,2829,2783,2752,2732,2710
+ "23025","Somerset, ME",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",163,168,176,188,188,187,184,184,216,257,211,204,189,186,188,186,198
+ "23025","Somerset, ME",1,CAEMP25N,2002,"...","   Military","Number of jobs",241,235,225,209,193,191,187,200,173,167,165,167,167,166,163,157,155
+ "23025","Somerset, ME",1,CAEMP25N,2010,"...","   State and local","Number of jobs",2773,2822,2862,2837,2794,2736,2582,2596,2610,2573,2513,2505,2473,2431,2401,2389,2357
+ "23025","Somerset, ME",1,CAEMP25N,2011,"...","    State government","Number of jobs",588,592,592,570,516,423,335,348,345,351,370,365,372,373,372,367,346
+ "23025","Somerset, ME",1,CAEMP25N,2012,"...","    Local government","Number of jobs",2185,2230,2270,2267,2278,2313,2247,2248,2265,2222,2143,2140,2101,2058,2029,2022,2011
+ "23027","Waldo, ME",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",18128,18088,18200,18308,18498,18177,18405,18285,17967,17642,17660,17835,18325,18684,18672,18941,19339
+ "23027","Waldo, ME",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",12290,12148,12249,12143,12008,11687,11531,11678,11346,11306,11240,11274,11612,11870,11900,12205,12501
+ "23027","Waldo, ME",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",5838,5940,5951,6165,6490,6490,6874,6607,6621,6336,6420,6561,6713,6814,6772,6736,6838
+ "23027","Waldo, ME",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",403,410,392,376,365,353,395,425,456,492,533,563,568,568,564,563,563
+ "23027","Waldo, ME",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",5435,5530,5559,5789,6125,6137,6479,6182,6165,5844,5887,5998,6145,6246,6208,6173,6275
+ "23027","Waldo, ME",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",537,553,533,488,470,445,481,524,557,596,651,706,732,732,728,716,716
+ "23027","Waldo, ME",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",17591,17535,17667,17820,18028,17732,17924,17761,17410,17046,17009,17129,17593,17952,17944,18225,18623
+ "23027","Waldo, ME",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",15751,15579,15696,15800,16067,15807,15943,15844,15546,15206,15220,15371,15857,16223,16253,16511,16913
+ "23027","Waldo, ME",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23027","Waldo, ME",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23027","Waldo, ME",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "23027","Waldo, ME",1,CAEMP25N,400,"23","   Construction","Number of jobs",1721,1737,(D),(D),(D),(D),2142,1967,1802,1632,1578,1624,1594,1643,1644,1763,1855
+ "23027","Waldo, ME",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",1584,1426,1359,1394,1599,1543,1537,1498,1446,1398,1408,1368,1554,1525,1363,1294,1366
+ "23027","Waldo, ME",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),266,(D),257,(D),(D),(D),(D),(D),(D),380,342,333
+ "23027","Waldo, ME",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2188,2222,2274,2323,2271,2189,2143,2111,2078,1986,1993,1999,2025,2037,2085,2155,2194
+ "23027","Waldo, ME",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",364,412,413,406,369,(D),369,(D),376,363,346,355,398,440,(D),(D),(D)
+ "23027","Waldo, ME",1,CAEMP25N,900,"51","   Information","Number of jobs",(D),(D),(D),(D),187,178,198,210,184,183,181,190,189,191,190,193,192
+ "23027","Waldo, ME",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),1476,1374,1272,1207,1213,1146,1040,980,928
+ "23027","Waldo, ME",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",357,374,378,(D),(D),(D),(D),541,511,549,579,576,616,613,610,609,614
+ "23027","Waldo, ME",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",573,608,648,656,(D),(D),(D),877,(D),(D),(D),(D),729,762,817,784,814
+ "23027","Waldo, ME",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",14,15,14,13,(D),(D),(D),39,(D),(D),(D),(D),(D),49,(D),(D),55
+ "23027","Waldo, ME",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",769,703,652,674,787,789,(D),895,942,1034,1062,1163,1370,1564,1733,1930,2082
+ "23027","Waldo, ME",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",370,399,374,333,360,371,450,462,471,498,485,457,461,458,462,450,457
+ "23027","Waldo, ME",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",2140,2069,2242,2079,1898,1939,1903,2038,2131,2127,2104,2111,2103,2091,2090,2143,2192
+ "23027","Waldo, ME",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",450,462,461,485,490,471,539,509,527,514,539,669,585,618,616,686,691
+ "23027","Waldo, ME",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1119,1176,1153,1097,1043,1036,1014,1007,945,968,1036,1068,1090,1092,1152,1124,1109
+ "23027","Waldo, ME",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1029,1067,1078,1097,1095,1132,1136,1101,1142,1071,1142,1095,1147,1186,1230,1200,1195
+ "23027","Waldo, ME",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",1840,1956,1971,2020,1961,1925,1981,1917,1864,1840,1789,1758,1736,1729,1691,1714,1710
+ "23027","Waldo, ME",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",114,117,115,118,111,108,111,107,104,134,99,95,91,92,83,88,89
+ "23027","Waldo, ME",1,CAEMP25N,2002,"...","   Military","Number of jobs",176,173,168,163,151,149,145,156,136,131,131,135,134,133,133,129,130
+ "23027","Waldo, ME",1,CAEMP25N,2010,"...","   State and local","Number of jobs",1550,1666,1688,1739,1699,1668,1725,1654,1624,1575,1559,1528,1511,1504,1475,1497,1491
+ "23027","Waldo, ME",1,CAEMP25N,2011,"...","    State government","Number of jobs",79,83,97,110,101,112,132,44,28,16,(D),(D),(D),(D),(D),(D),(D)
+ "23027","Waldo, ME",1,CAEMP25N,2012,"...","    Local government","Number of jobs",1471,1583,1591,1629,1598,1556,1593,1610,1596,1559,(D),(D),(D),(D),(D),(D),(D)
+ "23029","Washington, ME",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",18701,18379,18097,18294,18279,18184,18186,17985,17406,16961,16851,16731,16783,16852,16712,16847,16803
+ "23029","Washington, ME",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",12848,12380,12439,12370,12094,11923,11631,11634,11291,11077,11061,10994,10950,10890,10993,11140,11058
+ "23029","Washington, ME",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",5853,5999,5658,5924,6185,6261,6555,6351,6115,5884,5790,5737,5833,5962,5719,5707,5745
+ "23029","Washington, ME",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",401,389,385,378,379,375,433,411,395,382,371,355,358,358,354,353,353
+ "23029","Washington, ME",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",5452,5610,5273,5546,5806,5886,6122,5940,5720,5502,5419,5382,5475,5604,5365,5354,5392
+ "23029","Washington, ME",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1176,975,935,795,746,678,696,704,684,671,692,738,795,797,791,761,760
+ "23029","Washington, ME",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",17525,17404,17162,17499,17533,17506,17490,17281,16722,16290,16159,15993,15988,16055,15921,16086,16043
+ "23029","Washington, ME",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",14449,14309,13988,14328,14486,14442,14462,14257,13755,13360,13318,13152,13144,13213,13079,13209,13196
+ "23029","Washington, ME",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),1819,(D),(D),(D),(D),(D),(D),(D),(D)
+ "23029","Washington, ME",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),30,(D),(D),(D),(D),(D),(D),(D),(D)
+ "23029","Washington, ME",1,CAEMP25N,300,"22","   Utilities","Number of jobs",73,62,55,56,72,80,91,96,66,56,54,50,64,65,84,78,93
+ "23029","Washington, ME",1,CAEMP25N,400,"23","   Construction","Number of jobs",1181,1096,1143,1199,1269,1316,1341,1291,1132,1003,984,960,967,972,917,915,942
+ "23029","Washington, ME",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",1838,1761,1752,1756,1628,1484,1308,1294,1343,1302,1333,1264,1221,1143,1267,1308,1270
+ "23029","Washington, ME",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",441,303,290,313,330,343,289,287,285,273,276,271,306,362,373,316,310
+ "23029","Washington, ME",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",2271,2182,2194,2268,2302,2305,2386,2355,2264,2217,2195,2163,2179,2179,2098,2099,2094
+ "23029","Washington, ME",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",554,503,459,464,479,452,501,471,462,450,461,480,432,453,431,410,423
+ "23029","Washington, ME",1,CAEMP25N,900,"51","   Information","Number of jobs",149,134,133,134,138,142,132,108,121,129,132,121,138,150,135,126,106
+ "23029","Washington, ME",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",360,434,402,410,389,408,413,393,383,383,378,362,351,368,365,379,382
+ "23029","Washington, ME",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",329,376,358,410,414,451,454,430,415,400,419,389,359,366,358,380,379
+ "23029","Washington, ME",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),354,(D),405,402,428,479,475,472,(D),(D),455,461,492,483,495,482
+ "23029","Washington, ME",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),31,(D),(D),(D),(D),36,34,(D),(D),(D),50,52,79,79,86,90
+ "23029","Washington, ME",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",447,481,436,(D),(D),(D),457,522,(D),523,483,498,(D),511,495,498,471
+ "23029","Washington, ME",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",145,169,187,185,193,201,(D),(D),267,269,251,241,238,251,258,252,267
+ "23029","Washington, ME",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",2364,2397,2453,2451,2448,2466,2510,2475,2379,2247,2206,2055,1986,1876,1883,1957,2050
+ "23029","Washington, ME",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",215,224,205,(D),232,258,227,216,239,252,265,(D),235,(D),225,(D),(D)
+ "23029","Washington, ME",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",995,979,989,1002,950,869,827,796,779,807,805,(D),865,839,864,(D),846
+ "23029","Washington, ME",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",719,769,742,742,795,770,807,788,751,749,767,788,719,734,730,713,712
+ "23029","Washington, ME",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",3076,3095,3174,3171,3047,3064,3028,3024,2967,2930,2841,2841,2844,2842,2842,2877,2847
+ "23029","Washington, ME",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",298,310,335,352,349,358,352,365,408,443,391,375,364,348,341,345,350
+ "23029","Washington, ME",1,CAEMP25N,2002,"...","   Military","Number of jobs",204,198,197,191,179,180,177,188,170,163,162,167,165,158,159,155,160
+ "23029","Washington, ME",1,CAEMP25N,2010,"...","   State and local","Number of jobs",2574,2587,2642,2628,2519,2526,2499,2471,2389,2324,2288,2299,2315,2336,2342,2377,2337
+ "23029","Washington, ME",1,CAEMP25N,2011,"...","    State government","Number of jobs",506,505,502,505,480,511,547,525,518,519,510,513,504,509,509,526,516
+ "23029","Washington, ME",1,CAEMP25N,2012,"...","    Local government","Number of jobs",2068,2082,2140,2123,2039,2015,1952,1946,1871,1805,1778,1786,1811,1827,1833,1851,1821
+ "23031","York, ME",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",91545,93103,94909,98205,98433,100080,101629,100698,97887,97191,98016,98607,99379,100619,102366,104512,106573
+ "23031","York, ME",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",68780,69549,70429,72423,71489,72671,72974,72895,70388,70090,70594,71404,71574,72113,73699,75338,76876
+ "23031","York, ME",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",22765,23554,24480,25782,26944,27409,28655,27803,27499,27101,27422,27203,27805,28506,28667,29174,29697
+ "23031","York, ME",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",645,662,633,607,585,563,627,639,652,672,700,705,717,717,725,726,725
+ "23031","York, ME",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",22120,22892,23847,25175,26359,26846,28028,27164,26847,26429,26722,26498,27088,27789,27942,28448,28972
+ "23031","York, ME",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",803,831,821,773,756,728,795,821,827,845,888,929,973,973,980,964,963
+ "23031","York, ME",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",90742,92272,94088,97432,97677,99352,100834,99877,97060,96346,97128,97678,98406,99646,101386,103548,105610
+ "23031","York, ME",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",76836,77961,79227,82126,82282,83899,85499,84400,81405,80470,81055,81422,82240,83525,84887,86680,88592
+ "23031","York, ME",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",804,934,751,788,777,762,753,751,701,674,687,758,762,778,733,774,767
+ "23031","York, ME",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",90,88,92,84,78,84,105,118,102,149,150,227,192,178,186,200,207
+ "23031","York, ME",1,CAEMP25N,300,"22","   Utilities","Number of jobs",247,249,237,235,223,223,239,260,258,249,229,225,172,156,196,194,219
+ "23031","York, ME",1,CAEMP25N,400,"23","   Construction","Number of jobs",7328,7549,7977,8598,9160,9321,9095,8416,7718,7278,7087,7073,7255,7324,7316,7710,8041
+ "23031","York, ME",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",11848,10442,10026,9979,9812,9964,10063,9804,8650,8038,8106,8187,7862,7619,7976,8484,8979
+ "23031","York, ME",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",1704,1763,1791,2026,2004,2184,2206,2076,1849,1884,1933,2071,2172,2476,2523,2257,2143
+ "23031","York, ME",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",12707,12855,12888,13187,12906,12858,13256,13045,12490,12219,12292,12086,12505,12621,12629,12624,12642
+ "23031","York, ME",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",1443,1480,1469,1509,1408,1396,1403,1413,1412,1454,1541,1580,1599,1685,1848,1920,1994
+ "23031","York, ME",1,CAEMP25N,900,"51","   Information","Number of jobs",1019,884,998,1120,1201,1156,1059,1002,939,898,920,866,912,917,970,1011,1026
+ "23031","York, ME",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",2140,2264,2325,2432,2479,2564,2779,2807,2971,2961,3132,3065,3092,2899,2978,3019,3093
+ "23031","York, ME",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",2820,2981,3229,3529,3862,3974,4141,4076,4054,4165,4323,4314,4421,4643,4635,4800,4883
+ "23031","York, ME",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",4025,4229,4400,4583,4366,4424,4760,4821,4721,4905,4766,4786,5016,5074,5193,5367,5517
+ "23031","York, ME",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",174,215,206,215,238,250,332,392,380,419,428,467,443,432,454,521,460
+ "23031","York, ME",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",2873,3023,3262,3359,3356,3683,3927,4026,4152,4026,4000,4081,4166,4277,4267,4366,4338
+ "23031","York, ME",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",1738,1923,2048,2057,2096,2151,2116,2083,2144,2298,2290,2248,2377,2556,2569,2588,2811
+ "23031","York, ME",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",9860,10256,10353,11030,10863,11194,10948,11135,10989,10909,10908,10918,10755,10817,11125,11334,11421
+ "23031","York, ME",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",2153,2368,2428,2459,2514,2492,2618,2596,2614,2720,2810,2872,2762,2891,2844,2900,2963
+ "23031","York, ME",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",9111,9480,9690,9696,9582,9758,10182,10157,10046,10197,10255,10435,10436,10696,10777,10962,11366
+ "23031","York, ME",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",4752,4978,5057,5240,5357,5461,5517,5422,5215,5027,5198,5163,5341,5486,5668,5649,5722
+ "23031","York, ME",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",13906,14311,14861,15306,15395,15453,15335,15477,15655,15876,16073,16256,16166,16121,16499,16868,17018
+ "23031","York, ME",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",4447,4765,4931,5082,5087,5108,5020,5129,5384,5531,5581,5723,5653,5723,6088,6441,6634
+ "23031","York, ME",1,CAEMP25N,2002,"...","   Military","Number of jobs",1365,1289,1561,1755,1875,1792,1664,1686,1697,1672,1682,1709,1718,1693,1708,1661,1650
+ "23031","York, ME",1,CAEMP25N,2010,"...","   State and local","Number of jobs",8094,8257,8369,8469,8433,8553,8651,8662,8574,8673,8810,8824,8795,8705,8703,8766,8734
+ "23031","York, ME",1,CAEMP25N,2011,"...","    State government","Number of jobs",438,459,456,451,400,432,461,481,511,550,543,553,547,582,573,567,538
+ "23031","York, ME",1,CAEMP25N,2012,"...","    Local government","Number of jobs",7656,7798,7913,8018,8033,8121,8190,8181,8063,8123,8267,8271,8248,8123,8130,8199,8196
+"Note: See the included footnote file."
+"CAEMP25N: Total Full-Time and Part-Time Employment by NAICS Industry 1/"
+"Last updated: November 15, 2018-- new statistics for 2017; revised statistics for 2001-2016. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

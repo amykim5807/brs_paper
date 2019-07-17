@@ -1,0 +1,170 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+ "15000","Hawaii",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",752548,757721,773638,797263,819997,842413,864625,858402,829897,824460,835012,849156,868122,882801,901144,912896,921881
+ "15000","Hawaii",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",628046,631037,642343,657931,674135,690321,698292,692977,664720,661142,668971,680842,693539,702977,715201,722186,727610
+ "15000","Hawaii",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",124502,126684,131295,139332,145862,152092,166333,165425,165177,163318,166041,168314,174583,179824,185943,190710,194271
+ "15000","Hawaii",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",5236,4795,4719,4604,4605,4513,6149,6006,5903,5848,5776,5636,5693,5696,5712,5705,5704
+ "15000","Hawaii",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",119266,121889,126576,134728,141257,147579,160184,159419,159274,157470,160265,162678,168890,174128,180231,185005,188567
+ "15000","Hawaii",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",12314,11978,11917,11596,11404,11304,12489,11661,11288,11510,12304,11735,11861,13072,12446,11999,11985
+ "15000","Hawaii",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",740234,745743,761721,785667,808593,831109,852136,846741,818609,812950,822708,837421,856261,869729,888698,900897,909896
+ "15000","Hawaii",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",572819,574998,589992,612160,636103,656271,675795,666346,637404,630892,640615,654331,673482,686703,703086,717372,727522
+ "15000","Hawaii",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",3792,4177,3647,3774,3639,3572,3473,3603,3716,3757,3715,4029,4156,4425,4025,3974,3843
+ "15000","Hawaii",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",487,417,550,556,598,672,767,966,983,1132,955,1060,1031,956,1058,1017,1069
+ "15000","Hawaii",8,CAEMP25N,300,"22","   Utilities","Number of jobs",2766,2752,2795,2870,3069,3130,3265,3378,3417,3462,3529,3822,4085,4152,4315,4534,5024
+ "15000","Hawaii",8,CAEMP25N,400,"23","   Construction","Number of jobs",33071,33875,36760,39099,45791,49060,51340,49701,42561,39378,38901,40154,42048,43116,46438,50078,48545
+ "15000","Hawaii",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",19542,18413,17957,18541,18542,18664,19046,18309,17546,16474,16790,17479,18178,18277,18429,18879,19339
+ "15000","Hawaii",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",19978,19751,20071,20754,21481,21902,22251,22468,21632,21371,21544,21526,21710,23667,24270,21721,21610
+ "15000","Hawaii",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",83293,81070,82002,84071,87259,88722,88859,87275,83729,82257,84173,86274,87961,88254,89824,89514,90049
+ "15000","Hawaii",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",28653,26826,27327,28758,31790,33796,34250,30446,27566,26842,27588,29345,30583,31544,33580,36375,37917
+ "15000","Hawaii",8,CAEMP25N,900,"51","   Information","Number of jobs",13282,12983,11979,12479,12563,12618,12886,12213,11052,11856,10418,10309,10694,10492,10685,10747,10944
+ "15000","Hawaii",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",23420,23527,23772,24595,25061,26045,28177,29324,30900,29010,29986,29308,29128,27879,28910,30058,30862
+ "15000","Hawaii",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",29930,29777,31852,34326,37435,38827,40350,39394,37027,38344,38882,38641,39293,40719,41349,42969,43994
+ "15000","Hawaii",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",37160,38002,38913,41023,41476,42708,45133,45326,44403,44153,44137,44586,45555,45790,47001,46616,46881
+ "15000","Hawaii",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",6105,6753,6894,7008,7520,7718,7773,7722,7322,6988,7260,7894,8642,8889,8997,9481,9677
+ "15000","Hawaii",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",45944,48796,51110,52441,50621,54784,57520,56623,54018,54674,57036,58392,61147,63626,64023,64977,63273
+ "15000","Hawaii",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",14632,15378,16247,16192,17050,17303,17989,18801,19102,19483,19246,19760,19971,20058,20067,20259,20526
+ "15000","Hawaii",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",59349,60702,62775,64501,66546,68167,70360,71436,71676,72503,72924,74021,76518,77380,80074,81201,82892
+ "15000","Hawaii",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",19137,19538,19838,20626,21381,21125,22809,22367,20948,20582,20720,21635,22396,23012,22285,22991,23755
+ "15000","Hawaii",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",91346,90011,92371,96262,99124,100985,102164,99869,94338,94236,97269,100513,103981,106556,108477,112209,116657
+ "15000","Hawaii",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",40932,42250,43132,44284,45157,46473,47383,47125,45468,44390,45542,45583,46405,47911,49279,49772,50665
+ "15000","Hawaii",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",167415,170745,171729,173507,172490,174838,176341,180395,181205,182058,182093,183090,182779,183026,185612,183525,182374
+ "15000","Hawaii",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",29291,30751,31724,31585,31331,31822,31773,32254,33375,34875,34923,34950,33922,33118,33074,33224,33426
+ "15000","Hawaii",8,CAEMP25N,2002,"...","   Military","Number of jobs",53652,52919,52791,53758,53019,54363,54515,56047,55663,56237,57087,57456,57357,57251,58273,56447,55415
+ "15000","Hawaii",8,CAEMP25N,2010,"...","   State and local","Number of jobs",84472,87075,87214,88164,88140,88653,90053,92094,92167,90946,90083,90684,91500,92657,94265,93854,93533
+ "15000","Hawaii",8,CAEMP25N,2011,"...","    State government","Number of jobs",67037,69598,69929,70702,70570,70818,71799,73221,73156,71917,71213,71838,72477,73475,75026,74544,74216
+ "15000","Hawaii",8,CAEMP25N,2012,"...","    Local government","Number of jobs",17435,17477,17285,17462,17570,17835,18254,18873,19011,19029,18870,18846,19023,19182,19239,19310,19317
+ "15001","Hawaii, HI",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",81454,83553,85805,89835,95409,99124,103435,100969,96014,94317,95454,96980,99690,101871,103940,105234,107600
+ "15001","Hawaii, HI",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",60339,62020,63310,65543,69342,71920,73134,71463,67017,65898,66343,67530,69202,70500,71940,73266,75201
+ "15001","Hawaii, HI",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",21115,21533,22495,24292,26067,27204,30301,29506,28997,28419,29111,29450,30488,31371,32000,31968,32399
+ "15001","Hawaii, HI",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",3171,2890,2873,2828,2847,2807,3847,3752,3680,3638,3584,3491,3520,3522,3519,3516,3515
+ "15001","Hawaii, HI",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",17944,18643,19622,21464,23220,24397,26454,25754,25317,24781,25527,25959,26968,27849,28481,28452,28884
+ "15001","Hawaii, HI",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",5335,5101,5098,5028,5095,5162,6362,5916,5666,5599,5776,5577,5573,6117,5954,5851,6065
+ "15001","Hawaii, HI",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",76119,78452,80707,84807,90314,93962,97073,95053,90348,88718,89678,91403,94117,95754,97986,99383,101535
+ "15001","Hawaii, HI",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",63694,65749,67944,71983,77421,80829,83592,81103,76294,74721,75880,77512,80111,81703,83413,84815,86884
+ "15001","Hawaii, HI",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "15001","Hawaii, HI",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "15001","Hawaii, HI",8,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),454,448,446,445,471,477,497,548,536,534,(D),(D),557,533,573,618
+ "15001","Hawaii, HI",8,CAEMP25N,400,"23","   Construction","Number of jobs",5372,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),5862,6315,6632,(D)
+ "15001","Hawaii, HI",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),2085,2077,2115,(D),(D),(D),2239,(D),(D),(D),(D),(D),2172,2131,(D),2335
+ "15001","Hawaii, HI",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),2311,(D),(D),(D),(D),(D),2182,2232,(D),(D),(D),(D)
+ "15001","Hawaii, HI",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",10077,10130,10526,(D),11477,(D),12220,12045,11459,10971,11305,11356,(D),11683,11802,11810,12106
+ "15001","Hawaii, HI",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "15001","Hawaii, HI",8,CAEMP25N,900,"51","   Information","Number of jobs",776,(D),(D),804,880,929,1049,983,878,1028,(D),(D),851,887,900,933,916
+ "15001","Hawaii, HI",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),2246,2514,2375,2313,2191,2256,2358,2464
+ "15001","Hawaii, HI",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),5571,5592,5636,5481,5604,5732,5713,5832
+ "15001","Hawaii, HI",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",3312,3365,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),4621
+ "15001","Hawaii, HI",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",232,245,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),441
+ "15001","Hawaii, HI",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",4186,4586,(D),(D),(D),5715,5862,5760,5413,(D),(D),(D),(D),(D),(D),(D),7793
+ "15001","Hawaii, HI",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",981,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "15001","Hawaii, HI",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",6694,6922,6917,7156,7357,7725,(D),8048,8118,8292,8187,8298,(D),(D),(D),(D),9377
+ "15001","Hawaii, HI",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",2306,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "15001","Hawaii, HI",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",11718,11633,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "15001","Hawaii, HI",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",4468,4769,4877,5325,(D),(D),(D),(D),5692,5378,5518,5562,5621,5851,6038,6023,6305
+ "15001","Hawaii, HI",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",12425,12703,12763,12824,12893,13133,13481,13950,14054,13997,13798,13891,14006,14051,14573,14568,14651
+ "15001","Hawaii, HI",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",980,1103,1262,1294,1233,1248,1277,1334,1361,1499,1431,1453,1413,1371,1339,1356,1318
+ "15001","Hawaii, HI",8,CAEMP25N,2002,"...","   Military","Number of jobs",1411,1293,1317,1303,1321,1340,1350,1356,1358,1361,1369,1353,1350,1353,1372,1377,1418
+ "15001","Hawaii, HI",8,CAEMP25N,2010,"...","   State and local","Number of jobs",10034,10307,10184,10227,10339,10545,10854,11260,11335,11137,10998,11085,11243,11327,11862,11835,11915
+ "15001","Hawaii, HI",8,CAEMP25N,2011,"...","    State government","Number of jobs",7733,8007,7894,7889,7957,8049,8270,8504,8559,8419,8319,8461,8573,8589,9094,9081,9158
+ "15001","Hawaii, HI",8,CAEMP25N,2012,"...","    Local government","Number of jobs",2301,2300,2290,2338,2382,2496,2584,2756,2776,2718,2679,2624,2670,2738,2768,2754,2757
+ "15003","Honolulu, HI",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",549294,551443,561524,575830,587533,602446,614645,613203,598479,595786,603599,613464,625440,634736,648083,655906,659070
+ "15003","Honolulu, HI",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",473023,473970,481584,491515,500001,510921,515632,514172,498557,496958,502715,510995,519107,525069,533709,537851,538607
+ "15003","Honolulu, HI",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",76271,77473,79940,84315,87532,91525,99013,99031,99922,98828,100884,102469,106333,109667,114374,118055,120463
+ "15003","Honolulu, HI",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",732,656,627,594,579,554,737,735,736,744,750,746,756,757,763,762,762
+ "15003","Honolulu, HI",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",75539,76817,79313,83721,86953,90971,98276,98296,99186,98084,100134,101723,105577,108910,113611,117293,119701
+ "15003","Honolulu, HI",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",2828,2819,2917,2685,2531,2385,2167,2069,2120,2352,2717,2582,2695,2997,2851,2724,2793
+ "15003","Honolulu, HI",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",546466,548624,558607,573145,585002,600061,612478,611134,596359,593434,600882,610882,622745,631739,645232,653182,656277
+ "15003","Honolulu, HI",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",405719,405186,414511,427225,440249,453326,464912,460426,445189,441446,448467,457684,470144,479003,490556,500606,504365
+ "15003","Honolulu, HI",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",1635,1761,1551,1542,1360,1283,1052,1026,1026,995,987,1020,1072,1118,1029,1097,1050
+ "15003","Honolulu, HI",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",309,267,357,373,427,456,513,606,596,690,571,675,639,580,603,613,642
+ "15003","Honolulu, HI",8,CAEMP25N,300,"22","   Utilities","Number of jobs",1710,1693,1740,1814,1978,1980,2057,2144,2158,2218,2316,2533,2759,2804,2927,3083,3421
+ "15003","Honolulu, HI",8,CAEMP25N,400,"23","   Construction","Number of jobs",21124,21540,23573,25204,28938,30549,32216,31812,28186,26712,27019,27734,28924,29859,31972,34730,33225
+ "15003","Honolulu, HI",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",14634,13584,13242,13837,13725,13761,14007,13661,13026,12377,12631,12975,13284,13410,13584,13872,14242
+ "15003","Honolulu, HI",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",15923,15758,15948,16292,16672,16951,17225,17482,16848,16561,16588,16587,16667,17808,18170,16512,16448
+ "15003","Honolulu, HI",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",57828,55670,55847,57082,59035,59892,59229,58275,56519,55797,57211,59184,60160,60002,60825,60428,60589
+ "15003","Honolulu, HI",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",22325,20008,20194,21272,24007,25548,25775,22937,20747,20193,20358,21488,22423,23341,24769,27009,28068
+ "15003","Honolulu, HI",8,CAEMP25N,900,"51","   Information","Number of jobs",10955,10550,9716,10172,10154,10218,10267,9712,8758,9458,8323,8238,8652,8424,8632,8691,8905
+ "15003","Honolulu, HI",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",19791,19758,19815,20452,20749,21472,22991,24001,25220,23690,24219,23785,23593,22629,23417,24609,25231
+ "15003","Honolulu, HI",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",19181,18984,20062,21664,23373,24391,25489,25189,23740,24610,25017,24697,25039,26036,26507,27705,28506
+ "15003","Honolulu, HI",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",29175,29784,30618,31854,32402,33341,34745,34969,34427,34265,34181,34365,34891,35158,35927,35541,35687
+ "15003","Honolulu, HI",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",5367,6031,6112,6205,6589,6790,6852,6779,6487,6199,6470,7071,7808,8044,8169,8511,8669
+ "15003","Honolulu, HI",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",34150,36530,37950,38354,35137,38325,39974,39715,38168,38422,40228,41461,42993,44852,45697,46154,43442
+ "15003","Honolulu, HI",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",12457,12995,13719,13347,13999,14055,14632,15082,15353,15605,15433,15832,16012,15994,15905,15924,16071
+ "15003","Honolulu, HI",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",45011,45929,47874,49131,50637,51674,53342,54152,54229,54813,55401,56232,58056,59036,60985,61595,61926
+ "15003","Honolulu, HI",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",11601,11760,11577,11804,12148,11692,12276,12031,11442,11549,11781,12559,13010,13296,13252,13595,13924
+ "15003","Honolulu, HI",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",53263,52683,54104,56046,57720,58719,59847,58686,56989,56528,58121,59747,61935,63467,64167,66647,69666
+ "15003","Honolulu, HI",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",29280,29901,30512,30780,31199,32229,32423,32167,31270,30764,31612,31501,32227,33145,34019,34290,34653
+ "15003","Honolulu, HI",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",140747,143438,144096,145920,144753,146735,147566,150708,151170,151988,152415,153198,152601,152736,154676,152576,151912
+ "15003","Honolulu, HI",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",27407,28634,29170,29041,28847,29296,29151,29492,30598,31825,32048,32074,31107,30381,30391,30494,30692
+ "15003","Honolulu, HI",8,CAEMP25N,2002,"...","   Military","Number of jobs",50375,49904,49712,50705,49950,51300,51454,52970,52592,53162,53981,54361,54252,54128,55125,53307,52182
+ "15003","Honolulu, HI",8,CAEMP25N,2010,"...","   State and local","Number of jobs",62965,64900,65214,66174,65956,66139,66961,68246,67980,67001,66386,66763,67242,68227,69160,68775,69038
+ "15003","Honolulu, HI",8,CAEMP25N,2011,"...","    State government","Number of jobs",51059,53049,53569,54430,54247,54362,54942,55937,55702,54609,54141,54525,54927,55855,56756,56302,56565
+ "15003","Honolulu, HI",8,CAEMP25N,2012,"...","    Local government","Number of jobs",11906,11851,11645,11744,11709,11777,12019,12309,12278,12392,12245,12238,12315,12372,12404,12473,12473
+ "15007","Kauai, HI",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",36731,36910,38312,39759,40960,42133,43647,43048,40461,40422,40863,41548,42950,43470,44463,44916,46157
+ "15007","Kauai, HI",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",27900,28150,29280,30293,31154,31744,32314,31729,29469,29464,29763,30216,31040,31564,32144,32410,33453
+ "15007","Kauai, HI",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",8831,8760,9032,9466,9806,10389,11333,11319,10992,10958,11100,11332,11910,11906,12319,12506,12704
+ "15007","Kauai, HI",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",541,518,500,480,475,461,624,589,562,538,513,480,486,486,489,488,488
+ "15007","Kauai, HI",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",8290,8242,8532,8986,9331,9928,10709,10730,10430,10420,10587,10852,11424,11420,11830,12018,12216
+ "15007","Kauai, HI",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1329,1330,1304,1252,1248,1189,1086,1015,1039,987,1021,985,999,1101,1065,1016,1041
+ "15007","Kauai, HI",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",35402,35580,37008,38507,39712,40944,42561,42033,39422,39435,39842,40563,41951,42369,43398,43900,45116
+ "15007","Kauai, HI",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",30572,30697,32088,33626,34845,36072,37617,36991,34357,34354,34777,35419,36715,37089,38096,38603,39747
+ "15007","Kauai, HI",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "15007","Kauai, HI",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "15007","Kauai, HI",8,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),201,197,191,210,229,250,246,240,234,213,(D),(D),236,255,258,279
+ "15007","Kauai, HI",8,CAEMP25N,400,"23","   Construction","Number of jobs",1840,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),2158,2398,2687,(D)
+ "15007","Kauai, HI",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",(D),622,588,607,(D),(D),(D),647,(D),(D),(D),(D),(D),744,779,(D),908
+ "15007","Kauai, HI",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),(D),(D),760,(D),(D),(D),(D),(D),749,800,(D),(D),(D),(D)
+ "15007","Kauai, HI",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",4811,4657,4839,(D),5022,(D),5269,5162,4855,4755,4803,4735,(D),4919,5057,5113,5215
+ "15007","Kauai, HI",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "15007","Kauai, HI",8,CAEMP25N,900,"51","   Information","Number of jobs",439,(D),(D),343,397,385,441,420,384,368,(D),(D),342,312,306,299,302
+ "15007","Kauai, HI",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),1035,1098,1149,1213,1135,1231,993,1023
+ "15007","Kauai, HI",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),2300,2372,2380,2521,2564,2581,2661,2672
+ "15007","Kauai, HI",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",1443,1542,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),2036
+ "15007","Kauai, HI",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",111,139,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),210
+ "15007","Kauai, HI",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",2544,2481,(D),(D),(D),3924,3894,3521,3046,(D),(D),(D),(D),(D),(D),(D),3547
+ "15007","Kauai, HI",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",278,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "15007","Kauai, HI",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",2494,(D),(D),(D),(D),(D),(D),2846,(D),(D),(D),(D),(D),(D),(D),(D),3341
+ "15007","Kauai, HI",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",1416,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "15007","Kauai, HI",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",7205,6979,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "15007","Kauai, HI",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",2080,2208,2178,2341,(D),(D),(D),(D),2591,2456,2485,2530,2569,2665,2707,2671,2716
+ "15007","Kauai, HI",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",4830,4883,4920,4881,4867,4872,4944,5042,5065,5081,5065,5144,5236,5280,5302,5297,5369
+ "15007","Kauai, HI",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",374,410,492,488,488,501,538,549,536,573,560,551,547,540,532,534,549
+ "15007","Kauai, HI",8,CAEMP25N,2002,"...","   Military","Number of jobs",640,596,612,618,610,580,569,570,559,553,571,593,602,615,618,610,624
+ "15007","Kauai, HI",8,CAEMP25N,2010,"...","   State and local","Number of jobs",3816,3877,3816,3775,3769,3791,3837,3923,3970,3955,3934,4000,4087,4125,4152,4153,4196
+ "15007","Kauai, HI",8,CAEMP25N,2011,"...","    State government","Number of jobs",2715,2746,2682,2628,2615,2624,2649,2695,2715,2709,2663,2683,2746,2770,2812,2803,2846
+ "15007","Kauai, HI",8,CAEMP25N,2012,"...","    Local government","Number of jobs",1101,1131,1134,1147,1154,1167,1188,1228,1255,1246,1271,1317,1341,1355,1340,1350,1350
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",85069,85815,87997,91839,96095,98710,102898,101182,94943,93935,95096,97164,100042,102724,104658,106840,109054
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",66784,66897,68169,70580,73638,75736,77212,75613,69677,68822,70150,72101,74190,75844,77408,78659,80349
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",18285,18918,19828,21259,22457,22974,25686,25569,25266,25113,24946,25063,25852,26880,27250,28181,28705
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",792,731,719,702,704,691,941,930,925,928,929,919,931,931,941,939,939
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",17493,18187,19109,20557,21753,22283,24745,24639,24341,24185,24017,24144,24921,25949,26309,27242,27766
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",2822,2728,2598,2631,2530,2568,2874,2661,2463,2572,2790,2591,2594,2857,2576,2408,2086
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",82247,83087,85399,89208,93565,96142,100024,98521,92480,91363,92306,94573,97448,99867,102082,104432,106968
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",72834,73366,75449,79326,83588,86044,89674,87826,81564,80371,81491,83716,86512,88908,91021,93348,96526
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,300,"22","   Utilities","Number of jobs",409,404,410,419,436,450,481,491,471,474,466,505,538,555,600,620,706
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,400,"23","   Construction","Number of jobs",4735,4670,4699,4909,6154,6720,7191,6631,5427,4636,4459,4911,5063,5237,5753,6029,6174
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",2146,2122,2050,1982,1955,1952,1911,1762,1707,1578,1607,1762,1899,1951,1935,1962,1854
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",1568,1571,1619,1735,1844,1880,1951,1968,1923,1972,1999,2008,2011,2399,2419,2092,2097
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",10577,10613,10790,11170,11725,11854,12141,11793,10896,10734,10854,10999,11335,11650,12140,12163,12139
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",2916,3057,3119,3224,3372,3566,3700,3261,2976,2957,3345,3748,3914,3734,4098,4491,4679
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,900,"51","   Information","Number of jobs",1112,1124,1100,1160,1132,1086,1129,1098,1032,1002,900,858,849,869,847,824,821
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1393,1403,1523,1623,1631,1722,1973,2044,2139,2039,2155,1999,2009,1924,2006,2098,2144
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",4657,4743,5237,5590,6147,6301,6504,6081,5628,5863,5901,5928,6252,6515,6529,6890,6984
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",3230,3311,3338,3710,3766,3845,4107,4060,3964,3929,3978,4086,4245,4293,4455,4550,4537
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",395,338,358,364,443,464,492,545,416,362,339,398,396,382,282,337,357
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",5064,5199,5609,5979,6374,6820,7790,7627,7391,7476,7425,7169,7542,7954,7887,8089,8491
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,1500,"61","   Educational services","Number of jobs",916,1060,1108,1270,1321,1404,1405,1501,1438,1493,1479,1559,1658,1707,1700,1777,1825
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",5150,(D),(D),(D),(D),(D),6212,6390,(D),(D),(D),(D),6678,6668,6942,7099,8248
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",3814,3819,3893,4226,4451,4508,5217,5101,4544,4185,4030,3910,4129,4215,3978,4265,4567
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",19160,18716,19108,19999,20532,20902,20621,20582,18551,18695,19660,20795,21449,21997,22345,22705,23344
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",5104,5372,5565,5838,5911,6007,6224,6213,5915,5792,5927,5990,5988,6250,6515,6788,6991
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",9413,9721,9950,9882,9977,10098,10350,10695,10916,10992,10815,10857,10936,10959,11061,11084,10442
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",530,604,800,762,763,777,807,879,880,978,884,872,855,826,812,840,867
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,2002,"...","   Military","Number of jobs",1226,1126,1150,1132,1138,1143,1142,1151,1154,1161,1166,1149,1153,1155,1158,1153,1191
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,2010,"...","   State and local","Number of jobs",7657,7991,8000,7988,8076,8178,8401,8665,8882,8853,8765,8836,8928,8978,9091,9091,8384
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,2011,"...","    State government","Number of jobs",5530,5796,5784,5755,5751,5783,5938,6085,6180,6180,6090,6169,6231,6261,6364,6358,5647
+ "15901","Maui + Kalawao, HI*",8,CAEMP25N,2012,"...","    Local government","Number of jobs",2127,2195,2216,2233,2325,2395,2463,2580,2702,2673,2675,2667,2697,2717,2727,2733,2737
+"Note: See the included footnote file."
+"CAEMP25N: Total Full-Time and Part-Time Employment by NAICS Industry 1/"
+"Last updated: November 15, 2018-- new statistics for 2017; revised statistics for 2001-2016. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

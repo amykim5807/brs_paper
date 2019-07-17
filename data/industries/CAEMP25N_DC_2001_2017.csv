@@ -1,0 +1,71 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+ "11000","District of Columbia",2,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",741793,757415,754602,763470,769796,777525,788410,794912,795912,809137,826761,834413,848226,860488,872926,891169,899124
+ "11000","District of Columbia",2,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",688978,703526,699519,704817,708380,713309,718308,721890,719705,731389,742832,749247,758641,767130,775658,788013,793524
+ "11000","District of Columbia",2,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",52815,53889,55083,58653,61416,64216,70102,73022,76207,77748,83929,85166,89585,93358,97268,103156,105600
+ "11000","District of Columbia",2,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11000","District of Columbia",2,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",52815,53889,55083,58653,61416,64216,70102,73022,76207,77748,83929,85166,89585,93358,97268,103156,105600
+ "11000","District of Columbia",2,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11000","District of Columbia",2,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",741793,757415,754602,763470,769796,777525,788410,794912,795912,809137,826761,834413,848226,860488,872926,891169,899124
+ "11000","District of Columbia",2,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",496635,503124,502660,513341,521023,530776,544905,549764,544314,546777,565547,577997,595213,608748,624502,640486,648972
+ "11000","District of Columbia",2,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),53,46,56,56,62,63,84,65,72,73,86,70,70,81,79
+ "11000","District of Columbia",2,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),245,206,(D),235,238,341,327,466,331,472,459,432,511,553,585
+ "11000","District of Columbia",2,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),2617,2543,2627,2491,2436,2392,2503,1891,1884,1918,1986,2015,2150,2199,2355
+ "11000","District of Columbia",2,CAEMP25N,400,"23","   Construction","Number of jobs",13570,14527,15358,14923,(D),15210,15394,15595,14265,13349,14829,16460,17161,17383,17561,18362,(D)
+ "11000","District of Columbia",2,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",3765,(D),2947,2812,2482,2169,2154,2030,1944,1733,1625,1575,1772,1767,1830,2047,(D)
+ "11000","District of Columbia",2,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",4790,4641,4917,5034,5125,5250,5468,5290,5131,5274,5198,5535,5377,5760,5733,5600,5480
+ "11000","District of Columbia",2,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",19936,19920,20301,20688,20756,21167,21424,21573,21020,21593,22059,22494,23545,24712,25845,26128,26536
+ "11000","District of Columbia",2,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),7098,6836,6848,6732,6620,6367,6280,6365,6751,7006,7018,8385,11093,13522,14117
+ "11000","District of Columbia",2,CAEMP25N,900,"51","   Information","Number of jobs",(D),27523,26897,26239,25129,24980,24696,23405,21732,21146,21163,19884,19521,19888,19619,19529,20306
+ "11000","District of Columbia",2,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",21242,21088,20871,20751,20787,20837,21975,22356,22935,22858,24336,24233,24687,24606,25077,26027,26815
+ "11000","District of Columbia",2,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",18703,18712,18981,19868,21089,21775,23005,22663,22821,23235,24666,24998,25739,27735,28675,29579,30150
+ "11000","District of Columbia",2,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",105511,106990,107784,111926,115278,118200,121051,123396,121270,120703,122425,126648,128947,130398,135044,138340,140251
+ "11000","District of Columbia",2,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",2545,2487,1740,1588,1631,1603,1594,1787,1682,2372,2421,2397,2411,2571,2651,3254,3623
+ "11000","District of Columbia",2,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",46107,46142,47034,46792,47804,48619,49610,49144,47027,47351,50565,50971,51608,52144,52778,53173,52436
+ "11000","District of Columbia",2,CAEMP25N,1500,"61","   Educational services","Number of jobs",42107,43446,43903,47301,47964,50853,51999,51119,52958,52429,53676,53460,59487,60885,60989,61860,61043
+ "11000","District of Columbia",2,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",55042,58896,56971,56794,56587,57226,60460,61169,62567,64843,67283,68595,70584,70956,71863,73792,74554
+ "11000","District of Columbia",2,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",10331,10638,10864,10899,11507,11610,12213,13417,13447,13525,13461,13767,13566,14362,14739,15932,16838
+ "11000","District of Columbia",2,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),44491,46125,47671,50101,51094,51609,53218,53607,55375,58094,60823,63849,65861,68674,69822,71243
+ "11000","District of Columbia",2,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",67659,70127,67954,70424,69738,70669,72897,74439,72714,72204,74708,76688,77410,78818,79600,80686,82074
+ "11000","District of Columbia",2,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",245158,254291,251942,250129,248773,246749,243505,245148,251598,262360,261214,256416,253013,251740,248424,250683,250152
+ "11000","District of Columbia",2,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",183103,192744,191584,190632,190466,189865,187969,189541,196124,206246,207647,203982,200773,198077,193962,196226,195159
+ "11000","District of Columbia",2,CAEMP25N,2002,"...","   Military","Number of jobs",23083,23222,23485,23452,22808,21719,20202,20006,19524,19718,18349,15635,15119,14806,14428,14092,13834
+ "11000","District of Columbia",2,CAEMP25N,2010,"...","   State and local","Number of jobs",38972,38325,36873,36045,35499,35165,35334,35601,35950,36396,35218,36799,37121,38857,40034,40365,41159
+ "11000","District of Columbia",2,CAEMP25N,2011,"...","    State government","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11000","District of Columbia",2,CAEMP25N,2012,"...","    Local government","Number of jobs",38972,38325,36873,36045,35499,35165,35334,35601,35950,36396,35218,36799,37121,38857,40034,40365,41159
+ "11001","District of Columbia, DC",2,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",741793,757415,754602,763470,769796,777525,788410,794912,795912,809137,826761,834413,848226,860488,872926,891169,899124
+ "11001","District of Columbia, DC",2,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",688978,703526,699519,704817,708380,713309,718308,721890,719705,731389,742832,749247,758641,767130,775658,788013,793524
+ "11001","District of Columbia, DC",2,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",52815,53889,55083,58653,61416,64216,70102,73022,76207,77748,83929,85166,89585,93358,97268,103156,105600
+ "11001","District of Columbia, DC",2,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11001","District of Columbia, DC",2,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",52815,53889,55083,58653,61416,64216,70102,73022,76207,77748,83929,85166,89585,93358,97268,103156,105600
+ "11001","District of Columbia, DC",2,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11001","District of Columbia, DC",2,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",741793,757415,754602,763470,769796,777525,788410,794912,795912,809137,826761,834413,848226,860488,872926,891169,899124
+ "11001","District of Columbia, DC",2,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",496635,503124,502660,513341,521023,530776,544905,549764,544314,546777,565547,577997,595213,608748,624502,640486,648972
+ "11001","District of Columbia, DC",2,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),53,46,56,56,62,63,84,65,72,73,86,70,70,81,79
+ "11001","District of Columbia, DC",2,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),245,206,(D),235,238,341,327,466,331,472,459,432,511,553,585
+ "11001","District of Columbia, DC",2,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),2617,2543,2627,2491,2436,2392,2503,1891,1884,1918,1986,2015,2150,2199,2355
+ "11001","District of Columbia, DC",2,CAEMP25N,400,"23","   Construction","Number of jobs",13570,14527,15358,14923,(D),15210,15394,15595,14265,13349,14829,16460,17161,17383,17561,18362,(D)
+ "11001","District of Columbia, DC",2,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",3765,(D),2947,2812,2482,2169,2154,2030,1944,1733,1625,1575,1772,1767,1830,2047,(D)
+ "11001","District of Columbia, DC",2,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",4790,4641,4917,5034,5125,5250,5468,5290,5131,5274,5198,5535,5377,5760,5733,5600,5480
+ "11001","District of Columbia, DC",2,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",19936,19920,20301,20688,20756,21167,21424,21573,21020,21593,22059,22494,23545,24712,25845,26128,26536
+ "11001","District of Columbia, DC",2,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),7098,6836,6848,6732,6620,6367,6280,6365,6751,7006,7018,8385,11093,13522,14117
+ "11001","District of Columbia, DC",2,CAEMP25N,900,"51","   Information","Number of jobs",(D),27523,26897,26239,25129,24980,24696,23405,21732,21146,21163,19884,19521,19888,19619,19529,20306
+ "11001","District of Columbia, DC",2,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",21242,21088,20871,20751,20787,20837,21975,22356,22935,22858,24336,24233,24687,24606,25077,26027,26815
+ "11001","District of Columbia, DC",2,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",18703,18712,18981,19868,21089,21775,23005,22663,22821,23235,24666,24998,25739,27735,28675,29579,30150
+ "11001","District of Columbia, DC",2,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",105511,106990,107784,111926,115278,118200,121051,123396,121270,120703,122425,126648,128947,130398,135044,138340,140251
+ "11001","District of Columbia, DC",2,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",2545,2487,1740,1588,1631,1603,1594,1787,1682,2372,2421,2397,2411,2571,2651,3254,3623
+ "11001","District of Columbia, DC",2,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",46107,46142,47034,46792,47804,48619,49610,49144,47027,47351,50565,50971,51608,52144,52778,53173,52436
+ "11001","District of Columbia, DC",2,CAEMP25N,1500,"61","   Educational services","Number of jobs",42107,43446,43903,47301,47964,50853,51999,51119,52958,52429,53676,53460,59487,60885,60989,61860,61043
+ "11001","District of Columbia, DC",2,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",55042,58896,56971,56794,56587,57226,60460,61169,62567,64843,67283,68595,70584,70956,71863,73792,74554
+ "11001","District of Columbia, DC",2,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",10331,10638,10864,10899,11507,11610,12213,13417,13447,13525,13461,13767,13566,14362,14739,15932,16838
+ "11001","District of Columbia, DC",2,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",(D),44491,46125,47671,50101,51094,51609,53218,53607,55375,58094,60823,63849,65861,68674,69822,71243
+ "11001","District of Columbia, DC",2,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",67659,70127,67954,70424,69738,70669,72897,74439,72714,72204,74708,76688,77410,78818,79600,80686,82074
+ "11001","District of Columbia, DC",2,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",245158,254291,251942,250129,248773,246749,243505,245148,251598,262360,261214,256416,253013,251740,248424,250683,250152
+ "11001","District of Columbia, DC",2,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",183103,192744,191584,190632,190466,189865,187969,189541,196124,206246,207647,203982,200773,198077,193962,196226,195159
+ "11001","District of Columbia, DC",2,CAEMP25N,2002,"...","   Military","Number of jobs",23083,23222,23485,23452,22808,21719,20202,20006,19524,19718,18349,15635,15119,14806,14428,14092,13834
+ "11001","District of Columbia, DC",2,CAEMP25N,2010,"...","   State and local","Number of jobs",38972,38325,36873,36045,35499,35165,35334,35601,35950,36396,35218,36799,37121,38857,40034,40365,41159
+ "11001","District of Columbia, DC",2,CAEMP25N,2011,"...","    State government","Number of jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ "11001","District of Columbia, DC",2,CAEMP25N,2012,"...","    Local government","Number of jobs",38972,38325,36873,36045,35499,35165,35334,35601,35950,36396,35218,36799,37121,38857,40034,40365,41159
+"Note: See the included footnote file."
+"CAEMP25N: Total Full-Time and Part-Time Employment by NAICS Industry 1/"
+"Last updated: November 15, 2018-- new statistics for 2017; revised statistics for 2001-2016. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"

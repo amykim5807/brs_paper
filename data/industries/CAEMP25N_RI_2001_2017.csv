@@ -1,0 +1,203 @@
+GeoFIPS,GeoName,Region,TableName,LineCode,IndustryClassification,Description,Unit,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017
+ "44000","Rhode Island",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",585235,588132,594108,602399,605736,611123,617985,608905,588284,586363,591692,592978,602429,613264,627005,632532,639149
+ "44000","Rhode Island",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",498580,498821,502188,505747,505702,508017,508026,497535,475472,474027,475367,477449,483908,491596,499350,502469,506216
+ "44000","Rhode Island",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",86655,89311,91920,96652,100034,103106,109959,111370,112812,112336,116325,115529,118521,121668,127655,130063,132933
+ "44000","Rhode Island",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",770,766,725,702,691,669,938,942,997,1021,1043,1047,1072,1064,1086,1085,1084
+ "44000","Rhode Island",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",85885,88545,91195,95950,99343,102437,109021,110428,111815,111315,115282,114482,117449,120604,126569,128978,131849
+ "44000","Rhode Island",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",1430,1426,1402,1264,1236,1168,1422,1469,1507,1524,1593,1584,1685,1679,1700,1657,1655
+ "44000","Rhode Island",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",583805,586706,592706,601135,604500,609955,616563,607436,586777,584839,590099,591394,600744,611585,625305,630875,637494
+ "44000","Rhode Island",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",506980,509146,514839,524226,528799,534786,541157,532776,513396,511736,517837,519955,529013,539766,553431,558782,565062
+ "44000","Rhode Island",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),1928,2071,2048,1978,1957,1915,1824,(D),(D),1760,(D),(D),(D),(D),(D)
+ "44000","Rhode Island",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),438,401,448,461,492,528,474,(D),(D),631,(D),(D),(D),(D),(D)
+ "44000","Rhode Island",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),1217,1141,1199,1210,1185,1208,1190,1211,1138,1136,1229,1211,1386,1716,2126
+ "44000","Rhode Island",1,CAEMP25N,400,"23","   Construction","Number of jobs",28996,(D),31478,32386,33910,35486,34875,32731,29320,27552,27325,27690,28007,28450,29210,30737,(D)
+ "44000","Rhode Island",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",69709,64402,60313,58584,56734,54476,52842,49821,43884,42304,42411,41696,42273,43151,43537,42875,43028
+ "44000","Rhode Island",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",17918,18029,18132,18117,18545,18850,19037,18605,17823,17569,17994,18592,18431,19351,19608,18398,18220
+ "44000","Rhode Island",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",60371,61561,62124,62298,61896,61077,61042,58623,55903,55285,55658,55411,55417,56121,57239,57195,57530
+ "44000","Rhode Island",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),12406,12198,12401,12538,12896,12630,11875,11734,12332,12607,12523,12990,14920,16464,16910
+ "44000","Rhode Island",1,CAEMP25N,900,"51","   Information","Number of jobs",12251,12300,12241,12292,12301,12470,12003,12269,11588,11571,11789,11212,10714,10528,10260,9748,7796
+ "44000","Rhode Island",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",30809,31205,31615,31778,32061,33045,34374,34364,34241,33575,34709,34617,35332,34895,35712,36183,38821
+ "44000","Rhode Island",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",19120,19363,20655,22483,23839,24621,25320,25252,25127,25708,26556,26296,26918,27836,28428,29017,29749
+ "44000","Rhode Island",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",32859,32990,33699,35416,35662,36345,37938,37840,36725,36329,36564,36957,37908,38951,40960,41222,42181
+ "44000","Rhode Island",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",6830,6990,8061,8839,9342,9774,9642,9614,9538,9724,10261,10917,11725,12566,13253,14507,14667
+ "44000","Rhode Island",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",30090,29531,29185,31650,31696,32119,32169,31190,30048,31296,31167,31817,33321,34197,35145,35885,36687
+ "44000","Rhode Island",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",22928,23717,23434,24479,25240,26152,26886,27811,28450,28748,29170,27943,28073,29440,31055,30818,31132
+ "44000","Rhode Island",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",74814,76584,78873,79944,80931,83178,85542,86138,86110,87516,87038,87389,89290,88942,89331,89052,88834
+ "44000","Rhode Island",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",12440,13032,13108,13268,13372,13852,14710,14828,14394,14312,14428,14770,15711,16461,16613,17221,17416
+ "44000","Rhode Island",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",42046,43175,44463,44988,45119,45048,45669,45517,43870,44529,45308,46712,47742,49208,50238,51226,51985
+ "44000","Rhode Island",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",29770,31128,31469,31893,32055,32106,32578,31892,31012,30391,31811,31802,32009,32987,34124,34003,34264
+ "44000","Rhode Island",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",76825,77560,77867,76909,75701,75169,75406,74660,73381,73103,72262,71439,71731,71819,71874,72093,72432
+ "44000","Rhode Island",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",10216,10282,10216,9989,9928,9991,9893,9999,10299,10675,10258,10282,10197,10242,10490,10736,10910
+ "44000","Rhode Island",1,CAEMP25N,2002,"...","   Military","Number of jobs",8895,8648,8682,8424,7767,7322,7607,7460,7244,7310,7350,7324,7548,7260,6994,6770,6752
+ "44000","Rhode Island",1,CAEMP25N,2010,"...","   State and local","Number of jobs",57714,58630,58969,58496,58006,57856,57906,57201,55838,55118,54654,53833,53986,54317,54390,54587,54770
+ "44000","Rhode Island",1,CAEMP25N,2011,"...","    State government","Number of jobs",22470,22298,21987,21621,21961,21606,21816,21377,20826,21164,21388,21195,21388,21419,21647,22093,22158
+ "44000","Rhode Island",1,CAEMP25N,2012,"...","    Local government","Number of jobs",35244,36332,36982,36875,36045,36250,36090,35824,35012,33954,33266,32638,32598,32898,32743,32494,32612
+ "44001","Bristol, RI",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",20426,20783,21705,22296,22458,22628,23337,23225,22420,22042,21930,21862,22397,22775,23099,23281,23350
+ "44001","Bristol, RI",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",15104,15341,16066,16343,16350,16366,16577,16442,15483,15141,14915,14795,15211,15340,15229,15333,15239
+ "44001","Bristol, RI",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",5322,5442,5639,5953,6108,6262,6760,6783,6937,6901,7015,7067,7186,7435,7870,7948,8111
+ "44001","Bristol, RI",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",36,34,31,30,29,28,39,36,36,35,33,33,33,33,32,32,32
+ "44001","Bristol, RI",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",5286,5408,5608,5923,6079,6234,6721,6747,6901,6866,6982,7034,7153,7402,7838,7916,8079
+ "44001","Bristol, RI",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",51,50,50,45,40,37,49,47,49,40,38,40,38,35,33,33,32
+ "44001","Bristol, RI",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",20375,20733,21655,22251,22418,22591,23288,23178,22371,22002,21892,21822,22359,22740,23066,23248,23318
+ "44001","Bristol, RI",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",18176,18450,19232,19895,20079,20177,20836,20710,19983,19666,19612,19658,20161,20507,20873,21056,21186
+ "44001","Bristol, RI",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",108,(D),(D),(D),(D),(D),(D),(D),(D),(D),73,(D),(D),(D),(D),(D),(D)
+ "44001","Bristol, RI",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",18,20,18,19,15,25,20,28,32,45,33,62,46,63,36,46,49
+ "44001","Bristol, RI",1,CAEMP25N,300,"22","   Utilities","Number of jobs",0,0,0,9,0,11,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "44001","Bristol, RI",1,CAEMP25N,400,"23","   Construction","Number of jobs",1296,(D),1388,1473,1578,1643,1647,(D),(D),(D),1214,(D),1195,1206,(D),(D),(D)
+ "44001","Bristol, RI",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",2992,2651,(D),2667,2617,(D),(D),2492,2010,(D),1814,(D),(D),(D),(D),(D),(D)
+ "44001","Bristol, RI",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),648,585,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "44001","Bristol, RI",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",1829,1914,1851,1948,1966,1945,1929,1784,1722,1718,1701,1681,1708,1702,1713,1652,1655
+ "44001","Bristol, RI",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),421,(D),(D),428,427,(D),(D),(D),(D)
+ "44001","Bristol, RI",1,CAEMP25N,900,"51","   Information","Number of jobs",219,228,216,227,257,260,271,262,226,233,216,221,216,238,224,219,226
+ "44001","Bristol, RI",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",618,716,777,861,779,749,896,997,1128,1047,1091,1102,1267,1290,1346,1354,1372
+ "44001","Bristol, RI",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",858,854,984,1072,1179,1185,1225,1209,1207,1262,1355,1347,1395,1463,1514,1550,1596
+ "44001","Bristol, RI",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),1392,1453,1417,1449,1559,1594,1566,1532,1543,1556,1612,1701,1862,1824,1930
+ "44001","Bristol, RI",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),53,52,46,64,56,60,63,73,77,78,68,75,66,62,74
+ "44001","Bristol, RI",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),645,685,690,698,718,764,845,813,749,738,711,710,716,791,835
+ "44001","Bristol, RI",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",1647,1782,1919,2012,2066,2131,2206,2312,2526,2444,2374,2363,2428,2501,2659,2627,2605
+ "44001","Bristol, RI",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",2307,2335,2352,2404,2468,2527,2627,2641,2573,2646,2634,2667,2854,2711,2537,2555,2474
+ "44001","Bristol, RI",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",595,625,607,581,600,659,710,766,763,807,820,809,831,888,891,920,944
+ "44001","Bristol, RI",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",1415,1544,1644,1696,1735,1766,1739,1688,1605,1654,1657,1737,1708,1772,1812,1808,1822
+ "44001","Bristol, RI",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",1347,1425,1497,1483,1480,1472,1504,1464,1377,1342,1386,1365,1387,1455,1531,1528,1550
+ "44001","Bristol, RI",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",2199,2283,2423,2356,2339,2414,2452,2468,2388,2336,2280,2164,2198,2233,2193,2192,2132
+ "44001","Bristol, RI",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",109,107,103,102,103,101,103,101,101,107,89,85,87,89,93,95,93
+ "44001","Bristol, RI",1,CAEMP25N,2002,"...","   Military","Number of jobs",273,270,280,278,250,230,238,229,227,230,231,227,236,228,220,218,214
+ "44001","Bristol, RI",1,CAEMP25N,2010,"...","   State and local","Number of jobs",1817,1906,2040,1976,1986,2083,2111,2138,2060,1999,1960,1852,1875,1916,1880,1879,1825
+ "44001","Bristol, RI",1,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),(D),381,404,417,376,363,337,305,286,288,285,285,284
+ "44001","Bristol, RI",1,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),(D),1702,1707,1721,1684,1636,1623,1547,1589,1628,1595,1594,1541
+ "44003","Kent, RI",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",95683,96741,99467,102004,102277,103209,104063,101325,96391,94459,95532,95117,96856,97648,98843,99703,100695
+ "44003","Kent, RI",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",81759,82386,84915,86397,86251,86764,86388,83531,78421,76516,77158,76813,78254,78771,79224,79710,80273
+ "44003","Kent, RI",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",13924,14355,14552,15607,16026,16445,17675,17794,17970,17943,18374,18304,18602,18877,19619,19993,20422
+ "44003","Kent, RI",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",88,89,86,84,83,81,113,110,111,108,105,103,106,106,109,109,109
+ "44003","Kent, RI",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",13836,14266,14466,15523,15943,16364,17562,17684,17859,17835,18269,18201,18496,18771,19510,19884,20313
+ "44003","Kent, RI",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",118,119,117,113,104,105,140,137,141,141,138,130,136,133,138,140,141
+ "44003","Kent, RI",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",95565,96622,99350,101891,102173,103104,103923,101188,96250,94318,95394,94987,96720,97515,98705,99563,100554
+ "44003","Kent, RI",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",85744,87278,89739,92349,92482,93397,94212,91585,86919,85115,86346,85953,87600,88438,89761,90629,91610
+ "44003","Kent, RI",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "44003","Kent, RI",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "44003","Kent, RI",1,CAEMP25N,300,"22","   Utilities","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),8,7,10,(D),(D),(D),(D)
+ "44003","Kent, RI",1,CAEMP25N,400,"23","   Construction","Number of jobs",4846,4862,5372,5919,6000,6306,6340,(D),5093,4751,4688,4831,4872,4878,4972,5367,5376
+ "44003","Kent, RI",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",11744,10980,10752,10334,9739,(D),9271,8754,7674,7199,7009,6562,6542,6592,6365,6169,6124
+ "44003","Kent, RI",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",(D),(D),(D),3797,3853,(D),(D),(D),(D),(D),(D),(D),3293,(D),(D),(D),(D)
+ "44003","Kent, RI",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",13945,13886,13970,13891,14238,14044,14097,13590,12823,12069,12683,12529,12457,12607,12778,12845,12649
+ "44003","Kent, RI",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",3873,3785,3818,(D),(D),(D),3784,3683,(D),3216,3247,3339,3366,3420,3740,3950,4068
+ "44003","Kent, RI",1,CAEMP25N,900,"51","   Information","Number of jobs",916,1524,1504,1686,1684,1831,1738,1844,1768,1778,1781,1751,1780,1664,1458,1459,1514
+ "44003","Kent, RI",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",5286,5613,5937,6473,6806,7065,6895,6724,6507,6457,6830,6852,6941,6135,6058,5339,5671
+ "44003","Kent, RI",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",3715,3705,3946,4250,4718,4816,4997,4851,4785,4738,4735,4748,4826,4936,5020,5162,5283
+ "44003","Kent, RI",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",5441,5421,5592,6132,5002,5123,5802,5825,5596,5609,5728,5942,6124,6308,6557,6611,6888
+ "44003","Kent, RI",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",1496,1632,1631,1906,2289,2466,2178,1722,1630,1666,1665,1716,1693,1725,1937,2388,2377
+ "44003","Kent, RI",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",4752,4387,4720,4857,4700,4500,4514,4224,4083,4171,4043,4183,4537,4384,4481,4735,5108
+ "44003","Kent, RI",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",1904,1791,1806,1930,1972,1963,1993,2245,2289,2368,2243,2281,2381,2686,2802,2703,2645
+ "44003","Kent, RI",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",10105,11014,11562,11905,12362,12542,12726,12930,12866,12936,13264,12643,13072,13348,13583,13643,13858
+ "44003","Kent, RI",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",1414,1490,1504,1564,1568,1670,1733,1711,1690,1709,1733,1755,1751,1756,1802,1833,1801
+ "44003","Kent, RI",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",7864,8367,8694,8731,8679,8780,9018,8851,8418,8201,8354,8478,8769,9115,9147,9418,9181
+ "44003","Kent, RI",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",4785,4975,5032,5072,5068,5034,5058,4920,4726,4606,4773,4822,4928,5102,5223,5231,5272
+ "44003","Kent, RI",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",9821,9344,9611,9542,9691,9707,9711,9603,9331,9203,9048,9034,9120,9077,8944,8934,8944
+ "44003","Kent, RI",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",637,738,909,912,903,892,878,860,855,921,784,734,724,718,719,727,732
+ "44003","Kent, RI",1,CAEMP25N,2002,"...","   Military","Number of jobs",862,849,897,888,814,768,796,763,763,773,782,783,806,788,759,754,742
+ "44003","Kent, RI",1,CAEMP25N,2010,"...","   State and local","Number of jobs",8322,7757,7805,7742,7974,8047,8037,7980,7713,7509,7482,7517,7590,7571,7466,7453,7470
+ "44003","Kent, RI",1,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),1651,1783,1785,1799,1814,1834,1882,1936,1956,2022,2042,2044,2074,2046
+ "44003","Kent, RI",1,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),6091,6191,6262,6238,6166,5879,5627,5546,5561,5568,5529,5422,5379,5424
+ "44005","Newport, RI",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",54249,54231,54831,55292,55460,55747,56535,56598,55296,55220,55222,55110,55584,55653,56616,57088,58570
+ "44005","Newport, RI",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",44200,44043,44280,44277,44345,44462,44761,44663,43417,43407,43126,42990,43273,43027,43520,43634,44852
+ "44005","Newport, RI",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",10049,10188,10551,11015,11115,11285,11774,11935,11879,11813,12096,12120,12311,12626,13096,13454,13718
+ "44005","Newport, RI",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",140,142,124,112,104,95,125,133,146,155,165,169,175,174,181,181,181
+ "44005","Newport, RI",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",9909,10046,10427,10903,11011,11190,11649,11802,11733,11658,11931,11951,12136,12452,12915,13273,13537
+ "44005","Newport, RI",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",347,365,346,298,260,237,265,287,295,303,334,339,348,349,354,334,344
+ "44005","Newport, RI",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",53902,53866,54485,54994,55200,55510,56270,56311,55001,54917,54888,54771,55236,55304,56262,56754,58226
+ "44005","Newport, RI",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",42680,42582,43384,44172,44656,45058,45820,45629,44125,44042,44163,44006,44544,44815,45726,46180,47377
+ "44005","Newport, RI",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",(D),(D),(D),372,(D),(D),321,301,(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "44005","Newport, RI",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+ "44005","Newport, RI",1,CAEMP25N,300,"22","   Utilities","Number of jobs",75,71,(D),(D),(D),(D),(D),(D),58,62,(D),(D),(D),54,62,81,99
+ "44005","Newport, RI",1,CAEMP25N,400,"23","   Construction","Number of jobs",2921,2905,3192,3114,3373,3440,3335,3250,(D),(D),2631,(D),2624,2698,(D),(D),2891
+ "44005","Newport, RI",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",3530,3364,(D),3320,3278,3267,(D),3000,2705,(D),2451,(D),(D),(D),(D),(D),(D)
+ "44005","Newport, RI",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",818,893,924,849,894,937,931,951,918,914,881,855,(D),859,875,824,875
+ "44005","Newport, RI",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",5419,5441,5351,5436,5498,5472,5325,5184,4962,4933,4964,4949,4971,5069,5156,5217,5238
+ "44005","Newport, RI",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",703,687,(D),(D),(D),643,(D),(D),(D),(D),(D),820,768,(D),(D),(D),(D)
+ "44005","Newport, RI",1,CAEMP25N,900,"51","   Information","Number of jobs",802,790,788,815,843,863,817,925,846,776,815,834,849,801,742,679,624
+ "44005","Newport, RI",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1327,1351,1325,1262,1280,1392,1526,1696,1843,1756,1881,1910,1953,1775,1861,2006,2124
+ "44005","Newport, RI",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",1998,2027,2291,2571,2663,2710,2811,2787,2709,2850,2969,2899,2942,3017,3060,3176,3269
+ "44005","Newport, RI",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",4333,4409,4613,4859,4911,4886,5114,5181,5112,5143,4984,4824,4949,4990,5315,5539,5723
+ "44005","Newport, RI",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",99,95,249,320,541,549,559,608,583,550,532,522,549,532,517,474,472
+ "44005","Newport, RI",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",1662,1751,1807,1884,1802,1885,2023,2058,1987,1915,1864,1800,1744,1786,1758,1802,1895
+ "44005","Newport, RI",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",1804,1837,1754,1808,1883,1950,2060,1910,1907,1924,2093,2024,1999,2090,2129,2017,2032
+ "44005","Newport, RI",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",5039,5022,5043,5141,4860,4932,4966,5009,5014,5089,5116,5116,5286,5157,5099,4989,5028
+ "44005","Newport, RI",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",2350,2292,2284,2240,2284,2308,2329,2383,2294,2264,2241,2279,2384,2316,2248,2302,2431
+ "44005","Newport, RI",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",6428,6336,6397,6381,6403,6465,6586,6579,6361,6634,6703,6862,6988,7079,7329,7404,7672
+ "44005","Newport, RI",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",2874,2800,2839,2972,2973,2875,2948,2915,2786,2785,2893,2900,2876,2991,3167,3169,3278
+ "44005","Newport, RI",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",11222,11284,11101,10822,10544,10452,10450,10682,10876,10875,10725,10765,10692,10489,10536,10574,10849
+ "44005","Newport, RI",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",4038,4163,4220,4096,4025,4074,3971,3992,4397,4532,4534,4604,4503,4470,4622,4779,4923
+ "44005","Newport, RI",1,CAEMP25N,2002,"...","   Military","Number of jobs",3912,3716,3437,3224,3035,2875,2940,3013,2815,2813,2768,2784,2847,2666,2549,2379,2435
+ "44005","Newport, RI",1,CAEMP25N,2010,"...","   State and local","Number of jobs",3272,3405,3444,3502,3484,3503,3539,3677,3664,3530,3423,3377,3342,3353,3365,3416,3491
+ "44005","Newport, RI",1,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),(D),(D),522,557,580,559,577,577,566,577,581,575,576,638
+ "44005","Newport, RI",1,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),(D),(D),2981,2982,3097,3105,2953,2846,2811,2765,2772,2790,2840,2853
+ "44007","Providence, RI",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",350600,349730,350009,352796,353622,357365,359966,353365,341476,341963,345541,346717,352133,360298,369634,372946,375878
+ "44007","Providence, RI",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",307204,304786,303530,303974,302795,304565,303674,296361,283519,284050,285045,287094,290805,296956,302634,304702,306006
+ "44007","Providence, RI",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",43396,44944,46479,48822,50827,52800,56292,57004,57957,57913,60496,59623,61328,63342,67000,68244,69872
+ "44007","Providence, RI",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",273,270,265,265,267,265,379,372,385,385,384,376,384,380,386,386,385
+ "44007","Providence, RI",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",43123,44674,46214,48557,50560,52535,55913,56632,57572,57528,60112,59247,60944,62962,66614,67858,69487
+ "44007","Providence, RI",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",404,380,386,362,392,360,472,493,501,510,521,501,540,528,532,532,541
+ "44007","Providence, RI",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",350196,349350,349623,352434,353230,357005,359494,352872,340975,341453,345020,346216,351593,359770,369102,372414,375337
+ "44007","Providence, RI",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",308477,307442,307839,311068,313156,317265,319888,314148,303143,303648,307644,309449,314441,322359,331657,335097,337978
+ "44007","Providence, RI",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",227,263,206,250,235,220,238,230,219,222,216,212,268,309,275,276,258
+ "44007","Providence, RI",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",186,177,193,155,156,164,193,228,218,223,180,237,301,252,270,260,275
+ "44007","Providence, RI",1,CAEMP25N,300,"22","   Utilities","Number of jobs",1041,910,945,891,970,971,936,958,934,967,941,969,1044,1052,1163,1399,1739
+ "44007","Providence, RI",1,CAEMP25N,400,"23","   Construction","Number of jobs",16332,16549,17725,17756,18792,19720,19029,18006,16077,15003,15165,15279,15383,15704,16180,16941,17321
+ "44007","Providence, RI",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",43907,40074,36284,34656,33284,31717,30484,28232,24579,23946,24198,23864,24032,24166,24152,23780,23515
+ "44007","Providence, RI",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",11598,11479,11255,11027,11253,11557,11767,11363,11035,10892,11278,11772,11676,12198,12432,11600,11440
+ "44007","Providence, RI",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",30978,31927,32430,32261,31502,31050,30973,29700,28330,28650,28417,28389,28459,28895,29644,29504,29809
+ "44007","Providence, RI",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",6254,6236,6265,6218,6432,6384,6568,6365,6239,6206,6748,6838,6700,7167,8684,9842,10122
+ "44007","Providence, RI",1,CAEMP25N,900,"51","   Information","Number of jobs",9502,8962,8939,8724,8660,8607,8211,8368,7789,7879,8021,7571,7131,7047,7063,6650,4737
+ "44007","Providence, RI",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",21829,21612,21763,21232,21215,21835,22912,22692,22424,22113,22319,22210,22580,23156,23789,24750,26863
+ "44007","Providence, RI",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",10365,10489,10959,11847,12296,12755,12986,12896,12881,13267,13711,13545,13849,14313,14594,14837,15173
+ "44007","Providence, RI",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",18361,18320,18521,19255,20483,21126,21474,21129,20362,19925,20184,20383,20851,21503,22523,22570,22840
+ "44007","Providence, RI",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",4772,4777,5405,5819,5604,5785,5973,6345,6350,6485,7021,7620,8481,9270,9728,10445,10606
+ "44007","Providence, RI",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",21172,20864,19940,22004,22313,22773,22339,21535,20576,21697,21833,22460,23624,24639,25571,25881,26081
+ "44007","Providence, RI",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",16827,17460,17073,17853,18309,19088,19538,20175,20511,20767,21261,20064,20072,20900,22106,22204,22553
+ "44007","Providence, RI",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",50915,51483,53146,53633,53945,55389,56998,57200,57314,58414,57585,58362,59219,58977,59367,59145,58858
+ "44007","Providence, RI",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",6198,6654,6734,6906,6894,7208,7801,7618,7302,7186,7204,7434,8137,8893,8999,9449,9497
+ "44007","Providence, RI",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",20814,21038,21802,22297,22324,22143,22458,22404,21613,21808,22426,23257,23645,24417,24943,25536,26100
+ "44007","Providence, RI",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",17199,18168,18254,18284,18489,18773,19010,18704,18390,17998,18936,18983,18989,19501,20174,20028,20191
+ "44007","Providence, RI",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",41719,41908,41784,41366,40074,39740,39606,38724,37832,37805,37376,36767,37152,37411,37445,37317,37359
+ "44007","Providence, RI",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",4897,4730,4465,4410,4324,4295,4318,4433,4327,4488,4271,4278,4302,4397,4456,4517,4524
+ "44007","Providence, RI",1,CAEMP25N,2002,"...","   Military","Number of jobs",3195,3162,3380,3351,3047,2856,3010,2855,2842,2888,2964,2940,3043,2978,2884,2848,2799
+ "44007","Providence, RI",1,CAEMP25N,2010,"...","   State and local","Number of jobs",33627,34016,33939,33605,32703,32589,32278,31436,30663,30429,30141,29549,29807,30036,30105,29952,30036
+ "44007","Providence, RI",1,CAEMP25N,2011,"...","    State government","Number of jobs",13122,12803,12459,12137,12116,11980,11830,11425,11178,11476,11621,11564,11815,11809,11782,11829,11646
+ "44007","Providence, RI",1,CAEMP25N,2012,"...","    Local government","Number of jobs",20505,21213,21480,21468,20587,20609,20448,20011,19485,18953,18520,17985,17992,18227,18323,18123,18390
+ "44009","Washington, RI",1,CAEMP25N,10,"...","Total employment (number of jobs)","Number of jobs",64277,66647,68096,70011,71919,72174,74084,74392,72701,72679,73467,74172,75459,76890,78813,79514,80656
+ "44009","Washington, RI",1,CAEMP25N,20,"..."," Wage and salary employment","Number of jobs",50313,52265,53397,54756,55961,55860,56626,56538,54632,54913,55123,55757,56365,57502,58743,59090,59846
+ "44009","Washington, RI",1,CAEMP25N,40,"..."," Proprietors employment","Number of jobs",13964,14382,14699,15255,15958,16314,17458,17854,18069,17766,18344,18415,19094,19388,20070,20424,20810
+ "44009","Washington, RI",1,CAEMP25N,50,"...","  Farm proprietors employment","Number of jobs",233,231,219,211,208,200,282,291,319,338,356,366,374,371,378,377,377
+ "44009","Washington, RI",1,CAEMP25N,60,"...","  Nonfarm proprietors employment 2/","Number of jobs",13731,14151,14480,15044,15750,16114,17176,17563,17750,17428,17988,18049,18720,19017,19692,20047,20433
+ "44009","Washington, RI",1,CAEMP25N,70,"111-112"," Farm employment","Number of jobs",510,512,503,446,440,429,496,505,521,530,562,574,623,634,643,618,597
+ "44009","Washington, RI",1,CAEMP25N,80,"..."," Nonfarm employment","Number of jobs",63767,66135,67593,69565,71479,71745,73588,73887,72180,72149,72905,73598,74836,76256,78170,78896,80059
+ "44009","Washington, RI",1,CAEMP25N,90,"...","  Private nonfarm employment","Number of jobs",51903,53394,54645,56742,58426,58889,60401,60704,59226,59265,60072,60889,62267,63647,65414,65820,66911
+ "44009","Washington, RI",1,CAEMP25N,100,"113-115","   Forestry, fishing, and related activities","Number of jobs",1175,1286,1068,1139,1149,1129,1088,1057,1004,1053,971,1005,966,1020,990,1039,(D)
+ "44009","Washington, RI",1,CAEMP25N,200,"21","   Mining, quarrying, and oil and gas extraction","Number of jobs",96,77,71,80,142,150,146,144,107,122,122,159,155,178,184,193,(D)
+ "44009","Washington, RI",1,CAEMP25N,300,"22","   Utilities","Number of jobs",232,198,207,191,178,170,168,167,169,146,123,102,108,97,134,172,188
+ "44009","Washington, RI",1,CAEMP25N,400,"23","   Construction","Number of jobs",3601,3548,3801,4124,4167,4377,4524,4304,3928,3785,3627,3733,3933,3964,4033,4257,4374
+ "44009","Washington, RI",1,CAEMP25N,500,"31-33","   Manufacturing","Number of jobs",7536,7333,7231,7607,7816,7455,7250,7343,6916,6749,6939,7137,7447,8114,8792,8707,9172
+ "44009","Washington, RI",1,CAEMP25N,600,"42","   Wholesale trade","Number of jobs",1585,1597,1750,1796,1960,2024,1968,2008,1947,1973,2086,2289,2207,2218,2154,1986,1880
+ "44009","Washington, RI",1,CAEMP25N,700,"44-45","   Retail trade","Number of jobs",8200,8393,8522,8762,8692,8566,8718,8365,8066,7915,7893,7863,7822,7848,7948,7977,8179
+ "44009","Washington, RI",1,CAEMP25N,800,"48-49","   Transportation and warehousing","Number of jobs",923,973,1132,1152,1244,1355,1310,1322,1177,1140,1153,1182,1262,1310,1368,1419,1459
+ "44009","Washington, RI",1,CAEMP25N,900,"51","   Information","Number of jobs",812,796,794,840,857,909,966,870,959,905,956,835,738,778,773,741,695
+ "44009","Washington, RI",1,CAEMP25N,1000,"52","   Finance and insurance","Number of jobs",1749,1913,1813,1950,1981,2004,2145,2255,2339,2202,2588,2543,2591,2539,2658,2734,2791
+ "44009","Washington, RI",1,CAEMP25N,1100,"53","   Real estate and rental and leasing","Number of jobs",2184,2288,2475,2743,2983,3155,3301,3509,3545,3591,3786,3757,3906,4107,4240,4292,4428
+ "44009","Washington, RI",1,CAEMP25N,1200,"54","   Professional, scientific, and technical services","Number of jobs",(D),(D),3581,3717,3849,3761,3989,4111,4089,4120,4125,4252,4372,4449,4703,4678,4800
+ "44009","Washington, RI",1,CAEMP25N,1300,"55","   Management of companies and enterprises","Number of jobs",(D),(D),723,742,862,910,876,879,912,950,966,981,934,964,1005,1138,1138
+ "44009","Washington, RI",1,CAEMP25N,1400,"56","   Administrative and support and waste management and remediation services","Number of jobs",(D),(D),2073,2220,2191,2263,2575,2609,2557,2700,2678,2636,2705,2678,2619,2676,2768
+ "44009","Washington, RI",1,CAEMP25N,1500,"61","   Educational services","Number of jobs",746,847,882,876,1010,1020,1089,1169,1217,1245,1199,1211,1193,1263,1359,1267,1297
+ "44009","Washington, RI",1,CAEMP25N,1600,"62","   Health care and social assistance","Number of jobs",6448,6730,6770,6861,7296,7788,8225,8358,8343,8431,8439,8601,8859,8749,8745,8720,8616
+ "44009","Washington, RI",1,CAEMP25N,1700,"71","   Arts, entertainment, and recreation","Number of jobs",1883,1971,1979,1977,2026,2007,2137,2350,2345,2346,2430,2493,2608,2608,2673,2717,2743
+ "44009","Washington, RI",1,CAEMP25N,1800,"72","   Accommodation and food services","Number of jobs",5525,5890,5926,5883,5978,5894,5868,5995,5873,6232,6168,6378,6632,6825,7007,7060,7210
+ "44009","Washington, RI",1,CAEMP25N,1900,"81","   Other services (except government and government enterprises)","Number of jobs",3565,3760,3847,4082,4045,3952,4058,3889,3733,3660,3823,3732,3829,3938,4029,4047,3973
+ "44009","Washington, RI",1,CAEMP25N,2000,"...","  Government and government enterprises","Number of jobs",11864,12741,12948,12823,13053,12856,13187,13183,12954,12884,12833,12709,12569,12609,12756,13076,13148
+ "44009","Washington, RI",1,CAEMP25N,2001,"...","   Federal civilian","Number of jobs",535,544,519,469,573,629,623,613,619,627,580,581,581,568,600,618,638
+ "44009","Washington, RI",1,CAEMP25N,2002,"...","   Military","Number of jobs",653,651,688,683,621,593,623,600,597,606,605,590,616,600,582,571,562
+ "44009","Washington, RI",1,CAEMP25N,2010,"...","   State and local","Number of jobs",10676,11546,11741,11671,11859,11634,11941,11970,11738,11651,11648,11538,11372,11441,11574,11887,11948
+ "44009","Washington, RI",1,CAEMP25N,2011,"...","    State government","Number of jobs",(D),(D),(D),7065,7232,6938,7226,7141,6879,6866,6917,6804,6688,6699,6961,7329,7544
+ "44009","Washington, RI",1,CAEMP25N,2012,"...","    Local government","Number of jobs",(D),(D),(D),4606,4627,4696,4715,4829,4859,4785,4731,4734,4684,4742,4613,4558,4404
+"Note: See the included footnote file."
+"CAEMP25N: Total Full-Time and Part-Time Employment by NAICS Industry 1/"
+"Last updated: November 15, 2018-- new statistics for 2017; revised statistics for 2001-2016. "
+"Source: U.S. Department of Commerce / Bureau of Economic Analysis / Regional Economic Accounts"
