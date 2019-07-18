@@ -1,3 +1,5 @@
+## UP TO DATE: 07/18
+
 ## PULLING HISTORICAL BLS DATA WITH API
 ## UNEMPLOYMENT and LABOR FORCE PARTICIPATION RATE by county in 1990, 2000, 2010, 2018
 
@@ -10,43 +12,23 @@ install_github("mikeasilva/blsAPI",force=TRUE)
 #############################################################
 ###################### IMPORTING DATA #######################
 #############################################################
-setwd("~/Dropbox (MIT)/joint_center/brs_paper")
+setwd("~/git/brs_paper")
 
 # Population
 pop <- read.csv("data/county_pop.csv")
 pop$X2018 <- pop$X2010 # We use the 2010 census population for the 2018 calculations
 
-# Black Rural South Data
-brs_data <- read.csv("data/brs_final.csv")
-brs_counties <- brs_data$FIPS
-
 # Rurality Data
 rurality <- read.csv("data/ruralcodes.csv")
 
 # Merging Data so FIPS are accurate
-fulldata <- merge(pop,rurality,all.x = TRUE,by.x="fips",by.y="FIPS")
+fulldata <- merge(rurality,pop,all.x = TRUE,by.x="FIPS",by.y="fips")
+
+# GENERATING FIPS LISTS
+source("scripts/gen_county_fips.R")
 
 # BLS Data API Registration Key
 regkey <- 'a12643485f5745cba762ecb73fd81acc'
-
-####################################################################
-### GENERATING SUBSETS OF COUNTY FIPS CODES, DECLARING CONSTANTS ###
-####################################################################
-# Black Rural South Counties
-brs_counties <- brs_data$FIPS
-
-# Non-Southern Rural Counties
-south <- c(10, 11, 12, 13, 24, 37, 45, 51, 54, 01, 21, 28, 47, 05, 22, 40, 48) #Southern states, as classified by Census regions
-nonsouth_rural <- fulldata[which((fulldata$RUCC_2013 >= 4)&!(substr(fulldata$fips,1,2) %in% as.character(south))),]$fips
-
-# Southern Metro (non-rural) Counties
-south_metro <- fulldata[which((fulldata$RUCC_2013 < 4)&(substr(fulldata$fips,1,2) %in% as.character(south))),]$fips
-
-# All Counties in the South
-south_counties <- fulldata[which((substr(fulldata$fips,1,2) %in% as.character(south))),]$fips
-
-# All Counties
-all_counties <- fulldata$fips
 
 # Years
 yrs <- c(1990,2000,2010,2018)
@@ -77,7 +59,7 @@ get_unemp <- function(raw_ids,front,end){
       }
       start = start + length(counties)
     }
-    cat(yr,"\n")
+    cat(yr,", ")
     result <- weighted.mean(as.numeric(unemp),fulldata[[paste0("X",yr)]][which(fulldata$fips %in% raw_ids)],na.rm=TRUE)/100
     cat(result,"\n")
   }
@@ -90,7 +72,7 @@ get_unemp_all <- function(id){
     json <- fromJSON(response) 
     print(json)
     data <- json$Results$series$data
-    cat(yr,"\n")
+    cat(yr,", ")
     cat(data[[1]]$value[1],"\n")
   }
 }
@@ -118,7 +100,7 @@ get_lf <- function(raw_ids,front,end){
       }
       start = start + length(counties)
     }
-    cat(yr,"\n")
+    cat(yr,", ")
     result <- sum(as.numeric(unemp),na.rm=TRUE)
     cat(result,"\n")
   }
@@ -130,14 +112,14 @@ get_lf_all <- function(id){
     response <- blsAPI::blsAPI(series)
     json <- fromJSON(response) 
     data <- json$Results$series$data
-    cat(yr,"\n")
+    cat(yr,", ")
     cat(data[[1]]$value[1],"\n")
   }
 }
 ####################################################################
 ######################### UNEMPLOYMENT DATA ########################
 ####################################################################
-sink("outputs/unemp.txt")
+sink("outputs/raw/unemp.csv")
 cat("BLACK RURAL SOUTH: \n")
 get_unemp(brs_counties,"LAUCN","0000000003")
 
@@ -158,7 +140,7 @@ sink()
 ####################################################################
 ########################## LF GROWTH DATA ##########################
 ####################################################################
-sink("outputs/lf.txt")
+sink("outputs/raw/lf.csv")
 cat("BLACK RURAL SOUTH: \n")
 get_lf(brs_counties,"LAUCN","0000000006")
 
