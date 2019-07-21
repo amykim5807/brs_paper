@@ -1,20 +1,31 @@
 ### GENERATING SUBSETS OF COUNTY FIPS CODES
 setwd("~/git/brs_paper")
-
+library(spatstat)
 
 # Black Rural South Data
-brs_data <- read.csv("data/brs_final.csv")
-brs_counties <- brs_data$FIPS
+brs_counties <- fulldata$FIPS[which(fulldata$black35&fulldata$south&fulldata$rural)]
 
 # Non-Southern Rural Counties
-south <- c(10, 11, 12, 13, 24, 37, 45, 51, 54, 01, 21, 28, 47, 05, 22, 40, 48) #Southern states, as classified by Census regions
-nonsouth_rural <- fulldata[which((fulldata$RUCC_2013 >= 4)&!(as.numeric(substr(str_pad(fulldata$FIPS,5,pad="0"),1,2)) %in% south)),]$FIPS
+nonsouth_rural <- fulldata$FIPS[which(!fulldata$south&fulldata$rural)]
 
 # Southern Metro (non-rural) Counties
-south_metro <- fulldata[which((fulldata$RUCC_2013 < 4)&(as.numeric(substr(str_pad(fulldata$FIPS,5,pad="0"),1,2)) %in% south)),]$FIPS
+south_metro <- fulldata$FIPS[which(fulldata$south&!fulldata$rural)]
 
 # All Counties in the South
-south_counties <- fulldata[which((as.numeric(substr(str_pad(fulldata$FIPS,5,pad="0"),1,2)) %in% south)),]$FIPS
+south_counties <- fulldata$FIPS[which(fulldata$south)]
 
 # All Counties
 all_counties <- fulldata$FIPS
+
+# All Rural Counties
+rural_counties <- fulldata$FIPS[which(fulldata$rural)]
+
+county_groups <- list(brs_counties,nonsouth_rural,south_metro,south_counties,all_counties)
+county_names <- c("Black Rural South","Nonsouth Rural","South Metro","South","All")
+
+### WHITE DATA ###
+rural_south_nonbrs <- fulldata$FIPS[which(fulldata$rural&!fulldata$black&fulldata$rural)]
+white_rural_south <- fulldata$FIPS[which(fulldata$rural&fulldata$white90&fulldata$south)]
+
+white <- list(rural_south_nonbrs,nonsouth_rural,white_rural_south,brs_counties)
+whitenames <- c("Rural Non-Black South","Non South Rural",'White Rural South',"Black Rural South")

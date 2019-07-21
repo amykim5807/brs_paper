@@ -14,21 +14,14 @@ install_github("mikeasilva/blsAPI",force=TRUE)
 #############################################################
 setwd("~/git/brs_paper")
 
-# Population
-pop <- read.csv("data/county_pop.csv")
-pop$X2018 <- pop$X2010 # We use the 2010 census population for the 2018 calculations
-
-# Rurality Data
-rurality <- read.csv("data/ruralcodes.csv")
-
-# Merging Data so FIPS are accurate
-fulldata <- merge(rurality,pop,all.x = TRUE,by.x="FIPS",by.y="fips")
+fulldata <- read.csv("data/cleaned.csv")
+fulldata$X2018 <- fulldata$X2017
 
 # GENERATING FIPS LISTS
 source("scripts/gen_county_fips.R")
 
 # BLS Data API Registration Key
-regkey <- 'a12643485f5745cba762ecb73fd81acc'
+regkey <- '6be842a8518a47288eaf3ab2c022b24f'
 
 # Years
 yrs <- c(1990,2000,2010,2018)
@@ -50,7 +43,7 @@ get_unemp <- function(raw_ids,front,end){
       for (ind in 1:length(counties)){
         if ((nrow(data[[ind]])==0)){
           # IF BLS DATA IS MISSING FOR A COUNTY
-          unemp[start + ind] <- 0
+          unemp[start + ind] <- NA
         }
         else{
           # EXTRACTING ANNUAL AVERAGE FOR 'yr'
@@ -60,7 +53,8 @@ get_unemp <- function(raw_ids,front,end){
       start = start + length(counties)
     }
     cat(yr,", ")
-    result <- weighted.mean(as.numeric(unemp),fulldata[[paste0("X",yr)]][which(fulldata$fips %in% raw_ids)],na.rm=TRUE)/100
+    temp_output <- na.omit(data.frame(x=as.numeric(as.character(unemp)),w=fulldata[[paste0("X",yr)]][which(fulldata$FIPS %in% raw_ids)]))
+    result <- weighted.mean(temp_output$x,temp_output$w,na.rm=TRUE)/100
     cat(result,"\n")
   }
 }
@@ -70,7 +64,6 @@ get_unemp_all <- function(id){
     series <- list('seriesid'=c(id), 'startyear'=as.character(yr),endyear=as.character(yr),annualaverage=TRUE,registrationkey = regkey) 
     response <- blsAPI::blsAPI(series)
     json <- fromJSON(response) 
-    print(json)
     data <- json$Results$series$data
     cat(yr,", ")
     cat(data[[1]]$value[1],"\n")
@@ -82,6 +75,7 @@ get_lf <- function(raw_ids,front,end){
   chunked_ids <- chunk(ids,chunk.size=40) #BLS only allows queries in chunks of 50 or less
   for (yr in yrs){
     unemp <- vector(mode="numeric",length=length(ids))
+    pop 
     start = 0
     for (counties in chunked_ids){
       series <- list('seriesid'=as.character(counties), 'startyear'=as.character(yr),endyear=as.character(yr),annualaverage=TRUE,registrationkey = regkey) 
@@ -91,7 +85,7 @@ get_lf <- function(raw_ids,front,end){
       for (ind in 1:length(counties)){
         if ((nrow(data[[ind]])==0)){
           # IF BLS DATA IS MISSING FOR A COUNTY
-          unemp[start + ind] <- 0
+          unemp[start + ind] <- NA
         }
         else{
           # EXTRACTING ANNUAL AVERAGE FOR 'yr'
@@ -162,6 +156,19 @@ sink()
 
 closeAllConnections()
 
+
+####################################################################
+########################## POPULATION DATA ##########################
+####################################################################
+
+sink("outputs/raw/pop.csv")
+for (yr in yrs){
+  for (c in 1:5){
+    cat(county_names[c],",")
+    cat(sum(as.numeric(as.character(fulldata[[paste0("X",yr)]][which(fulldata$FIPS %in% county_groups[[c]])])),na.rm=TRUE),"\n")
+  }
+}
+sink()
 
 
 
