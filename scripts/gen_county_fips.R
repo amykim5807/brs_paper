@@ -24,7 +24,7 @@ county_groups <- list(brs_counties,nonsouth_rural,south_metro,south_counties,all
 county_names <- c("Black Rural South","Nonsouth Rural","South Metro","South","All")
 
 ### WHITE DATA ###
-rural_south_nonbrs <- fulldata$FIPS[which(fulldata$rural&!fulldata$black&fulldata$rural)]
+rural_south_nonbrs <- fulldata$FIPS[which(fulldata$rural&!fulldata$black35&fulldata$rural)]
 white_rural_south <- fulldata$FIPS[which(fulldata$rural&fulldata$white90&fulldata$south)]
 
 white <- list(rural_south_nonbrs,nonsouth_rural,white_rural_south,brs_counties)

@@ -1,5 +1,0 @@
-White, Non-Hispanic:  0.6145641
-Black, Non-Hispanic:  0.1228815
-Hispanic/Latino:  0.176043
-Asian, Non-Hispanic:  0.05292619
-Other:  0.03358525

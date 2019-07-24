@@ -1,35 +1,35 @@
 GRAPH ONE
 
 USA
-High School:  0.8731359
-College:  0.3092759
+High School,College
+0.8731414 , 0.3092867
 White in USA
-High School:  0.923313
-College:  0.3453198
+High School,College
+0.9233129 , 0.3453195
 Black in USA
-High School:  0.8487994
-College:  0.205518
+High School,College
+0.848799 , 0.2055181
 Non-South Rural
-High School:  0.8871773
-College:  0.2109561
+High School,College
+0.887947 , 0.2122106
 Black in Black Rural South
-High School:  0.7450626
-College:  0.1053787
+High School,College
+0.745978 , 0.1044588
 
 GRAPH TWO
 
 South
-High School:  0.8608513
-College:  0.2887354
+High School,College
+0.8604083 , 0.2878617
 White in South Metro
-High School:  0.9228052
-College:  0.3592743
+High School,College
+0.9211873 , 0.3586872
 Black in South Metro
-High School:  0.8579385
-College:  0.2218333
+High School,College
+0.8572636 , 0.221207
 White in Black Rural South
-High School:  0.8593133
-College:  0.2084257
+High School,College
+0.8579001 , 0.2054673
 Black in Black Rural South
-High School:  0.7450626
-College:  0.1053787
+High School,College
+0.745978 , 0.1044588

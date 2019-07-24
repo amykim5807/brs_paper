@@ -1,10 +1,29 @@
-Black Rural South 
- ,10.04116white ,5.929284black ,14.47213Nonsouth Rural 
- ,5.835706white ,5.249201black ,11.90328South Metro 
- ,6.474647white ,5.130978black ,10.66259South 
- ,6.656721white ,5.366746black ,10.97023All 
- ,6.555716white ,5.250058black ,11.8599Rural Non-Black South 
- ,6.360151white ,5.677406black ,12.11413Non South Rural 
- ,5.835706white ,5.249201black ,11.90328White Rural South 
- ,7.262862white ,6.975736black ,11.10739Black Rural South 
- ,10.04116white ,5.929284black ,14.47213
+BLACK RURAL SOUTH: 
+1990 , 0.0853052 
+2000 , 0.06268675 
+2010 , 0.1329154 
+2018 , 0.05483668 
+
+ NON-SOUTH RURAL: 
+1990 , 0.05921807 
+2000 , 0.04386505 
+2010 , 0.08528294 
+2018 , 0.03972704 
+
+ SOUTHERN METRO: 
+1990 , 0.05732698 
+2000 , 0.03886738 
+2010 , 0.09446401 
+2018 , 0.0394724 
+
+ ALL SOUTH (RAW): 
+1990 , 5.7 
+2000 , 3.9 
+2010 , 9.3 
+2018 , 3.8 
+
+ ALL COUNTIES (RAW): 
+1990 , 5.6 
+2000 , 4.0 
+2010 , 9.6 
+2018 , 3.9 

@@ -1,0 +1,125 @@
+Black Rural South 
+caralone 
+all ,1 
+white ,0.5286935 
+black ,0.4302102 
+carpool 
+all ,1 
+white ,0.4020067 
+black ,0.5044347 
+publictransport 
+all ,1 
+white ,0.2323468 
+black ,0.6931464 
+walk 
+all ,1 
+white ,0.4270121 
+black ,0.4708194 
+taxibike 
+all ,1 
+white ,0.3629272 
+black ,0.547486 
+home 
+all ,1 
+white ,0.6905996 
+black ,0.2581605 
+Nonsouth Rural 
+caralone 
+all ,1 
+white ,0.8895998 
+black ,0.0103952 
+carpool 
+all ,1 
+white ,0.8140611 
+black ,0.01649231 
+publictransport 
+all ,1 
+white ,0.7364299 
+black ,0.04204178 
+walk 
+all ,1 
+white ,0.8146135 
+black ,0.03267841 
+taxibike 
+all ,1 
+white ,0.8246599 
+black ,0.0189554 
+home 
+all ,1 
+white ,0.905144 
+black ,0.0112345 
+South Metro 
+caralone 
+all ,1 
+white ,0.5919266 
+black ,0.182037 
+carpool 
+all ,1 
+white ,0.4461167 
+black ,0.1921649 
+publictransport 
+all ,1 
+white ,0.3090694 
+black ,0.4093047 
+walk 
+all ,1 
+white ,0.52491 
+black ,0.2043037 
+taxibike 
+all ,1 
+white ,0.5100047 
+black ,0.1955903 
+home 
+all ,1 
+white ,0.7019007 
+black ,0.1155232 
+South 
+caralone 
+all ,1 
+white ,0.6132937 
+black ,0.1767723 
+carpool 
+all ,1 
+white ,0.4745469 
+black ,0.1880816 
+publictransport 
+all ,1 
+white ,0.31319 
+black ,0.4058839 
+walk 
+all ,1 
+white ,0.5419938 
+black ,0.2001966 
+taxibike 
+all ,1 
+white ,0.5240786 
+black ,0.1974085 
+home 
+all ,1 
+white ,0.7146999 
+black ,0.1111984 
+All 
+caralone 
+all ,1 
+white ,0.6699849 
+black ,0.1076232 
+carpool 
+all ,1 
+white ,0.5239805 
+black ,0.1168318 
+publictransport 
+all ,1 
+white ,0.3903765 
+black ,0.2384548 
+walk 
+all ,1 
+white ,0.5902223 
+black ,0.1150958 
+taxibike 
+all ,1 
+white ,0.5839783 
+black ,0.1151344 
+home 
+all ,1 
+white ,0.7494615 
+black ,0.07045249 

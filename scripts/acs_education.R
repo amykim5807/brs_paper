@@ -26,24 +26,24 @@ educ_grad <- function(FIPS){
   educ_data <- fulldata[which(fulldata$FIPS %in% FIPS),]
   hs_gradrate <- 1 - sum(educ_data$Less.than.Ninth.Grade,educ_data$X9.12.No.Diploma,na.rm=TRUE)/sum(educ_data$Pop_25.,na.rm=TRUE)
   col_gradrate <- sum(educ_data$Bachelor.s.Degree,educ_data$Graduate.Professional.Degree,na.rm=TRUE)/sum(educ_data$Pop_25.,na.rm=TRUE)
-  cat("High School,",hs_gradrate)
-  cat("\nCollege,", col_gradrate)
+  cat("High School,College\n")
+  cat(hs_gradrate,",", col_gradrate)
 }
 
 educ_grad_white <- function(FIPS){
   educ_data <- fulldata[which(fulldata$FIPS %in% FIPS),]
   hs_gradrate <- sum(educ_data$White.alone..not.Hisp.Lat..High.School.Graduate,na.rm=TRUE)/sum(educ_data$White.alone..not.Hisp.Lat..Population,na.rm=TRUE)
   col_gradrate <- sum(educ_data$White.alone..not.Hisp.Lat..Bachelor.s.Degree,na.rm=TRUE)/sum(educ_data$White.alone..not.Hisp.Lat..Population,na.rm=TRUE)
-  cat("High School,",hs_gradrate)
-  cat("\nCollege,", col_gradrate)
+  cat("High School,College\n")
+  cat(hs_gradrate,",", col_gradrate)
 }
 
 educ_grad_black <- function(FIPS){
   educ_data <- fulldata[which(fulldata$FIPS %in% FIPS),]
   hs_gradrate <- sum(educ_data$Black.alone.High.School.Graduate,na.rm=TRUE)/sum(educ_data$Black.alone.Population,na.rm=TRUE)
   col_gradrate <- sum(educ_data$Black.alone.Bachelor.s.Degree,na.rm=TRUE)/sum(educ_data$Black.alone.Population,na.rm=TRUE)
-  cat("High School,",hs_gradrate)
-  cat("\nCollege,", col_gradrate)
+  cat("High School,College\n")
+  cat(hs_gradrate,",", col_gradrate)
 }
 
 funcs <- list(educ_grad,educ_grad_white,educ_grad_black)
@@ -103,6 +103,16 @@ educ_grad_black(brs_counties)
 sink()
 
 
+## HIGH SCHOOL PLUS ##
 
+sink("outputs/raw/acs_hsplus.csv")
+for ( i in 1:5){
+  cat(county_names[i],",")
+  educ_data <- fulldata[which(fulldata$FIPS %in% county_groups[[i]]),]
+  pop <- sum(educ_data$Pop_25.,na.rm=TRUE)
+  hsplus <- sum(educ_data$Associate.s.Degree, educ_data$Bachelor.s.Degree,educ_data$Graduate.Professional.Degree,na.rm=TRUE)
+  cat(hsplus/pop,"\n")
+}
+sink()
 
 

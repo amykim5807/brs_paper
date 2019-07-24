@@ -26,7 +26,7 @@ white <- (fulldata$white_acs /fulldata$X2017) >= 0.9
 sum(fulldata$black_acs[which(black)])/sum(fulldata$X2017[which(black)])
 
 ## FINAL
-cleaned <- data.frame(FIPS=fulldata$FIPS,county=fulldata$County_Name,state=fulldata$State,rural=rural,south=south,black35 = black, white90 = white,X1990=fulldata$X1990,X2000=fulldata$X2000,X2010=fulldata$X2010,X2017=fulldata$X2017)
+cleaned <- data.frame(FIPS=fulldata$FIPS,county=fulldata$County_Name,state=fulldata$State,rural=rural,south=south,black35 = black, white90 = white,X1990=fulldata$X1990,X2000=fulldata$X2000,X2010=fulldata$X2010,X2017=fulldata$X2017, pctblack=(fulldata$black_acs /fulldata$X2017),pctwhite=(fulldata$white_acs/fulldata$X2017))
 
 write.csv(cleaned,'data/cleaned.csv')
 

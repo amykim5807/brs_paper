@@ -6,6 +6,7 @@
 library(devtools)
 library(jsonlite)
 library(spatstat)
+library(BBmisc)
 suppressMessages(library(dplyr))
 install_github("mikeasilva/blsAPI",force=TRUE)
 
@@ -53,7 +54,7 @@ get_unemp <- function(raw_ids,front,end){
       start = start + length(counties)
     }
     cat(yr,", ")
-    temp_output <- na.omit(data.frame(x=as.numeric(as.character(unemp)),w=fulldata[[paste0("X",yr)]][which(fulldata$FIPS %in% raw_ids)]))
+    temp_output <- na.omit(data.frame(x=as.numeric(as.character(unemp)),w=get_lf_raw(raw_ids,"LAUCN","0000000006",yr)))
     result <- weighted.mean(temp_output$x,temp_output$w,na.rm=TRUE)/100
     cat(result,"\n")
   }
@@ -98,6 +99,31 @@ get_lf <- function(raw_ids,front,end){
     result <- sum(as.numeric(unemp),na.rm=TRUE)
     cat(result,"\n")
   }
+}
+
+get_lf_raw <- function(raw_ids,front,end,yr){
+  ids <- paste0(front,as.character(str_pad(raw_ids,5,pad="0")),end)
+  chunked_ids <- chunk(ids,chunk.size=40) #BLS only allows queries in chunks of 50 or less
+  unemp <- vector(mode="numeric",length=length(ids)) 
+  start = 0
+  for (counties in chunked_ids){
+    series <- list('seriesid'=as.character(counties), 'startyear'=as.character(yr),endyear=as.character(yr),annualaverage=TRUE,registrationkey = regkey) 
+    response <- blsAPI::blsAPI(series)
+    json <- fromJSON(response) 
+    data <- json$Results$series$data
+    for (ind in 1:length(counties)){
+      if ((nrow(data[[ind]])==0)){
+        # IF BLS DATA IS MISSING FOR A COUNTY
+        unemp[start + ind] <- NA
+      }
+      else{
+        # EXTRACTING ANNUAL AVERAGE FOR 'yr'
+        unemp[start + ind] <- data[[ind]]$value[1]
+      }
+    }
+    start = start + length(counties)
+  }
+  return(unemp)
 }
 
 get_lf_all <- function(id){
@@ -169,6 +195,16 @@ for (yr in yrs){
   }
 }
 sink()
+
+################################################################
+########################## EPOP CALCS ##########################
+################################################################
+
+
+
+
+
+
 
 
 
