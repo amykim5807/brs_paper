@@ -159,28 +159,91 @@ Map of Black Rural South counties, overlaid with HBCUs in or near the Black Rura
 
 
 # Scripts, Data & Outputs
-- acs_childpoverty.R -- used to calculate child poverty rates from 2013-2017 ACS 5-Year Estimates. Input from data/cleaned.csv and data/acschildpoverty.csv, output into outputs/raw/acs_childpoverty.csv and figures/childpoverty_bar.png
-- acs_poverty.R -- used to calculate poverty rates from 2013-2017 ACS 5-Year Estimates. Input from data/cleaned.csv and data/acs_poverty.csv, output into outputs/raw/acs_poverty.csv, figures/poverty_bar.png, and figures/white_poverty.png
-- bls_long.R -- used to pull BLS data using API, calculate longitudinal unemployment rate, labor force level, and total population from BLS and Census data. Input directly from BLS API and data/cleaned.csv, output into outputs/raw/unemp.csv, outputs/raw/lf.csv, outputs/raw/pop.csv, figures/unemp_long.png, and figures/laborforce.png
-- broadband.R -- used to calculate broadband and computer access makeup of different regions. Input from data/cleaned.csv and data/broadband.csv, output into outputs/broadband.csv and figures/broadband.png
-- cleaning.R -- used to combine population data, rurality data, and percentage black/white into one data frame. Input from data/county_pop.csv and data/ruralcodes.csv, output into data/cleaned.csv
-- commute.R -- [DEPRECATED] used to calculate mean travel times to work.
-- demographics.R -- used to calculate demographic makeup of different regions. Input from data/cleaned.csv and data/demographics.csv, output into outputs/raw/demographics.csv and figures/demographics.png
-- earnings.R -- used to calculate median earnings from 2013-2017 ACS 5-Year Estimates. Input from data/cleaned.csv, data/emp.csv, and data/earnings.csv, output into outputs/raw/earnings.csv and figures/earnings.png
-- emp.R -- used to calculate unemployment and labor force participation rates from 2013-2017 ACS 5-Year Estimates. Input from data/cleaned.csv and data/emp.csv, output into outputs/raw/emp.csv, figures/lf_bar.png, figures/unemp_bar.png, and figures/white_unemp.png
-- fipszip.R -- used to output a list of zip codes in the Black Rural South. Input from data/cleaned.csv and data/fips_zip.csv, output into data/fipsandziponly.csv
-- gdp.R -- [DEPRECATED] used to calculate gdp and gdp per capita by region, from BEA data.
-- gen_county_fips -- helper script, used in all scripts to generate lists of FIPS codes for each region.
-- industries.R -- used to calculate employment growth in industries and overall from BEA data. Input from data/cleaned.csv and data/industries folder, output into outputs/raw/industries.csv, figures/emp_growth.png, figures/emp_growth_raw.png, and figures/industry_growth.png
-- naep.R -- used to calculate mean NAEP scores. Input from data/cleaned.csv and data/naep.csv, output into outputs/raw/naep.csv, outputs/raw/naep_white.csv, figures/naep_ela.png, figures/naep_math.png, figures/white_naep_ela.png, and figures/white_naep_math.png
-- saip_long.R -- used to calculate longitudinal median household income, poverty rate, and child poverty rate from the US Census SAIP. Input from data/cleaned.csv and data/pov_all.csv, output into outputs/raw/income.csv, outputs/raw/poverty.csv, figures/median_hhincome.png, figures/poverty_long.png, and figures/childpoverty_long.png
-- tableau.R -- used to clean and produce data used to create Tableau maps -- includes identifier for Black Rural South County, % Black, identifier for 10/20/30 County, and HBCUs. Input from data/cleaned.csv, data/persistentpoverty.pdf, data/fipsandziponly.csv, and data/hbcu.csv, output into outputs/tableau.csv
-- transportation.R -- used to calculate transportation breakdown by race from ACS Estimates. Input from data/cleaned.csv and data/transportation.csv, output into outputs/raw/transp.csv and figures/transportation.png
+### acs_childpoverty.R 
+Used to calculate child poverty rates from 2013-2017 ACS 5-Year Estimates. 
+- Input from data/cleaned.csv and data/acschildpoverty.csv
+- Output into outputs/raw/acs_childpoverty.csv and figures/childpoverty_bar.png
+
+### acs_poverty.R
+Used to calculate poverty rates from 2013-2017 ACS 5-Year Estimates
+- Input from data/cleaned.csv and data/acs_poverty.csv
+- Output into outputs/raw/acs_poverty.csv, figures/poverty_bar.png, and figures/white_poverty.png
+
+### bls_long.R
+Used to pull BLS data using API, calculate longitudinal unemployment rate, labor force level, and total population from BLS and Census data. 
+- Input directly from BLS API and data/cleaned.csv
+- Output into outputs/raw/unemp.csv, outputs/raw/lf.csv, outputs/raw/pop.csv, figures/unemp_long.png, and figures/laborforce.png
+
+### broadband.R 
+Used to calculate broadband and computer access makeup of different regions. 
+- Input from data/cleaned.csv and data/broadband.csv
+- Output into outputs/broadband.csv and figures/broadband.png
+
+### cleaning.R 
+Used to combine population data, rurality data, and percentage black/white into one data frame. 
+- Input from data/county_pop.csv and data/ruralcodes.csv
+- Output into data/cleaned.csv
+
+### commute.R [DEPRECATED]
+Used to calculate mean travel times to work.
+
+### demographics.R 
+Used to calculate demographic makeup of different regions. 
+- Input from data/cleaned.csv and data/demographics.csv
+- Output into outputs/raw/demographics.csv and figures/demographics.png
+
+### earnings.R 
+Used to calculate median earnings from 2013-2017 ACS 5-Year Estimates. 
+- Input from data/cleaned.csv, data/emp.csv, and data/earnings.csv
+- Output into outputs/raw/earnings.csv and figures/earnings.png
+
+### emp.R
+Used to calculate unemployment and labor force participation rates from 2013-2017 ACS 5-Year Estimates. 
+- Input from data/cleaned.csv and data/emp.csv
+- Output into outputs/raw/emp.csv, figures/lf_bar.png, figures/unemp_bar.png, and figures/white_unemp.png
+
+### fipszip.R 
+Used to output a list of zip codes in the Black Rural South. 
+- Input from data/cleaned.csv and data/fips_zip.csv
+- Output into data/fipsandziponly.csv
+
+### gdp.R [DEPRECATED] 
+Used to calculate gdp and gdp per capita by region, from BEA data.
+
+### gen_county_fips 
+Helper script, used in all scripts to generate lists of FIPS codes for each region.
+
+### industries.R 
+Used to calculate employment growth in industries and overall from BEA data. 
+- Input from data/cleaned.csv and data/industries folder
+- Output into outputs/raw/industries.csv, figures/emp_growth.png, figures/emp_growth_raw.png, and figures/industry_growth.png
+
+### naep.R 
+Used to calculate mean NAEP scores. 
+- Input from data/cleaned.csv and data/naep.csv
+- Output into outputs/raw/naep.csv, outputs/raw/naep_white.csv, figures/naep_ela.png, figures/naep_math.png, figures/white_naep_ela.png, and figures/white_naep_math.png
+
+### saip_long.R 
+Used to calculate longitudinal median household income, poverty rate, and child poverty rate from the US Census SAIP. 
+- Input from data/cleaned.csv and data/pov_all.csv
+- Output into outputs/raw/income.csv, outputs/raw/poverty.csv, figures/median_hhincome.png, figures/poverty_long.png, and figures/childpoverty_long.png
+
+### tableau.R 
+Used to clean and produce data used to create Tableau maps -- includes identifier for Black Rural South County, % Black, identifier for 10/20/30 County, and HBCUs. 
+- Input from data/cleaned.csv, data/persistentpoverty.pdf, data/fipsandziponly.csv, and data/hbcu.csv
+- Output into outputs/tableau.csv
+
+### transportation.R 
+Used to calculate transportation breakdown by race from ACS Estimates. 
+- Input from data/cleaned.csv and data/transportation.csv 
+- Output into outputs/raw/transp.csv and figures/transportation.png
 
 
 # Tableau
-- Data file outputs/tableau.csv used as data source.
-
+Data file outputs/tableau.csv used as data source.
+- Black Rural South Map (https://public.tableau.com/profile/amy.kim7433#!/vizhome/BlackRuralSouthFinal/general)
+- 10/20/30 County Map (https://public.tableau.com/profile/amy.kim7433#!/vizhome/BlackRuralSouthFinal/10-20-30)
+- HBCU Map (https://public.tableau.com/profile/amy.kim7433#!/vizhome/BlackRuralSouthFinal/hbcus)
 
 
 
