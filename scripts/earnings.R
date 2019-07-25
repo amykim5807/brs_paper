@@ -18,9 +18,9 @@ fulldata <- merge(data,earnings,by = "FIPS")
 emp <- read.csv("data/emp.csv")
 
 fulldata <- merge(fulldata, emp, by="FIPS")
-whiteearnings <- fulldata$White.Median.Earnings
-blackearnings <- fulldata$Black.Median.Earnings
-earnings <- fulldata$Median.Earnings
+fulldata$whiteearnings <- fulldata$White.Median.Earnings
+fulldata$blackearnings <- fulldata$Black.Median.Earnings
+fulldata$earnings <- fulldata$Median.Earnings
 
 # GENERATING FIPS LISTS
 source("scripts/gen_county_fips.R")

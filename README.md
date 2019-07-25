@@ -1,4 +1,5 @@
 # Methodology for Graphs and Charts in "An Introduction to the Future of Work in the Black Rural South"
+Up to date as of 7/25
 
 ## General Methodologies: Defining Regions
 
@@ -93,14 +94,28 @@ Average Unemployment Rate by race and region over 2013-2017.
 
 ### Median Earnings by Region (earnings.R)
 Median Earnings by race and region over 2013-2017.
-- 'All' Calculated by taking the weighted median of 'Median Earnings 
-- 'Black' Calculated by taking the weighted median of 'Median Earnings in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)' from ACS 2013-2017 5-Year Median Earnings in the Past 12 Months (in 2017 Inflation-Adjusted Dollars) for the Population 16 Years and Over with Earnings in the Past 12 Months (Black or African American Alone) Estimates (Table B20017B), weighted by 2013-2017 ACS 
+- 'All' Calculated by taking the weighted median of 'Median Earnings in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)' from ACS 2013-2017 5-Year Median Earnings in the Past 12 Months (in 2017 Inflation-Adjusted Dollars) for the Population 16 Years and Over with Earnings in the Past 12 Months Estimates (Table B20017), weighted by 'Population 16 years and over -- Total' from ACS 2013-2017 5-Year Employment Status Estimates (Table S2301)
+- 'White' Calculated by taking the weighted median of 'Median Earnings in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)' from ACS 2013-2017 5-Year Median Earnings in the Past 12 Months (in 2017 Inflation-Adjusted Dollars) for the Population 16 Years and Over with Earnings in the Past 12 Months (White Alone, Not Hispanic or Latino) Estimates (Table B20017H), weighted by 'White alone, not Hispanic or Latino Population 16 years and over -- Total' from ACS 2013-2017 5-Year Employment Status Estimates (Table S2301)
+- 'Black' Calculated by taking the weighted median of 'Median Earnings in the Past 12 Months (in 2017 Inflation-Adjusted Dollars)' from ACS 2013-2017 5-Year Median Earnings in the Past 12 Months (in 2017 Inflation-Adjusted Dollars) for the Population 16 Years and Over with Earnings in the Past 12 Months (Black or African American Alone) Estimates (Table B20017B), weighted by 'Black or African American Alone Population 16 years and over -- Total' from ACS 2013-2017 5-Year Employment Status Estimates (Table S2301)
+- Region/Races: Black in Black Rural South, White in Black Rural South, All in Non-South Rural, Black in South Metro, White in South Metro, All in South, Black in USA, White in USA, All in USA
+
+### Average Percentage of Children in Poverty (2013-2017) (acs_childpoverty.R)
+Average child poverty rates by race and region over 2013-2017.
+- 'All' Calculated by aggregating total population under 18 years with income in the past 12 months below poverty level across the region, and dividing by total population under 18 years for whom poverty status is determined across the region from ACS 2013-2017 5-Year Poverty Status in the Past 12 Months by Sex by Age Estimates (Table B17001)
+- 'White' Calculated by aggregating total population under 18 years with income in the past 12 months below poverty level across the region, and dividing by total population under 18 years for whom poverty status is determined across the region from ACS 2013-2017 5-Year Poverty Status in the Past 12 Months by Sex by Age (White Alone, Not Hispanic or Latino) Estimates (Table B17001H)
+- 'Black' Calculated by aggregating total population under 18 years with income in the past 12 months below poverty level across the region, and dividing by total population under 18 years for whom poverty status is determined across the region from ACS 2013-2017 5-Year Poverty Status in the Past 12 Months by Sex by Age (Black or African American Alone) Estimates (Table B17001B)
+- Region/Races: Black in Black Rural South, White in Black Rural South, All in Non-South Rural, Black in South Metro, White in South Metro, All in South, Black in USA, White in USA, All in USA
+
+### Average Poverty Rate of Whites Alone (2013-2017) (
+
 
 # Scripts, Data & Outputs
+- acs_childpoverty.R -- used to calculate child poverty rates from 2013-2017 ACS 5-Year Estimates. Input from data/cleaned.csv and data/acschildpoverty.csv, output into outputs/raw/acs_childpoverty.csv and figures/childpoverty_bar.png
 - bls_long.R -- used to pull BLS data using API, calculate longitudinal unemployment rate, labor force level, and total population from BLS and Census data. Input directly from BLS API and data/cleaned.csv, output into outputs/raw/unemp.csv, outputs/raw/lf.csv, outputs/raw/pop.csv, figures/unemp_long.png, and figures/laborforce.png
 - cleaning.R -- used to combine population data, rurality data, and percentage black/white into one data frame. Input from data/county_pop.csv and data/ruralcodes.csv, output into data/cleaned.csv
 - demographics.R -- used to calculate demographic makeup of different regions. Input from data/cleaned.csv and data/demographics.csv, output into outputs/raw/demographics.csv and figures/demographics.png
-- emp.R -- used to calculate unemployment and labor force participation rates from 2013-2017 ACS 5-Year Estimates. Input from data/clenaed.csv and data/emp.csv, output into outputs/raw/emp.csv, figures/lf_bar.png, figures/unemp_bar.png, and figures/white_unemp.png.
+- earnings.R -- used to calculate median earnings from 2013-2017 ACS 5-Year Estimates. Input from data/cleaned.csv, data/emp.csv, and data/earnings.csv, output into outputs/raw/earnings.csv and figures/earnings.png
+- emp.R -- used to calculate unemployment and labor force participation rates from 2013-2017 ACS 5-Year Estimates. Input from data/cleaned.csv and data/emp.csv, output into outputs/raw/emp.csv, figures/lf_bar.png, figures/unemp_bar.png, and figures/white_unemp.png.
 - saip_long.R -- used to calculate longitudinal median household income, poverty rate, and child poverty rate from the US Census SAIP. Input from data/cleaned.csv and data/pov_all.csv, output into outputs/raw/income.csv, outputs/raw/poverty.csv, figures/median_hhincome.png, figures/poverty_long.png, and figures/childpoverty_long.png
 
 
