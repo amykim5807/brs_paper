@@ -60,8 +60,8 @@ Modernized chart, originally Table A-VIII from Douglass C. North's 1961 book *Th
 Percentage of cotton harvested by hand, in the Black Rural South States, from 1949-1969.
 - Calculated by subtracting percentage of cotton harvested mechanically, (Peterson and Kislev, 1986 -- Table 1) from 100.
 
-## The Present Status of Work in the Black Rural South
 
+## The Present Status of Work in the Black Rural South
 
 ### Unemployment Rate by Region (bls_long.R)
 Unemployment rate by region in 1990, 2000, 2010, and 2018.
@@ -106,18 +106,80 @@ Average child poverty rates by race and region over 2013-2017.
 - 'Black' Calculated by aggregating total population under 18 years with income in the past 12 months below poverty level across the region, and dividing by total population under 18 years for whom poverty status is determined across the region from ACS 2013-2017 5-Year Poverty Status in the Past 12 Months by Sex by Age (Black or African American Alone) Estimates (Table B17001B)
 - Region/Races: Black in Black Rural South, White in Black Rural South, All in Non-South Rural, Black in South Metro, White in South Metro, All in South, Black in USA, White in USA, All in USA
 
-### Average Poverty Rate of Whites Alone (2013-2017) (
+### Average Poverty Rate of Whites Alone (2013-2017) (acs_poverty.R)
+Average poverty rates among white people by region over 2013-2017.
+- Calculated by aggregating 'White alone, not Hispanic or Latino -- Below poverty level' across the region and dividing by aggregated 'White alone, not Hispanic or Latino -- Total' across the region from ACS 2013-2017 5-Year Poverty Status in the Past 12 Months Estimates (Table S1701)
+- Regions: Black Rural South, Rural South (Outside of BRS), White Rural South, Non-South Rural
+
+
+## Labor Markets and Automation in the Black Rural South
+
+### Employment Growth in All Industries from 2001 to 2017 (industries.R)
+Percentage growth from 2001 to 2017 of Private Non-Farm Employment by region.
+- Calculated by aggregating Private Non-Farm Employment (Line Code 90) across the region in 2001 and 2017 from Total Full-Time and Part-Time Employment by NAICS Industry -- Bureau of Economic Analysis (CAEMP25N), then calculating the difference as a percentage of 2001 employment.
+- Regions: Black Rural South, Non-Southern Rural, Southern Metro, South, and USA counties
+
+
+### Employment Growth in Manufacturing and Professional, Scientific, and Technical Services from 2001 to 2017
+Percentage growth from 2001 to 2017 of Manufacturing Industry and Professional, Scientific, and Technical Services Industry by region.
+- Manufacturing Calculated by aggregating Manufacturing Industry (Line Code 500) across the region in 2001 and 2017 from Total Full-Time and Part-Time Employment by NAICS Industry -- Bureau of Economic Analysis (CAEMP25N), then calculating the difference as a percentage of 2001 level
+- Professional, Scientific, and Technical Services Calculated by aggregating Professional, Scientific, and Technical Services (Line Code 1200) across the region in 2001 and 2017 from Total Full-Time and Part-Time Employment by NAICS Industry -- Bureau of Economic Analysis (CAEMP25N), then calculating the difference as a percentage of 2001 level
+- Regions: Black Rural South, Non-Southern Rural, Southern Metro, South, and USA counties
+
+
+## Recommendations for the Future of Work in the Black Rural South
+
+### 10-20-30 Counties in the Black Rural South (tableau.R)
+Map of all 10-20-30 Counties located in the Black Rural South
+- 10-20-30 Counties, as defined by the American Recovery and Reinvestment Act of 2009, are all counties that have had poverty rates of 20% or more for thMath by the 1980, 1990, and 2000 decennial censuses. A full list, using Census and SAIPE poverty rates of 19.5% or greater is provided by the CRS (https://www.everycrsreport.com/files/20170127_R44748_9d9df7e676af79ffba4ba1d04f12da2ef693144a.pdf) by FIPS code. This map shows all 10-20-30 counties in the Black Rural South in orange, and all other counties in the Black Rural South in blue.
+
+## Internet and Computer Access by Region (broadband.R)
+Percentage of population with broadband, without broadband but with a computer, and with neither, by race and region.
+- 'All' Calculated by aggregating total population without a computer, with a computer but without broadband, with a computer and broadband, and dividing each by total population in households from ACS 2013-2017 5-Year Presence of a Computer and Type of Internet Subscription in Household Estimates (Table B28009)
+- 'White' Calculated by aggregating total population without a computer, with a computer but without broadband, with a computer and broadband, and dividing each by total population in households from ACS 2013-2017 5-Year Presence of a Computer and Type of Internet Subscription in Household (White Alone, Not Hispanic or Latino) Estimates (Table B28009H)
+- 'Black' Calculated by aggregating total population without a computer, with a computer but without broadband, with a computer and broadband, and dividing each by total population in households from ACS 2013-2017 5-Year Presence of a Computer and Type of Internet Subscription in Household (Black or African American Alone) Estimates (Table B28009B)
+- Region/Races: Black in Black Rural South, White in Black Rural South, All in Non-South Rural, Black in South Metro, White in South Metro, All in South, Black in USA, White in USA, All in USA
+
+### NAEP Reading Scores for Grade 4 Students (naep.R)
+Average NAEP English Language Arts scores among Grade 4 Students by region.
+- 'All' Calculated by taking weighted average of mean NAEP ELA scores by county across the region, weighted by number of students who took the test in each county from NCES & NAEP, retrieved from Stanford Education Data Archive (Long Form, by County)
+- 'White' Calculated by taking weighted average of mean White NAEP ELA scores by county across the region, weighted by number of White students who took the test in each county from NCES & NAEP, retrieved from Stanford Education Data Archive (Long Form, by County)
+- 'Black' Calculated by taking weighted average of mean Black NAEP ELA scores by county across the region, weighted by number of Black students who took the test in each county from NCES & NAEP, retrieved from Stanford Education Data Archive (Long Form, by County)
+
+
+### NAEP Math Scores for Grade 4 Students (naep.R)
+Average NAEP Math scores among Grade 4 Students by region.
+- 'All' Calculated by taking weighted average of mean NAEP Math scores by county across the region, weighted by number of students who took the test in each county from NCES & NAEP, retrieved from Stanford Education Data Archive (Long Form, by County)
+- 'White' Calculated by taking weighted average of mean White NAEP Math scores by county across the region, weighted by number of White students who took the test in each county from NCES & NAEP, retrieved from Stanford Education Data Archive (Long Form, by County)
+- 'Black' Calculated by taking weighted average of mean Black NAEP Math scores by county across the region, weighted by number of Black students who took the test in each county from NCES & NAEP, retrieved from Stanford Education Data Archive (Long Form, by County)
+
+### Historically Black Colleges and Universities in the Black Rural South
+Map of Black Rural South counties, overlaid with HBCUs in or near the Black Rural South counties.
+- Historically Black Colleges and Universities that are either located within a Black Rural South county, or a neighbouring county.
 
 
 # Scripts, Data & Outputs
 - acs_childpoverty.R -- used to calculate child poverty rates from 2013-2017 ACS 5-Year Estimates. Input from data/cleaned.csv and data/acschildpoverty.csv, output into outputs/raw/acs_childpoverty.csv and figures/childpoverty_bar.png
+- acs_poverty.R -- used to calculate poverty rates from 2013-2017 ACS 5-Year Estimates. Input from data/cleaned.csv and data/acs_poverty.csv, output into outputs/raw/acs_poverty.csv, figures/poverty_bar.png, and figures/white_poverty.png
 - bls_long.R -- used to pull BLS data using API, calculate longitudinal unemployment rate, labor force level, and total population from BLS and Census data. Input directly from BLS API and data/cleaned.csv, output into outputs/raw/unemp.csv, outputs/raw/lf.csv, outputs/raw/pop.csv, figures/unemp_long.png, and figures/laborforce.png
+- broadband.R -- used to calculate broadband and computer access makeup of different regions. Input from data/cleaned.csv and data/broadband.csv, output into outputs/broadband.csv and figures/broadband.png
 - cleaning.R -- used to combine population data, rurality data, and percentage black/white into one data frame. Input from data/county_pop.csv and data/ruralcodes.csv, output into data/cleaned.csv
+- commute.R -- [DEPRECATED] used to calculate mean travel times to work.
 - demographics.R -- used to calculate demographic makeup of different regions. Input from data/cleaned.csv and data/demographics.csv, output into outputs/raw/demographics.csv and figures/demographics.png
 - earnings.R -- used to calculate median earnings from 2013-2017 ACS 5-Year Estimates. Input from data/cleaned.csv, data/emp.csv, and data/earnings.csv, output into outputs/raw/earnings.csv and figures/earnings.png
-- emp.R -- used to calculate unemployment and labor force participation rates from 2013-2017 ACS 5-Year Estimates. Input from data/cleaned.csv and data/emp.csv, output into outputs/raw/emp.csv, figures/lf_bar.png, figures/unemp_bar.png, and figures/white_unemp.png.
+- emp.R -- used to calculate unemployment and labor force participation rates from 2013-2017 ACS 5-Year Estimates. Input from data/cleaned.csv and data/emp.csv, output into outputs/raw/emp.csv, figures/lf_bar.png, figures/unemp_bar.png, and figures/white_unemp.png
+- fipszip.R -- used to output a list of zip codes in the Black Rural South. Input from data/cleaned.csv and data/fips_zip.csv, output into data/fipsandziponly.csv
+- gdp.R -- [DEPRECATED] used to calculate gdp and gdp per capita by region, from BEA data.
+- gen_county_fips -- helper script, used in all scripts to generate lists of FIPS codes for each region.
+- industries.R -- used to calculate employment growth in industries and overall from BEA data. Input from data/cleaned.csv and data/industries folder, output into outputs/raw/industries.csv, figures/emp_growth.png, figures/emp_growth_raw.png, and figures/industry_growth.png
+- naep.R -- used to calculate mean NAEP scores. Input from data/cleaned.csv and data/naep.csv, output into outputs/raw/naep.csv, outputs/raw/naep_white.csv, figures/naep_ela.png, figures/naep_math.png, figures/white_naep_ela.png, and figures/white_naep_math.png
 - saip_long.R -- used to calculate longitudinal median household income, poverty rate, and child poverty rate from the US Census SAIP. Input from data/cleaned.csv and data/pov_all.csv, output into outputs/raw/income.csv, outputs/raw/poverty.csv, figures/median_hhincome.png, figures/poverty_long.png, and figures/childpoverty_long.png
+- tableau.R -- used to clean and produce data used to create Tableau maps -- includes identifier for Black Rural South County, % Black, identifier for 10/20/30 County, and HBCUs. Input from data/cleaned.csv, data/persistentpoverty.pdf, data/fipsandziponly.csv, and data/hbcu.csv, output into outputs/tableau.csv
+- transportation.R -- used to calculate transportation breakdown by race from ACS Estimates. Input from data/cleaned.csv and data/transportation.csv, output into outputs/raw/transp.csv and figures/transportation.png
 
+
+# Tableau
+- Data file outputs/tableau.csv used as data source.
 
 
 
