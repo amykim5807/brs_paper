@@ -14,10 +14,18 @@ data <- read.csv("data/cleaned.csv")
 # Merging Data so FIPS are accurate
 fulldata <- merge(data,earnings,by = "FIPS")
 
+# Emp data
+emp <- read.csv("data/emp.csv")
+
+fulldata <- merge(fulldata, emp, by="FIPS")
+whiteearnings <- fulldata$White.Median.Earnings
+blackearnings <- fulldata$Black.Median.Earnings
+earnings <- fulldata$Median.Earnings
+
 # GENERATING FIPS LISTS
 source("scripts/gen_county_fips.R")
 
-races <- c('','White.','Black.')
+races <- c('','white','black')
 
 ##############################################################
 ###################### GETTING NUMBERS #######################
@@ -29,7 +37,7 @@ for (counties in 1:5){
   data <- fulldata[which(fulldata$FIPS %in% county_groups[[counties]]),]
   for (r in races){
     cat(r,",")
-    mn <- weighted.median(as.numeric(as.character(data[[paste0(r,"Median.Earnings")]])),as.numeric(data$X2017),na.rm=TRUE)
+    mn <- weighted.median(as.numeric(as.character(data[[paste0(r,"earnings")]])),as.numeric(as.character(data[[paste0("pop16",r)]])),na.rm=TRUE)
     cat(mn,"\n") 
   }
   cat("\n\n")
